@@ -1,0 +1,105 @@
+code,name,fullName,slug,type,provinceCode
+00143,"Trần Lãm","Phường Trần Lãm, Tỉnh Hưng Yên",tran-lam,ward,02
+00207,"Như Quỳnh","Xã Như Quỳnh, Tỉnh Hưng Yên",nhu-quynh,commune,02
+00226,"Yên Mỹ","Xã Yên Mỹ, Tỉnh Hưng Yên",yen-my,commune,02
+00293,"Phố Hiến","Phường Phố Hiến, Tỉnh Hưng Yên",pho-hien,ward,02
+00305,"Thái Bình","Phường Thái Bình, Tỉnh Hưng Yên",thai-binh,ward,02
+00430,"Mỹ Hào","Phường Mỹ Hào, Tỉnh Hưng Yên",my-hao,ward,02
+00466,"Hưng Hà","Xã Hưng Hà, Tỉnh Hưng Yên",hung-ha,commune,02
+00526,"Thái Thụy","Xã Thái Thụy, Tỉnh Hưng Yên",thai-thuy,commune,02
+00527,"Quỳnh Phụ","Xã Quỳnh Phụ, Tỉnh Hưng Yên",quynh-phu,commune,02
+00603,"Đông Hưng","Xã Đông Hưng, Tỉnh Hưng Yên",ong-hung,commune,02
+00614,"Khoái Châu","Xã Khoái Châu, Tỉnh Hưng Yên",khoai-chau,commune,02
+00619,"Long Hưng","Xã Long Hưng, Tỉnh Hưng Yên",long-hung,commune,02
+00629,"Kiến Xương","Xã Kiến Xương, Tỉnh Hưng Yên",kien-xuong,commune,02
+00632,"Nguyễn Văn Linh","Xã Nguyễn Văn Linh, Tỉnh Hưng Yên",nguyen-van-linh,commune,02
+00660,"Hoàng Hoa Thám","Xã Hoàng Hoa Thám, Tỉnh Hưng Yên",hoang-hoa-tham,commune,02
+00674,"Nghĩa Trụ","Xã Nghĩa Trụ, Tỉnh Hưng Yên",nghia-tru,commune,02
+00699,"Trần Hưng Đạo","Phường Trần Hưng Đạo, Tỉnh Hưng Yên",tran-hung-ao,ward,02
+00735,"Triệu Việt Vương","Xã Triệu Việt Vương, Tỉnh Hưng Yên",trieu-viet-vuong,commune,02
+00752,"Trà Lý","Phường Trà Lý, Tỉnh Hưng Yên",tra-ly,ward,02
+00754,"Vũ Thư","Xã Vũ Thư, Tỉnh Hưng Yên",vu-thu,commune,02
+00772,"Việt Yên","Xã Việt Yên, Tỉnh Hưng Yên",viet-yen,commune,02
+00800,"Tiền Hải","Xã Tiền Hải, Tỉnh Hưng Yên",tien-hai,commune,02
+00804,"Phụ Dực","Xã Phụ Dực, Tỉnh Hưng Yên",phu-duc,commune,02
+00820,"Lạc Đạo","Xã Lạc Đạo, Tỉnh Hưng Yên",lac-ao,commune,02
+00838,"Vũ Phúc","Phường Vũ Phúc, Tỉnh Hưng Yên",vu-phuc,ward,02
+00876,"Bắc Tiên Hưng","Xã Bắc Tiên Hưng, Tỉnh Hưng Yên",bac-tien-hung,commune,02
+00880,"Văn Giang","Xã Văn Giang, Tỉnh Hưng Yên",van-giang,commune,02
+00899,"Diên Hà","Xã Diên Hà, Tỉnh Hưng Yên",dien-ha,commune,02
+00936,"Lương Bằng","Xã Lương Bằng, Tỉnh Hưng Yên",luong-bang,commune,02
+00954,"Đường Hào","Phường Đường Hào, Tỉnh Hưng Yên",uong-hao,ward,02
+00991,"Đông Thụy Anh","Xã Đông Thụy Anh, Tỉnh Hưng Yên",ong-thuy-anh,commune,02
+01020,"Nam Cường","Xã Nam Cường, Tỉnh Hưng Yên",nam-cuong,commune,02
+01035,"Vũ Tiên","Xã Vũ Tiên, Tỉnh Hưng Yên",vu-tien,commune,02
+01053,"Thượng Hồng","Phường Thượng Hồng, Tỉnh Hưng Yên",thuong-hong,ward,02
+01058,"Phạm Ngũ Lão","Xã Phạm Ngũ Lão, Tỉnh Hưng Yên",pham-ngu-lao,commune,02
+01061,"Đông Tiền Hải","Xã Đông Tiền Hải, Tỉnh Hưng Yên",ong-tien-hai,commune,02
+01085,"Vạn Xuân","Xã Vạn Xuân, Tỉnh Hưng Yên",van-xuan,commune,02
+01103,"Châu Ninh","Xã Châu Ninh, Tỉnh Hưng Yên",chau-ninh,commune,02
+01150,"Quỳnh An","Xã Quỳnh An, Tỉnh Hưng Yên",quynh-an,commune,02
+01152,"Thư Vũ","Xã Thư Vũ, Tỉnh Hưng Yên",thu-vu,commune,02
+01169,"Chí Minh","Xã Chí Minh, Tỉnh Hưng Yên",chi-minh,commune,02
+01176,"Việt Tiến","Xã Việt Tiến, Tỉnh Hưng Yên",viet-tien,commune,02
+01193,"Nghĩa Dân","Xã Nghĩa Dân, Tỉnh Hưng Yên",nghia-dan,commune,02
+01304,"Hoàn Long","Xã Hoàn Long, Tỉnh Hưng Yên",hoan-long,commune,02
+01319,"Tiên La","Xã Tiên La, Tỉnh Hưng Yên",tien-la,commune,02
+01325,"Đại Đồng","Xã Đại Đồng, Tỉnh Hưng Yên",ai-ong,commune,02
+01350,"Hiệp Cường","Xã Hiệp Cường, Tỉnh Hưng Yên",hiep-cuong,commune,02
+01395,"Nguyễn Trãi","Xã Nguyễn Trãi, Tỉnh Hưng Yên",nguyen-trai,commune,02
+01397,"Hồng Quang","Xã Hồng Quang, Tỉnh Hưng Yên",hong-quang,commune,02
+01402,"Phụng Công","Xã Phụng Công, Tỉnh Hưng Yên",phung-cong,commune,02
+01425,"Thái Ninh","Xã Thái Ninh, Tỉnh Hưng Yên",thai-ninh,commune,02
+01437,"Ngự Thiên","Xã Ngự Thiên, Tỉnh Hưng Yên",ngu-thien,commune,02
+01467,"Nam Tiên Hưng","Xã Nam Tiên Hưng, Tỉnh Hưng Yên",nam-tien-hung,commune,02
+01469,"Nam Tiền Hải","Xã Nam Tiền Hải, Tỉnh Hưng Yên",nam-tien-hai,commune,02
+01476,"Ân Thi","Xã Ân Thi, Tỉnh Hưng Yên",an-thi,commune,02
+01484,"Đồng Châu","Xã Đồng Châu, Tỉnh Hưng Yên",ong-chau,commune,02
+01485,"Sơn Nam","Phường Sơn Nam, Tỉnh Hưng Yên",son-nam,ward,02
+01505,"Mễ Sở","Xã Mễ Sở, Tỉnh Hưng Yên",me-so,commune,02
+01546,"Thần Khê","Xã Thần Khê, Tỉnh Hưng Yên",than-khe,commune,02
+01556,"Tân Thuận","Xã Tân Thuận, Tỉnh Hưng Yên",tan-thuan,commune,02
+01557,"Quang Hưng","Xã Quang Hưng, Tỉnh Hưng Yên",quang-hung,commune,02
+01560,"Đức Hợp","Xã Đức Hợp, Tỉnh Hưng Yên",uc-hop,commune,02
+01593,"Tiên Tiến","Xã Tiên Tiến, Tỉnh Hưng Yên",tien-tien,commune,02
+01661,"A Sào","Xã A Sào, Tỉnh Hưng Yên",a-sao,commune,02
+01712,"Tiên Lữ","Xã Tiên Lữ, Tỉnh Hưng Yên",tien-lu,commune,02
+01729,"Thư Trì","Xã Thư Trì, Tỉnh Hưng Yên",thu-tri,commune,02
+01734,"Đông Thái Ninh","Xã Đông Thái Ninh, Tỉnh Hưng Yên",ong-thai-ninh,commune,02
+01736,"Vũ Quý","Xã Vũ Quý, Tỉnh Hưng Yên",vu-quy,commune,02
+01737,"Tân Hưng","Xã Tân Hưng, Tỉnh Hưng Yên",tan-hung,commune,02
+01811,"Tiên Hưng","Xã Tiên Hưng, Tỉnh Hưng Yên",tien-hung,commune,02
+01812,"Tiên Hoa","Xã Tiên Hoa, Tỉnh Hưng Yên",tien-hoa,commune,02
+01830,"Hưng Phú","Xã Hưng Phú, Tỉnh Hưng Yên",hung-phu,commune,02
+01833,"Xuân Trúc","Xã Xuân Trúc, Tỉnh Hưng Yên",xuan-truc,commune,02
+01858,"Lê Lợi","Xã Lê Lợi, Tỉnh Hưng Yên",le-loi,commune,02
+01875,"Nam Đông Hưng","Xã Nam Đông Hưng, Tỉnh Hưng Yên",nam-ong-hung,commune,02
+01880,"Bắc Đông Quan","Xã Bắc Đông Quan, Tỉnh Hưng Yên",bac-ong-quan,commune,02
+01881,"Tây Tiền Hải","Xã Tây Tiền Hải, Tỉnh Hưng Yên",tay-tien-hai,commune,02
+01888,"Đông Quan","Xã Đông Quan, Tỉnh Hưng Yên",ong-quan,commune,02
+01894,"Đồng Bằng","Xã Đồng Bằng, Tỉnh Hưng Yên",ong-bang,commune,02
+01923,"Minh Thọ","Xã Minh Thọ, Tỉnh Hưng Yên",minh-tho,commune,02
+01930,"Hồng Minh","Xã Hồng Minh, Tỉnh Hưng Yên",hong-minh,commune,02
+01939,"Bình Thanh","Xã Bình Thanh, Tỉnh Hưng Yên",binh-thanh,commune,02
+01942,"Ngọc Lâm","Xã Ngọc Lâm, Tỉnh Hưng Yên",ngoc-lam,commune,02
+02004,"Bắc Đông Hưng","Xã Bắc Đông Hưng, Tỉnh Hưng Yên",bac-ong-hung,commune,02
+02021,"Lê Quý Đôn","Xã Lê Quý Đôn, Tỉnh Hưng Yên",le-quy-on,commune,02
+02023,"Đông Tiên Hưng","Xã Đông Tiên Hưng, Tỉnh Hưng Yên",ong-tien-hung,commune,02
+02024,"Thụy Anh","Xã Thụy Anh, Tỉnh Hưng Yên",thuy-anh,commune,02
+02051,"Hồng Vũ","Xã Hồng Vũ, Tỉnh Hưng Yên",hong-vu,commune,02
+02054,"Tân Tiến","Xã Tân Tiến, Tỉnh Hưng Yên",tan-tien,commune,02
+02080,"Đoàn Đào","Xã Đoàn Đào, Tỉnh Hưng Yên",oan-ao,commune,02
+02111,"Nguyễn Du","Xã Nguyễn Du, Tỉnh Hưng Yên",nguyen-du,commune,02
+02123,"Nam Thụy Anh","Xã Nam Thụy Anh, Tỉnh Hưng Yên",nam-thuy-anh,commune,02
+02128,"Bình Định","Xã Bình Định, Tỉnh Hưng Yên",binh-inh,commune,02
+02266,"Nam Thái Ninh","Xã Nam Thái Ninh, Tỉnh Hưng Yên",nam-thai-ninh,commune,02
+02269,"Tống Trân","Xã Tống Trân, Tỉnh Hưng Yên",tong-tran,commune,02
+02308,"Bình Nguyên","Xã Bình Nguyên, Tỉnh Hưng Yên",binh-nguyen,commune,02
+02314,"Bắc Thụy Anh","Xã Bắc Thụy Anh, Tỉnh Hưng Yên",bac-thuy-anh,commune,02
+02316,"Trà Giang","Xã Trà Giang, Tỉnh Hưng Yên",tra-giang,commune,02
+02341,"Quang Lịch","Xã Quang Lịch, Tỉnh Hưng Yên",quang-lich,commune,02
+02348,"Hồng Châu","Phường Hồng Châu, Tỉnh Hưng Yên",hong-chau,ward,02
+02400,"Bắc Thái Ninh","Xã Bắc Thái Ninh, Tỉnh Hưng Yên",bac-thai-ninh,commune,02
+02437,"Tây Thái Ninh","Xã Tây Thái Ninh, Tỉnh Hưng Yên",tay-thai-ninh,commune,02
+02479,"Ái Quốc","Xã Ái Quốc, Tỉnh Hưng Yên",ai-quoc,commune,02
+02489,"Tây Thụy Anh","Xã Tây Thụy Anh, Tỉnh Hưng Yên",tay-thuy-anh,commune,02

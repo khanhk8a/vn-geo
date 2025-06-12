@@ -1,0 +1,169 @@
+code,name,fullName,slug,type,provinceCode
+00002,"Dĩ An","Phường Dĩ An, Thành phố Hồ Chí Minh",di-an,ward,30
+00003,"Hiệp Bình","Phường Hiệp Bình, Thành phố Hồ Chí Minh",hiep-binh,ward,30
+00004,"Tăng Nhơn Phú","Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh",tang-nhon-phu,ward,30
+00005,"Bà Điểm","Xã Bà Điểm, Thành phố Hồ Chí Minh",ba-iem,commune,30
+00009,"Chánh Hưng","Phường Chánh Hưng, Thành phố Hồ Chí Minh",chanh-hung,ward,30
+00010,"Đông Thạnh","Xã Đông Thạnh, Thành phố Hồ Chí Minh",ong-thanh,commune,30
+00012,"Bình Hưng Hòa","Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh",binh-hung-hoa,ward,30
+00014,"Bình Hưng","Xã Bình Hưng, Thành phố Hồ Chí Minh",binh-hung,commune,30
+00015,"Đông Hưng Thuận","Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",ong-hung-thuan,ward,30
+00016,"An Phú Đông","Phường An Phú Đông, Thành phố Hồ Chí Minh",an-phu-ong,ward,30
+00017,"An Lạc","Phường An Lạc, Thành phố Hồ Chí Minh",an-lac,ward,30
+00020,"Tân Thới Hiệp","Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh",tan-thoi-hiep,ward,30
+00021,"Vĩnh Lộc","Xã Vĩnh Lộc, Thành phố Hồ Chí Minh",vinh-loc,commune,30
+00022,"Bình Trị Đông","Phường Bình Trị Đông, Thành phố Hồ Chí Minh",binh-tri-ong,ward,30
+00023,"Tân Vĩnh Lộc","Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh",tan-vinh-loc,commune,30
+00024,"An Phú","Phường An Phú, Thành phố Hồ Chí Minh",an-phu,ward,30
+00025,"Bình Tân","Phường Bình Tân, Thành phố Hồ Chí Minh",binh-tan,ward,30
+00027,"Linh Xuân","Phường Linh Xuân, Thành phố Hồ Chí Minh",linh-xuan,ward,30
+00029,"Bình Đông","Phường Bình Đông, Thành phố Hồ Chí Minh",binh-ong,ward,30
+00031,"Tân Hưng","Phường Tân Hưng, Thành phố Hồ Chí Minh",tan-hung,ward,30
+00032,"Tam Bình","Phường Tam Bình, Thành phố Hồ Chí Minh",tam-binh,ward,30
+00033,"Thạnh Mỹ Tây","Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh",thanh-my-tay,ward,30
+00034,"Thuận Giao","Phường Thuận Giao, Thành phố Hồ Chí Minh",thuan-giao,ward,30
+00035,"Phú Định","Phường Phú Định, Thành phố Hồ Chí Minh",phu-inh,ward,30
+00037,"Tân Thuận","Phường Tân Thuận, Thành phố Hồ Chí Minh",tan-thuan,ward,30
+00038,"Tân Hiệp","Phường Tân Hiệp, Thành phố Hồ Chí Minh",tan-hiep,ward,30
+00040,"Phú Thọ Hòa","Phường Phú Thọ Hòa, Thành phố Hồ Chí Minh",phu-tho-hoa,ward,30
+00043,"Phước Long","Phường Phước Long, Thành phố Hồ Chí Minh",phuoc-long,ward,30
+00046,"Bảy Hiền","Phường Bảy Hiền, Thành phố Hồ Chí Minh",bay-hien,ward,30
+00047,"Đông Hòa","Phường Đông Hòa, Thành phố Hồ Chí Minh",ong-hoa,ward,30
+00053,"Hạnh Thông","Phường Hạnh Thông, Thành phố Hồ Chí Minh",hanh-thong,ward,30
+00054,"Củ Chi","Xã Củ Chi, Thành phố Hồ Chí Minh",cu-chi,commune,30
+00056,"Trung Mỹ Tây","Phường Trung Mỹ Tây, Thành phố Hồ Chí Minh",trung-my-tay,ward,30
+00057,"Tân Khánh","Phường Tân Khánh, Thành phố Hồ Chí Minh",tan-khanh,ward,30
+00058,"Bình Thạnh","Phường Bình Thạnh, Thành phố Hồ Chí Minh",binh-thanh,ward,30
+00060,"Gia Định","Phường Gia Định, Thành phố Hồ Chí Minh",gia-inh,ward,30
+00061,"Nhà Bè","Xã Nhà Bè, Thành phố Hồ Chí Minh",nha-be,commune,30
+00062,"Thới An","Phường Thới An, Thành phố Hồ Chí Minh",thoi-an,ward,30
+00064,"An Hội Đông","Phường An Hội Đông, Thành phố Hồ Chí Minh",an-hoi-ong,ward,30
+00068,"Bình Trưng","Phường Bình Trưng, Thành phố Hồ Chí Minh",binh-trung,ward,30
+00069,"Thông Tây Hội","Phường Thông Tây Hội, Thành phố Hồ Chí Minh",thong-tay-hoi,ward,30
+00070,"An Hội Tây","Phường An Hội Tây, Thành phố Hồ Chí Minh",an-hoi-tay,ward,30
+00071,"Bình Hòa","Phường Bình Hòa, Thành phố Hồ Chí Minh",binh-hoa,ward,30
+00074,"Long Bình","Phường Long Bình, Thành phố Hồ Chí Minh",long-binh,ward,30
+00077,"Thủ Đức","Phường Thủ Đức, Thành phố Hồ Chí Minh",thu-uc,ward,30
+00078,"Lái Thiêu","Phường Lái Thiêu, Thành phố Hồ Chí Minh",lai-thieu,ward,30
+00081,"Vũng Tàu","Phường Vũng Tàu, Thành phố Hồ Chí Minh",vung-tau,ward,30
+00082,"Tân Sơn Nhì","Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh",tan-son-nhi,ward,30
+00083,"Bình Lợi Trung","Phường Bình Lợi Trung, Thành phố Hồ Chí Minh",binh-loi-trung,ward,30
+00086,"Tân Nhựt","Xã Tân Nhựt, Thành phố Hồ Chí Minh",tan-nhut,commune,30
+00087,"An Nhơn","Phường An Nhơn, Thành phố Hồ Chí Minh",an-nhon,ward,30
+00088,"Tân Tạo","Phường Tân Tạo, Thành phố Hồ Chí Minh",tan-tao,ward,30
+00094,"Gò Vấp","Phường Gò Vấp, Thành phố Hồ Chí Minh",go-vap,ward,30
+00095,"Long Hải","Xã Long Hải, Thành phố Hồ Chí Minh",long-hai,commune,30
+00098,"Phú Lợi","Phường Phú Lợi, Thành phố Hồ Chí Minh",phu-loi,ward,30
+00099,"Bình Dương","Phường Bình Dương, Thành phố Hồ Chí Minh",binh-duong,ward,30
+00109,"Vườn Lài","Phường Vườn Lài, Thành phố Hồ Chí Minh",vuon-lai,ward,30
+00110,"Phú Thạnh","Phường Phú Thạnh, Thành phố Hồ Chí Minh",phu-thanh,ward,30
+00111,"Xuân Thới Sơn","Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh",xuan-thoi-son,commune,30
+00118,"Tân Đông Hiệp","Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh",tan-ong-hiep,ward,30
+00122,"Bình Mỹ","Xã Bình Mỹ, Thành phố Hồ Chí Minh",binh-my,commune,30
+00125,"Bến Cát","Phường Bến Cát, Thành phố Hồ Chí Minh",ben-cat,ward,30
+00126,"Phú Hòa Đông","Xã Phú Hòa Đông, Thành phố Hồ Chí Minh",phu-hoa-ong,commune,30
+00131,"Hòa Hưng","Phường Hòa Hưng, Thành phố Hồ Chí Minh",hoa-hung,ward,30
+00134,"Khánh Hội","Phường Khánh Hội, Thành phố Hồ Chí Minh",khanh-hoi,ward,30
+00137,"Tân Hòa","Phường Tân Hòa, Thành phố Hồ Chí Minh",tan-hoa,ward,30
+00138,"Hóc Môn","Xã Hóc Môn, Thành phố Hồ Chí Minh",hoc-mon,commune,30
+00139,"Tân Phú","Phường Tân Phú, Thành phố Hồ Chí Minh",tan-phu,ward,30
+00144,"Bình Tiên","Phường Bình Tiên, Thành phố Hồ Chí Minh",binh-tien,ward,30
+00146,"Minh Phụng","Phường Minh Phụng, Thành phố Hồ Chí Minh",minh-phung,ward,30
+00150,"Tân Bình","Phường Tân Bình, Thành phố Hồ Chí Minh",tan-binh,ward,30
+00155,"Thủ Dầu Một","Phường Thủ Dầu Một, Thành phố Hồ Chí Minh",thu-dau-mot,ward,30
+00156,"Nhiêu Lộc","Phường Nhiêu Lộc, Thành phố Hồ Chí Minh",nhieu-loc,ward,30
+00160,"Phú Lâm","Phường Phú Lâm, Thành phố Hồ Chí Minh",phu-lam,ward,30
+00164,"Tam Thắng","Phường Tam Thắng, Thành phố Hồ Chí Minh",tam-thang,ward,30
+00172,"Chợ Lớn","Phường Chợ Lớn, Thành phố Hồ Chí Minh",cho-lon,ward,30
+00173,"Tân Sơn Nhất","Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh",tan-son-nhat,ward,30
+00174,"Tân An Hội","Xã Tân An Hội, Thành phố Hồ Chí Minh",tan-an-hoi,commune,30
+00178,"Phú Thuận","Phường Phú Thuận, Thành phố Hồ Chí Minh",phu-thuan,ward,30
+00189,"An Đông","Phường An Đông, Thành phố Hồ Chí Minh",an-ong,ward,30
+00194,"Hòa Lợi","Phường Hòa Lợi, Thành phố Hồ Chí Minh",hoa-loi,ward,30
+00195,"Thới Hòa","Phường Thới Hòa, Thành phố Hồ Chí Minh",thoi-hoa,ward,30
+00200,"Cầu Ông Lãnh","Phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh",cau-ong-lanh,ward,30
+00201,"Phú Mỹ","Phường Phú Mỹ, Thành phố Hồ Chí Minh",phu-my,ward,30
+00211,"Tân Sơn","Phường Tân Sơn, Thành phố Hồ Chí Minh",tan-son,ward,30
+00216,"An Khánh","Phường An Khánh, Thành phố Hồ Chí Minh",an-khanh,ward,30
+00220,"Bình Thới","Phường Bình Thới, Thành phố Hồ Chí Minh",binh-thoi,ward,30
+00221,"Rạch Dừa","Phường Rạch Dừa, Thành phố Hồ Chí Minh",rach-dua,ward,30
+00223,"Bình Chánh","Xã Bình Chánh, Thành phố Hồ Chí Minh",binh-chanh,commune,30
+00225,"Bình Phú","Phường Bình Phú, Thành phố Hồ Chí Minh",binh-phu,ward,30
+00227,"Diên Hồng","Phường Diên Hồng, Thành phố Hồ Chí Minh",dien-hong,ward,30
+00239,"Long Trường","Phường Long Trường, Thành phố Hồ Chí Minh",long-truong,ward,30
+00246,"Tân Uyên","Phường Tân Uyên, Thành phố Hồ Chí Minh",tan-uyen,ward,30
+00249,"Tây Thạnh","Phường Tây Thạnh, Thành phố Hồ Chí Minh",tay-thanh,ward,30
+00257,"Bến Thành","Phường Bến Thành, Thành phố Hồ Chí Minh",ben-thanh,ward,30
+00263,"Hưng Long","Xã Hưng Long, Thành phố Hồ Chí Minh",hung-long,commune,30
+00264,"Đức Nhuận","Phường Đức Nhuận, Thành phố Hồ Chí Minh",uc-nhuan,ward,30
+00291,"Hoà Bình","Phường Hoà Bình, Thành phố Hồ Chí Minh",hoa-binh,ward,30
+00297,"Cát Lái","Phường Cát Lái, Thành phố Hồ Chí Minh",cat-lai,ward,30
+00301,"Phú Nhuận","Phường Phú Nhuận, Thành phố Hồ Chí Minh",phu-nhuan,ward,30
+00303,"Tân Mỹ","Phường Tân Mỹ, Thành phố Hồ Chí Minh",tan-my,ward,30
+00307,"Hiệp Phước","Xã Hiệp Phước, Thành phố Hồ Chí Minh",hiep-phuoc,commune,30
+00308,"Bàn Cờ","Phường Bàn Cờ, Thành phố Hồ Chí Minh",ban-co,ward,30
+00323,"Phú Thọ","Phường Phú Thọ, Thành phố Hồ Chí Minh",phu-tho,ward,30
+00330,"Thuận An","Phường Thuận An, Thành phố Hồ Chí Minh",thuan-an,ward,30
+00332,"Bình Cơ","Phường Bình Cơ, Thành phố Hồ Chí Minh",binh-co,ward,30
+00336,"Tân Sơn Hòa","Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh",tan-son-hoa,ward,30
+00340,"Chợ Quán","Phường Chợ Quán, Thành phố Hồ Chí Minh",cho-quan,ward,30
+00346,"Bình Tây","Phường Bình Tây, Thành phố Hồ Chí Minh",binh-tay,ward,30
+00352,"Vĩnh Hội","Phường Vĩnh Hội, Thành phố Hồ Chí Minh",vinh-hoi,ward,30
+00359,"Cầu Kiệu","Phường Cầu Kiệu, Thành phố Hồ Chí Minh",cau-kieu,ward,30
+00365,"Vĩnh Tân","Phường Vĩnh Tân, Thành phố Hồ Chí Minh",vinh-tan,ward,30
+00425,"Xóm Chiếu","Phường Xóm Chiếu, Thành phố Hồ Chí Minh",xom-chieu,ward,30
+00434,"Chánh Hiệp","Phường Chánh Hiệp, Thành phố Hồ Chí Minh",chanh-hiep,ward,30
+00440,"Tây Nam","Phường Tây Nam, Thành phố Hồ Chí Minh",tay-nam,ward,30
+00486,"Chánh Phú Hòa","Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh",chanh-phu-hoa,ward,30
+00498,"Long Nguyên","Phường Long Nguyên, Thành phố Hồ Chí Minh",long-nguyen,ward,30
+00500,"Long Phước","Phường Long Phước, Thành phố Hồ Chí Minh",long-phuoc,ward,30
+00510,"Phước Thắng","Phường Phước Thắng, Thành phố Hồ Chí Minh",phuoc-thang,ward,30
+00515,"Bà Rịa","Phường Bà Rịa, Thành phố Hồ Chí Minh",ba-ria,ward,30
+00524,"Hồ Tràm","Xã Hồ Tràm, Thành phố Hồ Chí Minh",ho-tram,commune,30
+00578,"Thái Mỹ","Xã Thái Mỹ, Thành phố Hồ Chí Minh",thai-my,commune,30
+00604,"Ngãi Giao","Xã Ngãi Giao, Thành phố Hồ Chí Minh",ngai-giao,commune,30
+00622,"Tân Định","Phường Tân Định, Thành phố Hồ Chí Minh",tan-inh,ward,30
+00624,"Xuân Hòa","Phường Xuân Hòa, Thành phố Hồ Chí Minh",xuan-hoa,ward,30
+00628,"Long Điền","Xã Long Điền, Thành phố Hồ Chí Minh",long-ien,commune,30
+00649,"Bình Lợi","Xã Bình Lợi, Thành phố Hồ Chí Minh",binh-loi,commune,30
+00656,"Sài Gòn","Phường Sài Gòn, Thành phố Hồ Chí Minh",sai-gon,ward,30
+00684,"Bình Quới","Phường Bình Quới, Thành phố Hồ Chí Minh",binh-quoi,ward,30
+00686,"Phú An","Phường Phú An, Thành phố Hồ Chí Minh",phu-an,ward,30
+00757,"Đất Đỏ","Xã Đất Đỏ, Thành phố Hồ Chí Minh",at-o,commune,30
+00765,"Phước Hải","Xã Phước Hải, Thành phố Hồ Chí Minh",phuoc-hai,commune,30
+00798,"Phú Giáo","Xã Phú Giáo, Thành phố Hồ Chí Minh",phu-giao,commune,30
+00805,"Phước Hòa","Xã Phước Hòa, Thành phố Hồ Chí Minh",phuoc-hoa,commune,30
+00818,"Bàu Bàng","Xã Bàu Bàng, Thành phố Hồ Chí Minh",bau-bang,commune,30
+00853,"Tam Long","Phường Tam Long, Thành phố Hồ Chí Minh",tam-long,ward,30
+00865,"An Nhơn Tây","Xã An Nhơn Tây, Thành phố Hồ Chí Minh",an-nhon-tay,commune,30
+00891,"Nhuận Đức","Xã Nhuận Đức, Thành phố Hồ Chí Minh",nhuan-uc,commune,30
+00952,"Dầu Tiếng","Xã Dầu Tiếng, Thành phố Hồ Chí Minh",dau-tieng,commune,30
+01108,"Hòa Hội","Xã Hòa Hội, Thành phố Hồ Chí Minh",hoa-hoi,commune,30
+01158,"Bình Khánh","Xã Bình Khánh, Thành phố Hồ Chí Minh",binh-khanh,commune,30
+01216,"Bình Giã","Xã Bình Giã, Thành phố Hồ Chí Minh",binh-gia,commune,30
+01237,"Tân Thành","Phường Tân Thành, Thành phố Hồ Chí Minh",tan-thanh,ward,30
+01270,"Kim Long","Xã Kim Long, Thành phố Hồ Chí Minh",kim-long,commune,30
+01407,"Long Hương","Phường Long Hương, Thành phố Hồ Chí Minh",long-huong,ward,30
+01497,"Tân Hải","Phường Tân Hải, Thành phố Hồ Chí Minh",tan-hai,ward,30
+01570,"Tân Phước","Phường Tân Phước, Thành phố Hồ Chí Minh",tan-phuoc,ward,30
+01646,"Châu Đức","Xã Châu Đức, Thành phố Hồ Chí Minh",chau-uc,commune,30
+01662,"Bắc Tân Uyên","Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh",bac-tan-uyen,commune,30
+01676,"Nghĩa Thành","Xã Nghĩa Thành, Thành phố Hồ Chí Minh",nghia-thanh,commune,30
+01713,"Xuân Sơn","Xã Xuân Sơn, Thành phố Hồ Chí Minh",xuan-son,commune,30
+01735,"Cần Giờ","Xã Cần Giờ, Thành phố Hồ Chí Minh",can-gio,commune,30
+01753,"Xuyên Mộc","Xã Xuyên Mộc, Thành phố Hồ Chí Minh",xuyen-moc,commune,30
+01816,"Bình Châu","Xã Bình Châu, Thành phố Hồ Chí Minh",binh-chau,commune,30
+01822,"Hòa Hiệp","Xã Hòa Hiệp, Thành phố Hồ Chí Minh",hoa-hiep,commune,30
+01862,"Châu Pha","Xã Châu Pha, Thành phố Hồ Chí Minh",chau-pha,commune,30
+01872,"Thanh An","Xã Thanh An, Thành phố Hồ Chí Minh",thanh-an,commune,30
+01885,"Long Hòa","Xã Long Hòa, Thành phố Hồ Chí Minh",long-hoa,commune,30
+01935,"Trừ Văn Thố","Xã Trừ Văn Thố, Thành phố Hồ Chí Minh",tru-van-tho,commune,30
+01965,"Minh Thạnh","Xã Minh Thạnh, Thành phố Hồ Chí Minh",minh-thanh,commune,30
+02099,"An Thới Đông","Xã An Thới Đông, Thành phố Hồ Chí Minh",an-thoi-ong,commune,30
+02101,"Bàu Lâm","Xã Bàu Lâm, Thành phố Hồ Chí Minh",bau-lam,commune,30
+02184,"Thường Tân","Xã Thường Tân, Thành phố Hồ Chí Minh",thuong-tan,commune,30
+02401,"An Long","Xã An Long, Thành phố Hồ Chí Minh",an-long,commune,30
+02408,"Long Sơn","Xã Long Sơn, Thành phố Hồ Chí Minh",long-son,commune,30
+02549,"Phước Thành","Xã Phước Thành, Thành phố Hồ Chí Minh",phuoc-thanh,commune,30
+03163,"Côn Đảo","Đặc khu Côn Đảo, Thành phố Hồ Chí Minh",con-ao,commune,30
+03249,"Thạnh An","Xã Thạnh An, Thành phố Hồ Chí Minh",thanh-an,commune,30

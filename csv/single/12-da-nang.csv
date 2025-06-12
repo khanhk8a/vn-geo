@@ -1,0 +1,95 @@
+code,name,fullName,slug,type,provinceCode
+00006,"Thanh Khê","Phường Thanh Khê, Thành phố Đà Nẵng",thanh-khe,ward,12
+00048,"Hải Châu","Phường Hải Châu, Thành phố Đà Nẵng",hai-chau,ward,12
+00076,"Hòa Cường","Phường Hòa Cường, Thành phố Đà Nẵng",hoa-cuong,ward,12
+00085,"Ngũ Hành Sơn","Phường Ngũ Hành Sơn, Thành phố Đà Nẵng",ngu-hanh-son,ward,12
+00090,"Hòa Khánh","Phường Hòa Khánh, Thành phố Đà Nẵng",hoa-khanh,ward,12
+00135,"An Khê","Phường An Khê, Thành phố Đà Nẵng",an-khe,ward,12
+00161,"Sơn Trà","Phường Sơn Trà, Thành phố Đà Nẵng",son-tra,ward,12
+00167,"Hòa Xuân","Phường Hòa Xuân, Thành phố Đà Nẵng",hoa-xuan,ward,12
+00184,"An Hải","Phường An Hải, Thành phố Đà Nẵng",an-hai,ward,12
+00199,"Cẩm Lệ","Phường Cẩm Lệ, Thành phố Đà Nẵng",cam-le,ward,12
+00250,"Điện Bàn Đông","Phường Điện Bàn Đông, Thành phố Đà Nẵng",ien-ban-ong,ward,12
+00278,"Liên Chiểu","Phường Liên Chiểu, Thành phố Đà Nẵng",lien-chieu,ward,12
+00290,"Núi Thành","Xã Núi Thành, Thành phố Đà Nẵng",nui-thanh,commune,12
+00375,"Đại Lộc","Xã Đại Lộc, Thành phố Đà Nẵng",ai-loc,commune,12
+00475,"Thăng Bình","Xã Thăng Bình, Thành phố Đà Nẵng",thang-binh,commune,12
+00495,"Nam Phước","Xã Nam Phước, Thành phố Đà Nẵng",nam-phuoc,commune,12
+00520,"Thăng An","Xã Thăng An, Thành phố Đà Nẵng",thang-an,commune,12
+00607,"Hải Vân","Phường Hải Vân, Thành phố Đà Nẵng",hai-van,ward,12
+00740,"Điện Bàn Tây","Xã Điện Bàn Tây, Thành phố Đà Nẵng",ien-ban-tay,commune,12
+00749,"Tam Kỳ","Phường Tam Kỳ, Thành phố Đà Nẵng",tam-ky,ward,12
+00790,"Tam Xuân","Xã Tam Xuân, Thành phố Đà Nẵng",tam-xuan,commune,12
+00809,"Hội An Tây","Phường Hội An Tây, Thành phố Đà Nẵng",hoi-an-tay,ward,12
+00813,"Thăng Điền","Xã Thăng Điền, Thành phố Đà Nẵng",thang-ien,commune,12
+00846,"Điện Bàn","Phường Điện Bàn, Thành phố Đà Nẵng",ien-ban,ward,12
+00964,"Hòa Tiến","Xã Hòa Tiến, Thành phố Đà Nẵng",hoa-tien,commune,12
+00994,"Hà Nha","Xã Hà Nha, Thành phố Đà Nẵng",ha-nha,commune,12
+01050,"Hội An","Phường Hội An, Thành phố Đà Nẵng",hoi-an,ward,12
+01055,"Xuân Phú","Xã Xuân Phú, Thành phố Đà Nẵng",xuan-phu,commune,12
+01068,"Thu Bồn","Xã Thu Bồn, Thành phố Đà Nẵng",thu-bon,commune,12
+01076,"Bàn Thạch","Phường Bàn Thạch, Thành phố Đà Nẵng",ban-thach,ward,12
+01155,"Tây Hồ","Xã Tây Hồ, Thành phố Đà Nẵng",tay-ho,commune,12
+01220,"An Thắng","Phường An Thắng, Thành phố Đà Nẵng",an-thang,ward,12
+01229,"Quế Sơn","Xã Quế Sơn, Thành phố Đà Nẵng",que-son,commune,12
+01258,"Hương Trà","Phường Hương Trà, Thành phố Đà Nẵng",huong-tra,ward,12
+01279,"Quế Sơn Trung","Xã Quế Sơn Trung, Thành phố Đà Nẵng",que-son-trung,commune,12
+01355,"Duy Xuyên","Xã Duy Xuyên, Thành phố Đà Nẵng",duy-xuyen,commune,12
+01362,"Chiên Đàn","Xã Chiên Đàn, Thành phố Đà Nẵng",chien-an,commune,12
+01364,"Duy Nghĩa","Xã Duy Nghĩa, Thành phố Đà Nẵng",duy-nghia,commune,12
+01436,"Hội An Đông","Phường Hội An Đông, Thành phố Đà Nẵng",hoi-an-ong,ward,12
+01443,"Tam Anh","Xã Tam Anh, Thành phố Đà Nẵng",tam-anh,commune,12
+01462,"Điện Bàn Bắc","Phường Điện Bàn Bắc, Thành phố Đà Nẵng",ien-ban-bac,ward,12
+01518,"Gò Nổi","Xã Gò Nổi, Thành phố Đà Nẵng",go-noi,commune,12
+01562,"Quảng Phú","Phường Quảng Phú, Thành phố Đà Nẵng",quang-phu,ward,12
+01653,"Tiên Phước","Xã Tiên Phước, Thành phố Đà Nẵng",tien-phuoc,commune,12
+01693,"Vu Gia","Xã Vu Gia, Thành phố Đà Nẵng",vu-gia,commune,12
+01699,"Phú Thuận","Xã Phú Thuận, Thành phố Đà Nẵng",phu-thuan,commune,12
+01750,"Phú Ninh","Xã Phú Ninh, Thành phố Đà Nẵng",phu-ninh,commune,12
+01769,"Hòa Vang","Xã Hòa Vang, Thành phố Đà Nẵng",hoa-vang,commune,12
+01807,"Việt An","Xã Việt An, Thành phố Đà Nẵng",viet-an,commune,12
+01879,"Bà Nà","Xã Bà Nà, Thành phố Đà Nẵng",ba-na,commune,12
+01913,"Thăng Trường","Xã Thăng Trường, Thành phố Đà Nẵng",thang-truong,commune,12
+01914,"Thạnh Bình","Xã Thạnh Bình, Thành phố Đà Nẵng",thanh-binh,commune,12
+01916,"Đồng Dương","Xã Đồng Dương, Thành phố Đà Nẵng",ong-duong,commune,12
+02106,"Thượng Đức","Xã Thượng Đức, Thành phố Đà Nẵng",thuong-uc,commune,12
+02201,"Nông Sơn","Xã Nông Sơn, Thành phố Đà Nẵng",nong-son,commune,12
+02267,"Trà My","Xã Trà My, Thành phố Đà Nẵng",tra-my,commune,12
+02386,"Tam Mỹ","Xã Tam Mỹ, Thành phố Đà Nẵng",tam-my,commune,12
+02418,"Sơn Cẩm Hà","Xã Sơn Cẩm Hà, Thành phố Đà Nẵng",son-cam-ha,commune,12
+02444,"Thăng Phú","Xã Thăng Phú, Thành phố Đà Nẵng",thang-phu,commune,12
+02595,"Hiệp Đức","Xã Hiệp Đức, Thành phố Đà Nẵng",hiep-uc,commune,12
+02605,"Lãnh Ngọc","Xã Lãnh Ngọc, Thành phố Đà Nẵng",lanh-ngoc,commune,12
+02649,"Quế Phước","Xã Quế Phước, Thành phố Đà Nẵng",que-phuoc,commune,12
+02882,"Trà Đốc","Xã Trà Đốc, Thành phố Đà Nẵng",tra-oc,commune,12
+02896,"Tam Hải","Xã Tam Hải, Thành phố Đà Nẵng",tam-hai,commune,12
+02937,"Khâm Đức","Xã Khâm Đức, Thành phố Đà Nẵng",kham-uc,commune,12
+02977,"Đức Phú","Xã Đức Phú, Thành phố Đà Nẵng",uc-phu,commune,12
+02991,"Thạnh Mỹ","Xã Thạnh Mỹ, Thành phố Đà Nẵng",thanh-my,commune,12
+03006,"Đông Giang","Xã Đông Giang, Thành phố Đà Nẵng",ong-giang,commune,12
+03012,"Sông Kôn","Xã Sông Kôn, Thành phố Đà Nẵng",song-kon,commune,12
+03020,"Tây Giang","Xã Tây Giang, Thành phố Đà Nẵng",tay-giang,commune,12
+03032,"Phước Năng","Xã Phước Năng, Thành phố Đà Nẵng",phuoc-nang,commune,12
+03039,"Trà Tập","Xã Trà Tập, Thành phố Đà Nẵng",tra-tap,commune,12
+03045,"Bến Giằng","Xã Bến Giằng, Thành phố Đà Nẵng",ben-giang,commune,12
+03064,"Hùng Sơn","Xã Hùng Sơn, Thành phố Đà Nẵng",hung-son,commune,12
+03094,"Trà Mai","Xã Trà Mai, Thành phố Đà Nẵng",tra-mai,commune,12
+03118,"Trà Linh","Xã Trà Linh, Thành phố Đà Nẵng",tra-linh,commune,12
+03120,"Trà Liên","Xã Trà Liên, Thành phố Đà Nẵng",tra-lien,commune,12
+03123,"Sông Vàng","Xã Sông Vàng, Thành phố Đà Nẵng",song-vang,commune,12
+03126,"Phước Trà","Xã Phước Trà, Thành phố Đà Nẵng",phuoc-tra,commune,12
+03150,"Trà Leng","Xã Trà Leng, Thành phố Đà Nẵng",tra-leng,commune,12
+03179,"Trà Tân","Xã Trà Tân, Thành phố Đà Nẵng",tra-tan,commune,12
+03205,"Trà Giáp","Xã Trà Giáp, Thành phố Đà Nẵng",tra-giap,commune,12
+03239,"Avương","Xã Avương, Thành phố Đà Nẵng",avuong,commune,12
+03242,"Trà Vân","Xã Trà Vân, Thành phố Đà Nẵng",tra-van,commune,12
+03260,"Nam Giang","Xã Nam Giang, Thành phố Đà Nẵng",nam-giang,commune,12
+03264,"Phước Thành","Xã Phước Thành, Thành phố Đà Nẵng",phuoc-thanh,commune,12
+03267,"Bến Hiên","Xã Bến Hiên, Thành phố Đà Nẵng",ben-hien,commune,12
+03270,"Phước Hiệp","Xã Phước Hiệp, Thành phố Đà Nẵng",phuoc-hiep,commune,12
+03274,"Phước Chánh","Xã Phước Chánh, Thành phố Đà Nẵng",phuoc-chanh,commune,12
+03299,"Đắc Pring","Xã Đắc Pring, Thành phố Đà Nẵng",ac-pring,commune,12
+03303,"La Dêê","Xã La Dêê, Thành phố Đà Nẵng",la-dee,commune,12
+03306,"Tân Hiệp","Xã Tân Hiệp, Thành phố Đà Nẵng",tan-hiep,commune,12
+03308,"La Êê","Xã La Êê, Thành phố Đà Nẵng",la-ee,commune,12
+03320,"Hoàng Sa","Đặc khu Hoàng Sa, Thành phố Đà Nẵng",hoang-sa,commune,12

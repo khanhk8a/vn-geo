@@ -1,0 +1,65 @@
+code,name,fullName,slug,type,provinceCode
+00179,"Tân Thành","Phường Tân Thành, Tỉnh Cà Mau",tan-thanh,ward,33
+00188,"An Xuyên","Phường An Xuyên, Tỉnh Cà Mau",an-xuyen,ward,33
+00319,"Lương Thế Trân","Xã Lương Thế Trân, Tỉnh Cà Mau",luong-the-tran,commune,33
+00405,"Trần Văn Thời","Xã Trần Văn Thời, Tỉnh Cà Mau",tran-van-thoi,commune,33
+00476,"Cái Nước","Xã Cái Nước, Tỉnh Cà Mau",cai-nuoc,commune,33
+00575,"Lý Văn Lâm","Phường Lý Văn Lâm, Tỉnh Cà Mau",ly-van-lam,ward,33
+00580,"Trí Phải","Xã Trí Phải, Tỉnh Cà Mau",tri-phai,commune,33
+00652,"Hòa Thành","Phường Hòa Thành, Tỉnh Cà Mau",hoa-thanh,ward,33
+00680,"Sông Đốc","Xã Sông Đốc, Tỉnh Cà Mau",song-oc,commune,33
+00848,"Khánh Hưng","Xã Khánh Hưng, Tỉnh Cà Mau",khanh-hung,commune,33
+00857,"Đá Bạc","Xã Đá Bạc, Tỉnh Cà Mau",a-bac,commune,33
+00920,"Khánh Bình","Xã Khánh Bình, Tỉnh Cà Mau",khanh-binh,commune,33
+00961,"Khánh Lâm","Xã Khánh Lâm, Tỉnh Cà Mau",khanh-lam,commune,33
+00973,"Hưng Mỹ","Xã Hưng Mỹ, Tỉnh Cà Mau",hung-my,commune,33
+00999,"Thới Bình","Xã Thới Bình, Tỉnh Cà Mau",thoi-binh,commune,33
+01000,"Đầm Dơi","Xã Đầm Dơi, Tỉnh Cà Mau",am-doi,commune,33
+01042,"Nguyễn Phích","Xã Nguyễn Phích, Tỉnh Cà Mau",nguyen-phich,commune,33
+01044,"Nguyễn Việt Khái","Xã Nguyễn Việt Khái, Tỉnh Cà Mau",nguyen-viet-khai,commune,33
+01090,"Cái Đôi Vàm","Xã Cái Đôi Vàm, Tỉnh Cà Mau",cai-oi-vam,commune,33
+01141,"Biển Bạch","Xã Biển Bạch, Tỉnh Cà Mau",bien-bach,commune,33
+01159,"Tân Thuận","Xã Tân Thuận, Tỉnh Cà Mau",tan-thuan,commune,33
+01160,"Tân Lộc","Xã Tân Lộc, Tỉnh Cà Mau",tan-loc,commune,33
+01167,"Phan Ngọc Hiển","Xã Phan Ngọc Hiển, Tỉnh Cà Mau",phan-ngoc-hien,commune,33
+01172,"Tân Hưng","Xã Tân Hưng, Tỉnh Cà Mau",tan-hung,commune,33
+01234,"Tân Tiến","Xã Tân Tiến, Tỉnh Cà Mau",tan-tien,commune,33
+01268,"Phú Tân","Xã Phú Tân, Tỉnh Cà Mau",phu-tan,commune,33
+01280,"Đất Mũi","Xã Đất Mũi, Tỉnh Cà Mau",at-mui,commune,33
+01288,"Tạ An Khương","Xã Tạ An Khương, Tỉnh Cà Mau",ta-an-khuong,commune,33
+01305,"U Minh","Xã U Minh, Tỉnh Cà Mau",u-minh,commune,33
+01506,"Năm Căn","Xã Năm Căn, Tỉnh Cà Mau",nam-can,commune,33
+01523,"Trần Phán","Xã Trần Phán, Tỉnh Cà Mau",tran-phan,commune,33
+01555,"Long Điền","Xã Long Điền, Tỉnh Cà Mau",long-ien,commune,33
+01600,"Quách Phẩm","Xã Quách Phẩm, Tỉnh Cà Mau",quach-pham,commune,33
+01689,"Đất Mới","Xã Đất Mới, Tỉnh Cà Mau",at-moi,commune,33
+01721,"Hồ Thị Kỷ","Xã Hồ Thị Kỷ, Tỉnh Cà Mau",ho-thi-ky,commune,33
+01730,"Khánh An","Xã Khánh An, Tỉnh Cà Mau",khanh-an,commune,33
+01783,"Thanh Tùng","Xã Thanh Tùng, Tỉnh Cà Mau",thanh-tung,commune,33
+01806,"Phú Mỹ","Xã Phú Mỹ, Tỉnh Cà Mau",phu-my,commune,33
+01832,"Hoà Bình","Xã Hoà Bình, Tỉnh Cà Mau",hoa-binh,commune,33
+01897,"Phước Long","Xã Phước Long, Tỉnh Cà Mau",phuoc-long,commune,33
+01944,"Bạc Liêu","Phường Bạc Liêu, Tỉnh Cà Mau",bac-lieu,ward,33
+01996,"Tân Ân","Xã Tân Ân, Tỉnh Cà Mau",tan-an,commune,33
+02043,"Tam Giang","Xã Tam Giang, Tỉnh Cà Mau",tam-giang,commune,33
+02058,"Vĩnh Trạch","Phường Vĩnh Trạch, Tỉnh Cà Mau",vinh-trach,ward,33
+02059,"Đông Hải","Xã Đông Hải, Tỉnh Cà Mau",ong-hai,commune,33
+02137,"Giá Rai","Phường Giá Rai, Tỉnh Cà Mau",gia-rai,ward,33
+02168,"Láng Tròn","Phường Láng Tròn, Tỉnh Cà Mau",lang-tron,ward,33
+02261,"Vĩnh Phước","Xã Vĩnh Phước, Tỉnh Cà Mau",vinh-phuoc,commune,33
+02307,"Vĩnh Thanh","Xã Vĩnh Thanh, Tỉnh Cà Mau",vinh-thanh,commune,33
+02396,"Vĩnh Hậu","Xã Vĩnh Hậu, Tỉnh Cà Mau",vinh-hau,commune,33
+02422,"Gành Hào","Xã Gành Hào, Tỉnh Cà Mau",ganh-hao,commune,33
+02448,"Vĩnh Lợi","Xã Vĩnh Lợi, Tỉnh Cà Mau",vinh-loi,commune,33
+02561,"Vĩnh Mỹ","Xã Vĩnh Mỹ, Tỉnh Cà Mau",vinh-my,commune,33
+02578,"An Trạch","Xã An Trạch, Tỉnh Cà Mau",an-trach,commune,33
+02611,"Hưng Hội","Xã Hưng Hội, Tỉnh Cà Mau",hung-hoi,commune,33
+02625,"Ninh Thạnh Lợi","Xã Ninh Thạnh Lợi, Tỉnh Cà Mau",ninh-thanh-loi,commune,33
+02661,"Ninh Quới","Xã Ninh Quới, Tỉnh Cà Mau",ninh-quoi,commune,33
+02671,"Hồng Dân","Xã Hồng Dân, Tỉnh Cà Mau",hong-dan,commune,33
+02684,"Phong Hiệp","Xã Phong Hiệp, Tỉnh Cà Mau",phong-hiep,commune,33
+02706,"Định Thành","Xã Định Thành, Tỉnh Cà Mau",inh-thanh,commune,33
+02746,"Châu Thới","Xã Châu Thới, Tỉnh Cà Mau",chau-thoi,commune,33
+02775,"Vĩnh Lộc","Xã Vĩnh Lộc, Tỉnh Cà Mau",vinh-loc,commune,33
+02784,"Hiệp Thành","Phường Hiệp Thành, Tỉnh Cà Mau",hiep-thanh,ward,33
+02828,"Phong Thạnh","Xã Phong Thạnh, Tỉnh Cà Mau",phong-thanh,commune,33

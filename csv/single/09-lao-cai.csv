@@ -1,0 +1,100 @@
+code,name,fullName,slug,type,provinceCode
+00215,"Lào Cai","Phường Lào Cai, Tỉnh Lào Cai",lao-cai,ward,09
+00282,"Yên Bái","Phường Yên Bái, Tỉnh Lào Cai",yen-bai,ward,09
+00306,"Cam Đường","Phường Cam Đường, Tỉnh Lào Cai",cam-uong,ward,09
+00875,"Mậu A","Xã Mậu A, Tỉnh Lào Cai",mau-a,commune,09
+01178,"Thác Bà","Xã Thác Bà, Tỉnh Lào Cai",thac-ba,commune,09
+01232,"Bảo Hà","Xã Bảo Hà, Tỉnh Lào Cai",bao-ha,commune,09
+01320,"Bảo Thắng","Xã Bảo Thắng, Tỉnh Lào Cai",bao-thang,commune,09
+01480,"Bắc Hà","Xã Bắc Hà, Tỉnh Lào Cai",bac-ha,commune,09
+01503,"Lục Yên","Xã Lục Yên, Tỉnh Lào Cai",luc-yen,commune,09
+01569,"Yên Bình","Xã Yên Bình, Tỉnh Lào Cai",yen-binh,commune,09
+01576,"Trấn Yên","Xã Trấn Yên, Tỉnh Lào Cai",tran-yen,commune,09
+01630,"Gia Phú","Xã Gia Phú, Tỉnh Lào Cai",gia-phu,commune,09
+01724,"Bát Xát","Xã Bát Xát, Tỉnh Lào Cai",bat-xat,commune,09
+01726,"Xuân Quang","Xã Xuân Quang, Tỉnh Lào Cai",xuan-quang,commune,09
+01756,"Trung Tâm","Phường Trung Tâm, Tỉnh Lào Cai",trung-tam,ward,09
+01782,"Văn Phú","Phường Văn Phú, Tỉnh Lào Cai",van-phu,ward,09
+01849,"Mường Lai","Xã Mường Lai, Tỉnh Lào Cai",muong-lai,commune,09
+01882,"Cầu Thia","Phường Cầu Thia, Tỉnh Lào Cai",cau-thia,ward,09
+01918,"Xuân Ái","Xã Xuân Ái, Tỉnh Lào Cai",xuan-ai,commune,09
+01947,"Mường Khương","Xã Mường Khương, Tỉnh Lào Cai",muong-khuong,commune,09
+01961,"Bảo Ái","Xã Bảo Ái, Tỉnh Lào Cai",bao-ai,commune,09
+01987,"Văn Bàn","Xã Văn Bàn, Tỉnh Lào Cai",van-ban,commune,09
+01998,"Văn Chấn","Xã Văn Chấn, Tỉnh Lào Cai",van-chan,commune,09
+02045,"Âu Lâu","Phường Âu Lâu, Tỉnh Lào Cai",au-lau,ward,09
+02072,"Sa Pa","Phường Sa Pa, Tỉnh Lào Cai",sa-pa,ward,09
+02074,"Si Ma Cai","Xã Si Ma Cai, Tỉnh Lào Cai",si-ma-cai,commune,09
+02140,"Đông Cuông","Xã Đông Cuông, Tỉnh Lào Cai",ong-cuong,commune,09
+02163,"Bảo Yên","Xã Bảo Yên, Tỉnh Lào Cai",bao-yen,commune,09
+02231,"Tằng Lỏong","Xã Tằng Lỏong, Tỉnh Lào Cai",tang-loong,commune,09
+02253,"Tân Lĩnh","Xã Tân Lĩnh, Tỉnh Lào Cai",tan-linh,commune,09
+02287,"Lâm Thượng","Xã Lâm Thượng, Tỉnh Lào Cai",lam-thuong,commune,09
+02290,"Púng Luông","Xã Púng Luông, Tỉnh Lào Cai",pung-luong,commune,09
+02328,"Nghĩa Tâm","Xã Nghĩa Tâm, Tỉnh Lào Cai",nghia-tam,commune,09
+02343,"Chấn Thịnh","Xã Chấn Thịnh, Tỉnh Lào Cai",chan-thinh,commune,09
+02349,"Nghĩa Lộ","Phường Nghĩa Lộ, Tỉnh Lào Cai",nghia-lo,ward,09
+02351,"Tả Van","Xã Tả Van, Tỉnh Lào Cai",ta-van,commune,09
+02360,"Bản Lầu","Xã Bản Lầu, Tỉnh Lào Cai",ban-lau,commune,09
+02399,"Võ Lao","Xã Võ Lao, Tỉnh Lào Cai",vo-lao,commune,09
+02409,"Nam Cường","Phường Nam Cường, Tỉnh Lào Cai",nam-cuong,ward,09
+02421,"Khánh Hòa","Xã Khánh Hòa, Tỉnh Lào Cai",khanh-hoa,commune,09
+02440,"Bảo Nhai","Xã Bảo Nhai, Tỉnh Lào Cai",bao-nhai,commune,09
+02441,"Cảm Nhân","Xã Cảm Nhân, Tỉnh Lào Cai",cam-nhan,commune,09
+02465,"Phong Hải","Xã Phong Hải, Tỉnh Lào Cai",phong-hai,commune,09
+02495,"Lâm Giang","Xã Lâm Giang, Tỉnh Lào Cai",lam-giang,commune,09
+02516,"Quy Mông","Xã Quy Mông, Tỉnh Lào Cai",quy-mong,commune,09
+02564,"Yên Thành","Xã Yên Thành, Tỉnh Lào Cai",yen-thanh,commune,09
+02570,"Phúc Lợi","Xã Phúc Lợi, Tỉnh Lào Cai",phuc-loi,commune,09
+02600,"Gia Hội","Xã Gia Hội, Tỉnh Lào Cai",gia-hoi,commune,09
+02609,"Mù Cang Chải","Xã Mù Cang Chải, Tỉnh Lào Cai",mu-cang-chai,commune,09
+02615,"Thượng Bằng La","Xã Thượng Bằng La, Tỉnh Lào Cai",thuong-bang-la,commune,09
+02624,"Pha Long","Xã Pha Long, Tỉnh Lào Cai",pha-long,commune,09
+02640,"Khánh Yên","Xã Khánh Yên, Tỉnh Lào Cai",khanh-yen,commune,09
+02650,"Thượng Hà","Xã Thượng Hà, Tỉnh Lào Cai",thuong-ha,commune,09
+02656,"Hưng Khánh","Xã Hưng Khánh, Tỉnh Lào Cai",hung-khanh,commune,09
+02658,"Cao Sơn","Xã Cao Sơn, Tỉnh Lào Cai",cao-son,commune,09
+02666,"Nghĩa Đô","Xã Nghĩa Đô, Tỉnh Lào Cai",nghia-o,commune,09
+02674,"Hạnh Phúc","Xã Hạnh Phúc, Tỉnh Lào Cai",hanh-phuc,commune,09
+02687,"Châu Quế","Xã Châu Quế, Tỉnh Lào Cai",chau-que,commune,09
+02694,"Liên Sơn","Xã Liên Sơn, Tỉnh Lào Cai",lien-son,commune,09
+02697,"Tú Lệ","Xã Tú Lệ, Tỉnh Lào Cai",tu-le,commune,09
+02711,"Xuân Hòa","Xã Xuân Hòa, Tỉnh Lào Cai",xuan-hoa,commune,09
+02728,"Lương Thịnh","Xã Lương Thịnh, Tỉnh Lào Cai",luong-thinh,commune,09
+02743,"Sơn Lương","Xã Sơn Lương, Tỉnh Lào Cai",son-luong,commune,09
+02744,"Hợp Thành","Xã Hợp Thành, Tỉnh Lào Cai",hop-thanh,commune,09
+02754,"Trịnh Tường","Xã Trịnh Tường, Tỉnh Lào Cai",trinh-tuong,commune,09
+02766,"Dền Sáng","Xã Dền Sáng, Tỉnh Lào Cai",den-sang,commune,09
+02768,"Lùng Phình","Xã Lùng Phình, Tỉnh Lào Cai",lung-phinh,commune,09
+02804,"Tân Hợp","Xã Tân Hợp, Tỉnh Lào Cai",tan-hop,commune,09
+02806,"Trạm Tấu","Xã Trạm Tấu, Tỉnh Lào Cai",tram-tau,commune,09
+02811,"Cát Thịnh","Xã Cát Thịnh, Tỉnh Lào Cai",cat-thinh,commune,09
+02832,"Cốc San","Xã Cốc San, Tỉnh Lào Cai",coc-san,commune,09
+02846,"Phình Hồ","Xã Phình Hồ, Tỉnh Lào Cai",phinh-ho,commune,09
+02858,"Việt Hồng","Xã Việt Hồng, Tỉnh Lào Cai",viet-hong,commune,09
+02897,"Y Tý","Xã Y Tý, Tỉnh Lào Cai",y-ty,commune,09
+02906,"Lao Chải","Xã Lao Chải, Tỉnh Lào Cai",lao-chai,commune,09
+02915,"Mỏ Vàng","Xã Mỏ Vàng, Tỉnh Lào Cai",mo-vang,commune,09
+02917,"Nậm Có","Xã Nậm Có, Tỉnh Lào Cai",nam-co,commune,09
+02924,"Tả Phìn","Xã Tả Phìn, Tỉnh Lào Cai",ta-phin,commune,09
+02967,"Bản Hồ","Xã Bản Hồ, Tỉnh Lào Cai",ban-ho,commune,09
+02969,"Khao Mang","Xã Khao Mang, Tỉnh Lào Cai",khao-mang,commune,09
+02973,"Chiềng Ken","Xã Chiềng Ken, Tỉnh Lào Cai",chieng-ken,commune,09
+02985,"Minh Lương","Xã Minh Lương, Tỉnh Lào Cai",minh-luong,commune,09
+03000,"Dương Quỳ","Xã Dương Quỳ, Tỉnh Lào Cai",duong-quy,commune,09
+03009,"Cốc Lầu","Xã Cốc Lầu, Tỉnh Lào Cai",coc-lau,commune,09
+03023,"Bản Xèo","Xã Bản Xèo, Tỉnh Lào Cai",ban-xeo,commune,09
+03025,"Phúc Khánh","Xã Phúc Khánh, Tỉnh Lào Cai",phuc-khanh,commune,09
+03060,"Phong Dụ Hạ","Xã Phong Dụ Hạ, Tỉnh Lào Cai",phong-du-ha,commune,09
+03085,"Ngũ Chỉ Sơn","Xã Ngũ Chỉ Sơn, Tỉnh Lào Cai",ngu-chi-son,commune,09
+03108,"Mường Bo","Xã Mường Bo, Tỉnh Lào Cai",muong-bo,commune,09
+03134,"Mường Hum","Xã Mường Hum, Tỉnh Lào Cai",muong-hum,commune,09
+03140,"Phong Dụ Thượng","Xã Phong Dụ Thượng, Tỉnh Lào Cai",phong-du-thuong,commune,09
+03156,"Tả Củ Tỷ","Xã Tả Củ Tỷ, Tỉnh Lào Cai",ta-cu-ty,commune,09
+03201,"A Mú Sung","Xã A Mú Sung, Tỉnh Lào Cai",a-mu-sung,commune,09
+03222,"Sín Chéng","Xã Sín Chéng, Tỉnh Lào Cai",sin-cheng,commune,09
+03232,"Nậm Chày","Xã Nậm Chày, Tỉnh Lào Cai",nam-chay,commune,09
+03280,"Bản Liền","Xã Bản Liền, Tỉnh Lào Cai",ban-lien,commune,09
+03305,"Chế Tạo","Xã Chế Tạo, Tỉnh Lào Cai",che-tao,commune,09
+03311,"Tà Xi Láng","Xã Tà Xi Láng, Tỉnh Lào Cai",ta-xi-lang,commune,09
+03315,"Nậm Xé","Xã Nậm Xé, Tỉnh Lào Cai",nam-xe,commune,09

@@ -1,0 +1,55 @@
+code,name,fullName,slug,type,provinceCode
+00254,"Mạo Khê","Phường Mạo Khê, Tỉnh Quảng Ninh",mao-khe,ward,08
+00317,"Cửa Ông","Phường Cửa Ông, Tỉnh Quảng Ninh",cua-ong,ward,08
+00370,"Cẩm Phả","Phường Cẩm Phả, Tỉnh Quảng Ninh",cam-pha,ward,08
+00397,"Uông Bí","Phường Uông Bí, Tỉnh Quảng Ninh",uong-bi,ward,08
+00487,"Vân Đồn","Đặc khu Vân Đồn, Tỉnh Quảng Ninh",van-on,commune,08
+00502,"Hạ Long","Phường Hạ Long, Tỉnh Quảng Ninh",ha-long,ward,08
+00507,"Quang Hanh","Phường Quang Hanh, Tỉnh Quảng Ninh",quang-hanh,ward,08
+00528,"Việt Hưng","Phường Việt Hưng, Tỉnh Quảng Ninh",viet-hung,ward,08
+00541,"Hồng Gai","Phường Hồng Gai, Tỉnh Quảng Ninh",hong-gai,ward,08
+00636,"Hà Lầm","Phường Hà Lầm, Tỉnh Quảng Ninh",ha-lam,ward,08
+00672,"Móng Cái 1","Phường Móng Cái 1, Tỉnh Quảng Ninh",mong-cai-1,ward,08
+00761,"Đông Triều","Phường Đông Triều, Tỉnh Quảng Ninh",ong-trieu,ward,08
+00823,"Bãi Cháy","Phường Bãi Cháy, Tỉnh Quảng Ninh",bai-chay,ward,08
+00858,"Quảng Hà","Xã Quảng Hà, Tỉnh Quảng Ninh",quang-ha,commune,08
+00957,"Yên Tử","Phường Yên Tử, Tỉnh Quảng Ninh",yen-tu,ward,08
+01072,"Vàng Danh","Phường Vàng Danh, Tỉnh Quảng Ninh",vang-danh,ward,08
+01267,"Hiệp Hòa","Phường Hiệp Hòa, Tỉnh Quảng Ninh",hiep-hoa,ward,08
+01316,"Liên Hòa","Phường Liên Hòa, Tỉnh Quảng Ninh",lien-hoa,ward,08
+01317,"Cao Xanh","Phường Cao Xanh, Tỉnh Quảng Ninh",cao-xanh,ward,08
+01371,"Hoàng Quế","Phường Hoàng Quế, Tỉnh Quảng Ninh",hoang-que,ward,08
+01416,"Quảng Yên","Phường Quảng Yên, Tỉnh Quảng Ninh",quang-yen,ward,08
+01547,"Hà Tu","Phường Hà Tu, Tỉnh Quảng Ninh",ha-tu,ward,08
+01579,"Móng Cái 2","Phường Móng Cái 2, Tỉnh Quảng Ninh",mong-cai-2,ward,08
+01625,"Hoành Bồ","Phường Hoành Bồ, Tỉnh Quảng Ninh",hoanh-bo,ward,08
+01714,"Phong Cốc","Phường Phong Cốc, Tỉnh Quảng Ninh",phong-coc,ward,08
+01823,"Đầm Hà","Xã Đầm Hà, Tỉnh Quảng Ninh",am-ha,commune,08
+01899,"An Sinh","Phường An Sinh, Tỉnh Quảng Ninh",an-sinh,ward,08
+02102,"Móng Cái 3","Phường Móng Cái 3, Tỉnh Quảng Ninh",mong-cai-3,ward,08
+02127,"Tiên Yên","Xã Tiên Yên, Tỉnh Quảng Ninh",tien-yen,commune,08
+02143,"Bình Khê","Phường Bình Khê, Tỉnh Quảng Ninh",binh-khe,ward,08
+02158,"Đông Mai","Phường Đông Mai, Tỉnh Quảng Ninh",ong-mai,ward,08
+02180,"Hà An","Phường Hà An, Tỉnh Quảng Ninh",ha-an,ward,08
+02330,"Mông Dương","Phường Mông Dương, Tỉnh Quảng Ninh",mong-duong,ward,08
+02387,"Đông Ngũ","Xã Đông Ngũ, Tỉnh Quảng Ninh",ong-ngu,commune,08
+02389,"Quảng Tân","Xã Quảng Tân, Tỉnh Quảng Ninh",quang-tan,commune,08
+02431,"Ba Chẽ","Xã Ba Chẽ, Tỉnh Quảng Ninh",ba-che,commune,08
+02443,"Thống Nhất","Xã Thống Nhất, Tỉnh Quảng Ninh",thong-nhat,commune,08
+02450,"Đường Hoa","Xã Đường Hoa, Tỉnh Quảng Ninh",uong-hoa,commune,08
+02511,"Bình Liêu","Xã Bình Liêu, Tỉnh Quảng Ninh",binh-lieu,commune,08
+02601,"Tuần Châu","Phường Tuần Châu, Tỉnh Quảng Ninh",tuan-chau,ward,08
+02792,"Quảng Đức","Xã Quảng Đức, Tỉnh Quảng Ninh",quang-uc,commune,08
+02885,"Hải Ninh","Xã Hải Ninh, Tỉnh Quảng Ninh",hai-ninh,commune,08
+02921,"Lục Hồn","Xã Lục Hồn, Tỉnh Quảng Ninh",luc-hon,commune,08
+02931,"Hải Lạng","Xã Hải Lạng, Tỉnh Quảng Ninh",hai-lang,commune,08
+02982,"Quảng La","Xã Quảng La, Tỉnh Quảng Ninh",quang-la,commune,08
+02994,"Hoành Mô","Xã Hoành Mô, Tỉnh Quảng Ninh",hoanh-mo,commune,08
+03114,"Cô Tô","Đặc khu Cô Tô, Tỉnh Quảng Ninh",co-to,commune,08
+03125,"Điền Xá","Xã Điền Xá, Tỉnh Quảng Ninh",ien-xa,commune,08
+03208,"Kỳ Thượng","Xã Kỳ Thượng, Tỉnh Quảng Ninh",ky-thuong,commune,08
+03220,"Hải Hòa","Xã Hải Hòa, Tỉnh Quảng Ninh",hai-hoa,commune,08
+03231,"Lương Minh","Xã Lương Minh, Tỉnh Quảng Ninh",luong-minh,commune,08
+03241,"Vĩnh Thực","Xã Vĩnh Thực, Tỉnh Quảng Ninh",vinh-thuc,commune,08
+03269,"Hải Sơn","Xã Hải Sơn, Tỉnh Quảng Ninh",hai-son,commune,08
+03316,"Cái Chiên","Xã Cái Chiên, Tỉnh Quảng Ninh",cai-chien,commune,08

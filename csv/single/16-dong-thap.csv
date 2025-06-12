@@ -1,0 +1,103 @@
+code,name,fullName,slug,type,provinceCode
+00042,"Cao Lãnh","Phường Cao Lãnh, Tỉnh Đồng Tháp",cao-lanh,ward,16
+00107,"Sa Đéc","Phường Sa Đéc, Tỉnh Đồng Tháp",sa-ec,ward,16
+00191,"Lai Vung","Xã Lai Vung, Tỉnh Đồng Tháp",lai-vung,commune,16
+00219,"Tân Long","Xã Tân Long, Tỉnh Đồng Tháp",tan-long,commune,16
+00224,"Tân Phước 3","Xã Tân Phước 3, Tỉnh Đồng Tháp",tan-phuoc-3,commune,16
+00237,"Lấp Vò","Xã Lấp Vò, Tỉnh Đồng Tháp",lap-vo,commune,16
+00243,"Đạo Thạnh","Phường Đạo Thạnh, Tỉnh Đồng Tháp",ao-thanh,ward,16
+00262,"Phong Hòa","Xã Phong Hòa, Tỉnh Đồng Tháp",phong-hoa,commune,16
+00280,"Trung An","Phường Trung An, Tỉnh Đồng Tháp",trung-an,ward,16
+00295,"Hòa Long","Xã Hòa Long, Tỉnh Đồng Tháp",hoa-long,commune,16
+00299,"Phú Hựu","Xã Phú Hựu, Tỉnh Đồng Tháp",phu-huu,commune,16
+00313,"Tân Hương","Xã Tân Hương, Tỉnh Đồng Tháp",tan-huong,commune,16
+00315,"Mỹ Tho","Phường Mỹ Tho, Tỉnh Đồng Tháp",my-tho,ward,16
+00356,"Tân Phú Trung","Xã Tân Phú Trung, Tỉnh Đồng Tháp",tan-phu-trung,commune,16
+00380,"Long Phú Thuận","Xã Long Phú Thuận, Tỉnh Đồng Tháp",long-phu-thuan,commune,16
+00398,"Thường Phước","Xã Thường Phước, Tỉnh Đồng Tháp",thuong-phuoc,commune,16
+00400,"Cái Bè","Xã Cái Bè, Tỉnh Đồng Tháp",cai-be,commune,16
+00401,"Tân Nhuận Đông","Xã Tân Nhuận Đông, Tỉnh Đồng Tháp",tan-nhuan-ong,commune,16
+00436,"Châu Thành","Xã Châu Thành, Tỉnh Đồng Tháp",chau-thanh,commune,16
+00458,"Mỹ An Hưng","Xã Mỹ An Hưng, Tỉnh Đồng Tháp",my-an-hung,commune,16
+00469,"Mỹ Hiệp","Xã Mỹ Hiệp, Tỉnh Đồng Tháp",my-hiep,commune,16
+00485,"Hồng Ngự","Phường Hồng Ngự, Tỉnh Đồng Tháp",hong-ngu,ward,16
+00504,"Hội Cư","Xã Hội Cư, Tỉnh Đồng Tháp",hoi-cu,commune,16
+00517,"An Hữu","Xã An Hữu, Tỉnh Đồng Tháp",an-huu,commune,16
+00536,"Tân Đông","Xã Tân Đông, Tỉnh Đồng Tháp",tan-ong,commune,16
+00545,"Mỹ Thọ","Xã Mỹ Thọ, Tỉnh Đồng Tháp",my-tho,commune,16
+00548,"Bình Phú","Xã Bình Phú, Tỉnh Đồng Tháp",binh-phu,commune,16
+00558,"Mỹ Phong","Phường Mỹ Phong, Tỉnh Đồng Tháp",my-phong,ward,16
+00565,"Mỹ Ngãi","Phường Mỹ Ngãi, Tỉnh Đồng Tháp",my-ngai,ward,16
+00574,"An Long","Xã An Long, Tỉnh Đồng Tháp",an-long,commune,16
+00625,"Long Định","Xã Long Định, Tỉnh Đồng Tháp",long-inh,commune,16
+00643,"Thanh Bình","Xã Thanh Bình, Tỉnh Đồng Tháp",thanh-binh,commune,16
+00645,"Long Hưng","Xã Long Hưng, Tỉnh Đồng Tháp",long-hung,commune,16
+00662,"Tân Khánh Trung","Xã Tân Khánh Trung, Tỉnh Đồng Tháp",tan-khanh-trung,commune,16
+00666,"Mỹ Trà","Phường Mỹ Trà, Tỉnh Đồng Tháp",my-tra,ward,16
+00676,"Sơn Qui","Phường Sơn Qui, Tỉnh Đồng Tháp",son-qui,ward,16
+00681,"Thanh Hưng","Xã Thanh Hưng, Tỉnh Đồng Tháp",thanh-hung,commune,16
+00688,"Tân Dương","Xã Tân Dương, Tỉnh Đồng Tháp",tan-duong,commune,16
+00694,"Gia Thuận","Xã Gia Thuận, Tỉnh Đồng Tháp",gia-thuan,commune,16
+00736,"Vĩnh Bình","Xã Vĩnh Bình, Tỉnh Đồng Tháp",vinh-binh,commune,16
+00741,"Tháp Mười","Xã Tháp Mười, Tỉnh Đồng Tháp",thap-muoi,commune,16
+00751,"Long Tiên","Xã Long Tiên, Tỉnh Đồng Tháp",long-tien,commune,16
+00850,"An Thạnh Thủy","Xã An Thạnh Thủy, Tỉnh Đồng Tháp",an-thanh-thuy,commune,16
+00870,"Mỹ Phước Tây","Phường Mỹ Phước Tây, Tỉnh Đồng Tháp",my-phuoc-tay,ward,16
+00877,"Ngũ Hiệp","Xã Ngũ Hiệp, Tỉnh Đồng Tháp",ngu-hiep,commune,16
+00883,"Đồng Sơn","Xã Đồng Sơn, Tỉnh Đồng Tháp",ong-son,commune,16
+00907,"Hậu Mỹ","Xã Hậu Mỹ, Tỉnh Đồng Tháp",hau-my,commune,16
+00911,"Tân Thuận Bình","Xã Tân Thuận Bình, Tỉnh Đồng Tháp",tan-thuan-binh,commune,16
+00915,"Tân Hồng","Xã Tân Hồng, Tỉnh Đồng Tháp",tan-hong,commune,16
+00931,"Bình Hàng Trung","Xã Bình Hàng Trung, Tỉnh Đồng Tháp",binh-hang-trung,commune,16
+00984,"Thới Sơn","Phường Thới Sơn, Tỉnh Đồng Tháp",thoi-son,ward,16
+00993,"Thường Lạc","Phường Thường Lạc, Tỉnh Đồng Tháp",thuong-lac,ward,16
+01024,"Lương Hòa Lạc","Xã Lương Hòa Lạc, Tỉnh Đồng Tháp",luong-hoa-lac,commune,16
+01065,"Mỹ Tịnh An","Xã Mỹ Tịnh An, Tỉnh Đồng Tháp",my-tinh-an,commune,16
+01069,"Mỹ Đức Tây","Xã Mỹ Đức Tây, Tỉnh Đồng Tháp",my-uc-tay,commune,16
+01102,"Mỹ Quí","Xã Mỹ Quí, Tỉnh Đồng Tháp",my-qui,commune,16
+01113,"Bình Ninh","Xã Bình Ninh, Tỉnh Đồng Tháp",binh-ninh,commune,16
+01114,"Gò Công","Phường Gò Công, Tỉnh Đồng Tháp",go-cong,ward,16
+01132,"Long Khánh","Xã Long Khánh, Tỉnh Đồng Tháp",long-khanh,commune,16
+01139,"Mỹ Thành","Xã Mỹ Thành, Tỉnh Đồng Tháp",my-thanh,commune,16
+01140,"Hiệp Đức","Xã Hiệp Đức, Tỉnh Đồng Tháp",hiep-uc,commune,16
+01197,"Bình Trưng","Xã Bình Trưng, Tỉnh Đồng Tháp",binh-trung,commune,16
+01227,"Tân Hòa","Xã Tân Hòa, Tỉnh Đồng Tháp",tan-hoa,commune,16
+01231,"Cai Lậy","Phường Cai Lậy, Tỉnh Đồng Tháp",cai-lay,ward,16
+01246,"Chợ Gạo","Xã Chợ Gạo, Tỉnh Đồng Tháp",cho-gao,commune,16
+01248,"Mỹ Lợi","Xã Mỹ Lợi, Tỉnh Đồng Tháp",my-loi,commune,16
+01274,"An Bình","Phường An Bình, Tỉnh Đồng Tháp",an-binh,ward,16
+01294,"Thanh Mỹ","Xã Thanh Mỹ, Tỉnh Đồng Tháp",thanh-my,commune,16
+01336,"Bình Xuân","Phường Bình Xuân, Tỉnh Đồng Tháp",binh-xuan,ward,16
+01358,"Bình Thành","Xã Bình Thành, Tỉnh Đồng Tháp",binh-thanh,commune,16
+01365,"Tân Thới","Xã Tân Thới, Tỉnh Đồng Tháp",tan-thoi,commune,16
+01404,"Vĩnh Kim","Xã Vĩnh Kim, Tỉnh Đồng Tháp",vinh-kim,commune,16
+01413,"Hưng Thạnh","Xã Hưng Thạnh, Tỉnh Đồng Tháp",hung-thanh,commune,16
+01414,"Tân Phú","Xã Tân Phú, Tỉnh Đồng Tháp",tan-phu,commune,16
+01434,"Phong Mỹ","Xã Phong Mỹ, Tỉnh Đồng Tháp",phong-my,commune,16
+01461,"Long Bình","Xã Long Bình, Tỉnh Đồng Tháp",long-binh,commune,16
+01474,"Tân Thành","Xã Tân Thành, Tỉnh Đồng Tháp",tan-thanh,commune,16
+01490,"Phú Thọ","Xã Phú Thọ, Tỉnh Đồng Tháp",phu-tho,commune,16
+01508,"Gò Công Đông","Xã Gò Công Đông, Tỉnh Đồng Tháp",go-cong-ong,commune,16
+01537,"Long Thuận","Phường Long Thuận, Tỉnh Đồng Tháp",long-thuan,ward,16
+01566,"Kim Sơn","Xã Kim Sơn, Tỉnh Đồng Tháp",kim-son,commune,16
+01605,"Đốc Binh Kiều","Xã Đốc Binh Kiều, Tỉnh Đồng Tháp",oc-binh-kieu,commune,16
+01629,"Ba Sao","Xã Ba Sao, Tỉnh Đồng Tháp",ba-sao,commune,16
+01631,"Thạnh Phú","Xã Thạnh Phú, Tỉnh Đồng Tháp",thanh-phu,commune,16
+01686,"Mỹ Thiện","Xã Mỹ Thiện, Tỉnh Đồng Tháp",my-thien,commune,16
+01700,"Nhị Quý","Phường Nhị Quý, Tỉnh Đồng Tháp",nhi-quy,ward,16
+01829,"Tân Thạnh","Xã Tân Thạnh, Tỉnh Đồng Tháp",tan-thanh,commune,16
+01889,"Phú Thành","Xã Phú Thành, Tỉnh Đồng Tháp",phu-thanh,commune,16
+01892,"Tân Hộ Cơ","Xã Tân Hộ Cơ, Tỉnh Đồng Tháp",tan-ho-co,commune,16
+01966,"Vĩnh Hựu","Xã Vĩnh Hựu, Tỉnh Đồng Tháp",vinh-huu,commune,16
+01995,"An Phước","Xã An Phước, Tỉnh Đồng Tháp",an-phuoc,commune,16
+02011,"Tân Phú Đông","Xã Tân Phú Đông, Tỉnh Đồng Tháp",tan-phu-ong,commune,16
+02087,"Tràm Chim","Xã Tràm Chim, Tỉnh Đồng Tháp",tram-chim,commune,16
+02129,"Tân Điền","Xã Tân Điền, Tỉnh Đồng Tháp",tan-ien,commune,16
+02154,"Phương Thịnh","Xã Phương Thịnh, Tỉnh Đồng Tháp",phuong-thinh,commune,16
+02194,"Phú Cường","Xã Phú Cường, Tỉnh Đồng Tháp",phu-cuong,commune,16
+02200,"Tam Nông","Xã Tam Nông, Tỉnh Đồng Tháp",tam-nong,commune,16
+02213,"Thanh Hòa","Phường Thanh Hòa, Tỉnh Đồng Tháp",thanh-hoa,ward,16
+02323,"An Hòa","Xã An Hòa, Tỉnh Đồng Tháp",an-hoa,commune,16
+02380,"Trường Xuân","Xã Trường Xuân, Tỉnh Đồng Tháp",truong-xuan,commune,16
+02718,"Tân Phước 1","Xã Tân Phước 1, Tỉnh Đồng Tháp",tan-phuoc-1,commune,16
+02852,"Tân Phước 2","Xã Tân Phước 2, Tỉnh Đồng Tháp",tan-phuoc-2,commune,16

@@ -1,0 +1,115 @@
+code,name,fullName,slug,type,provinceCode
+00026,"Lê Chân","Phường Lê Chân, Thành phố Hải Phòng",le-chan,ward,05
+00084,"An Biên","Phường An Biên, Thành phố Hải Phòng",an-bien,ward,05
+00089,"Hồng Bàng","Phường Hồng Bàng, Thành phố Hải Phòng",hong-bang,ward,05
+00113,"Hải An","Phường Hải An, Thành phố Hải Phòng",hai-an,ward,05
+00115,"Gia Viên","Phường Gia Viên, Thành phố Hải Phòng",gia-vien,ward,05
+00154,"Ngô Quyền","Phường Ngô Quyền, Thành phố Hải Phòng",ngo-quyen,ward,05
+00186,"Lê Thanh Nghị","Phường Lê Thanh Nghị, Thành phố Hải Phòng",le-thanh-nghi,ward,05
+00212,"An Hải","Phường An Hải, Thành phố Hải Phòng",an-hai,ward,05
+00217,"An Dương","Phường An Dương, Thành phố Hải Phòng",an-duong,ward,05
+00258,"Thuỷ Nguyên","Phường Thuỷ Nguyên, Thành phố Hải Phòng",thuy-nguyen,ward,05
+00271,"Cát Hải","Đặc khu Cát Hải, Thành phố Hải Phòng",cat-hai,commune,05
+00312,"Kiến An","Phường Kiến An, Thành phố Hải Phòng",kien-an,ward,05
+00327,"Hồng An","Phường Hồng An, Thành phố Hải Phòng",hong-an,ward,05
+00386,"Phù Liễn","Phường Phù Liễn, Thành phố Hải Phòng",phu-lien,ward,05
+00447,"Chu Văn An","Phường Chu Văn An, Thành phố Hải Phòng",chu-van-an,ward,05
+00525,"Lê Ích Mộc","Phường Lê Ích Mộc, Thành phố Hải Phòng",le-ich-moc,ward,05
+00532,"Bạch Đằng","Phường Bạch Đằng, Thành phố Hải Phòng",bach-ang,ward,05
+00534,"Hải Dương","Phường Hải Dương, Thành phố Hải Phòng",hai-duong,ward,05
+00556,"Đông Hải","Phường Đông Hải, Thành phố Hải Phòng",ong-hai,ward,05
+00571,"Thành Đông","Phường Thành Đông, Thành phố Hải Phòng",thanh-ong,ward,05
+00596,"Lưu Kiếm","Phường Lưu Kiếm, Thành phố Hải Phòng",luu-kiem,ward,05
+00648,"An Lão","Xã An Lão, Thành phố Hải Phòng",an-lao,commune,05
+00651,"Hoà Bình","Phường Hoà Bình, Thành phố Hải Phòng",hoa-binh,ward,05
+00669,"Gia Lộc","Xã Gia Lộc, Thành phố Hải Phòng",gia-loc,commune,05
+00683,"Phú Thái","Xã Phú Thái, Thành phố Hải Phòng",phu-thai,commune,05
+00708,"Thanh Miện","Xã Thanh Miện, Thành phố Hải Phòng",thanh-mien,commune,05
+00710,"Vĩnh Bảo","Xã Vĩnh Bảo, Thành phố Hải Phòng",vinh-bao,commune,05
+00716,"Thiên Hương","Phường Thiên Hương, Thành phố Hải Phòng",thien-huong,ward,05
+00721,"Kiến Hải","Xã Kiến Hải, Thành phố Hải Phòng",kien-hai,commune,05
+00731,"An Phong","Phường An Phong, Thành phố Hải Phòng",an-phong,ward,05
+00759,"Nhị Chiểu","Phường Nhị Chiểu, Thành phố Hải Phòng",nhi-chieu,ward,05
+00778,"Mao Điền","Xã Mao Điền, Thành phố Hải Phòng",mao-ien,commune,05
+00786,"Kim Thành","Xã Kim Thành, Thành phố Hải Phòng",kim-thanh,commune,05
+00788,"Lai Khê","Xã Lai Khê, Thành phố Hải Phòng",lai-khe,commune,05
+00874,"Gia Phúc","Xã Gia Phúc, Thành phố Hải Phòng",gia-phuc,commune,05
+00882,"Tiên Lãng","Xã Tiên Lãng, Thành phố Hải Phòng",tien-lang,commune,05
+00893,"Nam Triệu","Phường Nam Triệu, Thành phố Hải Phòng",nam-trieu,ward,05
+00928,"Kẻ Sặt","Xã Kẻ Sặt, Thành phố Hải Phòng",ke-sat,commune,05
+00930,"Ninh Giang","Xã Ninh Giang, Thành phố Hải Phòng",ninh-giang,commune,05
+00956,"Vĩnh Lại","Xã Vĩnh Lại, Thành phố Hải Phòng",vinh-lai,commune,05
+00967,"Tân Hưng","Phường Tân Hưng, Thành phố Hải Phòng",tan-hung,ward,05
+00996,"Tân Kỳ","Xã Tân Kỳ, Thành phố Hải Phòng",tan-ky,commune,05
+01006,"Kiến Thụy","Xã Kiến Thụy, Thành phố Hải Phòng",kien-thuy,commune,05
+01009,"Việt Khê","Xã Việt Khê, Thành phố Hải Phòng",viet-khe,commune,05
+01014,"Hưng Đạo","Phường Hưng Đạo, Thành phố Hải Phòng",hung-ao,ward,05
+01018,"Tứ Kỳ","Xã Tứ Kỳ, Thành phố Hải Phòng",tu-ky,commune,05
+01028,"Vĩnh Hải","Xã Vĩnh Hải, Thành phố Hải Phòng",vinh-hai,commune,05
+01080,"Nam Sách","Xã Nam Sách, Thành phố Hải Phòng",nam-sach,commune,05
+01084,"Tân Minh","Xã Tân Minh, Thành phố Hải Phòng",tan-minh,commune,05
+01088,"Đồ Sơn","Phường Đồ Sơn, Thành phố Hải Phòng",o-son,ward,05
+01091,"Hà Bắc","Xã Hà Bắc, Thành phố Hải Phòng",ha-bac,commune,05
+01100,"Tiên Minh","Xã Tiên Minh, Thành phố Hải Phòng",tien-minh,commune,05
+01109,"Thanh Hà","Xã Thanh Hà, Thành phố Hải Phòng",thanh-ha,commune,05
+01124,"Trần Phú","Xã Trần Phú, Thành phố Hải Phòng",tran-phu,commune,05
+01125,"Trần Hưng Đạo","Phường Trần Hưng Đạo, Thành phố Hải Phòng",tran-hung-ao,ward,05
+01179,"An Phú","Xã An Phú, Thành phố Hải Phòng",an-phu,commune,05
+01202,"Vĩnh Am","Xã Vĩnh Am, Thành phố Hải Phòng",vinh-am,commune,05
+01203,"Cẩm Giang","Xã Cẩm Giang, Thành phố Hải Phòng",cam-giang,commune,05
+01207,"Thạch Khôi","Phường Thạch Khôi, Thành phố Hải Phòng",thach-khoi,ward,05
+01211,"Đường An","Xã Đường An, Thành phố Hải Phòng",uong-an,commune,05
+01219,"Hà Tây","Xã Hà Tây, Thành phố Hải Phòng",ha-tay,commune,05
+01233,"Cẩm Giàng","Xã Cẩm Giàng, Thành phố Hải Phòng",cam-giang,commune,05
+01239,"An Khánh","Xã An Khánh, Thành phố Hải Phòng",an-khanh,commune,05
+01245,"Nguyễn Lương Bằng","Xã Nguyễn Lương Bằng, Thành phố Hải Phòng",nguyen-luong-bang,commune,05
+01247,"Khúc Thừa Dụ","Xã Khúc Thừa Dụ, Thành phố Hải Phòng",khuc-thua-du,commune,05
+01263,"Yết Kiêu","Xã Yết Kiêu, Thành phố Hải Phòng",yet-kieu,commune,05
+01264,"Hà Đông","Xã Hà Đông, Thành phố Hải Phòng",ha-ong,commune,05
+01283,"Nam Thanh Miện","Xã Nam Thanh Miện, Thành phố Hải Phòng",nam-thanh-mien,commune,05
+01310,"Bình Giang","Xã Bình Giang, Thành phố Hải Phòng",binh-giang,commune,05
+01324,"Hồng Châu","Xã Hồng Châu, Thành phố Hải Phòng",hong-chau,commune,05
+01332,"Chí Minh","Xã Chí Minh, Thành phố Hải Phòng",chi-minh,commune,05
+01372,"Chí Linh","Phường Chí Linh, Thành phố Hải Phòng",chi-linh,ward,05
+01387,"Trường Tân","Xã Trường Tân, Thành phố Hải Phòng",truong-tan,commune,05
+01447,"Việt Hòa","Phường Việt Hòa, Thành phố Hải Phòng",viet-hoa,ward,05
+01473,"Đại Sơn","Xã Đại Sơn, Thành phố Hải Phòng",ai-son,commune,05
+01486,"Tứ Minh","Phường Tứ Minh, Thành phố Hải Phòng",tu-minh,ward,05
+01491,"Nam Đồ Sơn","Phường Nam Đồ Sơn, Thành phố Hải Phòng",nam-o-son,ward,05
+01499,"An Trường","Xã An Trường, Thành phố Hải Phòng",an-truong,commune,05
+01581,"An Quang","Xã An Quang, Thành phố Hải Phòng",an-quang,commune,05
+01582,"Nguyễn Đại Năng","Phường Nguyễn Đại Năng, Thành phố Hải Phòng",nguyen-ai-nang,ward,05
+01596,"Vĩnh Thuận","Xã Vĩnh Thuận, Thành phố Hải Phòng",vinh-thuan,commune,05
+01607,"An Thành","Xã An Thành, Thành phố Hải Phòng",an-thanh,commune,05
+01619,"Lạc Phượng","Xã Lạc Phượng, Thành phố Hải Phòng",lac-phuong,commune,05
+01652,"Vĩnh Hòa","Xã Vĩnh Hòa, Thành phố Hải Phòng",vinh-hoa,commune,05
+01655,"Nguyên Giáp","Xã Nguyên Giáp, Thành phố Hải Phòng",nguyen-giap,commune,05
+01657,"Kiến Hưng","Xã Kiến Hưng, Thành phố Hải Phòng",kien-hung,commune,05
+01672,"Nam An Phụ","Xã Nam An Phụ, Thành phố Hải Phòng",nam-an-phu,commune,05
+01678,"Hà Nam","Xã Hà Nam, Thành phố Hải Phòng",ha-nam,commune,05
+01702,"Tân An","Xã Tân An, Thành phố Hải Phòng",tan-an,commune,05
+01715,"Dương Kinh","Phường Dương Kinh, Thành phố Hải Phòng",duong-kinh,ward,05
+01717,"Hải Hưng","Xã Hải Hưng, Thành phố Hải Phòng",hai-hung,commune,05
+01725,"Bắc Thanh Miện","Xã Bắc Thanh Miện, Thành phố Hải Phòng",bac-thanh-mien,commune,05
+01727,"Tuệ Tĩnh","Xã Tuệ Tĩnh, Thành phố Hải Phòng",tue-tinh,commune,05
+01743,"Trần Nhân Tông","Phường Trần Nhân Tông, Thành phố Hải Phòng",tran-nhan-tong,ward,05
+01757,"Hùng Thắng","Xã Hùng Thắng, Thành phố Hải Phòng",hung-thang,commune,05
+01771,"Trần Liễu","Phường Trần Liễu, Thành phố Hải Phòng",tran-lieu,ward,05
+01797,"Vĩnh Thịnh","Xã Vĩnh Thịnh, Thành phố Hải Phòng",vinh-thinh,commune,05
+01808,"Kiến Minh","Xã Kiến Minh, Thành phố Hải Phòng",kien-minh,commune,05
+01814,"Chấn Hưng","Xã Chấn Hưng, Thành phố Hải Phòng",chan-hung,commune,05
+01840,"Nghi Dương","Xã Nghi Dương, Thành phố Hải Phòng",nghi-duong,commune,05
+01853,"An Hưng","Xã An Hưng, Thành phố Hải Phòng",an-hung,commune,05
+01901,"Kinh Môn","Phường Kinh Môn, Thành phố Hải Phòng",kinh-mon,ward,05
+01904,"Phạm Sư Mạnh","Phường Phạm Sư Mạnh, Thành phố Hải Phòng",pham-su-manh,ward,05
+01906,"Nam Đồng","Phường Nam Đồng, Thành phố Hải Phòng",nam-ong,ward,05
+01919,"Ái Quốc","Phường Ái Quốc, Thành phố Hải Phòng",ai-quoc,ward,05
+01925,"Lê Đại Hành","Phường Lê Đại Hành, Thành phố Hải Phòng",le-ai-hanh,ward,05
+01929,"Thượng Hồng","Xã Thượng Hồng, Thành phố Hải Phòng",thuong-hong,commune,05
+01931,"Nguyễn Bỉnh Khiêm","Xã Nguyễn Bỉnh Khiêm, Thành phố Hải Phòng",nguyen-binh-khiem,commune,05
+02081,"Bắc An Phụ","Phường Bắc An Phụ, Thành phố Hải Phòng",bac-an-phu,ward,05
+02103,"Quyết Thắng","Xã Quyết Thắng, Thành phố Hải Phòng",quyet-thang,commune,05
+02219,"Hợp Tiến","Xã Hợp Tiến, Thành phố Hải Phòng",hop-tien,commune,05
+02240,"Thái Tân","Xã Thái Tân, Thành phố Hải Phòng",thai-tan,commune,05
+02525,"Nguyễn Trãi","Phường Nguyễn Trãi, Thành phố Hải Phòng",nguyen-trai,ward,05
+03317,"Bạch Long Vĩ","Đặc khu Bạch Long Vĩ, Thành phố Hải Phòng",bach-long-vi,commune,05

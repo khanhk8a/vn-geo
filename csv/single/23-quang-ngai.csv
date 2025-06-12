@@ -1,0 +1,97 @@
+code,name,fullName,slug,type,provinceCode
+00152,"Bình Sơn","Xã Bình Sơn, Tỉnh Quảng Ngãi",binh-son,commune,23
+00209,"Kon Tum","Phường Kon Tum, Tỉnh Quảng Ngãi",kon-tum,ward,23
+00241,"Nghĩa Lộ","Phường Nghĩa Lộ, Tỉnh Quảng Ngãi",nghia-lo,ward,23
+00265,"An Phú","Xã An Phú, Tỉnh Quảng Ngãi",an-phu,commune,23
+00382,"Cẩm Thành","Phường Cẩm Thành, Tỉnh Quảng Ngãi",cam-thanh,ward,23
+00387,"Vạn Tường","Xã Vạn Tường, Tỉnh Quảng Ngãi",van-tuong,commune,23
+00407,"Tư Nghĩa","Xã Tư Nghĩa, Tỉnh Quảng Ngãi",tu-nghia,commune,23
+00445,"Đông Sơn","Xã Đông Sơn, Tỉnh Quảng Ngãi",ong-son,commune,23
+00450,"Tịnh Khê","Xã Tịnh Khê, Tỉnh Quảng Ngãi",tinh-khe,commune,23
+00598,"Trương Quang Trọng","Phường Trương Quang Trọng, Tỉnh Quảng Ngãi",truong-quang-trong,ward,23
+00702,"Trà Câu","Phường Trà Câu, Tỉnh Quảng Ngãi",tra-cau,ward,23
+00807,"Sơn Tịnh","Xã Sơn Tịnh, Tỉnh Quảng Ngãi",son-tinh,commune,23
+00842,"Đức Phổ","Phường Đức Phổ, Tỉnh Quảng Ngãi",uc-pho,ward,23
+00916,"Long Phụng","Xã Long Phụng, Tỉnh Quảng Ngãi",long-phung,commune,23
+00938,"Nghĩa Giang","Xã Nghĩa Giang, Tỉnh Quảng Ngãi",nghia-giang,commune,23
+00974,"Vệ Giang","Xã Vệ Giang, Tỉnh Quảng Ngãi",ve-giang,commune,23
+00978,"Mỏ Cày","Xã Mỏ Cày, Tỉnh Quảng Ngãi",mo-cay,commune,23
+01115,"Lân Phong","Xã Lân Phong, Tỉnh Quảng Ngãi",lan-phong,commune,23
+01116,"Đăk Hà","Xã Đăk Hà, Tỉnh Quảng Ngãi",ak-ha,commune,23
+01117,"Đình Cương","Xã Đình Cương, Tỉnh Quảng Ngãi",inh-cuong,commune,23
+01129,"Mộ Đức","Xã Mộ Đức, Tỉnh Quảng Ngãi",mo-uc,commune,23
+01164,"Bờ Y","Xã Bờ Y, Tỉnh Quảng Ngãi",bo-y,commune,23
+01173,"Đăk Tô","Xã Đăk Tô, Tỉnh Quảng Ngãi",ak-to,commune,23
+01345,"Sa Huỳnh","Phường Sa Huỳnh, Tỉnh Quảng Ngãi",sa-huynh,ward,23
+01401,"Nghĩa Hành","Xã Nghĩa Hành, Tỉnh Quảng Ngãi",nghia-hanh,commune,23
+01534,"Đăk Cấm","Phường Đăk Cấm, Tỉnh Quảng Ngãi",ak-cam,ward,23
+01590,"Khánh Cường","Xã Khánh Cường, Tỉnh Quảng Ngãi",khanh-cuong,commune,23
+01680,"Thọ Phong","Xã Thọ Phong, Tỉnh Quảng Ngãi",tho-phong,commune,23
+01844,"Lý Sơn","Đặc khu Lý Sơn, Tỉnh Quảng Ngãi",ly-son,commune,23
+01884,"Đăk Rơ Wa","Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi",ak-ro-wa,commune,23
+01915,"Sơn Hạ","Xã Sơn Hạ, Tỉnh Quảng Ngãi",son-ha,commune,23
+01993,"Phước Giang","Xã Phước Giang, Tỉnh Quảng Ngãi",phuoc-giang,commune,23
+02032,"Ngọk Bay","Xã Ngọk Bay, Tỉnh Quảng Ngãi",ngok-bay,commune,23
+02133,"Trường Giang","Xã Trường Giang, Tỉnh Quảng Ngãi",truong-giang,commune,23
+02145,"Đăk BLa","Phường Đăk BLa, Tỉnh Quảng Ngãi",ak-bla,ward,23
+02166,"Ba Gia","Xã Ba Gia, Tỉnh Quảng Ngãi",ba-gia,commune,23
+02192,"Ia Chim","Xã Ia Chim, Tỉnh Quảng Ngãi",ia-chim,commune,23
+02217,"Trà Giang","Xã Trà Giang, Tỉnh Quảng Ngãi",tra-giang,commune,23
+02243,"Sơn Hà","Xã Sơn Hà, Tỉnh Quảng Ngãi",son-ha,commune,23
+02265,"Sa Thầy","Xã Sa Thầy, Tỉnh Quảng Ngãi",sa-thay,commune,23
+02277,"Bình Minh","Xã Bình Minh, Tỉnh Quảng Ngãi",binh-minh,commune,23
+02284,"Đăk Mar","Xã Đăk Mar, Tỉnh Quảng Ngãi",ak-mar,commune,23
+02335,"Trà Bồng","Xã Trà Bồng, Tỉnh Quảng Ngãi",tra-bong,commune,23
+02369,"Kon Braih","Xã Kon Braih, Tỉnh Quảng Ngãi",kon-braih,commune,23
+02391,"Nguyễn Nghiêm","Xã Nguyễn Nghiêm, Tỉnh Quảng Ngãi",nguyen-nghiem,commune,23
+02434,"Đăk Pék","Xã Đăk Pék, Tỉnh Quảng Ngãi",ak-pek,commune,23
+02439,"Thiện Tín","Xã Thiện Tín, Tỉnh Quảng Ngãi",thien-tin,commune,23
+02457,"Sơn Linh","Xã Sơn Linh, Tỉnh Quảng Ngãi",son-linh,commune,23
+02477,"Sa Bình","Xã Sa Bình, Tỉnh Quảng Ngãi",sa-binh,commune,23
+02490,"Bình Chương","Xã Bình Chương, Tỉnh Quảng Ngãi",binh-chuong,commune,23
+02551,"Dục Nông","Xã Dục Nông, Tỉnh Quảng Ngãi",duc-nong,commune,23
+02677,"Đăk Môn","Xã Đăk Môn, Tỉnh Quảng Ngãi",ak-mon,commune,23
+02692,"Kon Đào","Xã Kon Đào, Tỉnh Quảng Ngãi",kon-ao,commune,23
+02729,"Sa Loong","Xã Sa Loong, Tỉnh Quảng Ngãi",sa-loong,commune,23
+02731,"Sơn Thủy","Xã Sơn Thủy, Tỉnh Quảng Ngãi",son-thuy,commune,23
+02762,"Ba Tơ","Xã Ba Tơ, Tỉnh Quảng Ngãi",ba-to,commune,23
+02772,"Đăk Ui","Xã Đăk Ui, Tỉnh Quảng Ngãi",ak-ui,commune,23
+02773,"Sơn Kỳ","Xã Sơn Kỳ, Tỉnh Quảng Ngãi",son-ky,commune,23
+02782,"Ngọk Réo","Xã Ngọk Réo, Tỉnh Quảng Ngãi",ngok-reo,commune,23
+02795,"Tây Trà","Xã Tây Trà, Tỉnh Quảng Ngãi",tay-tra,commune,23
+02810,"Ba Vì","Xã Ba Vì, Tỉnh Quảng Ngãi",ba-vi,commune,23
+02824,"Đông Trà Bồng","Xã Đông Trà Bồng, Tỉnh Quảng Ngãi",ong-tra-bong,commune,23
+02825,"Đăk Pxi","Xã Đăk Pxi, Tỉnh Quảng Ngãi",ak-pxi,commune,23
+02867,"Ya Ly","Xã Ya Ly, Tỉnh Quảng Ngãi",ya-ly,commune,23
+02911,"Minh Long","Xã Minh Long, Tỉnh Quảng Ngãi",minh-long,commune,23
+02927,"Sơn Mai","Xã Sơn Mai, Tỉnh Quảng Ngãi",son-mai,commune,23
+02930,"Sơn Tây","Xã Sơn Tây, Tỉnh Quảng Ngãi",son-tay,commune,23
+02949,"Ba Tô","Xã Ba Tô, Tỉnh Quảng Ngãi",ba-to,commune,23
+02962,"Măng Đen","Xã Măng Đen, Tỉnh Quảng Ngãi",mang-en,commune,23
+02972,"Kon Plông","Xã Kon Plông, Tỉnh Quảng Ngãi",kon-plong,commune,23
+02988,"Măng Bút","Xã Măng Bút, Tỉnh Quảng Ngãi",mang-but,commune,23
+03001,"Đăk Tờ Kan","Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi",ak-to-kan,commune,23
+03016,"Măng Ri","Xã Măng Ri, Tỉnh Quảng Ngãi",mang-ri,commune,23
+03031,"Ngọk Tụ","Xã Ngọk Tụ, Tỉnh Quảng Ngãi",ngok-tu,commune,23
+03052,"Đăk Rve","Xã Đăk Rve, Tỉnh Quảng Ngãi",ak-rve,commune,23
+03058,"Tây Trà Bồng","Xã Tây Trà Bồng, Tỉnh Quảng Ngãi",tay-tra-bong,commune,23
+03078,"Ba Động","Xã Ba Động, Tỉnh Quảng Ngãi",ba-ong,commune,23
+03090,"Thanh Bồng","Xã Thanh Bồng, Tỉnh Quảng Ngãi",thanh-bong,commune,23
+03091,"Sơn Tây Thượng","Xã Sơn Tây Thượng, Tỉnh Quảng Ngãi",son-tay-thuong,commune,23
+03106,"Ba Dinh","Xã Ba Dinh, Tỉnh Quảng Ngãi",ba-dinh,commune,23
+03111,"Ia Tơi","Xã Ia Tơi, Tỉnh Quảng Ngãi",ia-toi,commune,23
+03142,"Tu Mơ Rông","Xã Tu Mơ Rông, Tỉnh Quảng Ngãi",tu-mo-rong,commune,23
+03143,"Đăk Sao","Xã Đăk Sao, Tỉnh Quảng Ngãi",ak-sao,commune,23
+03158,"Xốp","Xã Xốp, Tỉnh Quảng Ngãi",xop,commune,23
+03166,"Ngọc Linh","Xã Ngọc Linh, Tỉnh Quảng Ngãi",ngoc-linh,commune,23
+03167,"Ba Vinh","Xã Ba Vinh, Tỉnh Quảng Ngãi",ba-vinh,commune,23
+03173,"Rờ Kơi","Xã Rờ Kơi, Tỉnh Quảng Ngãi",ro-koi,commune,23
+03175,"Mô Rai","Xã Mô Rai, Tỉnh Quảng Ngãi",mo-rai,commune,23
+03202,"Đăk Kôi","Xã Đăk Kôi, Tỉnh Quảng Ngãi",ak-koi,commune,23
+03224,"Sơn Tây Hạ","Xã Sơn Tây Hạ, Tỉnh Quảng Ngãi",son-tay-ha,commune,23
+03230,"Đăk Plô","Xã Đăk Plô, Tỉnh Quảng Ngãi",ak-plo,commune,23
+03240,"Ba Xa","Xã Ba Xa, Tỉnh Quảng Ngãi",ba-xa,commune,23
+03248,"Đăk Long","Xã Đăk Long, Tỉnh Quảng Ngãi",ak-long,commune,23
+03256,"Ia Đal","Xã Ia Đal, Tỉnh Quảng Ngãi",ia-al,commune,23
+03273,"Đặng Thùy Trâm","Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi",ang-thuy-tram,commune,23
+03277,"Cà Đam","Xã Cà Đam, Tỉnh Quảng Ngãi",ca-am,commune,23

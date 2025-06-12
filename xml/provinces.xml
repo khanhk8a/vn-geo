@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces>
+  <province>
+    <code>01</code>
+    <slug>ha-noi</slug>
+    <type>city</type>
+    <isCentral>true</isCentral>
+    <name>Hà Nội</name>
+    <fullName>Thành phố Hà Nội</fullName>
+  </province>
+  <province>
+    <code>02</code>
+    <slug>hung-yen</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Hưng Yên</name>
+    <fullName>Tỉnh Hưng Yên</fullName>
+  </province>
+  <province>
+    <code>03</code>
+    <slug>quang-tri</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Quảng Trị</name>
+    <fullName>Tỉnh Quảng Trị</fullName>
+  </province>
+  <province>
+    <code>04</code>
+    <slug>hue</slug>
+    <type>city</type>
+    <isCentral>true</isCentral>
+    <name>Huế</name>
+    <fullName>Thành phố Huế</fullName>
+  </province>
+  <province>
+    <code>05</code>
+    <slug>hai-phong</slug>
+    <type>city</type>
+    <isCentral>true</isCentral>
+    <name>Hải Phòng</name>
+    <fullName>Thành phố Hải Phòng</fullName>
+  </province>
+  <province>
+    <code>06</code>
+    <slug>phu-tho</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Phú Thọ</name>
+    <fullName>Tỉnh Phú Thọ</fullName>
+  </province>
+  <province>
+    <code>07</code>
+    <slug>thanh-hoa</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Thanh Hoá</name>
+    <fullName>Tỉnh Thanh Hoá</fullName>
+  </province>
+  <province>
+    <code>08</code>
+    <slug>quang-ninh</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Quảng Ninh</name>
+    <fullName>Tỉnh Quảng Ninh</fullName>
+  </province>
+  <province>
+    <code>09</code>
+    <slug>lao-cai</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Lào Cai</name>
+    <fullName>Tỉnh Lào Cai</fullName>
+  </province>
+  <province>
+    <code>10</code>
+    <slug>bac-ninh</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Bắc Ninh</name>
+    <fullName>Tỉnh Bắc Ninh</fullName>
+  </province>
+  <province>
+    <code>11</code>
+    <slug>nghe-an</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Nghệ An</name>
+    <fullName>Tỉnh Nghệ An</fullName>
+  </province>
+  <province>
+    <code>12</code>
+    <slug>da-nang</slug>
+    <type>city</type>
+    <isCentral>true</isCentral>
+    <name>Đà Nẵng</name>
+    <fullName>Thành phố Đà Nẵng</fullName>
+  </province>
+  <province>
+    <code>13</code>
+    <slug>ninh-binh</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Ninh Bình</name>
+    <fullName>Tỉnh Ninh Bình</fullName>
+  </province>
+  <province>
+    <code>14</code>
+    <slug>khanh-hoa</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Khánh Hòa</name>
+    <fullName>Tỉnh Khánh Hòa</fullName>
+  </province>
+  <province>
+    <code>15</code>
+    <slug>tay-ninh</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Tây Ninh</name>
+    <fullName>Tỉnh Tây Ninh</fullName>
+  </province>
+  <province>
+    <code>16</code>
+    <slug>dong-thap</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Đồng Tháp</name>
+    <fullName>Tỉnh Đồng Tháp</fullName>
+  </province>
+  <province>
+    <code>17</code>
+    <slug>ha-tinh</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Hà Tĩnh</name>
+    <fullName>Tỉnh Hà Tĩnh</fullName>
+  </province>
+  <province>
+    <code>18</code>
+    <slug>an-giang</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>An Giang</name>
+    <fullName>Tỉnh An Giang</fullName>
+  </province>
+  <province>
+    <code>19</code>
+    <slug>thai-nguyen</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Thái Nguyên</name>
+    <fullName>Tỉnh Thái Nguyên</fullName>
+  </province>
+  <province>
+    <code>20</code>
+    <slug>lang-son</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Lạng Sơn</name>
+    <fullName>Tỉnh Lạng Sơn</fullName>
+  </province>
+  <province>
+    <code>21</code>
+    <slug>dien-bien</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Điện Biên</name>
+    <fullName>Tỉnh Điện Biên</fullName>
+  </province>
+  <province>
+    <code>22</code>
+    <slug>dong-nai</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Đồng Nai</name>
+    <fullName>Tỉnh Đồng Nai</fullName>
+  </province>
+  <province>
+    <code>23</code>
+    <slug>quang-ngai</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Quảng Ngãi</name>
+    <fullName>Tỉnh Quảng Ngãi</fullName>
+  </province>
+  <province>
+    <code>24</code>
+    <slug>vinh-long</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Vĩnh Long</name>
+    <fullName>Tỉnh Vĩnh Long</fullName>
+  </province>
+  <province>
+    <code>25</code>
+    <slug>cao-bang</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Cao Bằng</name>
+    <fullName>Tỉnh Cao Bằng</fullName>
+  </province>
+  <province>
+    <code>26</code>
+    <slug>lai-chau</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Lai Châu</name>
+    <fullName>Tỉnh Lai Châu</fullName>
+  </province>
+  <province>
+    <code>27</code>
+    <slug>dak-lak</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Đắk Lắk</name>
+    <fullName>Tỉnh Đắk Lắk</fullName>
+  </province>
+  <province>
+    <code>28</code>
+    <slug>gia-lai</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Gia Lai</name>
+    <fullName>Tỉnh Gia Lai</fullName>
+  </province>
+  <province>
+    <code>29</code>
+    <slug>lam-dong</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Lâm Đồng</name>
+    <fullName>Tỉnh Lâm Đồng</fullName>
+  </province>
+  <province>
+    <code>30</code>
+    <slug>ho-chi-minh</slug>
+    <type>city</type>
+    <isCentral>true</isCentral>
+    <name>Hồ Chí Minh</name>
+    <fullName>Thành phố Hồ Chí Minh</fullName>
+  </province>
+  <province>
+    <code>31</code>
+    <slug>son-la</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Sơn La</name>
+    <fullName>Tỉnh Sơn La</fullName>
+  </province>
+  <province>
+    <code>32</code>
+    <slug>can-tho</slug>
+    <type>city</type>
+    <isCentral>true</isCentral>
+    <name>Cần Thơ</name>
+    <fullName>Thành phố Cần Thơ</fullName>
+  </province>
+  <province>
+    <code>33</code>
+    <slug>ca-mau</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Cà Mau</name>
+    <fullName>Tỉnh Cà Mau</fullName>
+  </province>
+  <province>
+    <code>34</code>
+    <slug>tuyen-quang</slug>
+    <type>province</type>
+    <isCentral>false</isCentral>
+    <name>Tuyên Quang</name>
+    <fullName>Tỉnh Tuyên Quang</fullName>
+  </province>
+</provinces>

@@ -1,0 +1,103 @@
+code,name,fullName,slug,type,provinceCode
+00018,"Buôn Ma Thuột","Phường Buôn Ma Thuột, Tỉnh Đắk Lắk",buon-ma-thuot,ward,27
+00059,"Tuy Hòa","Phường Tuy Hòa, Tỉnh Đắk Lắk",tuy-hoa,ward,27
+00157,"Ea Kar","Xã Ea Kar, Tỉnh Đắk Lắk",ea-kar,commune,27
+00244,"Tân Lập","Phường Tân Lập, Tỉnh Đắk Lắk",tan-lap,ward,27
+00296,"Krông Pắc","Xã Krông Pắc, Tỉnh Đắk Lắk",krong-pac,commune,27
+00337,"Tân An","Phường Tân An, Tỉnh Đắk Lắk",tan-an,ward,27
+00357,"Buôn Hồ","Phường Buôn Hồ, Tỉnh Đắk Lắk",buon-ho,ward,27
+00366,"Phú Yên","Phường Phú Yên, Tỉnh Đắk Lắk",phu-yen,ward,27
+00381,"Quảng Phú","Xã Quảng Phú, Tỉnh Đắk Lắk",quang-phu,commune,27
+00435,"Ea Kao","Phường Ea Kao, Tỉnh Đắk Lắk",ea-kao,ward,27
+00471,"Ea Drăng","Xã Ea Drăng, Tỉnh Đắk Lắk",ea-drang,commune,27
+00479,"Ea Ktur","Xã Ea Ktur, Tỉnh Đắk Lắk",ea-ktur,commune,27
+00480,"Phú Hòa 1","Xã Phú Hòa 1, Tỉnh Đắk Lắk",phu-hoa-1,commune,27
+00491,"Hòa Hiệp","Phường Hòa Hiệp, Tỉnh Đắk Lắk",hoa-hiep,ward,27
+00512,"Thành Nhất","Phường Thành Nhất, Tỉnh Đắk Lắk",thanh-nhat,ward,27
+00582,"Tây Hòa","Xã Tây Hòa, Tỉnh Đắk Lắk",tay-hoa,commune,27
+00612,"Hòa Phú","Xã Hòa Phú, Tỉnh Đắk Lắk",hoa-phu,commune,27
+00618,"Ea Phê","Xã Ea Phê, Tỉnh Đắk Lắk",ea-phe,commune,27
+00623,"Krông Ana","Xã Krông Ana, Tỉnh Đắk Lắk",krong-ana,commune,27
+00638,"Đông Hòa","Phường Đông Hòa, Tỉnh Đắk Lắk",ong-hoa,ward,27
+00673,"Dliê Ya","Xã Dliê Ya, Tỉnh Đắk Lắk",dlie-ya,commune,27
+00742,"Bình Kiến","Phường Bình Kiến, Tỉnh Đắk Lắk",binh-kien,ward,27
+00760,"Ea Knuếc","Xã Ea Knuếc, Tỉnh Đắk Lắk",ea-knuec,commune,27
+00762,"Ea Nuôl","Xã Ea Nuôl, Tỉnh Đắk Lắk",ea-nuol,commune,27
+00763,"Krông Năng","Xã Krông Năng, Tỉnh Đắk Lắk",krong-nang,commune,27
+00822,"Ea Na","Xã Ea Na, Tỉnh Đắk Lắk",ea-na,commune,27
+00867,"Sơn Hòa","Xã Sơn Hòa, Tỉnh Đắk Lắk",son-hoa,commune,27
+00889,"Ô Loan","Xã Ô Loan, Tỉnh Đắk Lắk",o-loan,commune,27
+00901,"Ea Kly","Xã Ea Kly, Tỉnh Đắk Lắk",ea-kly,commune,27
+00905,"Tuy An Đông","Xã Tuy An Đông, Tỉnh Đắk Lắk",tuy-an-ong,commune,27
+00923,"Dray Bhăng","Xã Dray Bhăng, Tỉnh Đắk Lắk",dray-bhang,commune,27
+00959,"Sông Cầu","Phường Sông Cầu, Tỉnh Đắk Lắk",song-cau,ward,27
+00972,"Phú Hòa 2","Xã Phú Hòa 2, Tỉnh Đắk Lắk",phu-hoa-2,commune,27
+01062,"Ea Knốp","Xã Ea Knốp, Tỉnh Đắk Lắk",ea-knop,commune,27
+01067,"Cư Bao","Phường Cư Bao, Tỉnh Đắk Lắk",cu-bao,ward,27
+01188,"Ea Tul","Xã Ea Tul, Tỉnh Đắk Lắk",ea-tul,commune,27
+01190,"Phú Xuân","Xã Phú Xuân, Tỉnh Đắk Lắk",phu-xuan,commune,27
+01221,"Ea Ning","Xã Ea Ning, Tỉnh Đắk Lắk",ea-ning,commune,27
+01281,"Ea M’Droh","Xã Ea M’Droh, Tỉnh Đắk Lắk",ea-mdroh,commune,27
+01349,"Cư M’gar","Xã Cư M’gar, Tỉnh Đắk Lắk",cu-mgar,commune,27
+01459,"Krông Búk","Xã Krông Búk, Tỉnh Đắk Lắk",krong-buk,commune,27
+01460,"Ea Hiao","Xã Ea Hiao, Tỉnh Đắk Lắk",ea-hiao,commune,27
+01465,"Ea Súp","Xã Ea Súp, Tỉnh Đắk Lắk",ea-sup,commune,27
+01475,"Hòa Thịnh","Xã Hòa Thịnh, Tỉnh Đắk Lắk",hoa-thinh,commune,27
+01501,"Pơng Drang","Xã Pơng Drang, Tỉnh Đắk Lắk",pong-drang,commune,27
+01521,"Ea Khăl","Xã Ea Khăl, Tỉnh Đắk Lắk",ea-khal,commune,27
+01533,"Tuy An Nam","Xã Tuy An Nam, Tỉnh Đắk Lắk",tuy-an-nam,commune,27
+01538,"Ea Wer","Xã Ea Wer, Tỉnh Đắk Lắk",ea-wer,commune,27
+01604,"Cuôr Đăng","Xã Cuôr Đăng, Tỉnh Đắk Lắk",cuor-ang,commune,27
+01606,"Ea Rốk","Xã Ea Rốk, Tỉnh Đắk Lắk",ea-rok,commune,27
+01608,"Tân Tiến","Xã Tân Tiến, Tỉnh Đắk Lắk",tan-tien,commune,27
+01621,"Ea Wy","Xã Ea Wy, Tỉnh Đắk Lắk",ea-wy,commune,27
+01673,"Sơn Thành","Xã Sơn Thành, Tỉnh Đắk Lắk",son-thanh,commune,27
+01697,"Xuân Lộc","Xã Xuân Lộc, Tỉnh Đắk Lắk",xuan-loc,commune,27
+01703,"Cư Pui","Xã Cư Pui, Tỉnh Đắk Lắk",cu-pui,commune,27
+01755,"Đồng Xuân","Xã Đồng Xuân, Tỉnh Đắk Lắk",ong-xuan,commune,27
+01764,"Liên Sơn Lắk","Xã Liên Sơn Lắk, Tỉnh Đắk Lắk",lien-son-lak,commune,27
+01790,"Hòa Mỹ","Xã Hòa Mỹ, Tỉnh Đắk Lắk",hoa-my,commune,27
+01810,"Tuy An Bắc","Xã Tuy An Bắc, Tỉnh Đắk Lắk",tuy-an-bac,commune,27
+01859,"Tam Giang","Xã Tam Giang, Tỉnh Đắk Lắk",tam-giang,commune,27
+01865,"Hòa Sơn","Xã Hòa Sơn, Tỉnh Đắk Lắk",hoa-son,commune,27
+01982,"Xuân Cảnh","Xã Xuân Cảnh, Tỉnh Đắk Lắk",xuan-canh,commune,27
+01984,"Ea Drông","Xã Ea Drông, Tỉnh Đắk Lắk",ea-drong,commune,27
+01991,"Ea Ô","Xã Ea Ô, Tỉnh Đắk Lắk",ea-o,commune,27
+01994,"Sông Hinh","Xã Sông Hinh, Tỉnh Đắk Lắk",song-hinh,commune,27
+02052,"Krông Bông","Xã Krông Bông, Tỉnh Đắk Lắk",krong-bong,commune,27
+02065,"Hòa Xuân","Xã Hòa Xuân, Tỉnh Đắk Lắk",hoa-xuan,commune,27
+02073,"Đắk Liêng","Xã Đắk Liêng, Tỉnh Đắk Lắk",ak-lieng,commune,27
+02077,"M’Drắk","Xã M’Drắk, Tỉnh Đắk Lắk",mdrak,commune,27
+02161,"Xuân Đài","Phường Xuân Đài, Tỉnh Đắk Lắk",xuan-ai,ward,27
+02181,"Dang Kang","Xã Dang Kang, Tỉnh Đắk Lắk",dang-kang,commune,27
+02251,"Ea Kiết","Xã Ea Kiết, Tỉnh Đắk Lắk",ea-kiet,commune,27
+02383,"Vụ Bổn","Xã Vụ Bổn, Tỉnh Đắk Lắk",vu-bon,commune,27
+02412,"Cư Pơng","Xã Cư Pơng, Tỉnh Đắk Lắk",cu-pong,commune,27
+02462,"Yang Mao","Xã Yang Mao, Tỉnh Đắk Lắk",yang-mao,commune,27
+02482,"Cư Yang","Xã Cư Yang, Tỉnh Đắk Lắk",cu-yang,commune,27
+02510,"Ea H’leo","Xã Ea H’leo, Tỉnh Đắk Lắk",ea-hleo,commune,27
+02514,"Xuân Phước","Xã Xuân Phước, Tỉnh Đắk Lắk",xuan-phuoc,commune,27
+02537,"Xuân Lãnh","Xã Xuân Lãnh, Tỉnh Đắk Lắk",xuan-lanh,commune,27
+02542,"Đức Bình","Xã Đức Bình, Tỉnh Đắk Lắk",uc-binh,commune,27
+02554,"Ea Riêng","Xã Ea Riêng, Tỉnh Đắk Lắk",ea-rieng,commune,27
+02586,"Ea Păl","Xã Ea Păl, Tỉnh Đắk Lắk",ea-pal,commune,27
+02613,"Đắk Phơi","Xã Đắk Phơi, Tỉnh Đắk Lắk",ak-phoi,commune,27
+02673,"Cư Prao","Xã Cư Prao, Tỉnh Đắk Lắk",cu-prao,commune,27
+02680,"Cư M’ta","Xã Cư M’ta, Tỉnh Đắk Lắk",cu-mta,commune,27
+02714,"Tuy An Tây","Xã Tuy An Tây, Tỉnh Đắk Lắk",tuy-an-tay,commune,27
+02715,"Krông Á","Xã Krông Á, Tỉnh Đắk Lắk",krong-a,commune,27
+02737,"Dur Kmăl","Xã Dur Kmăl, Tỉnh Đắk Lắk",dur-kmal,commune,27
+02771,"Ea Ly","Xã Ea Ly, Tỉnh Đắk Lắk",ea-ly,commune,27
+02809,"Suối Trai","Xã Suối Trai, Tỉnh Đắk Lắk",suoi-trai,commune,27
+02837,"Tây Sơn","Xã Tây Sơn, Tỉnh Đắk Lắk",tay-son,commune,27
+02861,"Xuân Thọ","Xã Xuân Thọ, Tỉnh Đắk Lắk",xuan-tho,commune,27
+02898,"Krông Nô","Xã Krông Nô, Tỉnh Đắk Lắk",krong-no,commune,27
+02939,"Ea Bung","Xã Ea Bung, Tỉnh Đắk Lắk",ea-bung,commune,27
+02995,"Phú Mỡ","Xã Phú Mỡ, Tỉnh Đắk Lắk",phu-mo,commune,27
+03043,"Ea Bá","Xã Ea Bá, Tỉnh Đắk Lắk",ea-ba,commune,27
+03133,"Ia Rvê","Xã Ia Rvê, Tỉnh Đắk Lắk",ia-rve,commune,27
+03144,"Vân Hòa","Xã Vân Hòa, Tỉnh Đắk Lắk",van-hoa,commune,27
+03151,"Ea Trang","Xã Ea Trang, Tỉnh Đắk Lắk",ea-trang,commune,27
+03152,"Buôn Đôn","Xã Buôn Đôn, Tỉnh Đắk Lắk",buon-on,commune,27
+03164,"Ia Lốp","Xã Ia Lốp, Tỉnh Đắk Lắk",ia-lop,commune,27
+03168,"Nam Ka","Xã Nam Ka, Tỉnh Đắk Lắk",nam-ka,commune,27

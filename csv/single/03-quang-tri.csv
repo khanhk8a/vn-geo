@@ -1,0 +1,79 @@
+code,name,fullName,slug,type,provinceCode
+00177,"Đồng Hới","Phường Đồng Hới, Tỉnh Quảng Trị",ong-hoi,ward,03
+00378,"Nam Đông Hà.","Phường Nam Đông Hà., Tỉnh Quảng Trị",nam-ong-ha,ward,03
+00552,"Đông Hà","Phường Đông Hà, Tỉnh Quảng Trị",ong-ha,ward,03
+00592,"Lệ Thủy","Xã Lệ Thủy, Tỉnh Quảng Trị",le-thuy,commune,03
+00769,"Hoàn Lão","Xã Hoàn Lão, Tỉnh Quảng Trị",hoan-lao,commune,03
+00943,"Phong Nha","Xã Phong Nha, Tỉnh Quảng Trị",phong-nha,commune,03
+00982,"Đồng Thuận","Phường Đồng Thuận, Tỉnh Quảng Trị",ong-thuan,ward,03
+01073,"Bắc Trạch","Xã Bắc Trạch, Tỉnh Quảng Trị",bac-trach,commune,03
+01086,"Nam Gianh","Xã Nam Gianh, Tỉnh Quảng Trị",nam-gianh,commune,03
+01105,"Quảng Ninh","Xã Quảng Ninh, Tỉnh Quảng Trị",quang-ninh,commune,03
+01145,"Trường Ninh","Xã Trường Ninh, Tỉnh Quảng Trị",truong-ninh,commune,03
+01222,"Đông Trạch","Xã Đông Trạch, Tỉnh Quảng Trị",ong-trach,commune,03
+01284,"Bố Trạch","Xã Bố Trạch, Tỉnh Quảng Trị",bo-trach,commune,03
+01321,"Bắc Gianh","Phường Bắc Gianh, Tỉnh Quảng Trị",bac-gianh,ward,03
+01334,"Nam Trạch","Xã Nam Trạch, Tỉnh Quảng Trị",nam-trach,commune,03
+01346,"Đồng Sơn","Phường Đồng Sơn, Tỉnh Quảng Trị",ong-son,ward,03
+01386,"Gio Linh","Xã Gio Linh, Tỉnh Quảng Trị",gio-linh,commune,03
+01411,"Quảng Trạch","Xã Quảng Trạch, Tỉnh Quảng Trị",quang-trach,commune,03
+01456,"Phú Trạch","Xã Phú Trạch, Tỉnh Quảng Trị",phu-trach,commune,03
+01507,"Cam Lộ","Xã Cam Lộ, Tỉnh Quảng Trị",cam-lo,commune,03
+01510,"Ninh Châu","Xã Ninh Châu, Tỉnh Quảng Trị",ninh-chau,commune,03
+01527,"Hòa Trạch","Xã Hòa Trạch, Tỉnh Quảng Trị",hoa-trach,commune,03
+01539,"Quảng Trị","Phường Quảng Trị, Tỉnh Quảng Trị",quang-tri,ward,03
+01543,"Hiếu Giang","Xã Hiếu Giang, Tỉnh Quảng Trị",hieu-giang,commune,03
+01563,"Cửa Tùng","Xã Cửa Tùng, Tỉnh Quảng Trị",cua-tung,commune,03
+01603,"Ba Đồn","Phường Ba Đồn, Tỉnh Quảng Trị",ba-on,ward,03
+01694,"Nam Ba Đồn","Xã Nam Ba Đồn, Tỉnh Quảng Trị",nam-ba-on,commune,03
+01695,"Khe Sanh","Xã Khe Sanh, Tỉnh Quảng Trị",khe-sanh,commune,03
+01705,"Vĩnh Linh","Xã Vĩnh Linh, Tỉnh Quảng Trị",vinh-linh,commune,03
+01731,"Triệu Bình","Xã Triệu Bình, Tỉnh Quảng Trị",trieu-binh,commune,03
+01733,"Cửa Việt","Xã Cửa Việt, Tỉnh Quảng Trị",cua-viet,commune,03
+01766,"Vĩnh Định","Xã Vĩnh Định, Tỉnh Quảng Trị",vinh-inh,commune,03
+01774,"Cam Hồng","Xã Cam Hồng, Tỉnh Quảng Trị",cam-hong,commune,03
+01778,"Nam Cửa Việt","Xã Nam Cửa Việt, Tỉnh Quảng Trị",nam-cua-viet,commune,03
+01852,"Nam Hải Lăng","Xã Nam Hải Lăng, Tỉnh Quảng Trị",nam-hai-lang,commune,03
+01890,"Diên Sanh","Xã Diên Sanh, Tỉnh Quảng Trị",dien-sanh,commune,03
+01924,"Tân Mỹ","Xã Tân Mỹ, Tỉnh Quảng Trị",tan-my,commune,03
+01934,"Đồng Lê","Xã Đồng Lê, Tỉnh Quảng Trị",ong-le,commune,03
+02020,"Triệu Phong","Xã Triệu Phong, Tỉnh Quảng Trị",trieu-phong,commune,03
+02028,"Lao Bảo","Xã Lao Bảo, Tỉnh Quảng Trị",lao-bao,commune,03
+02030,"Lệ Ninh","Xã Lệ Ninh, Tỉnh Quảng Trị",le-ninh,commune,03
+02109,"Tân Gianh","Xã Tân Gianh, Tỉnh Quảng Trị",tan-gianh,commune,03
+02136,"Triệu Cơ","Xã Triệu Cơ, Tỉnh Quảng Trị",trieu-co,commune,03
+02167,"Minh Hóa","Xã Minh Hóa, Tỉnh Quảng Trị",minh-hoa,commune,03
+02172,"Tuyên Hóa","Xã Tuyên Hóa, Tỉnh Quảng Trị",tuyen-hoa,commune,03
+02187,"Trường Phú","Xã Trường Phú, Tỉnh Quảng Trị",truong-phu,commune,03
+02191,"Sen Ngư","Xã Sen Ngư, Tỉnh Quảng Trị",sen-ngu,commune,03
+02212,"Cồn Tiên","Xã Cồn Tiên, Tỉnh Quảng Trị",con-tien,commune,03
+02218,"Vĩnh Thủy","Xã Vĩnh Thủy, Tỉnh Quảng Trị",vinh-thuy,commune,03
+02319,"Ái Tử","Xã Ái Tử, Tỉnh Quảng Trị",ai-tu,commune,03
+02321,"Kim Phú","Xã Kim Phú, Tỉnh Quảng Trị",kim-phu,commune,03
+02324,"Vĩnh Hoàng","Xã Vĩnh Hoàng, Tỉnh Quảng Trị",vinh-hoang,commune,03
+02342,"Tuyên Phú","Xã Tuyên Phú, Tỉnh Quảng Trị",tuyen-phu,commune,03
+02454,"Mỹ Thủy","Xã Mỹ Thủy, Tỉnh Quảng Trị",my-thuy,commune,03
+02487,"Hải Lăng","Xã Hải Lăng, Tỉnh Quảng Trị",hai-lang,commune,03
+02502,"Trung Thuần","Xã Trung Thuần, Tỉnh Quảng Trị",trung-thuan,commune,03
+02530,"Bến Hải","Xã Bến Hải, Tỉnh Quảng Trị",ben-hai,commune,03
+02559,"Tuyên Bình","Xã Tuyên Bình, Tỉnh Quảng Trị",tuyen-binh,commune,03
+02617,"Đakrông","Xã Đakrông, Tỉnh Quảng Trị",akrong,commune,03
+02628,"Tân Lập","Xã Tân Lập, Tỉnh Quảng Trị",tan-lap,commune,03
+02632,"Lìa","Xã Lìa, Tỉnh Quảng Trị",lia,commune,03
+02688,"Hướng Hiệp","Xã Hướng Hiệp, Tỉnh Quảng Trị",huong-hiep,commune,03
+02776,"Hướng Phùng","Xã Hướng Phùng, Tỉnh Quảng Trị",huong-phung,commune,03
+02836,"A Dơi","Xã A Dơi, Tỉnh Quảng Trị",a-doi,commune,03
+02872,"Tà Rụt","Xã Tà Rụt, Tỉnh Quảng Trị",ta-rut,commune,03
+02935,"Kim Ngân","Xã Kim Ngân, Tỉnh Quảng Trị",kim-ngan,commune,03
+02951,"Dân Hóa","Xã Dân Hóa, Tỉnh Quảng Trị",dan-hoa,commune,03
+02961,"Bến Quan","Xã Bến Quan, Tỉnh Quảng Trị",ben-quan,commune,03
+03027,"Trường Sơn","Xã Trường Sơn, Tỉnh Quảng Trị",truong-son,commune,03
+03035,"Tuyên Lâm","Xã Tuyên Lâm, Tỉnh Quảng Trị",tuyen-lam,commune,03
+03056,"La Lay","Xã La Lay, Tỉnh Quảng Trị",la-lay,commune,03
+03138,"Tuyên Sơn","Xã Tuyên Sơn, Tỉnh Quảng Trị",tuyen-son,commune,03
+03184,"Kim Điền","Xã Kim Điền, Tỉnh Quảng Trị",kim-ien,commune,03
+03236,"Tân Thành","Xã Tân Thành, Tỉnh Quảng Trị",tan-thanh,commune,03
+03252,"Ba Lòng","Xã Ba Lòng, Tỉnh Quảng Trị",ba-long,commune,03
+03292,"Thượng Trạch","Xã Thượng Trạch, Tỉnh Quảng Trị",thuong-trach,commune,03
+03293,"Hướng Lập","Xã Hướng Lập, Tỉnh Quảng Trị",huong-lap,commune,03
+03319,"Cồn Cỏ","Đặc khu Cồn Cỏ, Tỉnh Quảng Trị",con-co,commune,03
