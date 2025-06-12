@@ -9,14 +9,18 @@
 
 > [!WARNING]
 > Đây là dự án phi lợi nhuận. Dữ liệu được cung cấp có thể sử dụng cho bất kỳ mục đích hợp pháp nào mà không cần xin phép trước từ tác giả.
+
 > Dữ liệu được thu thập thủ công và xử lý bằng các công cụ AI, do đó có thể tồn tại một số sai sót. Vui lòng kiểm tra kỹ trước khi sử dụng.
+
 > Hiện tại, đây không phải là dữ liệu chính thức được cung cấp hoặc xác nhận bởi các cơ quan chức năng có thẩm quyền. Hãy cân nhắc kỹ lưỡng khi sử dụng.
 
 ## 📊 Nguồn dữ liệu
 
 Dữ liệu được thu thập từ bài báo: https://vnexpress.net/viet-nam-thay-doi-the-nao-sau-sap-nhap-tinh-thanh-4885968.html
 
-> [Vnexpress](https://vnexpress.net/) > [Bộ Nội vụ](https://moha.gov.vn/)
+> [Vnexpress](https://vnexpress.net/)
+
+> [Bộ Nội vụ](https://moha.gov.vn/)
 
 ## 🔄 Lịch sử cập nhật
 
