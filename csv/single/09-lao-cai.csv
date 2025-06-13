@@ -1,7 +1,7 @@
 code,name,fullName,slug,type,provinceCode
 00215,"Lào Cai","Phường Lào Cai, Tỉnh Lào Cai",lao-cai,ward,09
 00282,"Yên Bái","Phường Yên Bái, Tỉnh Lào Cai",yen-bai,ward,09
-00306,"Cam Đường","Phường Cam Đường, Tỉnh Lào Cai",cam-uong,ward,09
+00306,"Cam Đường","Phường Cam Đường, Tỉnh Lào Cai",cam-duong,ward,09
 00875,"Mậu A","Xã Mậu A, Tỉnh Lào Cai",mau-a,commune,09
 01178,"Thác Bà","Xã Thác Bà, Tỉnh Lào Cai",thac-ba,commune,09
 01232,"Bảo Hà","Xã Bảo Hà, Tỉnh Lào Cai",bao-ha,commune,09
@@ -25,7 +25,7 @@ code,name,fullName,slug,type,provinceCode
 02045,"Âu Lâu","Phường Âu Lâu, Tỉnh Lào Cai",au-lau,ward,09
 02072,"Sa Pa","Phường Sa Pa, Tỉnh Lào Cai",sa-pa,ward,09
 02074,"Si Ma Cai","Xã Si Ma Cai, Tỉnh Lào Cai",si-ma-cai,commune,09
-02140,"Đông Cuông","Xã Đông Cuông, Tỉnh Lào Cai",ong-cuong,commune,09
+02140,"Đông Cuông","Xã Đông Cuông, Tỉnh Lào Cai",dong-cuong,commune,09
 02163,"Bảo Yên","Xã Bảo Yên, Tỉnh Lào Cai",bao-yen,commune,09
 02231,"Tằng Lỏong","Xã Tằng Lỏong, Tỉnh Lào Cai",tang-loong,commune,09
 02253,"Tân Lĩnh","Xã Tân Lĩnh, Tỉnh Lào Cai",tan-linh,commune,09
@@ -54,7 +54,7 @@ code,name,fullName,slug,type,provinceCode
 02650,"Thượng Hà","Xã Thượng Hà, Tỉnh Lào Cai",thuong-ha,commune,09
 02656,"Hưng Khánh","Xã Hưng Khánh, Tỉnh Lào Cai",hung-khanh,commune,09
 02658,"Cao Sơn","Xã Cao Sơn, Tỉnh Lào Cai",cao-son,commune,09
-02666,"Nghĩa Đô","Xã Nghĩa Đô, Tỉnh Lào Cai",nghia-o,commune,09
+02666,"Nghĩa Đô","Xã Nghĩa Đô, Tỉnh Lào Cai",nghia-do,commune,09
 02674,"Hạnh Phúc","Xã Hạnh Phúc, Tỉnh Lào Cai",hanh-phuc,commune,09
 02687,"Châu Quế","Xã Châu Quế, Tỉnh Lào Cai",chau-que,commune,09
 02694,"Liên Sơn","Xã Liên Sơn, Tỉnh Lào Cai",lien-son,commune,09

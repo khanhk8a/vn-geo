@@ -1,5 +1,5 @@
 code,name,fullName,slug,type,provinceCode
-00601,"Điện Biên Phủ","Phường Điện Biên Phủ, Tỉnh Điện Biên",ien-bien-phu,ward,21
+00601,"Điện Biên Phủ","Phường Điện Biên Phủ, Tỉnh Điện Biên",dien-bien-phu,ward,21
 01564,"Thanh Nưa","Xã Thanh Nưa, Tỉnh Điện Biên",thanh-nua,commune,21
 01856,"Mường Thanh","Phường Mường Thanh, Tỉnh Điện Biên",muong-thanh,ward,21
 01960,"Tuần Giáo","Xã Tuần Giáo, Tỉnh Điện Biên",tuan-giao,commune,21

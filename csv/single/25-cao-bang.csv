@@ -12,23 +12,23 @@ code,name,fullName,slug,type,provinceCode
 02645,"Bảo Lâm","Xã Bảo Lâm, Tỉnh Cao Bằng",bao-lam,commune,25
 02720,"Yên Thổ","Xã Yên Thổ, Tỉnh Cao Bằng",yen-tho,commune,25
 02725,"Trường Hà","Xã Trường Hà, Tỉnh Cao Bằng",truong-ha,commune,25
-02740,"Đoài Dương","Xã Đoài Dương, Tỉnh Cao Bằng",oai-duong,commune,25
-02757,"Đàm Thuỷ","Xã Đàm Thuỷ, Tỉnh Cao Bằng",am-thuy,commune,25
+02740,"Đoài Dương","Xã Đoài Dương, Tỉnh Cao Bằng",doai-duong,commune,25
+02757,"Đàm Thuỷ","Xã Đàm Thuỷ, Tỉnh Cao Bằng",dam-thuy,commune,25
 02786,"Lý Bôn","Xã Lý Bôn, Tỉnh Cao Bằng",ly-bon,commune,25
 02842,"Hà Quảng","Xã Hà Quảng, Tỉnh Cao Bằng",ha-quang,commune,25
 02850,"Bảo Lạc","Xã Bảo Lạc, Tỉnh Cao Bằng",bao-lac,commune,25
 02857,"Trà Lĩnh","Xã Trà Lĩnh, Tỉnh Cao Bằng",tra-linh,commune,25
-02863,"Đình Phong","Xã Đình Phong, Tỉnh Cao Bằng",inh-phong,commune,25
+02863,"Đình Phong","Xã Đình Phong, Tỉnh Cao Bằng",dinh-phong,commune,25
 02891,"Cần Yên","Xã Cần Yên, Tỉnh Cao Bằng",can-yen,commune,25
-02902,"Bế Văn Đàn","Xã Bế Văn Đàn, Tỉnh Cao Bằng",be-van-an,commune,25
+02902,"Bế Văn Đàn","Xã Bế Văn Đàn, Tỉnh Cao Bằng",be-van-dan,commune,25
 02905,"Nam Quang","Xã Nam Quang, Tỉnh Cao Bằng",nam-quang,commune,25
 02907,"Cốc Pàng","Xã Cốc Pàng, Tỉnh Cao Bằng",coc-pang,commune,25
 02959,"Thông Nông","Xã Thông Nông, Tỉnh Cao Bằng",thong-nong,commune,25
-02965,"Hưng Đạo","Xã Hưng Đạo, Tỉnh Cao Bằng",hung-ao,commune,25
+02965,"Hưng Đạo","Xã Hưng Đạo, Tỉnh Cao Bằng",hung-dao,commune,25
 02968,"Nguyễn Huệ","Xã Nguyễn Huệ, Tỉnh Cao Bằng",nguyen-hue,commune,25
 02976,"Nguyên Bình","Xã Nguyên Bình, Tỉnh Cao Bằng",nguyen-binh,commune,25
-02989,"Đông Khê","Xã Đông Khê, Tỉnh Cao Bằng",ong-khe,commune,25
-03036,"Độc Lập","Xã Độc Lập, Tỉnh Cao Bằng",oc-lap,commune,25
+02989,"Đông Khê","Xã Đông Khê, Tỉnh Cao Bằng",dong-khe,commune,25
+03036,"Độc Lập","Xã Độc Lập, Tỉnh Cao Bằng",doc-lap,commune,25
 03038,"Cô Ba","Xã Cô Ba, Tỉnh Cao Bằng",co-ba,commune,25
 03054,"Minh Tâm","Xã Minh Tâm, Tỉnh Cao Bằng",minh-tam,commune,25
 03057,"Hạ Lang","Xã Hạ Lang, Tỉnh Cao Bằng",ha-lang,commune,25
@@ -41,7 +41,7 @@ code,name,fullName,slug,type,provinceCode
 03146,"Phan Thanh","Xã Phan Thanh, Tỉnh Cao Bằng",phan-thanh,commune,25
 03154,"Khánh Xuân","Xã Khánh Xuân, Tỉnh Cao Bằng",khanh-xuan,commune,25
 03159,"Thanh Long","Xã Thanh Long, Tỉnh Cao Bằng",thanh-long,commune,25
-03192,"Kim Đồng","Xã Kim Đồng, Tỉnh Cao Bằng",kim-ong,commune,25
+03192,"Kim Đồng","Xã Kim Đồng, Tỉnh Cao Bằng",kim-dong,commune,25
 03199,"Quang Trung","Xã Quang Trung, Tỉnh Cao Bằng",quang-trung,commune,25
 03200,"Lý Quốc","Xã Lý Quốc, Tỉnh Cao Bằng",ly-quoc,commune,25
 03211,"Tam Kim","Xã Tam Kim, Tỉnh Cao Bằng",tam-kim,commune,25
@@ -49,9 +49,9 @@ code,name,fullName,slug,type,provinceCode
 03217,"Quang Long","Xã Quang Long, Tỉnh Cao Bằng",quang-long,commune,25
 03227,"Xuân Trường","Xã Xuân Trường, Tỉnh Cao Bằng",xuan-truong,commune,25
 03233,"Sơn Lộ","Xã Sơn Lộ, Tỉnh Cao Bằng",son-lo,commune,25
-03246,"Đức Long","Xã Đức Long, Tỉnh Cao Bằng",uc-long,commune,25
+03246,"Đức Long","Xã Đức Long, Tỉnh Cao Bằng",duc-long,commune,25
 03253,"Thành Công","Xã Thành Công, Tỉnh Cao Bằng",thanh-cong,commune,25
-03261,"Bạch Đằng","Xã Bạch Đằng, Tỉnh Cao Bằng",bach-ang,commune,25
+03261,"Bạch Đằng","Xã Bạch Đằng, Tỉnh Cao Bằng",bach-dang,commune,25
 03263,"Ca Thành","Xã Ca Thành, Tỉnh Cao Bằng",ca-thanh,commune,25
 03272,"Canh Tân","Xã Canh Tân, Tỉnh Cao Bằng",canh-tan,commune,25
 03275,"Minh Khai","Xã Minh Khai, Tỉnh Cao Bằng",minh-khai,commune,25

@@ -1,10 +1,10 @@
 code,name,fullName,slug,type,provinceCode
-00569,"Đông Kinh","Phường Đông Kinh, Tỉnh Lạng Sơn",ong-kinh,ward,20
+00569,"Đông Kinh","Phường Đông Kinh, Tỉnh Lạng Sơn",dong-kinh,ward,20
 00832,"Hoàng Văn Thụ","Phường Hoàng Văn Thụ, Tỉnh Lạng Sơn",hoang-van-thu,ward,20
 01457,"Hữu Lũng","Xã Hữu Lũng, Tỉnh Lạng Sơn",huu-lung,commune,20
 01496,"Tam Thanh","Phường Tam Thanh, Tỉnh Lạng Sơn",tam-thanh,ward,20
 01651,"Chi Lăng","Xã Chi Lăng, Tỉnh Lạng Sơn",chi-lang,commune,20
-01898,"Đồng Đăng","Xã Đồng Đăng, Tỉnh Lạng Sơn",ong-ang,commune,20
+01898,"Đồng Đăng","Xã Đồng Đăng, Tỉnh Lạng Sơn",dong-dang,commune,20
 01950,"Na Dương","Xã Na Dương, Tỉnh Lạng Sơn",na-duong,commune,20
 02038,"Lộc Bình","Xã Lộc Bình, Tỉnh Lạng Sơn",loc-binh,commune,20
 02053,"Lương Văn Tri","Phường Lương Văn Tri, Tỉnh Lạng Sơn",luong-van-tri,ward,20
@@ -29,16 +29,16 @@ code,name,fullName,slug,type,provinceCode
 02769,"Hưng Vũ","Xã Hưng Vũ, Tỉnh Lạng Sơn",hung-vu,commune,20
 02777,"Cai Kinh","Xã Cai Kinh, Tỉnh Lạng Sơn",cai-kinh,commune,20
 02798,"Chiến Thắng","Xã Chiến Thắng, Tỉnh Lạng Sơn",chien-thang,commune,20
-02802,"Tràng Định","Xã Tràng Định, Tỉnh Lạng Sơn",trang-inh,commune,20
+02802,"Tràng Định","Xã Tràng Định, Tỉnh Lạng Sơn",trang-dinh,commune,20
 02807,"Tân Tri","Xã Tân Tri, Tỉnh Lạng Sơn",tan-tri,commune,20
 02808,"Nhất Hòa","Xã Nhất Hòa, Tỉnh Lạng Sơn",nhat-hoa,commune,20
-02813,"Điềm He","Xã Điềm He, Tỉnh Lạng Sơn",iem-he,commune,20
+02813,"Điềm He","Xã Điềm He, Tỉnh Lạng Sơn",diem-he,commune,20
 02833,"Nhân Lý","Xã Nhân Lý, Tỉnh Lạng Sơn",nhan-ly,commune,20
-02879,"Tân Đoàn","Xã Tân Đoàn, Tỉnh Lạng Sơn",tan-oan,commune,20
+02879,"Tân Đoàn","Xã Tân Đoàn, Tỉnh Lạng Sơn",tan-doan,commune,20
 02886,"Ba Sơn","Xã Ba Sơn, Tỉnh Lạng Sơn",ba-son,commune,20
 02913,"Tri Lễ","Xã Tri Lễ, Tỉnh Lạng Sơn",tri-le,commune,20
 02923,"Văn Quan","Xã Văn Quan, Tỉnh Lạng Sơn",van-quan,commune,20
-02925,"Đình Lập","Xã Đình Lập, Tỉnh Lạng Sơn",inh-lap,commune,20
+02925,"Đình Lập","Xã Đình Lập, Tỉnh Lạng Sơn",dinh-lap,commune,20
 02941,"Mẫu Sơn","Xã Mẫu Sơn, Tỉnh Lạng Sơn",mau-son,commune,20
 02955,"Tân Văn","Xã Tân Văn, Tỉnh Lạng Sơn",tan-van,commune,20
 02975,"Khuất Xá","Xã Khuất Xá, Tỉnh Lạng Sơn",khuat-xa,commune,20
@@ -62,5 +62,5 @@ code,name,fullName,slug,type,provinceCode
 03209,"Quốc Việt","Xã Quốc Việt, Tỉnh Lạng Sơn",quoc-viet,commune,20
 03216,"Thiện Long","Xã Thiện Long, Tỉnh Lạng Sơn",thien-long,commune,20
 03225,"Kháng Chiến","Xã Kháng Chiến, Tỉnh Lạng Sơn",khang-chien,commune,20
-03289,"Đoàn Kết","Xã Đoàn Kết, Tỉnh Lạng Sơn",oan-ket,commune,20
+03289,"Đoàn Kết","Xã Đoàn Kết, Tỉnh Lạng Sơn",doan-ket,commune,20
 03300,"Quý Hòa","Xã Quý Hòa, Tỉnh Lạng Sơn",quy-hoa,commune,20

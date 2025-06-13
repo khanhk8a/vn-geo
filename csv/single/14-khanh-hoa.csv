@@ -7,21 +7,21 @@ code,name,fullName,slug,type,provinceCode
 00251,"Phan Rang","Phường Phan Rang, Tỉnh Khánh Hòa",phan-rang,ward,14
 00285,"Ninh Phước","Xã Ninh Phước, Tỉnh Khánh Hòa",ninh-phuoc,commune,14
 00412,"Ninh Hòa","Phường Ninh Hòa, Tỉnh Khánh Hòa",ninh-hoa,ward,14
-00468,"Đông Hải","Phường Đông Hải, Tỉnh Khánh Hòa",ong-hai,ward,14
+00468,"Đông Hải","Phường Đông Hải, Tỉnh Khánh Hòa",dong-hai,ward,14
 00481,"Vạn Ninh","Xã Vạn Ninh, Tỉnh Khánh Hòa",van-ninh,commune,14
 00591,"Phước Hậu","Xã Phước Hậu, Tỉnh Khánh Hòa",phuoc-hau,commune,14
 00693,"Bảo An","Phường Bảo An, Tỉnh Khánh Hòa",bao-an,ward,14
 00714,"Diên Khánh","Xã Diên Khánh, Tỉnh Khánh Hòa",dien-khanh,commune,14
 00717,"Xuân Hải","Xã Xuân Hải, Tỉnh Khánh Hòa",xuan-hai,commune,14
 00764,"Bắc Cam Ranh","Phường Bắc Cam Ranh, Tỉnh Khánh Hòa",bac-cam-ranh,ward,14
-00773,"Đông Ninh Hòa","Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",ong-ninh-hoa,ward,14
-00881,"Tân Định","Xã Tân Định, Tỉnh Khánh Hòa",tan-inh,commune,14
+00773,"Đông Ninh Hòa","Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",dong-ninh-hoa,ward,14
+00881,"Tân Định","Xã Tân Định, Tỉnh Khánh Hòa",tan-dinh,commune,14
 00927,"Ninh Chử","Phường Ninh Chử, Tỉnh Khánh Hòa",ninh-chu,ward,14
-01004,"Diên Điền","Xã Diên Điền, Tỉnh Khánh Hòa",dien-ien,commune,14
+01004,"Diên Điền","Xã Diên Điền, Tỉnh Khánh Hòa",dien-dien,commune,14
 01070,"Vĩnh Hải","Xã Vĩnh Hải, Tỉnh Khánh Hòa",vinh-hai,commune,14
 01149,"Phước Hữu","Xã Phước Hữu, Tỉnh Khánh Hòa",phuoc-huu,commune,14
 01168,"Phước Dinh","Xã Phước Dinh, Tỉnh Khánh Hòa",phuoc-dinh,commune,14
-01285,"Đô Vinh","Phường Đô Vinh, Tỉnh Khánh Hòa",o-vinh,ward,14
+01285,"Đô Vinh","Phường Đô Vinh, Tỉnh Khánh Hòa",do-vinh,ward,14
 01299,"Cam Linh","Phường Cam Linh, Tỉnh Khánh Hòa",cam-linh,ward,14
 01351,"Bắc Ninh Hòa","Xã Bắc Ninh Hòa, Tỉnh Khánh Hòa",bac-ninh-hoa,commune,14
 01370,"Ninh Sơn","Xã Ninh Sơn, Tỉnh Khánh Hòa",ninh-son,commune,14
@@ -35,7 +35,7 @@ code,name,fullName,slug,type,provinceCode
 01762,"Hòa Thắng","Phường Hòa Thắng, Tỉnh Khánh Hòa",hoa-thang,ward,14
 01777,"Hòa Trí","Xã Hòa Trí, Tỉnh Khánh Hòa",hoa-tri,commune,14
 01835,"Thuận Bắc","Xã Thuận Bắc, Tỉnh Khánh Hòa",thuan-bac,commune,14
-01843,"Đại Lãnh","Xã Đại Lãnh, Tỉnh Khánh Hòa",ai-lanh,commune,14
+01843,"Đại Lãnh","Xã Đại Lãnh, Tỉnh Khánh Hòa",dai-lanh,commune,14
 01905,"Cà Ná","Xã Cà Ná, Tỉnh Khánh Hòa",ca-na,commune,14
 01964,"Lâm Sơn","Xã Lâm Sơn, Tỉnh Khánh Hòa",lam-son,commune,14
 01969,"Suối Dầu","Xã Suối Dầu, Tỉnh Khánh Hòa",suoi-dau,commune,14
@@ -53,10 +53,10 @@ code,name,fullName,slug,type,provinceCode
 02800,"Khánh Sơn","Xã Khánh Sơn, Tỉnh Khánh Hòa",khanh-son,commune,14
 02822,"Khánh Vĩnh","Xã Khánh Vĩnh, Tỉnh Khánh Hòa",khanh-vinh,commune,14
 02831,"Bác Ái Tây","Xã Bác Ái Tây, Tỉnh Khánh Hòa",bac-ai-tay,commune,14
-02890,"Đông Khánh Sơn","Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",ong-khanh-son,commune,14
+02890,"Đông Khánh Sơn","Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",dong-khanh-son,commune,14
 02899,"Anh Dũng","Xã Anh Dũng, Tỉnh Khánh Hòa",anh-dung,commune,14
 02901,"Nam Khánh Vĩnh","Xã Nam Khánh Vĩnh, Tỉnh Khánh Hòa",nam-khanh-vinh,commune,14
-02971,"Bác Ái Đông","Xã Bác Ái Đông, Tỉnh Khánh Hòa",bac-ai-ong,commune,14
+02971,"Bác Ái Đông","Xã Bác Ái Đông, Tỉnh Khánh Hòa",bac-ai-dong,commune,14
 02980,"Bắc Khánh Vĩnh","Xã Bắc Khánh Vĩnh, Tỉnh Khánh Hòa",bac-khanh-vinh,commune,14
 03002,"Phước Hà","Xã Phước Hà, Tỉnh Khánh Hòa",phuoc-ha,commune,14
 03069,"Tây Khánh Sơn","Xã Tây Khánh Sơn, Tỉnh Khánh Hòa",tay-khanh-son,commune,14

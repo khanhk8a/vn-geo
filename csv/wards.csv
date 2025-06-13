@@ -3,37 +3,37 @@ code,name,fullName,slug,type,provinceCode
 00002,"Dĩ An","Phường Dĩ An, Thành phố Hồ Chí Minh",di-an,ward,30
 00003,"Hiệp Bình","Phường Hiệp Bình, Thành phố Hồ Chí Minh",hiep-binh,ward,30
 00004,"Tăng Nhơn Phú","Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh",tang-nhon-phu,ward,30
-00005,"Bà Điểm","Xã Bà Điểm, Thành phố Hồ Chí Minh",ba-iem,commune,30
+00005,"Bà Điểm","Xã Bà Điểm, Thành phố Hồ Chí Minh",ba-diem,commune,30
 00006,"Thanh Khê","Phường Thanh Khê, Thành phố Đà Nẵng",thanh-khe,ward,12
 00007,"Hạc Thành","Phường Hạc Thành, Tỉnh Thanh Hoá",hac-thanh,ward,07
 00008,"Trấn Biên","Phường Trấn Biên, Tỉnh Đồng Nai",tran-bien,ward,22
 00009,"Chánh Hưng","Phường Chánh Hưng, Thành phố Hồ Chí Minh",chanh-hung,ward,30
-00010,"Đông Thạnh","Xã Đông Thạnh, Thành phố Hồ Chí Minh",ong-thanh,commune,30
-00011,"Nam Định","Phường Nam Định, Tỉnh Ninh Bình",nam-inh,ward,13
+00010,"Đông Thạnh","Xã Đông Thạnh, Thành phố Hồ Chí Minh",dong-thanh,commune,30
+00011,"Nam Định","Phường Nam Định, Tỉnh Ninh Bình",nam-dinh,ward,13
 00012,"Bình Hưng Hòa","Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh",binh-hung-hoa,ward,30
-00013,"Hà Đông","Phường Hà Đông, Thành phố Hà Nội",ha-ong,ward,01
+00013,"Hà Đông","Phường Hà Đông, Thành phố Hà Nội",ha-dong,ward,01
 00014,"Bình Hưng","Xã Bình Hưng, Thành phố Hồ Chí Minh",binh-hung,commune,30
-00015,"Đông Hưng Thuận","Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",ong-hung-thuan,ward,30
-00016,"An Phú Đông","Phường An Phú Đông, Thành phố Hồ Chí Minh",an-phu-ong,ward,30
+00015,"Đông Hưng Thuận","Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",dong-hung-thuan,ward,30
+00016,"An Phú Đông","Phường An Phú Đông, Thành phố Hồ Chí Minh",an-phu-dong,ward,30
 00017,"An Lạc","Phường An Lạc, Thành phố Hồ Chí Minh",an-lac,ward,30
 00018,"Buôn Ma Thuột","Phường Buôn Ma Thuột, Tỉnh Đắk Lắk",buon-ma-thuot,ward,27
 00019,"Long Bình","Phường Long Bình, Tỉnh Đồng Nai",long-binh,ward,22
 00020,"Tân Thới Hiệp","Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh",tan-thoi-hiep,ward,30
 00021,"Vĩnh Lộc","Xã Vĩnh Lộc, Thành phố Hồ Chí Minh",vinh-loc,commune,30
-00022,"Bình Trị Đông","Phường Bình Trị Đông, Thành phố Hồ Chí Minh",binh-tri-ong,ward,30
+00022,"Bình Trị Đông","Phường Bình Trị Đông, Thành phố Hồ Chí Minh",binh-tri-dong,ward,30
 00023,"Tân Vĩnh Lộc","Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh",tan-vinh-loc,commune,30
 00024,"An Phú","Phường An Phú, Thành phố Hồ Chí Minh",an-phu,ward,30
 00025,"Bình Tân","Phường Bình Tân, Thành phố Hồ Chí Minh",binh-tan,ward,30
 00026,"Lê Chân","Phường Lê Chân, Thành phố Hải Phòng",le-chan,ward,05
 00027,"Linh Xuân","Phường Linh Xuân, Thành phố Hồ Chí Minh",linh-xuan,ward,30
 00028,"Phú Quốc","Đặc khu Phú Quốc, Tỉnh An Giang",phu-quoc,commune,18
-00029,"Bình Đông","Phường Bình Đông, Thành phố Hồ Chí Minh",binh-ong,ward,30
+00029,"Bình Đông","Phường Bình Đông, Thành phố Hồ Chí Minh",binh-dong,ward,30
 00030,"Long Xuyên","Phường Long Xuyên, Tỉnh An Giang",long-xuyen,ward,18
 00031,"Tân Hưng","Phường Tân Hưng, Thành phố Hồ Chí Minh",tan-hung,ward,30
 00032,"Tam Bình","Phường Tam Bình, Thành phố Hồ Chí Minh",tam-binh,ward,30
 00033,"Thạnh Mỹ Tây","Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh",thanh-my-tay,ward,30
 00034,"Thuận Giao","Phường Thuận Giao, Thành phố Hồ Chí Minh",thuan-giao,ward,30
-00035,"Phú Định","Phường Phú Định, Thành phố Hồ Chí Minh",phu-inh,ward,30
+00035,"Phú Định","Phường Phú Định, Thành phố Hồ Chí Minh",phu-dinh,ward,30
 00036,"Hoa Lư","Phường Hoa Lư, Tỉnh Ninh Bình",hoa-lu,ward,13
 00037,"Tân Thuận","Phường Tân Thuận, Thành phố Hồ Chí Minh",tan-thuan,ward,30
 00038,"Tân Hiệp","Phường Tân Hiệp, Thành phố Hồ Chí Minh",tan-hiep,ward,30
@@ -45,7 +45,7 @@ code,name,fullName,slug,type,provinceCode
 00044,"Tương Mai","Phường Tương Mai, Thành phố Hà Nội",tuong-mai,ward,01
 00045,"Nha Trang","Phường Nha Trang, Tỉnh Khánh Hòa",nha-trang,ward,14
 00046,"Bảy Hiền","Phường Bảy Hiền, Thành phố Hồ Chí Minh",bay-hien,ward,30
-00047,"Đông Hòa","Phường Đông Hòa, Thành phố Hồ Chí Minh",ong-hoa,ward,30
+00047,"Đông Hòa","Phường Đông Hòa, Thành phố Hồ Chí Minh",dong-hoa,ward,30
 00048,"Hải Châu","Phường Hải Châu, Thành phố Đà Nẵng",hai-chau,ward,12
 00049,"Phú Xuân","Phường Phú Xuân, Thành phố Huế",phu-xuan,ward,04
 00050,"Nam Nha Trang","Phường Nam Nha Trang, Tỉnh Khánh Hòa",nam-nha-trang,ward,14
@@ -58,11 +58,11 @@ code,name,fullName,slug,type,provinceCode
 00057,"Tân Khánh","Phường Tân Khánh, Thành phố Hồ Chí Minh",tan-khanh,ward,30
 00058,"Bình Thạnh","Phường Bình Thạnh, Thành phố Hồ Chí Minh",binh-thanh,ward,30
 00059,"Tuy Hòa","Phường Tuy Hòa, Tỉnh Đắk Lắk",tuy-hoa,ward,27
-00060,"Gia Định","Phường Gia Định, Thành phố Hồ Chí Minh",gia-inh,ward,30
+00060,"Gia Định","Phường Gia Định, Thành phố Hồ Chí Minh",gia-dinh,ward,30
 00061,"Nhà Bè","Xã Nhà Bè, Thành phố Hồ Chí Minh",nha-be,commune,30
 00062,"Thới An","Phường Thới An, Thành phố Hồ Chí Minh",thoi-an,ward,30
-00063,"Nghĩa Đô","Phường Nghĩa Đô, Thành phố Hà Nội",nghia-o,ward,01
-00064,"An Hội Đông","Phường An Hội Đông, Thành phố Hồ Chí Minh",an-hoi-ong,ward,30
+00063,"Nghĩa Đô","Phường Nghĩa Đô, Thành phố Hà Nội",nghia-do,ward,01
+00064,"An Hội Đông","Phường An Hội Đông, Thành phố Hồ Chí Minh",an-hoi-dong,ward,30
 00065,"Thành Vinh","Phường Thành Vinh, Tỉnh Nghệ An",thanh-vinh,ward,11
 00066,"Hồng Hà","Phường Hồng Hà, Thành phố Hà Nội",hong-ha,ward,01
 00067,"Bắc Giang","Phường Bắc Giang, Tỉnh Bắc Ninh",bac-giang,ward,10
@@ -70,14 +70,14 @@ code,name,fullName,slug,type,provinceCode
 00069,"Thông Tây Hội","Phường Thông Tây Hội, Thành phố Hồ Chí Minh",thong-tay-hoi,ward,30
 00070,"An Hội Tây","Phường An Hội Tây, Thành phố Hồ Chí Minh",an-hoi-tay,ward,30
 00071,"Bình Hòa","Phường Bình Hòa, Thành phố Hồ Chí Minh",binh-hoa,ward,30
-00072,"Bồ Đề","Phường Bồ Đề, Thành phố Hà Nội",bo-e,ward,01
+00072,"Bồ Đề","Phường Bồ Đề, Thành phố Hà Nội",bo-de,ward,01
 00073,"Từ Liêm","Phường Từ Liêm, Thành phố Hà Nội",tu-liem,ward,01
 00074,"Long Bình","Phường Long Bình, Thành phố Hồ Chí Minh",long-binh,ward,30
 00075,"Ninh Kiều","Phường Ninh Kiều, Thành phố Cần Thơ",ninh-kieu,ward,32
 00076,"Hòa Cường","Phường Hòa Cường, Thành phố Đà Nẵng",hoa-cuong,ward,12
-00077,"Thủ Đức","Phường Thủ Đức, Thành phố Hồ Chí Minh",thu-uc,ward,30
+00077,"Thủ Đức","Phường Thủ Đức, Thành phố Hồ Chí Minh",thu-duc,ward,30
 00078,"Lái Thiêu","Phường Lái Thiêu, Thành phố Hồ Chí Minh",lai-thieu,ward,30
-00079,"Đông Anh","Xã Đông Anh, Thành phố Hà Nội",ong-anh,commune,01
+00079,"Đông Anh","Xã Đông Anh, Thành phố Hà Nội",dong-anh,commune,01
 00080,"Sóc Sơn","Xã Sóc Sơn, Thành phố Hà Nội",soc-son,commune,01
 00081,"Vũng Tàu","Phường Vũng Tàu, Thành phố Hồ Chí Minh",vung-tau,ward,30
 00082,"Tân Sơn Nhì","Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh",tan-son-nhi,ward,30
@@ -89,8 +89,8 @@ code,name,fullName,slug,type,provinceCode
 00088,"Tân Tạo","Phường Tân Tạo, Thành phố Hồ Chí Minh",tan-tao,ward,30
 00089,"Hồng Bàng","Phường Hồng Bàng, Thành phố Hải Phòng",hong-bang,ward,05
 00090,"Hòa Khánh","Phường Hòa Khánh, Thành phố Đà Nẵng",hoa-khanh,ward,12
-00091,"Phù Đổng","Xã Phù Đổng, Thành phố Hà Nội",phu-ong,commune,01
-00092,"Phan Đình Phùng","Phường Phan Đình Phùng, Tỉnh Thái Nguyên",phan-inh-phung,ward,19
+00091,"Phù Đổng","Xã Phù Đổng, Thành phố Hà Nội",phu-dong,commune,01
+00092,"Phan Đình Phùng","Phường Phan Đình Phùng, Tỉnh Thái Nguyên",phan-dinh-phung,ward,19
 00093,"Bình Phước","Phường Bình Phước, Tỉnh Đồng Nai",binh-phuoc,ward,22
 00094,"Gò Vấp","Phường Gò Vấp, Thành phố Hồ Chí Minh",go-vap,ward,30
 00095,"Long Hải","Xã Long Hải, Thành phố Hồ Chí Minh",long-hai,commune,30
@@ -105,18 +105,18 @@ code,name,fullName,slug,type,provinceCode
 00104,"Hoàn Kiếm","Phường Hoàn Kiếm, Thành phố Hà Nội",hoan-kiem,ward,01
 00105,"Trảng Dài","Phường Trảng Dài, Tỉnh Đồng Nai",trang-dai,ward,22
 00106,"Xuân Phương","Phường Xuân Phương, Thành phố Hà Nội",xuan-phuong,ward,01
-00107,"Sa Đéc","Phường Sa Đéc, Tỉnh Đồng Tháp",sa-ec,ward,16
+00107,"Sa Đéc","Phường Sa Đéc, Tỉnh Đồng Tháp",sa-dec,ward,16
 00108,"Xuân Lộc","Xã Xuân Lộc, Tỉnh Đồng Nai",xuan-loc,commune,22
 00109,"Vườn Lài","Phường Vườn Lài, Thành phố Hồ Chí Minh",vuon-lai,ward,30
 00110,"Phú Thạnh","Phường Phú Thạnh, Thành phố Hồ Chí Minh",phu-thanh,ward,30
 00111,"Xuân Thới Sơn","Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh",xuan-thoi-son,commune,30
-00112,"Xuân Hương - Đà Lạt","Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng",xuan-huong-a-lat,ward,29
+00112,"Xuân Hương - Đà Lạt","Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng",xuan-huong-da-lat,ward,29
 00113,"Hải An","Phường Hải An, Thành phố Hải Phòng",hai-an,ward,05
 00114,"Thư Lâm","Xã Thư Lâm, Thành phố Hà Nội",thu-lam,commune,01
 00115,"Gia Viên","Phường Gia Viên, Thành phố Hải Phòng",gia-vien,ward,05
 00116,"An Khánh","Xã An Khánh, Thành phố Hà Nội",an-khanh,commune,01
 00117,"Tân Triều","Phường Tân Triều, Tỉnh Đồng Nai",tan-trieu,ward,22
-00118,"Tân Đông Hiệp","Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh",tan-ong-hiep,ward,30
+00118,"Tân Đông Hiệp","Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh",tan-dong-hiep,ward,30
 00119,"Tây Hồ","Phường Tây Hồ, Thành phố Hà Nội",tay-ho,ward,01
 00120,"Tây Phương","Xã Tây Phương, Thành phố Hà Nội",tay-phuong,commune,01
 00121,"Sầm Sơn","Phường Sầm Sơn, Tỉnh Thanh Hoá",sam-son,ward,07
@@ -124,9 +124,9 @@ code,name,fullName,slug,type,provinceCode
 00123,"Thuận Hóa","Phường Thuận Hóa, Thành phố Huế",thuan-hoa,ward,04
 00124,"Hoàng Mai","Phường Hoàng Mai, Thành phố Hà Nội",hoang-mai,ward,01
 00125,"Bến Cát","Phường Bến Cát, Thành phố Hồ Chí Minh",ben-cat,ward,30
-00126,"Phú Hòa Đông","Xã Phú Hòa Đông, Thành phố Hồ Chí Minh",phu-hoa-ong,commune,30
+00126,"Phú Hòa Đông","Xã Phú Hòa Đông, Thành phố Hồ Chí Minh",phu-hoa-dong,commune,30
 00127,"Ô Diên","Xã Ô Diên, Thành phố Hà Nội",o-dien,commune,01
-00128,"Châu Đốc","Phường Châu Đốc, Tỉnh An Giang",chau-oc,ward,18
+00128,"Châu Đốc","Phường Châu Đốc, Tỉnh An Giang",chau-doc,ward,18
 00129,"Giảng Võ","Phường Giảng Võ, Thành phố Hà Nội",giang-vo,ward,01
 00130,"Phú Xuyên","Xã Phú Xuyên, Thành phố Hà Nội",phu-xuyen,commune,01
 00131,"Hòa Hưng","Phường Hòa Hưng, Thành phố Hồ Chí Minh",hoa-hung,ward,30
@@ -140,7 +140,7 @@ code,name,fullName,slug,type,provinceCode
 00139,"Tân Phú","Phường Tân Phú, Thành phố Hồ Chí Minh",tan-phu,ward,30
 00140,"Long Thành","Xã Long Thành, Tỉnh Đồng Nai",long-thanh,commune,22
 00141,"Trảng Bom","Xã Trảng Bom, Tỉnh Đồng Nai",trang-bom,commune,22
-00142,"Đại Thanh","Xã Đại Thanh, Thành phố Hà Nội",ai-thanh,commune,01
+00142,"Đại Thanh","Xã Đại Thanh, Thành phố Hà Nội",dai-thanh,commune,01
 00143,"Trần Lãm","Phường Trần Lãm, Tỉnh Hưng Yên",tran-lam,ward,02
 00144,"Bình Tiên","Phường Bình Tiên, Thành phố Hồ Chí Minh",binh-tien,ward,30
 00145,"Thành Sen","Phường Thành Sen, Tỉnh Hà Tĩnh",thanh-sen,ward,17
@@ -163,34 +163,34 @@ code,name,fullName,slug,type,provinceCode
 00162,"Phan Rí Cửa","Xã Phan Rí Cửa, Tỉnh Lâm Đồng",phan-ri-cua,commune,29
 00163,"Cam Lâm","Xã Cam Lâm, Tỉnh Khánh Hòa",cam-lam,commune,14
 00164,"Tam Thắng","Phường Tam Thắng, Thành phố Hồ Chí Minh",tam-thang,ward,30
-00165,"Khương Đình","Phường Khương Đình, Thành phố Hà Nội",khuong-inh,ward,01
+00165,"Khương Đình","Phường Khương Đình, Thành phố Hà Nội",khuong-dinh,ward,01
 00166,"Tân An","Phường Tân An, Thành phố Cần Thơ",tan-an,ward,32
 00167,"Hòa Xuân","Phường Hòa Xuân, Thành phố Đà Nẵng",hoa-xuan,ward,12
-00168,"Định Quán","Xã Định Quán, Tỉnh Đồng Nai",inh-quan,commune,22
-00169,"Định Công","Phường Định Công, Thành phố Hà Nội",inh-cong,ward,01
+00168,"Định Quán","Xã Định Quán, Tỉnh Đồng Nai",dinh-quan,commune,22
+00169,"Định Công","Phường Định Công, Thành phố Hà Nội",dinh-cong,ward,01
 00170,"Phan Thiết","Phường Phan Thiết, Tỉnh Lâm Đồng",phan-thiet,ward,29
-00171,"Đức Trọng","Xã Đức Trọng, Tỉnh Lâm Đồng",uc-trong,commune,29
+00171,"Đức Trọng","Xã Đức Trọng, Tỉnh Lâm Đồng",duc-trong,commune,29
 00172,"Chợ Lớn","Phường Chợ Lớn, Thành phố Hồ Chí Minh",cho-lon,ward,30
 00173,"Tân Sơn Nhất","Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh",tan-son-nhat,ward,30
 00174,"Tân An Hội","Xã Tân An Hội, Thành phố Hồ Chí Minh",tan-an-hoi,commune,30
 00175,"Kinh Bắc","Phường Kinh Bắc, Tỉnh Bắc Ninh",kinh-bac,ward,10
-00176,"Đại Đồng","Xã Đại Đồng, Tỉnh Bắc Ninh",ai-ong,commune,10
-00177,"Đồng Hới","Phường Đồng Hới, Tỉnh Quảng Trị",ong-hoi,ward,03
+00176,"Đại Đồng","Xã Đại Đồng, Tỉnh Bắc Ninh",dai-dong,commune,10
+00177,"Đồng Hới","Phường Đồng Hới, Tỉnh Quảng Trị",dong-hoi,ward,03
 00178,"Phú Thuận","Phường Phú Thuận, Thành phố Hồ Chí Minh",phu-thuan,ward,30
 00179,"Tân Thành","Phường Tân Thành, Tỉnh Cà Mau",tan-thanh,ward,33
-00180,"Đa Phúc","Xã Đa Phúc, Thành phố Hà Nội",a-phuc,commune,01
-00181,"Đông Ngạc","Phường Đông Ngạc, Thành phố Hà Nội",ong-ngac,ward,01
+00180,"Đa Phúc","Xã Đa Phúc, Thành phố Hà Nội",da-phuc,commune,01
+00181,"Đông Ngạc","Phường Đông Ngạc, Thành phố Hà Nội",dong-ngac,ward,01
 00182,"Bình Minh","Xã Bình Minh, Tỉnh Đồng Nai",binh-minh,commune,22
 00183,"Việt Hưng","Phường Việt Hưng, Thành phố Hà Nội",viet-hung,ward,01
 00184,"An Hải","Phường An Hải, Thành phố Đà Nẵng",an-hai,ward,12
 00185,"Phương Liệt","Phường Phương Liệt, Thành phố Hà Nội",phuong-liet,ward,01
 00186,"Lê Thanh Nghị","Phường Lê Thanh Nghị, Thành phố Hải Phòng",le-thanh-nghi,ward,05
-00187,"Đống Đa","Phường Đống Đa, Thành phố Hà Nội",ong-a,ward,01
+00187,"Đống Đa","Phường Đống Đa, Thành phố Hà Nội",dong-da,ward,01
 00188,"An Xuyên","Phường An Xuyên, Tỉnh Cà Mau",an-xuyen,ward,33
-00189,"An Đông","Phường An Đông, Thành phố Hồ Chí Minh",an-ong,ward,30
+00189,"An Đông","Phường An Đông, Thành phố Hồ Chí Minh",an-dong,ward,30
 00190,"Chợ Mới","Xã Chợ Mới, Tỉnh An Giang",cho-moi,commune,18
 00191,"Lai Vung","Xã Lai Vung, Tỉnh Đồng Tháp",lai-vung,commune,16
-00192,"Đại Mỗ","Phường Đại Mỗ, Thành phố Hà Nội",ai-mo,ward,01
+00192,"Đại Mỗ","Phường Đại Mỗ, Thành phố Hà Nội",dai-mo,ward,01
 00193,"Bình Minh","Xã Bình Minh, Thành phố Hà Nội",binh-minh,commune,01
 00194,"Hòa Lợi","Phường Hòa Lợi, Thành phố Hồ Chí Minh",hoa-loi,ward,30
 00195,"Thới Hòa","Phường Thới Hòa, Thành phố Hồ Chí Minh",thoi-hoa,ward,30
@@ -228,7 +228,7 @@ code,name,fullName,slug,type,provinceCode
 00227,"Diên Hồng","Phường Diên Hồng, Thành phố Hồ Chí Minh",dien-hong,ward,30
 00228,"Phúc Thọ","Xã Phúc Thọ, Thành phố Hà Nội",phuc-tho,commune,01
 00229,"Biên Hòa","Phường Biên Hòa, Tỉnh Đồng Nai",bien-hoa,ward,22
-00230,"Đại Xuyên","Xã Đại Xuyên, Thành phố Hà Nội",ai-xuyen,commune,01
+00230,"Đại Xuyên","Xã Đại Xuyên, Thành phố Hà Nội",dai-xuyen,commune,01
 00231,"Phú Diễn","Phường Phú Diễn, Thành phố Hà Nội",phu-dien,ward,01
 00232,"Thiên Lộc","Xã Thiên Lộc, Thành phố Hà Nội",thien-loc,commune,01
 00233,"Cầu Giấy","Phường Cầu Giấy, Thành phố Hà Nội",cau-giay,ward,01
@@ -241,14 +241,14 @@ code,name,fullName,slug,type,provinceCode
 00240,"Quỳnh Lưu","Xã Quỳnh Lưu, Tỉnh Nghệ An",quynh-luu,commune,11
 00241,"Nghĩa Lộ","Phường Nghĩa Lộ, Tỉnh Quảng Ngãi",nghia-lo,ward,23
 00242,"Ô Môn","Phường Ô Môn, Thành phố Cần Thơ",o-mon,ward,32
-00243,"Đạo Thạnh","Phường Đạo Thạnh, Tỉnh Đồng Tháp",ao-thanh,ward,16
+00243,"Đạo Thạnh","Phường Đạo Thạnh, Tỉnh Đồng Tháp",dao-thanh,ward,16
 00244,"Tân Lập","Phường Tân Lập, Tỉnh Đắk Lắk",tan-lap,ward,27
 00245,"Quy Nhơn Nam","Phường Quy Nhơn Nam, Tỉnh Gia Lai",quy-nhon-nam,ward,28
 00246,"Tân Uyên","Phường Tân Uyên, Thành phố Hồ Chí Minh",tan-uyen,ward,30
 00247,"Việt Trì","Phường Việt Trì, Tỉnh Phú Thọ",viet-tri,ward,06
-00248,"Bình Đức","Phường Bình Đức, Tỉnh An Giang",binh-uc,ward,18
+00248,"Bình Đức","Phường Bình Đức, Tỉnh An Giang",binh-duc,ward,18
 00249,"Tây Thạnh","Phường Tây Thạnh, Thành phố Hồ Chí Minh",tay-thanh,ward,30
-00250,"Điện Bàn Đông","Phường Điện Bàn Đông, Thành phố Đà Nẵng",ien-ban-ong,ward,12
+00250,"Điện Bàn Đông","Phường Điện Bàn Đông, Thành phố Đà Nẵng",dien-ban-dong,ward,12
 00251,"Phan Rang","Phường Phan Rang, Tỉnh Khánh Hòa",phan-rang,ward,14
 00252,"Hát Môn","Xã Hát Môn, Thành phố Hà Nội",hat-mon,commune,01
 00253,"Quỳnh Phú","Xã Quỳnh Phú, Tỉnh Nghệ An",quynh-phu,commune,11
@@ -262,9 +262,9 @@ code,name,fullName,slug,type,provinceCode
 00261,"Xuân Trường","Xã Xuân Trường, Tỉnh Ninh Bình",xuan-truong,commune,13
 00262,"Phong Hòa","Xã Phong Hòa, Tỉnh Đồng Tháp",phong-hoa,commune,16
 00263,"Hưng Long","Xã Hưng Long, Thành phố Hồ Chí Minh",hung-long,commune,30
-00264,"Đức Nhuận","Phường Đức Nhuận, Thành phố Hồ Chí Minh",uc-nhuan,ward,30
+00264,"Đức Nhuận","Phường Đức Nhuận, Thành phố Hồ Chí Minh",duc-nhuan,ward,30
 00265,"An Phú","Xã An Phú, Tỉnh Quảng Ngãi",an-phu,commune,23
-00266,"Lâm Viên - Đà Lạt","Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng",lam-vien-a-lat,ward,29
+00266,"Lâm Viên - Đà Lạt","Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng",lam-vien-da-lat,ward,29
 00267,"Yên Lãng","Xã Yên Lãng, Thành phố Hà Nội",yen-lang,commune,01
 00268,"Sơn Tây","Phường Sơn Tây, Thành phố Hà Nội",son-tay,ward,01
 00269,"Ô Chợ Dừa","Phường Ô Chợ Dừa, Thành phố Hà Nội",o-cho-dua,ward,01
@@ -275,7 +275,7 @@ code,name,fullName,slug,type,provinceCode
 00274,"Kiến Hưng","Phường Kiến Hưng, Thành phố Hà Nội",kien-hung,ward,01
 00275,"Thường Tín","Xã Thường Tín, Thành phố Hà Nội",thuong-tin,commune,01
 00276,"Liên Hương","Xã Liên Hương, Tỉnh Lâm Đồng",lien-huong,commune,29
-00277,"Cổ Đô","Xã Cổ Đô, Thành phố Hà Nội",co-o,commune,01
+00277,"Cổ Đô","Xã Cổ Đô, Thành phố Hà Nội",co-do,commune,01
 00278,"Liên Chiểu","Phường Liên Chiểu, Thành phố Đà Nẵng",lien-chieu,ward,12
 00279,"Vạn Lộc","Xã Vạn Lộc, Tỉnh Thanh Hoá",van-loc,commune,07
 00280,"Trung An","Phường Trung An, Tỉnh Đồng Tháp",trung-an,ward,16
@@ -290,7 +290,7 @@ code,name,fullName,slug,type,provinceCode
 00289,"Hòa Xá","Xã Hòa Xá, Thành phố Hà Nội",hoa-xa,commune,01
 00290,"Núi Thành","Xã Núi Thành, Thành phố Đà Nẵng",nui-thanh,commune,12
 00291,"Hoà Bình","Phường Hoà Bình, Thành phố Hồ Chí Minh",hoa-binh,ward,30
-00292,"Hoài Đức","Xã Hoài Đức, Thành phố Hà Nội",hoai-uc,commune,01
+00292,"Hoài Đức","Xã Hoài Đức, Thành phố Hà Nội",hoai-duc,commune,01
 00293,"Phố Hiến","Phường Phố Hiến, Tỉnh Hưng Yên",pho-hien,ward,02
 00294,"Chư Sê","Xã Chư Sê, Tỉnh Gia Lai",chu-se,commune,28
 00295,"Hòa Long","Xã Hòa Long, Tỉnh Đồng Tháp",hoa-long,commune,16
@@ -304,7 +304,7 @@ code,name,fullName,slug,type,provinceCode
 00303,"Tân Mỹ","Phường Tân Mỹ, Thành phố Hồ Chí Minh",tan-my,ward,30
 00304,"Vinh Lộc","Phường Vinh Lộc, Tỉnh Nghệ An",vinh-loc,ward,11
 00305,"Thái Bình","Phường Thái Bình, Tỉnh Hưng Yên",thai-binh,ward,02
-00306,"Cam Đường","Phường Cam Đường, Tỉnh Lào Cai",cam-uong,ward,09
+00306,"Cam Đường","Phường Cam Đường, Tỉnh Lào Cai",cam-duong,ward,09
 00307,"Hiệp Phước","Xã Hiệp Phước, Thành phố Hồ Chí Minh",hiep-phuoc,commune,30
 00308,"Bàn Cờ","Phường Bàn Cờ, Thành phố Hồ Chí Minh",ban-co,ward,30
 00309,"Vĩnh Hưng","Phường Vĩnh Hưng, Thành phố Hà Nội",vinh-hung,ward,01
@@ -320,9 +320,9 @@ code,name,fullName,slug,type,provinceCode
 00319,"Lương Thế Trân","Xã Lương Thế Trân, Tỉnh Cà Mau",luong-the-tran,commune,33
 00320,"Từ Sơn","Phường Từ Sơn, Tỉnh Bắc Ninh",tu-son,ward,10
 00321,"An Châu","Xã An Châu, Tỉnh An Giang",an-chau,commune,18
-00322,"Long Điền","Xã Long Điền, Tỉnh An Giang",long-ien,commune,18
+00322,"Long Điền","Xã Long Điền, Tỉnh An Giang",long-dien,commune,18
 00323,"Phú Thọ","Phường Phú Thọ, Thành phố Hồ Chí Minh",phu-tho,ward,30
-00324,"Ba Đình","Phường Ba Đình, Thành phố Hà Nội",ba-inh,ward,01
+00324,"Ba Đình","Phường Ba Đình, Thành phố Hà Nội",ba-dinh,ward,01
 00325,"Hải Hưng","Xã Hải Hưng, Tỉnh Ninh Bình",hai-hung,commune,13
 00326,"Thạnh Mỹ Tây","Xã Thạnh Mỹ Tây, Tỉnh An Giang",thanh-my-tay,commune,18
 00327,"Hồng An","Phường Hồng An, Thành phố Hải Phòng",hong-an,ward,05
@@ -345,10 +345,10 @@ code,name,fullName,slug,type,provinceCode
 00344,"Quốc Oai","Xã Quốc Oai, Thành phố Hà Nội",quoc-oai,commune,01
 00345,"Diễn Châu","Xã Diễn Châu, Tỉnh Nghệ An",dien-chau,commune,11
 00346,"Bình Tây","Phường Bình Tây, Thành phố Hồ Chí Minh",binh-tay,ward,30
-00347,"Sơn Đồng","Xã Sơn Đồng, Thành phố Hà Nội",son-ong,commune,01
+00347,"Sơn Đồng","Xã Sơn Đồng, Thành phố Hà Nội",son-dong,commune,01
 00348,"Thạnh Hòa","Xã Thạnh Hòa, Thành phố Cần Thơ",thanh-hoa,commune,32
 00349,"Hàm Rồng","Phường Hàm Rồng, Tỉnh Thanh Hoá",ham-rong,ward,07
-00350,"Đại Đồng","Xã Đại Đồng, Tỉnh Nghệ An",ai-ong,commune,11
+00350,"Đại Đồng","Xã Đại Đồng, Tỉnh Nghệ An",dai-dong,commune,11
 00351,"Hồng Sơn","Xã Hồng Sơn, Thành phố Hà Nội",hong-son,commune,01
 00352,"Vĩnh Hội","Phường Vĩnh Hội, Thành phố Hồ Chí Minh",vinh-hoi,ward,30
 00353,"Quảng Bị","Xã Quảng Bị, Thành phố Hà Nội",quang-bi,commune,01
@@ -362,32 +362,32 @@ code,name,fullName,slug,type,provinceCode
 00361,"Phú Lâm","Xã Phú Lâm, Tỉnh Đồng Nai",phu-lam,commune,22
 00362,"Mê Linh","Xã Mê Linh, Thành phố Hà Nội",me-linh,commune,01
 00363,"Phú Túc","Xã Phú Túc, Tỉnh Vĩnh Long",phu-tuc,commune,24
-00364,"Đô Lương","Xã Đô Lương, Tỉnh Nghệ An",o-luong,commune,11
+00364,"Đô Lương","Xã Đô Lương, Tỉnh Nghệ An",do-luong,commune,11
 00365,"Vĩnh Tân","Phường Vĩnh Tân, Thành phố Hồ Chí Minh",vinh-tan,ward,30
 00366,"Phú Yên","Phường Phú Yên, Tỉnh Đắk Lắk",phu-yen,ward,27
 00367,"Vạn Xuân","Phường Vạn Xuân, Tỉnh Thái Nguyên",van-xuan,ward,19
-00368,"Hòn Đất","Xã Hòn Đất, Tỉnh An Giang",hon-at,commune,18
+00368,"Hòn Đất","Xã Hòn Đất, Tỉnh An Giang",hon-dat,commune,18
 00369,"Bình Sơn","Xã Bình Sơn, Tỉnh An Giang",binh-son,commune,18
 00370,"Cẩm Phả","Phường Cẩm Phả, Tỉnh Quảng Ninh",cam-pha,ward,08
 00371,"Phúc Lộc","Xã Phúc Lộc, Thành phố Hà Nội",phuc-loc,commune,01
 00372,"Thốt Nốt","Phường Thốt Nốt, Thành phố Cần Thơ",thot-not,ward,32
 00373,"Trung Giã","Xã Trung Giã, Thành phố Hà Nội",trung-gia,commune,01
 00374,"Sóc Trăng","Phường Sóc Trăng, Thành phố Cần Thơ",soc-trang,ward,32
-00375,"Đại Lộc","Xã Đại Lộc, Thành phố Đà Nẵng",ai-loc,commune,12
-00376,"Đông Quang","Phường Đông Quang, Tỉnh Thanh Hoá",ong-quang,ward,07
+00375,"Đại Lộc","Xã Đại Lộc, Thành phố Đà Nẵng",dai-loc,commune,12
+00376,"Đông Quang","Phường Đông Quang, Tỉnh Thanh Hoá",dong-quang,ward,07
 00377,"An Tịnh","Phường An Tịnh, Tỉnh Tây Ninh",an-tinh,ward,15
-00378,"Nam Đông Hà.","Phường Nam Đông Hà., Tỉnh Quảng Trị",nam-ong-ha,ward,03
+00378,"Nam Đông Hà.","Phường Nam Đông Hà., Tỉnh Quảng Trị",nam-dong-ha,ward,03
 00379,"Láng","Phường Láng, Thành phố Hà Nội",lang,ward,01
 00380,"Long Phú Thuận","Xã Long Phú Thuận, Tỉnh Đồng Tháp",long-phu-thuan,commune,16
 00381,"Quảng Phú","Xã Quảng Phú, Tỉnh Đắk Lắk",quang-phu,commune,27
 00382,"Cẩm Thành","Phường Cẩm Thành, Tỉnh Quảng Ngãi",cam-thanh,ward,23
 00383,"Kiều Phú","Xã Kiều Phú, Thành phố Hà Nội",kieu-phu,commune,01
-00384,"Vân Đình","Xã Vân Đình, Thành phố Hà Nội",van-inh,commune,01
+00384,"Vân Đình","Xã Vân Đình, Thành phố Hà Nội",van-dinh,commune,01
 00385,"Mỹ Thuận","Xã Mỹ Thuận, Tỉnh An Giang",my-thuan,commune,18
 00386,"Phù Liễn","Phường Phù Liễn, Thành phố Hải Phòng",phu-lien,ward,05
 00387,"Vạn Tường","Xã Vạn Tường, Tỉnh Quảng Ngãi",van-tuong,commune,23
 00388,"La Gi","Phường La Gi, Tỉnh Lâm Đồng",la-gi,ward,29
-00389,"Mỹ Đức","Xã Mỹ Đức, Tỉnh An Giang",my-uc,commune,18
+00389,"Mỹ Đức","Xã Mỹ Đức, Tỉnh An Giang",my-duc,commune,18
 00390,"Mỹ Thới","Phường Mỹ Thới, Tỉnh An Giang",my-thoi,ward,18
 00391,"Vĩnh Hậu","Xã Vĩnh Hậu, Tỉnh An Giang",vinh-hau,commune,18
 00392,"Quỳnh Anh","Xã Quỳnh Anh, Tỉnh Nghệ An",quynh-anh,commune,11
@@ -399,16 +399,16 @@ code,name,fullName,slug,type,provinceCode
 00398,"Thường Phước","Xã Thường Phước, Tỉnh Đồng Tháp",thuong-phuoc,commune,16
 00399,"An Phước","Xã An Phước, Tỉnh Đồng Nai",an-phuoc,commune,22
 00400,"Cái Bè","Xã Cái Bè, Tỉnh Đồng Tháp",cai-be,commune,16
-00401,"Tân Nhuận Đông","Xã Tân Nhuận Đông, Tỉnh Đồng Tháp",tan-nhuan-ong,commune,16
+00401,"Tân Nhuận Đông","Xã Tân Nhuận Đông, Tỉnh Đồng Tháp",tan-nhuan-dong,commune,16
 00402,"Thạnh Lộc","Xã Thạnh Lộc, Tỉnh An Giang",thanh-loc,commune,18
 00403,"Bình An","Xã Bình An, Tỉnh An Giang",binh-an,commune,18
 00404,"Việt Yên","Phường Việt Yên, Tỉnh Bắc Ninh",viet-yen,ward,10
 00405,"Trần Văn Thời","Xã Trần Văn Thời, Tỉnh Cà Mau",tran-van-thoi,commune,33
 00406,"Tiên Lục","Xã Tiên Lục, Tỉnh Bắc Ninh",tien-luc,commune,10
 00407,"Tư Nghĩa","Xã Tư Nghĩa, Tỉnh Quảng Ngãi",tu-nghia,commune,23
-00408,"Bảo Đài","Xã Bảo Đài, Tỉnh Bắc Ninh",bao-ai,commune,10
+00408,"Bảo Đài","Xã Bảo Đài, Tỉnh Bắc Ninh",bao-dai,commune,10
 00409,"Quảng Oai","Xã Quảng Oai, Thành phố Hà Nội",quang-oai,commune,01
-00410,"Đông Sơn","Phường Đông Sơn, Tỉnh Thanh Hoá",ong-son,ward,07
+00410,"Đông Sơn","Phường Đông Sơn, Tỉnh Thanh Hoá",dong-son,ward,07
 00411,"Dương Hòa","Xã Dương Hòa, Thành phố Hà Nội",duong-hoa,commune,01
 00412,"Ninh Hòa","Phường Ninh Hòa, Tỉnh Khánh Hòa",ninh-hoa,ward,14
 00413,"Hồng Vân","Xã Hồng Vân, Thành phố Hà Nội",hong-van,commune,01
@@ -417,14 +417,14 @@ code,name,fullName,slug,type,provinceCode
 00416,"Vật Lại","Xã Vật Lại, Thành phố Hà Nội",vat-lai,commune,01
 00417,"Thanh Miếu","Phường Thanh Miếu, Tỉnh Phú Thọ",thanh-mieu,ward,06
 00418,"Hưng Phú","Phường Hưng Phú, Thành phố Cần Thơ",hung-phu,ward,32
-00419,"Tuy Phước Đông","Xã Tuy Phước Đông, Tỉnh Gia Lai",tuy-phuoc-ong,commune,28
+00419,"Tuy Phước Đông","Xã Tuy Phước Đông, Tỉnh Gia Lai",tuy-phuoc-dong,commune,28
 00420,"Chũ","Phường Chũ, Tỉnh Bắc Ninh",chu,ward,10
 00421,"Kiên Lương","Xã Kiên Lương, Tỉnh An Giang",kien-luong,commune,18
 00422,"Vân Hà","Phường Vân Hà, Tỉnh Bắc Ninh",van-ha,ward,10
 00423,"Lục Nam","Xã Lục Nam, Tỉnh Bắc Ninh",luc-nam,commune,10
 00424,"Quỳnh Mai","Phường Quỳnh Mai, Tỉnh Nghệ An",quynh-mai,ward,11
 00425,"Xóm Chiếu","Phường Xóm Chiếu, Thành phố Hồ Chí Minh",xom-chieu,ward,30
-00426,"Đông Tiến","Phường Đông Tiến, Tỉnh Thanh Hoá",ong-tien,ward,07
+00426,"Đông Tiến","Phường Đông Tiến, Tỉnh Thanh Hoá",dong-tien,ward,07
 00427,"Hưng Thịnh","Xã Hưng Thịnh, Tỉnh Đồng Nai",hung-thinh,commune,22
 00428,"Nông Trang","Phường Nông Trang, Tỉnh Phú Thọ",nong-trang,ward,06
 00429,"Cái Khế","Phường Cái Khế, Thành phố Cần Thơ",cai-khe,ward,32
@@ -440,10 +440,10 @@ code,name,fullName,slug,type,provinceCode
 00439,"Mỹ Hạnh","Xã Mỹ Hạnh, Tỉnh Tây Ninh",my-hanh,commune,15
 00440,"Tây Nam","Phường Tây Nam, Thành phố Hồ Chí Minh",tay-nam,ward,30
 00441,"Ngọc Thiện","Xã Ngọc Thiện, Tỉnh Bắc Ninh",ngoc-thien,commune,10
-00442,"Định Hòa","Xã Định Hòa, Tỉnh An Giang",inh-hoa,commune,18
+00442,"Định Hòa","Xã Định Hòa, Tỉnh An Giang",dinh-hoa,commune,18
 00443,"Bình Hòa","Xã Bình Hòa, Tỉnh An Giang",binh-hoa,commune,18
 00444,"Vĩnh Yên","Phường Vĩnh Yên, Tỉnh Phú Thọ",vinh-yen,ward,06
-00445,"Đông Sơn","Xã Đông Sơn, Tỉnh Quảng Ngãi",ong-son,commune,23
+00445,"Đông Sơn","Xã Đông Sơn, Tỉnh Quảng Ngãi",dong-son,commune,23
 00446,"Châu Phong","Xã Châu Phong, Tỉnh An Giang",chau-phong,commune,18
 00447,"Chu Văn An","Phường Chu Văn An, Thành phố Hải Phòng",chu-van-an,ward,05
 00448,"An Lạc Thôn","Xã An Lạc Thôn, Thành phố Cần Thơ",an-lac-thon,commune,32
@@ -457,7 +457,7 @@ code,name,fullName,slug,type,provinceCode
 00456,"Nếnh","Phường Nếnh, Tỉnh Bắc Ninh",nenh,ward,10
 00457,"Kim Liên","Xã Kim Liên, Tỉnh Nghệ An",kim-lien,commune,11
 00458,"Mỹ An Hưng","Xã Mỹ An Hưng, Tỉnh Đồng Tháp",my-an-hung,commune,16
-00459,"Đại Phước","Xã Đại Phước, Tỉnh Đồng Nai",ai-phuoc,commune,22
+00459,"Đại Phước","Xã Đại Phước, Tỉnh Đồng Nai",dai-phuoc,commune,22
 00460,"An Cựu","Phường An Cựu, Thành phố Huế",an-cuu,ward,04
 00461,"Tích Lương","Phường Tích Lương, Tỉnh Thái Nguyên",tich-luong,ward,19
 00462,"Xuân Hòa","Phường Xuân Hòa, Tỉnh Phú Thọ",xuan-hoa,ward,06
@@ -466,7 +466,7 @@ code,name,fullName,slug,type,provinceCode
 00465,"Bình Minh","Phường Bình Minh, Tỉnh Tây Ninh",binh-minh,ward,15
 00466,"Hưng Hà","Xã Hưng Hà, Tỉnh Hưng Yên",hung-ha,commune,02
 00467,"Thuận An","Phường Thuận An, Thành phố Huế",thuan-an,ward,04
-00468,"Đông Hải","Phường Đông Hải, Tỉnh Khánh Hòa",ong-hai,ward,14
+00468,"Đông Hải","Phường Đông Hải, Tỉnh Khánh Hòa",dong-hai,ward,14
 00469,"Mỹ Hiệp","Xã Mỹ Hiệp, Tỉnh Đồng Tháp",my-hiep,commune,16
 00470,"Hàm Thắng","Phường Hàm Thắng, Tỉnh Lâm Đồng",ham-thang,ward,29
 00471,"Ea Drăng","Xã Ea Drăng, Tỉnh Đắk Lắk",ea-drang,commune,27
@@ -475,7 +475,7 @@ code,name,fullName,slug,type,provinceCode
 00474,"Triệu Sơn","Xã Triệu Sơn, Tỉnh Thanh Hoá",trieu-son,commune,07
 00475,"Thăng Bình","Xã Thăng Bình, Thành phố Đà Nẵng",thang-binh,commune,12
 00476,"Cái Nước","Xã Cái Nước, Tỉnh Cà Mau",cai-nuoc,commune,33
-00477,"Đông Thái","Xã Đông Thái, Tỉnh An Giang",ong-thai,commune,18
+00477,"Đông Thái","Xã Đông Thái, Tỉnh An Giang",dong-thai,commune,18
 00478,"Long Hồ","Xã Long Hồ, Tỉnh Vĩnh Long",long-ho,commune,24
 00479,"Ea Ktur","Xã Ea Ktur, Tỉnh Đắk Lắk",ea-ktur,commune,27
 00480,"Phú Hòa 1","Xã Phú Hòa 1, Tỉnh Đắk Lắk",phu-hoa-1,commune,27
@@ -485,10 +485,10 @@ code,name,fullName,slug,type,provinceCode
 00484,"Ứng Thiên","Xã Ứng Thiên, Thành phố Hà Nội",ung-thien,commune,01
 00485,"Hồng Ngự","Phường Hồng Ngự, Tỉnh Đồng Tháp",hong-ngu,ward,16
 00486,"Chánh Phú Hòa","Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh",chanh-phu-hoa,ward,30
-00487,"Vân Đồn","Đặc khu Vân Đồn, Tỉnh Quảng Ninh",van-on,commune,08
+00487,"Vân Đồn","Đặc khu Vân Đồn, Tỉnh Quảng Ninh",van-don,commune,08
 00488,"An Biên","Xã An Biên, Tỉnh An Giang",an-bien,commune,18
-00489,"Thạnh Đông","Xã Thạnh Đông, Tỉnh An Giang",thanh-ong,commune,18
-00490,"Mỹ Đức","Xã Mỹ Đức, Thành phố Hà Nội",my-uc,commune,01
+00489,"Thạnh Đông","Xã Thạnh Đông, Tỉnh An Giang",thanh-dong,commune,18
+00490,"Mỹ Đức","Xã Mỹ Đức, Thành phố Hà Nội",my-duc,commune,01
 00491,"Hòa Hiệp","Phường Hòa Hiệp, Tỉnh Đắk Lắk",hoa-hiep,ward,27
 00492,"Xuân Hưng","Xã Xuân Hưng, Tỉnh Ninh Bình",xuan-hung,commune,13
 00493,"Trảng Bàng","Phường Trảng Bàng, Tỉnh Tây Ninh",trang-bang,ward,15
@@ -503,7 +503,7 @@ code,name,fullName,slug,type,provinceCode
 00502,"Hạ Long","Phường Hạ Long, Tỉnh Quảng Ninh",ha-long,ward,08
 00503,"Hoàng Vân","Xã Hoàng Vân, Tỉnh Bắc Ninh",hoang-van,commune,10
 00504,"Hội Cư","Xã Hội Cư, Tỉnh Đồng Tháp",hoi-cu,commune,16
-00505,"Trần Đề","Xã Trần Đề, Thành phố Cần Thơ",tran-e,commune,32
+00505,"Trần Đề","Xã Trần Đề, Thành phố Cần Thơ",tran-de,commune,32
 00506,"Cửa Nam","Phường Cửa Nam, Thành phố Hà Nội",cua-nam,ward,01
 00507,"Quang Hanh","Phường Quang Hanh, Tỉnh Quảng Ninh",quang-hanh,ward,08
 00508,"Hương Sơn","Xã Hương Sơn, Thành phố Hà Nội",huong-son,commune,01
@@ -519,7 +519,7 @@ code,name,fullName,slug,type,provinceCode
 00518,"Ba Tri","Xã Ba Tri, Tỉnh Vĩnh Long",ba-tri,commune,24
 00519,"Phú Lương","Phường Phú Lương, Thành phố Hà Nội",phu-luong,ward,01
 00520,"Thăng An","Xã Thăng An, Thành phố Đà Nẵng",thang-an,commune,12
-00521,"Phong Điền","Xã Phong Điền, Thành phố Cần Thơ",phong-ien,commune,32
+00521,"Phong Điền","Xã Phong Điền, Thành phố Cần Thơ",phong-dien,commune,32
 00522,"Châu Thành","Xã Châu Thành, Tỉnh Tây Ninh",chau-thanh,commune,15
 00523,"Vĩnh Phước","Phường Vĩnh Phước, Thành phố Cần Thơ",vinh-phuoc,ward,32
 00524,"Hồ Tràm","Xã Hồ Tràm, Thành phố Hồ Chí Minh",ho-tram,commune,30
@@ -528,13 +528,13 @@ code,name,fullName,slug,type,provinceCode
 00527,"Quỳnh Phụ","Xã Quỳnh Phụ, Tỉnh Hưng Yên",quynh-phu,commune,02
 00528,"Việt Hưng","Phường Việt Hưng, Tỉnh Quảng Ninh",viet-hung,ward,08
 00529,"Mỹ Xuyên","Phường Mỹ Xuyên, Thành phố Cần Thơ",my-xuyen,ward,32
-00530,"Đa Mai","Phường Đa Mai, Tỉnh Bắc Ninh",a-mai,ward,10
+00530,"Đa Mai","Phường Đa Mai, Tỉnh Bắc Ninh",da-mai,ward,10
 00531,"Vĩnh Hòa","Xã Vĩnh Hòa, Tỉnh An Giang",vinh-hoa,commune,18
-00532,"Bạch Đằng","Phường Bạch Đằng, Thành phố Hải Phòng",bach-ang,ward,05
+00532,"Bạch Đằng","Phường Bạch Đằng, Thành phố Hải Phòng",bach-dang,ward,05
 00533,"B' Lao","Phường B' Lao, Tỉnh Lâm Đồng",b-lao,ward,29
 00534,"Hải Dương","Phường Hải Dương, Thành phố Hải Phòng",hai-duong,ward,05
 00535,"Phù Cát","Xã Phù Cát, Tỉnh Gia Lai",phu-cat,commune,28
-00536,"Tân Đông","Xã Tân Đông, Tỉnh Đồng Tháp",tan-ong,commune,16
+00536,"Tân Đông","Xã Tân Đông, Tỉnh Đồng Tháp",tan-dong,commune,16
 00537,"Mỹ Hương","Xã Mỹ Hương, Thành phố Cần Thơ",my-huong,commune,32
 00538,"Thanh Trì","Xã Thanh Trì, Thành phố Hà Nội",thanh-tri,commune,01
 00539,"An Bình","Xã An Bình, Tỉnh Vĩnh Long",an-binh,commune,24
@@ -544,38 +544,38 @@ code,name,fullName,slug,type,provinceCode
 00543,"Tô Hiệu","Phường Tô Hiệu, Tỉnh Sơn La",to-hieu,ward,31
 00544,"Hải Anh","Xã Hải Anh, Tỉnh Ninh Bình",hai-anh,commune,13
 00545,"Mỹ Thọ","Xã Mỹ Thọ, Tỉnh Đồng Tháp",my-tho,commune,16
-00546,"Đức Linh","Xã Đức Linh, Tỉnh Lâm Đồng",uc-linh,commune,29
+00546,"Đức Linh","Xã Đức Linh, Tỉnh Lâm Đồng",duc-linh,commune,29
 00547,"Phước An","Xã Phước An, Tỉnh Đồng Nai",phuoc-an,commune,22
 00548,"Bình Phú","Xã Bình Phú, Tỉnh Đồng Tháp",binh-phu,commune,16
 00549,"Trị An","Xã Trị An, Tỉnh Đồng Nai",tri-an,commune,22
 00550,"Tân Hòa","Xã Tân Hòa, Thành phố Cần Thơ",tan-hoa,commune,32
 00551,"Phú Lộc","Xã Phú Lộc, Thành phố Cần Thơ",phu-loc,commune,32
-00552,"Đông Hà","Phường Đông Hà, Tỉnh Quảng Trị",ong-ha,ward,03
+00552,"Đông Hà","Phường Đông Hà, Tỉnh Quảng Trị",dong-ha,ward,03
 00553,"Tân Quới","Xã Tân Quới, Tỉnh Vĩnh Long",tan-quoi,commune,24
 00554,"Phước Hậu","Phường Phước Hậu, Tỉnh Vĩnh Long",phuoc-hau,ward,24
 00555,"Chân Mây – Lăng Cô","Xã Chân Mây – Lăng Cô, Thành phố Huế",chan-may-lang-co,commune,04
-00556,"Đông Hải","Phường Đông Hải, Thành phố Hải Phòng",ong-hai,ward,05
+00556,"Đông Hải","Phường Đông Hải, Thành phố Hải Phòng",dong-hai,ward,05
 00557,"Tân Yên","Xã Tân Yên, Tỉnh Bắc Ninh",tan-yen,commune,10
 00558,"Mỹ Phong","Phường Mỹ Phong, Tỉnh Đồng Tháp",my-phong,ward,16
 00559,"Tri Tôn","Xã Tri Tôn, Tỉnh An Giang",tri-ton,commune,18
 00560,"Hàm Thuận","Xã Hàm Thuận, Tỉnh Lâm Đồng",ham-thuan,commune,29
 00561,"Song Phú","Xã Song Phú, Tỉnh Vĩnh Long",song-phu,commune,24
 00562,"Phù Khê","Phường Phù Khê, Tỉnh Bắc Ninh",phu-khe,ward,10
-00563,"Bình Thạnh Đông","Xã Bình Thạnh Đông, Tỉnh An Giang",binh-thanh-ong,commune,18
+00563,"Bình Thạnh Đông","Xã Bình Thạnh Đông, Tỉnh An Giang",binh-thanh-dong,commune,18
 00564,"Châu Thành","Xã Châu Thành, Tỉnh Vĩnh Long",chau-thanh,commune,24
 00565,"Mỹ Ngãi","Phường Mỹ Ngãi, Tỉnh Đồng Tháp",my-ngai,ward,16
 00566,"An Khê","Phường An Khê, Tỉnh Gia Lai",an-khe,ward,28
-00567,"Cần Đước","Xã Cần Đước, Tỉnh Tây Ninh",can-uoc,commune,15
+00567,"Cần Đước","Xã Cần Đước, Tỉnh Tây Ninh",can-duoc,commune,15
 00568,"Nông Cống","Xã Nông Cống, Tỉnh Thanh Hoá",nong-cong,commune,07
-00569,"Đông Kinh","Phường Đông Kinh, Tỉnh Lạng Sơn",ong-kinh,ward,20
+00569,"Đông Kinh","Phường Đông Kinh, Tỉnh Lạng Sơn",dong-kinh,ward,20
 00570,"Chợ Vàm","Xã Chợ Vàm, Tỉnh An Giang",cho-vam,commune,18
-00571,"Thành Đông","Phường Thành Đông, Thành phố Hải Phòng",thanh-ong,ward,05
+00571,"Thành Đông","Phường Thành Đông, Thành phố Hải Phòng",thanh-dong,ward,05
 00572,"Mũi Né","Phường Mũi Né, Tỉnh Lâm Đồng",mui-ne,ward,29
 00573,"An Bình","Phường An Bình, Thành phố Cần Thơ",an-binh,ward,32
 00574,"An Long","Xã An Long, Tỉnh Đồng Tháp",an-long,commune,16
 00575,"Lý Văn Lâm","Phường Lý Văn Lâm, Tỉnh Cà Mau",ly-van-lam,ward,33
 00576,"Hòa Phú","Xã Hòa Phú, Thành phố Hà Nội",hoa-phu,commune,01
-00577,"Đức Hòa","Xã Đức Hòa, Tỉnh Tây Ninh",uc-hoa,commune,15
+00577,"Đức Hòa","Xã Đức Hòa, Tỉnh Tây Ninh",duc-hoa,commune,15
 00578,"Thái Mỹ","Xã Thái Mỹ, Thành phố Hồ Chí Minh",thai-my,commune,30
 00579,"Mỏ Cày","Xã Mỏ Cày, Tỉnh Vĩnh Long",mo-cay,commune,24
 00580,"Trí Phải","Xã Trí Phải, Tỉnh Cà Mau",tri-phai,commune,33
@@ -595,38 +595,38 @@ code,name,fullName,slug,type,provinceCode
 00594,"An Nhơn","Phường An Nhơn, Tỉnh Gia Lai",an-nhon,ward,28
 00595,"Phú Thiện","Xã Phú Thiện, Tỉnh Gia Lai",phu-thien,commune,28
 00596,"Lưu Kiếm","Phường Lưu Kiếm, Thành phố Hải Phòng",luu-kiem,ward,05
-00597,"Hưng Đạo","Xã Hưng Đạo, Thành phố Hà Nội",hung-ao,commune,01
+00597,"Hưng Đạo","Xã Hưng Đạo, Thành phố Hà Nội",hung-dao,commune,01
 00598,"Trương Quang Trọng","Phường Trương Quang Trọng, Tỉnh Quảng Ngãi",truong-quang-trong,ward,23
 00599,"Mỹ Yên","Xã Mỹ Yên, Tỉnh Tây Ninh",my-yen,commune,15
 00600,"Bến Cầu","Xã Bến Cầu, Tỉnh Tây Ninh",ben-cau,commune,15
-00601,"Điện Biên Phủ","Phường Điện Biên Phủ, Tỉnh Điện Biên",ien-bien-phu,ward,21
+00601,"Điện Biên Phủ","Phường Điện Biên Phủ, Tỉnh Điện Biên",dien-bien-phu,ward,21
 00602,"Phổ Yên","Phường Phổ Yên, Tỉnh Thái Nguyên",pho-yen,ward,19
-00603,"Đông Hưng","Xã Đông Hưng, Tỉnh Hưng Yên",ong-hung,commune,02
+00603,"Đông Hưng","Xã Đông Hưng, Tỉnh Hưng Yên",dong-hung,commune,02
 00604,"Ngãi Giao","Xã Ngãi Giao, Thành phố Hồ Chí Minh",ngai-giao,commune,30
 00605,"An Phú","Xã An Phú, Tỉnh An Giang",an-phu,commune,18
 00606,"Kim Long","Phường Kim Long, Thành phố Huế",kim-long,ward,04
 00607,"Hải Vân","Phường Hải Vân, Thành phố Đà Nẵng",hai-van,ward,12
 00608,"Bát Tràng","Xã Bát Tràng, Thành phố Hà Nội",bat-trang,commune,01
 00609,"Tây Sơn","Xã Tây Sơn, Tỉnh Gia Lai",tay-son,commune,28
-00610,"Cam Ly - Đà Lạt","Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng",cam-ly-a-lat,ward,29
+00610,"Cam Ly - Đà Lạt","Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng",cam-ly-da-lat,ward,29
 00611,"Thiệu Hóa","Xã Thiệu Hóa, Tỉnh Thanh Hoá",thieu-hoa,commune,07
 00612,"Hòa Phú","Xã Hòa Phú, Tỉnh Đắk Lắk",hoa-phu,commune,27
 00613,"Ngãi Tứ","Xã Ngãi Tứ, Tỉnh Vĩnh Long",ngai-tu,commune,24
 00614,"Khoái Châu","Xã Khoái Châu, Tỉnh Hưng Yên",khoai-chau,commune,02
 00615,"Thống Nhất","Phường Thống Nhất, Tỉnh Gia Lai",thong-nhat,ward,28
-00616,"Đinh Văn - Lâm Hà","Xã Đinh Văn - Lâm Hà, Tỉnh Lâm Đồng",inh-van-lam-ha,commune,29
-00617,"Xuân Đỉnh","Phường Xuân Đỉnh, Thành phố Hà Nội",xuan-inh,ward,01
+00616,"Đinh Văn - Lâm Hà","Xã Đinh Văn - Lâm Hà, Tỉnh Lâm Đồng",dinh-van-lam-ha,commune,29
+00617,"Xuân Đỉnh","Phường Xuân Đỉnh, Thành phố Hà Nội",xuan-dinh,ward,01
 00618,"Ea Phê","Xã Ea Phê, Tỉnh Đắk Lắk",ea-phe,commune,27
 00619,"Long Hưng","Xã Long Hưng, Tỉnh Hưng Yên",long-hung,commune,02
-00620,"Đức Lập","Xã Đức Lập, Tỉnh Lâm Đồng",uc-lap,commune,29
+00620,"Đức Lập","Xã Đức Lập, Tỉnh Lâm Đồng",duc-lap,commune,29
 00621,"Kim Anh","Xã Kim Anh, Thành phố Hà Nội",kim-anh,commune,01
-00622,"Tân Định","Phường Tân Định, Thành phố Hồ Chí Minh",tan-inh,ward,30
+00622,"Tân Định","Phường Tân Định, Thành phố Hồ Chí Minh",tan-dinh,ward,30
 00623,"Krông Ana","Xã Krông Ana, Tỉnh Đắk Lắk",krong-ana,commune,27
 00624,"Xuân Hòa","Phường Xuân Hòa, Thành phố Hồ Chí Minh",xuan-hoa,ward,30
-00625,"Long Định","Xã Long Định, Tỉnh Đồng Tháp",long-inh,commune,16
+00625,"Long Định","Xã Long Định, Tỉnh Đồng Tháp",long-dinh,commune,16
 00626,"Tam Phước","Phường Tam Phước, Tỉnh Đồng Nai",tam-phuoc,ward,22
 00627,"Xuân Lãng","Xã Xuân Lãng, Tỉnh Phú Thọ",xuan-lang,commune,06
-00628,"Long Điền","Xã Long Điền, Thành phố Hồ Chí Minh",long-ien,commune,30
+00628,"Long Điền","Xã Long Điền, Thành phố Hồ Chí Minh",long-dien,commune,30
 00629,"Kiến Xương","Xã Kiến Xương, Tỉnh Hưng Yên",kien-xuong,commune,02
 00630,"Tam Dương","Xã Tam Dương, Tỉnh Phú Thọ",tam-duong,commune,06
 00631,"Ngọc Sơn","Phường Ngọc Sơn, Tỉnh Thanh Hoá",ngoc-son,ward,07
@@ -636,11 +636,11 @@ code,name,fullName,slug,type,provinceCode
 00635,"Liên Minh","Xã Liên Minh, Thành phố Hà Nội",lien-minh,commune,01
 00636,"Hà Lầm","Phường Hà Lầm, Tỉnh Quảng Ninh",ha-lam,ward,08
 00637,"Phú Vinh","Xã Phú Vinh, Thành phố Huế",phu-vinh,commune,04
-00638,"Đông Hòa","Phường Đông Hòa, Tỉnh Đắk Lắk",ong-hoa,ward,27
-00639,"Đan Phượng","Xã Đan Phượng, Thành phố Hà Nội",an-phuong,commune,01
-00640,"Xuân Đông","Xã Xuân Đông, Tỉnh Đồng Nai",xuan-ong,commune,22
+00638,"Đông Hòa","Phường Đông Hòa, Tỉnh Đắk Lắk",dong-hoa,ward,27
+00639,"Đan Phượng","Xã Đan Phượng, Thành phố Hà Nội",dan-phuong,commune,01
+00640,"Xuân Đông","Xã Xuân Đông, Tỉnh Đồng Nai",xuan-dong,commune,22
 00641,"Trần Phú","Xã Trần Phú, Thành phố Hà Nội",tran-phu,commune,01
-00642,"Hoài Đức","Xã Hoài Đức, Tỉnh Lâm Đồng",hoai-uc,commune,29
+00642,"Hoài Đức","Xã Hoài Đức, Tỉnh Lâm Đồng",hoai-duc,commune,29
 00643,"Thanh Bình","Xã Thanh Bình, Tỉnh Đồng Tháp",thanh-binh,commune,16
 00644,"Vĩnh Tường","Xã Vĩnh Tường, Tỉnh Phú Thọ",vinh-tuong,commune,06
 00645,"Long Hưng","Xã Long Hưng, Tỉnh Đồng Tháp",long-hung,commune,16
@@ -651,7 +651,7 @@ code,name,fullName,slug,type,provinceCode
 00650,"Nga Sơn","Xã Nga Sơn, Tỉnh Thanh Hoá",nga-son,commune,07
 00651,"Hoà Bình","Phường Hoà Bình, Thành phố Hải Phòng",hoa-binh,ward,05
 00652,"Hòa Thành","Phường Hòa Thành, Tỉnh Cà Mau",hoa-thanh,ward,33
-00653,"Quy Nhơn Đông","Phường Quy Nhơn Đông, Tỉnh Gia Lai",quy-nhon-ong,ward,28
+00653,"Quy Nhơn Đông","Phường Quy Nhơn Đông, Tỉnh Gia Lai",quy-nhon-dong,ward,28
 00654,"Cẩm Khê","Xã Cẩm Khê, Tỉnh Phú Thọ",cam-khe,commune,06
 00655,"Phú Khương","Phường Phú Khương, Tỉnh Vĩnh Long",phu-khuong,ward,24
 00656,"Sài Gòn","Phường Sài Gòn, Thành phố Hồ Chí Minh",sai-gon,ward,30
@@ -678,17 +678,17 @@ code,name,fullName,slug,type,provinceCode
 00677,"Mỹ Thái","Xã Mỹ Thái, Tỉnh Bắc Ninh",my-thai,commune,10
 00678,"Bình Nguyên","Xã Bình Nguyên, Tỉnh Phú Thọ",binh-nguyen,commune,06
 00679,"Hội Phú","Phường Hội Phú, Tỉnh Gia Lai",hoi-phu,ward,28
-00680,"Sông Đốc","Xã Sông Đốc, Tỉnh Cà Mau",song-oc,commune,33
+00680,"Sông Đốc","Xã Sông Đốc, Tỉnh Cà Mau",song-doc,commune,33
 00681,"Thanh Hưng","Xã Thanh Hưng, Tỉnh Đồng Tháp",thanh-hung,commune,16
 00682,"U Minh Thượng","Xã U Minh Thượng, Tỉnh An Giang",u-minh-thuong,commune,18
 00683,"Phú Thái","Xã Phú Thái, Thành phố Hải Phòng",phu-thai,commune,05
 00684,"Bình Quới","Phường Bình Quới, Thành phố Hồ Chí Minh",binh-quoi,ward,30
 00685,"Xà Phiên","Xã Xà Phiên, Thành phố Cần Thơ",xa-phien,commune,32
 00686,"Phú An","Phường Phú An, Thành phố Hồ Chí Minh",phu-an,ward,30
-00687,"Đông Thành","Xã Đông Thành, Tỉnh Nghệ An",ong-thanh,commune,11
+00687,"Đông Thành","Xã Đông Thành, Tỉnh Nghệ An",dong-thanh,commune,11
 00688,"Tân Dương","Xã Tân Dương, Tỉnh Đồng Tháp",tan-duong,commune,16
 00689,"Xuân Giang","Xã Xuân Giang, Tỉnh Ninh Bình",xuan-giang,commune,13
-00690,"Đồng Nguyên","Phường Đồng Nguyên, Tỉnh Bắc Ninh",ong-nguyen,ward,10
+00690,"Đồng Nguyên","Phường Đồng Nguyên, Tỉnh Bắc Ninh",dong-nguyen,ward,10
 00691,"Nghi Lộc","Xã Nghi Lộc, Tỉnh Nghệ An",nghi-loc,commune,11
 00692,"Bỉm Sơn","Phường Bỉm Sơn, Tỉnh Thanh Hoá",bim-son,ward,07
 00693,"Bảo An","Phường Bảo An, Tỉnh Khánh Hòa",bao-an,ward,14
@@ -697,9 +697,9 @@ code,name,fullName,slug,type,provinceCode
 00696,"Quy Nhơn Bắc","Phường Quy Nhơn Bắc, Tỉnh Gia Lai",quy-nhon-bac,ward,28
 00697,"Tân Thủy","Xã Tân Thủy, Tỉnh Vĩnh Long",tan-thuy,commune,24
 00698,"Cẩm Mỹ","Xã Cẩm Mỹ, Tỉnh Đồng Nai",cam-my,commune,22
-00699,"Trần Hưng Đạo","Phường Trần Hưng Đạo, Tỉnh Hưng Yên",tran-hung-ao,ward,02
-00700,"Đồng Phú","Xã Đồng Phú, Tỉnh Đồng Nai",ong-phu,commune,22
-00701,"Đề Gi","Xã Đề Gi, Tỉnh Gia Lai",e-gi,commune,28
+00699,"Trần Hưng Đạo","Phường Trần Hưng Đạo, Tỉnh Hưng Yên",tran-hung-dao,ward,02
+00700,"Đồng Phú","Xã Đồng Phú, Tỉnh Đồng Nai",dong-phu,commune,22
+00701,"Đề Gi","Xã Đề Gi, Tỉnh Gia Lai",de-gi,commune,28
 00702,"Trà Câu","Phường Trà Câu, Tỉnh Quảng Ngãi",tra-cau,ward,23
 00703,"An Trường","Xã An Trường, Tỉnh Vĩnh Long",an-truong,commune,24
 00704,"Vũ Ninh","Phường Vũ Ninh, Tỉnh Bắc Ninh",vu-ninh,ward,10
@@ -710,10 +710,10 @@ code,name,fullName,slug,type,provinceCode
 00709,"Lương Sơn","Xã Lương Sơn, Tỉnh Phú Thọ",luong-son,commune,06
 00710,"Vĩnh Bảo","Xã Vĩnh Bảo, Thành phố Hải Phòng",vinh-bao,commune,05
 00711,"Long Tuyền","Phường Long Tuyền, Thành phố Cần Thơ",long-tuyen,ward,32
-00712,"Đông Hòa","Xã Đông Hòa, Tỉnh An Giang",ong-hoa,commune,18
+00712,"Đông Hòa","Xã Đông Hòa, Tỉnh An Giang",dong-hoa,commune,18
 00713,"Hải Hậu","Xã Hải Hậu, Tỉnh Ninh Bình",hai-hau,commune,13
 00714,"Diên Khánh","Xã Diên Khánh, Tỉnh Khánh Hòa",dien-khanh,commune,14
-00715,"Đơn Dương","Xã Đơn Dương, Tỉnh Lâm Đồng",on-duong,commune,29
+00715,"Đơn Dương","Xã Đơn Dương, Tỉnh Lâm Đồng",don-duong,commune,29
 00716,"Thiên Hương","Phường Thiên Hương, Thành phố Hải Phòng",thien-huong,ward,05
 00717,"Xuân Hải","Xã Xuân Hải, Tỉnh Khánh Hòa",xuan-hai,commune,14
 00718,"Phù Ninh","Xã Phù Ninh, Tỉnh Phú Thọ",phu-ninh,commune,06
@@ -731,14 +731,14 @@ code,name,fullName,slug,type,provinceCode
 00730,"Gò Quao","Xã Gò Quao, Tỉnh An Giang",go-quao,commune,18
 00731,"An Phong","Phường An Phong, Thành phố Hải Phòng",an-phong,ward,05
 00732,"Sao Vàng","Xã Sao Vàng, Tỉnh Thanh Hoá",sao-vang,commune,07
-00733,"Hoài Nhơn Đông","Phường Hoài Nhơn Đông, Tỉnh Gia Lai",hoai-nhon-ong,ward,28
+00733,"Hoài Nhơn Đông","Phường Hoài Nhơn Đông, Tỉnh Gia Lai",hoai-nhon-dong,ward,28
 00734,"Hoài Nhơn Bắc","Phường Hoài Nhơn Bắc, Tỉnh Gia Lai",hoai-nhon-bac,ward,28
 00735,"Triệu Việt Vương","Xã Triệu Việt Vương, Tỉnh Hưng Yên",trieu-viet-vuong,commune,02
 00736,"Vĩnh Bình","Xã Vĩnh Bình, Tỉnh Đồng Tháp",vinh-binh,commune,16
-00737,"Thạnh Đức","Xã Thạnh Đức, Tỉnh Tây Ninh",thanh-uc,commune,15
+00737,"Thạnh Đức","Xã Thạnh Đức, Tỉnh Tây Ninh",thanh-duc,commune,15
 00738,"Thủ Thừa","Xã Thủ Thừa, Tỉnh Tây Ninh",thu-thua,commune,15
 00739,"Hoàng Mai","Phường Hoàng Mai, Tỉnh Nghệ An",hoang-mai,ward,11
-00740,"Điện Bàn Tây","Xã Điện Bàn Tây, Thành phố Đà Nẵng",ien-ban-tay,commune,12
+00740,"Điện Bàn Tây","Xã Điện Bàn Tây, Thành phố Đà Nẵng",dien-ban-tay,commune,12
 00741,"Tháp Mười","Xã Tháp Mười, Tỉnh Đồng Tháp",thap-muoi,commune,16
 00742,"Bình Kiến","Phường Bình Kiến, Tỉnh Đắk Lắk",binh-kien,ward,27
 00743,"Minh Châu","Xã Minh Châu, Tỉnh Nghệ An",minh-chau,commune,11
@@ -755,28 +755,28 @@ code,name,fullName,slug,type,provinceCode
 00754,"Vũ Thư","Xã Vũ Thư, Tỉnh Hưng Yên",vu-thu,commune,02
 00755,"Phú Lương","Xã Phú Lương, Tỉnh Thái Nguyên",phu-luong,commune,19
 00756,"Ngọc Hồi","Xã Ngọc Hồi, Thành phố Hà Nội",ngoc-hoi,commune,01
-00757,"Đất Đỏ","Xã Đất Đỏ, Thành phố Hồ Chí Minh",at-o,commune,30
+00757,"Đất Đỏ","Xã Đất Đỏ, Thành phố Hồ Chí Minh",dat-do,commune,30
 00758,"Hoằng Hóa","Xã Hoằng Hóa, Tỉnh Thanh Hoá",hoang-hoa,commune,07
 00759,"Nhị Chiểu","Phường Nhị Chiểu, Thành phố Hải Phòng",nhi-chieu,ward,05
 00760,"Ea Knuếc","Xã Ea Knuếc, Tỉnh Đắk Lắk",ea-knuec,commune,27
-00761,"Đông Triều","Phường Đông Triều, Tỉnh Quảng Ninh",ong-trieu,ward,08
+00761,"Đông Triều","Phường Đông Triều, Tỉnh Quảng Ninh",dong-trieu,ward,08
 00762,"Ea Nuôl","Xã Ea Nuôl, Tỉnh Đắk Lắk",ea-nuol,commune,27
 00763,"Krông Năng","Xã Krông Năng, Tỉnh Đắk Lắk",krong-nang,commune,27
 00764,"Bắc Cam Ranh","Phường Bắc Cam Ranh, Tỉnh Khánh Hòa",bac-cam-ranh,ward,14
 00765,"Phước Hải","Xã Phước Hải, Thành phố Hồ Chí Minh",phuoc-hai,commune,30
-00766,"Đại Hải","Xã Đại Hải, Thành phố Cần Thơ",ai-hai,commune,32
+00766,"Đại Hải","Xã Đại Hải, Thành phố Cần Thơ",dai-hai,commune,32
 00767,"Vĩnh Bình","Xã Vĩnh Bình, Tỉnh An Giang",vinh-binh,commune,18
 00768,"Thanh Thủy","Phường Thanh Thủy, Thành phố Huế",thanh-thuy,ward,04
 00769,"Hoàn Lão","Xã Hoàn Lão, Tỉnh Quảng Trị",hoan-lao,commune,03
-00770,"Thanh Điền","Phường Thanh Điền, Tỉnh Tây Ninh",thanh-ien,ward,15
+00770,"Thanh Điền","Phường Thanh Điền, Tỉnh Tây Ninh",thanh-dien,ward,15
 00771,"Nam Sơn","Phường Nam Sơn, Tỉnh Bắc Ninh",nam-son,ward,10
 00772,"Việt Yên","Xã Việt Yên, Tỉnh Hưng Yên",viet-yen,commune,02
-00773,"Đông Ninh Hòa","Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",ong-ninh-hoa,ward,14
+00773,"Đông Ninh Hòa","Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",dong-ninh-hoa,ward,14
 00774,"An Châu","Xã An Châu, Tỉnh Nghệ An",an-chau,commune,11
-00775,"Phù Mỹ Đông","Xã Phù Mỹ Đông, Tỉnh Gia Lai",phu-my-ong,commune,28
+00775,"Phù Mỹ Đông","Xã Phù Mỹ Đông, Tỉnh Gia Lai",phu-my-dong,commune,28
 00776,"Thủy Xuân","Phường Thủy Xuân, Thành phố Huế",thuy-xuan,ward,04
 00777,"Phú Cát","Xã Phú Cát, Thành phố Hà Nội",phu-cat,commune,01
-00778,"Mao Điền","Xã Mao Điền, Thành phố Hải Phòng",mao-ien,commune,05
+00778,"Mao Điền","Xã Mao Điền, Thành phố Hải Phòng",mao-dien,commune,05
 00779,"Kế Sách","Xã Kế Sách, Thành phố Cần Thơ",ke-sach,commune,32
 00780,"Vĩnh Phong","Xã Vĩnh Phong, Tỉnh An Giang",vinh-phong,commune,18
 00781,"Thổ Tang","Xã Thổ Tang, Tỉnh Phú Thọ",tho-tang,commune,06
@@ -790,9 +790,9 @@ code,name,fullName,slug,type,provinceCode
 00789,"Phước Lý","Xã Phước Lý, Tỉnh Tây Ninh",phuoc-ly,commune,15
 00790,"Tam Xuân","Xã Tam Xuân, Thành phố Đà Nẵng",tam-xuan,commune,12
 00791,"Yên Cường","Xã Yên Cường, Tỉnh Ninh Bình",yen-cuong,commune,13
-00792,"Mão Điền","Phường Mão Điền, Tỉnh Bắc Ninh",mao-ien,ward,10
+00792,"Mão Điền","Phường Mão Điền, Tỉnh Bắc Ninh",mao-dien,ward,10
 00793,"Nam Phù","Xã Nam Phù, Thành phố Hà Nội",nam-phu,commune,01
-00794,"Bình Định","Phường Bình Định, Tỉnh Gia Lai",binh-inh,ward,28
+00794,"Bình Định","Phường Bình Định, Tỉnh Gia Lai",binh-dinh,ward,28
 00795,"Vị Thanh 1","Xã Vị Thanh 1, Thành phố Cần Thơ",vi-thanh-1,commune,32
 00796,"Gia Bình","Xã Gia Bình, Tỉnh Bắc Ninh",gia-binh,commune,10
 00797,"Khánh Bình","Xã Khánh Bình, Tỉnh An Giang",khanh-binh,commune,18
@@ -809,26 +809,26 @@ code,name,fullName,slug,type,provinceCode
 00808,"Vĩnh Xuân","Xã Vĩnh Xuân, Tỉnh Vĩnh Long",vinh-xuan,commune,24
 00809,"Hội An Tây","Phường Hội An Tây, Thành phố Đà Nẵng",hoi-an-tay,ward,12
 00810,"Lục Ngạn","Xã Lục Ngạn, Tỉnh Bắc Ninh",luc-ngan,commune,10
-00811,"Định Mỹ","Xã Định Mỹ, Tỉnh An Giang",inh-my,commune,18
+00811,"Định Mỹ","Xã Định Mỹ, Tỉnh An Giang",dinh-my,commune,18
 00812,"Quan Triều","Phường Quan Triều, Tỉnh Thái Nguyên",quan-trieu,ward,19
-00813,"Thăng Điền","Xã Thăng Điền, Thành phố Đà Nẵng",thang-ien,commune,12
+00813,"Thăng Điền","Xã Thăng Điền, Thành phố Đà Nẵng",thang-dien,commune,12
 00814,"Thạnh Phú","Xã Thạnh Phú, Tỉnh Vĩnh Long",thanh-phu,commune,24
 00815,"Phương Liễu","Phường Phương Liễu, Tỉnh Bắc Ninh",phuong-lieu,ward,10
 00816,"Long Thạnh","Xã Long Thạnh, Tỉnh An Giang",long-thanh,commune,18
 00817,"Kha Sơn","Xã Kha Sơn, Tỉnh Thái Nguyên",kha-son,commune,19
 00818,"Bàu Bàng","Xã Bàu Bàng, Thành phố Hồ Chí Minh",bau-bang,commune,30
 00819,"Nhơn Mỹ","Xã Nhơn Mỹ, Thành phố Cần Thơ",nhon-my,commune,32
-00820,"Lạc Đạo","Xã Lạc Đạo, Tỉnh Hưng Yên",lac-ao,commune,02
-00821,"Cờ Đỏ","Xã Cờ Đỏ, Thành phố Cần Thơ",co-o,commune,32
+00820,"Lạc Đạo","Xã Lạc Đạo, Tỉnh Hưng Yên",lac-dao,commune,02
+00821,"Cờ Đỏ","Xã Cờ Đỏ, Thành phố Cần Thơ",co-do,commune,32
 00822,"Ea Na","Xã Ea Na, Tỉnh Đắk Lắk",ea-na,commune,27
 00823,"Bãi Cháy","Phường Bãi Cháy, Tỉnh Quảng Ninh",bai-chay,ward,08
 00824,"Tùng Thiện","Phường Tùng Thiện, Thành phố Hà Nội",tung-thien,ward,01
 00825,"Tân Lạc","Xã Tân Lạc, Tỉnh Phú Thọ",tan-lac,commune,06
 00826,"Sơn Dương","Xã Sơn Dương, Tỉnh Tuyên Quang",son-duong,commune,34
 00827,"Tân An","Xã Tân An, Tỉnh An Giang",tan-an,commune,18
-00828,"Điềm Thụy","Xã Điềm Thụy, Tỉnh Thái Nguyên",iem-thuy,commune,19
-00829,"Quảng Điền","Xã Quảng Điền, Thành phố Huế",quang-ien,commune,04
-00830,"Đông Thành","Phường Đông Thành, Tỉnh Vĩnh Long",ong-thanh,ward,24
+00828,"Điềm Thụy","Xã Điềm Thụy, Tỉnh Thái Nguyên",diem-thuy,commune,19
+00829,"Quảng Điền","Xã Quảng Điền, Thành phố Huế",quang-dien,commune,04
+00830,"Đông Thành","Phường Đông Thành, Tỉnh Vĩnh Long",dong-thanh,ward,24
 00831,"Giao Hoà","Xã Giao Hoà, Tỉnh Ninh Bình",giao-hoa,commune,13
 00832,"Hoàng Văn Thụ","Phường Hoàng Văn Thụ, Tỉnh Lạng Sơn",hoang-van-thu,ward,20
 00833,"Tu Vũ","Xã Tu Vũ, Tỉnh Phú Thọ",tu-vu,commune,06
@@ -838,13 +838,13 @@ code,name,fullName,slug,type,provinceCode
 00837,"Bồng Sơn","Phường Bồng Sơn, Tỉnh Gia Lai",bong-son,ward,28
 00838,"Vũ Phúc","Phường Vũ Phúc, Tỉnh Hưng Yên",vu-phuc,ward,02
 00839,"Hoa Lộc","Xã Hoa Lộc, Tỉnh Thanh Hoá",hoa-loc,commune,07
-00840,"Đức Thịnh","Xã Đức Thịnh, Tỉnh Hà Tĩnh",uc-thinh,commune,17
+00840,"Đức Thịnh","Xã Đức Thịnh, Tỉnh Hà Tĩnh",duc-thinh,commune,17
 00841,"Vĩnh Xương","Xã Vĩnh Xương, Tỉnh An Giang",vinh-xuong,commune,18
-00842,"Đức Phổ","Phường Đức Phổ, Tỉnh Quảng Ngãi",uc-pho,ward,23
+00842,"Đức Phổ","Phường Đức Phổ, Tỉnh Quảng Ngãi",duc-pho,ward,23
 00843,"Phượng Sơn","Phường Phượng Sơn, Tỉnh Bắc Ninh",phuong-son,ward,10
 00844,"Hóa Châu","Phường Hóa Châu, Thành phố Huế",hoa-chau,ward,04
 00845,"Phú Hòa","Xã Phú Hòa, Tỉnh An Giang",phu-hoa,commune,18
-00846,"Điện Bàn","Phường Điện Bàn, Thành phố Đà Nẵng",ien-ban,ward,12
+00846,"Điện Bàn","Phường Điện Bàn, Thành phố Đà Nẵng",dien-ban,ward,12
 00847,"Phú Hữu","Xã Phú Hữu, Thành phố Cần Thơ",phu-huu,commune,32
 00848,"Khánh Hưng","Xã Khánh Hưng, Tỉnh Cà Mau",khanh-hung,commune,33
 00849,"Tân Hòa","Xã Tân Hòa, Tỉnh Vĩnh Long",tan-hoa,commune,24
@@ -855,14 +855,14 @@ code,name,fullName,slug,type,provinceCode
 00854,"Bình Long","Phường Bình Long, Tỉnh Đồng Nai",binh-long,ward,22
 00855,"Phùng Nguyên","Xã Phùng Nguyên, Tỉnh Phú Thọ",phung-nguyen,commune,06
 00856,"Thạnh Xuân","Xã Thạnh Xuân, Thành phố Cần Thơ",thanh-xuan,commune,32
-00857,"Đá Bạc","Xã Đá Bạc, Tỉnh Cà Mau",a-bac,commune,33
+00857,"Đá Bạc","Xã Đá Bạc, Tỉnh Cà Mau",da-bac,commune,33
 00858,"Quảng Hà","Xã Quảng Hà, Tỉnh Quảng Ninh",quang-ha,commune,08
 00859,"Biển Hồ","Xã Biển Hồ, Tỉnh Gia Lai",bien-ho,commune,28
 00860,"Lộc Hà","Xã Lộc Hà, Tỉnh Hà Tĩnh",loc-ha,commune,17
 00861,"Hoà Thành","Phường Hoà Thành, Tỉnh Tây Ninh",hoa-thanh,ward,15
 00862,"Yên Sở","Phường Yên Sở, Thành phố Hà Nội",yen-so,ward,01
 00863,"Phù Vân","Phường Phù Vân, Tỉnh Ninh Bình",phu-van,ward,13
-00864,"Đức Châu","Xã Đức Châu, Tỉnh Nghệ An",uc-chau,commune,11
+00864,"Đức Châu","Xã Đức Châu, Tỉnh Nghệ An",duc-chau,commune,11
 00865,"An Nhơn Tây","Xã An Nhơn Tây, Thành phố Hồ Chí Minh",an-nhon-tay,commune,30
 00866,"Thiên Nhẫn","Xã Thiên Nhẫn, Tỉnh Nghệ An",thien-nhan,commune,11
 00867,"Sơn Hòa","Xã Sơn Hòa, Tỉnh Đắk Lắk",son-hoa,commune,27
@@ -879,17 +879,17 @@ code,name,fullName,slug,type,provinceCode
 00878,"Xuân Lâm","Xã Xuân Lâm, Tỉnh Nghệ An",xuan-lam,commune,11
 00879,"Hà Tiên","Phường Hà Tiên, Tỉnh An Giang",ha-tien,ward,18
 00880,"Văn Giang","Xã Văn Giang, Tỉnh Hưng Yên",van-giang,commune,02
-00881,"Tân Định","Xã Tân Định, Tỉnh Khánh Hòa",tan-inh,commune,14
+00881,"Tân Định","Xã Tân Định, Tỉnh Khánh Hòa",tan-dinh,commune,14
 00882,"Tiên Lãng","Xã Tiên Lãng, Thành phố Hải Phòng",tien-lang,commune,05
-00883,"Đồng Sơn","Xã Đồng Sơn, Tỉnh Đồng Tháp",ong-son,commune,16
-00884,"Đan Điền","Xã Đan Điền, Thành phố Huế",an-ien,commune,04
+00883,"Đồng Sơn","Xã Đồng Sơn, Tỉnh Đồng Tháp",dong-son,commune,16
+00884,"Đan Điền","Xã Đan Điền, Thành phố Huế",dan-dien,commune,04
 00885,"Lưu Vệ","Xã Lưu Vệ, Tỉnh Thanh Hoá",luu-ve,commune,07
 00886,"Vĩnh Lộc","Xã Vĩnh Lộc, Tỉnh Thanh Hoá",vinh-loc,commune,07
 00887,"Thuần Trung","Xã Thuần Trung, Tỉnh Nghệ An",thuan-trung,commune,11
 00888,"Tam Ngãi","Xã Tam Ngãi, Tỉnh Vĩnh Long",tam-ngai,commune,24
 00889,"Ô Loan","Xã Ô Loan, Tỉnh Đắk Lắk",o-loan,commune,27
 00890,"Hưng Mỹ","Xã Hưng Mỹ, Tỉnh Vĩnh Long",hung-my,commune,24
-00891,"Nhuận Đức","Xã Nhuận Đức, Thành phố Hồ Chí Minh",nhuan-uc,commune,30
+00891,"Nhuận Đức","Xã Nhuận Đức, Thành phố Hồ Chí Minh",nhuan-duc,commune,30
 00892,"Tam Hồng","Xã Tam Hồng, Tỉnh Phú Thọ",tam-hong,commune,06
 00893,"Nam Triệu","Phường Nam Triệu, Thành phố Hải Phòng",nam-trieu,ward,05
 00894,"Vĩnh Tế","Phường Vĩnh Tế, Tỉnh An Giang",vinh-te,ward,18
@@ -903,12 +903,12 @@ code,name,fullName,slug,type,provinceCode
 00902,"Giao Long","Xã Giao Long, Tỉnh Vĩnh Long",giao-long,commune,24
 00903,"Gia Hòa","Xã Gia Hòa, Thành phố Cần Thơ",gia-hoa,commune,32
 00904,"Yên Khánh","Xã Yên Khánh, Tỉnh Ninh Bình",yen-khanh,commune,13
-00905,"Tuy An Đông","Xã Tuy An Đông, Tỉnh Đắk Lắk",tuy-an-ong,commune,27
-00906,"Đông Phước","Xã Đông Phước, Thành phố Cần Thơ",ong-phuoc,commune,32
+00905,"Tuy An Đông","Xã Tuy An Đông, Tỉnh Đắk Lắk",tuy-an-dong,commune,27
+00906,"Đông Phước","Xã Đông Phước, Thành phố Cần Thơ",dong-phuoc,commune,32
 00907,"Hậu Mỹ","Xã Hậu Mỹ, Tỉnh Đồng Tháp",hau-my,commune,16
 00908,"Bất Bạt","Xã Bất Bạt, Thành phố Hà Nội",bat-bat,commune,01
-00909,"Đức Thọ","Xã Đức Thọ, Tỉnh Hà Tĩnh",uc-tho,commune,17
-00910,"Langbiang - Đà Lạt","Phường Langbiang - Đà Lạt, Tỉnh Lâm Đồng",langbiang-a-lat,ward,29
+00909,"Đức Thọ","Xã Đức Thọ, Tỉnh Hà Tĩnh",duc-tho,commune,17
+00910,"Langbiang - Đà Lạt","Phường Langbiang - Đà Lạt, Tỉnh Lâm Đồng",langbiang-da-lat,ward,29
 00911,"Tân Thuận Bình","Xã Tân Thuận Bình, Tỉnh Đồng Tháp",tan-thuan-binh,commune,16
 00912,"Phú An","Xã Phú An, Tỉnh An Giang",phu-an,commune,18
 00913,"Thọ Phú","Xã Thọ Phú, Tỉnh Thanh Hoá",tho-phu,commune,07
@@ -917,10 +917,10 @@ code,name,fullName,slug,type,provinceCode
 00916,"Long Phụng","Xã Long Phụng, Tỉnh Quảng Ngãi",long-phung,commune,23
 00917,"Duy Tiên","Phường Duy Tiên, Tỉnh Ninh Bình",duy-tien,ward,13
 00918,"An Cư","Xã An Cư, Tỉnh An Giang",an-cu,commune,18
-00919,"Đoài Phương","Xã Đoài Phương, Thành phố Hà Nội",oai-phuong,commune,01
+00919,"Đoài Phương","Xã Đoài Phương, Thành phố Hà Nội",doai-phuong,commune,01
 00920,"Khánh Bình","Xã Khánh Bình, Tỉnh Cà Mau",khanh-binh,commune,33
 00921,"Nam Trực","Xã Nam Trực, Tỉnh Ninh Bình",nam-truc,commune,13
-00922,"Vĩnh Thuận Đông","Xã Vĩnh Thuận Đông, Thành phố Cần Thơ",vinh-thuan-ong,commune,32
+00922,"Vĩnh Thuận Đông","Xã Vĩnh Thuận Đông, Thành phố Cần Thơ",vinh-thuan-dong,commune,32
 00923,"Dray Bhăng","Xã Dray Bhăng, Tỉnh Đắk Lắk",dray-bhang,commune,27
 00924,"Hoà Bình","Xã Hoà Bình, Tỉnh Vĩnh Long",hoa-binh,commune,24
 00925,"Long Phú","Xã Long Phú, Thành phố Cần Thơ",long-phu,commune,32
@@ -935,7 +935,7 @@ code,name,fullName,slug,type,provinceCode
 00934,"Tây Tựu","Phường Tây Tựu, Thành phố Hà Nội",tay-tuu,ward,01
 00935,"Vũ Dương","Xã Vũ Dương, Tỉnh Ninh Bình",vu-duong,commune,13
 00936,"Lương Bằng","Xã Lương Bằng, Tỉnh Hưng Yên",luong-bang,commune,02
-00937,"Thới An Đông","Phường Thới An Đông, Thành phố Cần Thơ",thoi-an-ong,ward,32
+00937,"Thới An Đông","Phường Thới An Đông, Thành phố Cần Thơ",thoi-an-dong,ward,32
 00938,"Nghĩa Giang","Xã Nghĩa Giang, Tỉnh Quảng Ngãi",nghia-giang,commune,23
 00939,"Bạch Hà","Xã Bạch Hà, Tỉnh Nghệ An",bach-ha,commune,11
 00940,"Thuận Mỹ","Xã Thuận Mỹ, Tỉnh Tây Ninh",thuan-my,commune,15
@@ -943,7 +943,7 @@ code,name,fullName,slug,type,provinceCode
 00942,"Tân An","Xã Tân An, Tỉnh Đồng Nai",tan-an,commune,22
 00943,"Phong Nha","Xã Phong Nha, Tỉnh Quảng Trị",phong-nha,commune,03
 00944,"Phú Vang","Xã Phú Vang, Thành phố Huế",phu-vang,commune,04
-00945,"Đại Phúc","Xã Đại Phúc, Tỉnh Thái Nguyên",ai-phuc,commune,19
+00945,"Đại Phúc","Xã Đại Phúc, Tỉnh Thái Nguyên",dai-phuc,commune,19
 00946,"Lộc An","Xã Lộc An, Thành phố Huế",loc-an,commune,04
 00947,"Bình Phú","Xã Bình Phú, Tỉnh Vĩnh Long",binh-phu,commune,24
 00948,"Văn Hiến","Xã Văn Hiến, Tỉnh Nghệ An",van-hien,commune,11
@@ -952,11 +952,11 @@ code,name,fullName,slug,type,provinceCode
 00951,"Tam Hưng","Xã Tam Hưng, Thành phố Hà Nội",tam-hung,commune,01
 00952,"Dầu Tiếng","Xã Dầu Tiếng, Thành phố Hồ Chí Minh",dau-tieng,commune,30
 00953,"Cát Thành","Xã Cát Thành, Tỉnh Ninh Bình",cat-thanh,commune,13
-00954,"Đường Hào","Phường Đường Hào, Tỉnh Hưng Yên",uong-hao,ward,02
+00954,"Đường Hào","Phường Đường Hào, Tỉnh Hưng Yên",duong-hao,ward,02
 00955,"Tân Hà - Lâm Hà","Xã Tân Hà - Lâm Hà, Tỉnh Lâm Đồng",tan-ha-lam-ha,commune,29
 00956,"Vĩnh Lại","Xã Vĩnh Lại, Thành phố Hải Phòng",vinh-lai,commune,05
 00957,"Yên Tử","Phường Yên Tử, Tỉnh Quảng Ninh",yen-tu,ward,08
-00958,"Kiến Đức","Xã Kiến Đức, Tỉnh Lâm Đồng",kien-uc,commune,29
+00958,"Kiến Đức","Xã Kiến Đức, Tỉnh Lâm Đồng",kien-duc,commune,29
 00959,"Sông Cầu","Phường Sông Cầu, Tỉnh Đắk Lắk",song-cau,ward,27
 00960,"Bình An","Xã Bình An, Tỉnh Ninh Bình",binh-an,commune,13
 00961,"Khánh Lâm","Xã Khánh Lâm, Tỉnh Cà Mau",khanh-lam,commune,33
@@ -975,12 +975,12 @@ code,name,fullName,slug,type,provinceCode
 00974,"Vệ Giang","Xã Vệ Giang, Tỉnh Quảng Ngãi",ve-giang,commune,23
 00975,"Nghĩa Hưng","Xã Nghĩa Hưng, Tỉnh Ninh Bình",nghia-hung,commune,13
 00976,"Trung Kênh","Xã Trung Kênh, Tỉnh Bắc Ninh",trung-kenh,commune,10
-00977,"Yên Định","Xã Yên Định, Tỉnh Thanh Hoá",yen-inh,commune,07
+00977,"Yên Định","Xã Yên Định, Tỉnh Thanh Hoá",yen-dinh,commune,07
 00978,"Mỏ Cày","Xã Mỏ Cày, Tỉnh Quảng Ngãi",mo-cay,commune,23
 00979,"Chân Mộng","Xã Chân Mộng, Tỉnh Phú Thọ",chan-mong,commune,06
 00980,"Tân Tiến","Xã Tân Tiến, Tỉnh Đồng Nai",tan-tien,commune,22
 00981,"Cái Nhum","Xã Cái Nhum, Tỉnh Vĩnh Long",cai-nhum,commune,24
-00982,"Đồng Thuận","Phường Đồng Thuận, Tỉnh Quảng Trị",ong-thuan,ward,03
+00982,"Đồng Thuận","Phường Đồng Thuận, Tỉnh Quảng Trị",dong-thuan,ward,03
 00983,"Phú Phụng","Xã Phú Phụng, Tỉnh Vĩnh Long",phu-phung,commune,24
 00984,"Thới Sơn","Phường Thới Sơn, Tỉnh Đồng Tháp",thoi-son,ward,16
 00985,"An Nhơn Bắc","Phường An Nhơn Bắc, Tỉnh Gia Lai",an-nhon-bac,ward,28
@@ -989,7 +989,7 @@ code,name,fullName,slug,type,provinceCode
 00988,"Trần Phú","Phường Trần Phú, Tỉnh Hà Tĩnh",tran-phu,ward,17
 00989,"Nhu Gia","Xã Nhu Gia, Thành phố Cần Thơ",nhu-gia,commune,32
 00990,"Hoằng Thanh","Xã Hoằng Thanh, Tỉnh Thanh Hoá",hoang-thanh,commune,07
-00991,"Đông Thụy Anh","Xã Đông Thụy Anh, Tỉnh Hưng Yên",ong-thuy-anh,commune,02
+00991,"Đông Thụy Anh","Xã Đông Thụy Anh, Tỉnh Hưng Yên",dong-thuy-anh,commune,02
 00992,"Vô Tranh","Xã Vô Tranh, Tỉnh Thái Nguyên",vo-tranh,commune,19
 00993,"Thường Lạc","Phường Thường Lạc, Tỉnh Đồng Tháp",thuong-lac,ward,16
 00994,"Hà Nha","Xã Hà Nha, Thành phố Đà Nẵng",ha-nha,commune,12
@@ -998,11 +998,11 @@ code,name,fullName,slug,type,provinceCode
 00997,"Nam Minh","Xã Nam Minh, Tỉnh Ninh Bình",nam-minh,commune,13
 00998,"Bắc Lũng","Xã Bắc Lũng, Tỉnh Bắc Ninh",bac-lung,commune,10
 00999,"Thới Bình","Xã Thới Bình, Tỉnh Cà Mau",thoi-binh,commune,33
-01000,"Đầm Dơi","Xã Đầm Dơi, Tỉnh Cà Mau",am-doi,commune,33
+01000,"Đầm Dơi","Xã Đầm Dơi, Tỉnh Cà Mau",dam-doi,commune,33
 01001,"Mỹ Lộc","Phường Mỹ Lộc, Tỉnh Ninh Bình",my-loc,ward,13
 01002,"Mỹ Tú","Xã Mỹ Tú, Thành phố Cần Thơ",my-tu,commune,32
 01003,"Tân Bình","Xã Tân Bình, Thành phố Cần Thơ",tan-binh,commune,32
-01004,"Diên Điền","Xã Diên Điền, Tỉnh Khánh Hòa",dien-ien,commune,14
+01004,"Diên Điền","Xã Diên Điền, Tỉnh Khánh Hòa",dien-dien,commune,14
 01005,"Tiên Lương","Xã Tiên Lương, Tỉnh Phú Thọ",tien-luong,commune,06
 01006,"Kiến Thụy","Xã Kiến Thụy, Thành phố Hải Phòng",kien-thuy,commune,05
 01007,"Quảng Bình","Xã Quảng Bình, Tỉnh Thanh Hoá",quang-binh,commune,07
@@ -1012,7 +1012,7 @@ code,name,fullName,slug,type,provinceCode
 01011,"Hòa Hưng","Xã Hòa Hưng, Tỉnh An Giang",hoa-hung,commune,18
 01012,"Trà Ôn","Xã Trà Ôn, Tỉnh Vĩnh Long",tra-on,commune,24
 01013,"Ngã Bảy","Phường Ngã Bảy, Thành phố Cần Thơ",nga-bay,ward,32
-01014,"Hưng Đạo","Phường Hưng Đạo, Thành phố Hải Phòng",hung-ao,ward,05
+01014,"Hưng Đạo","Phường Hưng Đạo, Thành phố Hải Phòng",hung-dao,ward,05
 01015,"Tân An","Phường Tân An, Tỉnh Bắc Ninh",tan-an,ward,10
 01016,"Trường Thành","Xã Trường Thành, Thành phố Cần Thơ",truong-thanh,commune,32
 01017,"An Ninh","Xã An Ninh, Tỉnh Tây Ninh",an-ninh,commune,15
@@ -1020,7 +1020,7 @@ code,name,fullName,slug,type,provinceCode
 01019,"Bắc Gia Nghĩa","Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng",bac-gia-nghia,ward,29
 01020,"Nam Cường","Xã Nam Cường, Tỉnh Hưng Yên",nam-cuong,commune,02
 01021,"An Thạnh","Xã An Thạnh, Thành phố Cần Thơ",an-thanh,commune,32
-01022,"An Định","Xã An Định, Tỉnh Vĩnh Long",an-inh,commune,24
+01022,"An Định","Xã An Định, Tỉnh Vĩnh Long",an-dinh,commune,24
 01023,"Nam Ninh","Xã Nam Ninh, Tỉnh Ninh Bình",nam-ninh,commune,13
 01024,"Lương Hòa Lạc","Xã Lương Hòa Lạc, Tỉnh Đồng Tháp",luong-hoa-lac,commune,16
 01025,"Khánh Hòa","Phường Khánh Hòa, Thành phố Cần Thơ",khanh-hoa,ward,32
@@ -1044,7 +1044,7 @@ code,name,fullName,slug,type,provinceCode
 01043,"Sông Trí","Phường Sông Trí, Tỉnh Hà Tĩnh",song-tri,ward,17
 01044,"Nguyễn Việt Khái","Xã Nguyễn Việt Khái, Tỉnh Cà Mau",nguyen-viet-khai,commune,33
 01045,"Tam Dương Bắc","Xã Tam Dương Bắc, Tỉnh Phú Thọ",tam-duong-bac,commune,06
-01046,"Đại Điền","Xã Đại Điền, Tỉnh Vĩnh Long",ai-ien,commune,24
+01046,"Đại Điền","Xã Đại Điền, Tỉnh Vĩnh Long",dai-dien,commune,24
 01047,"Phú Túc","Xã Phú Túc, Tỉnh Gia Lai",phu-tuc,commune,28
 01048,"Tề Lỗ","Xã Tề Lỗ, Tỉnh Phú Thọ",te-lo,commune,06
 01049,"Phong Doanh","Xã Phong Doanh, Tỉnh Ninh Bình",phong-doanh,commune,13
@@ -1057,9 +1057,9 @@ code,name,fullName,slug,type,provinceCode
 01056,"Trung Thành","Phường Trung Thành, Tỉnh Thái Nguyên",trung-thanh,ward,19
 01057,"Nguyệt Hóa","Phường Nguyệt Hóa, Tỉnh Vĩnh Long",nguyet-hoa,ward,24
 01058,"Phạm Ngũ Lão","Xã Phạm Ngũ Lão, Tỉnh Hưng Yên",pham-ngu-lao,commune,02
-01059,"Đak Đoa","Xã Đak Đoa, Tỉnh Gia Lai",ak-oa,commune,28
+01059,"Đak Đoa","Xã Đak Đoa, Tỉnh Gia Lai",dak-doa,commune,28
 01060,"Bình Minh","Xã Bình Minh, Tỉnh Nghệ An",binh-minh,commune,11
-01061,"Đông Tiền Hải","Xã Đông Tiền Hải, Tỉnh Hưng Yên",ong-tien-hai,commune,02
+01061,"Đông Tiền Hải","Xã Đông Tiền Hải, Tỉnh Hưng Yên",dong-tien-hai,commune,02
 01062,"Ea Knốp","Xã Ea Knốp, Tỉnh Đắk Lắk",ea-knop,commune,27
 01063,"Bảo Vinh","Phường Bảo Vinh, Tỉnh Đồng Nai",bao-vinh,ward,22
 01064,"Mỹ Lệ","Xã Mỹ Lệ, Tỉnh Tây Ninh",my-le,commune,15
@@ -1067,9 +1067,9 @@ code,name,fullName,slug,type,provinceCode
 01066,"Quỳ Hợp","Xã Quỳ Hợp, Tỉnh Nghệ An",quy-hop,commune,11
 01067,"Cư Bao","Phường Cư Bao, Tỉnh Đắk Lắk",cu-bao,ward,27
 01068,"Thu Bồn","Xã Thu Bồn, Thành phố Đà Nẵng",thu-bon,commune,12
-01069,"Mỹ Đức Tây","Xã Mỹ Đức Tây, Tỉnh Đồng Tháp",my-uc-tay,commune,16
+01069,"Mỹ Đức Tây","Xã Mỹ Đức Tây, Tỉnh Đồng Tháp",my-duc-tay,commune,16
 01070,"Vĩnh Hải","Xã Vĩnh Hải, Tỉnh Khánh Hòa",vinh-hai,commune,14
-01071,"Xuân Định","Xã Xuân Định, Tỉnh Đồng Nai",xuan-inh,commune,22
+01071,"Xuân Định","Xã Xuân Định, Tỉnh Đồng Nai",xuan-dinh,commune,22
 01072,"Vàng Danh","Phường Vàng Danh, Tỉnh Quảng Ninh",vang-danh,ward,08
 01073,"Bắc Trạch","Xã Bắc Trạch, Tỉnh Quảng Trị",bac-trach,commune,03
 01074,"Vĩnh Tuy","Xã Vĩnh Tuy, Tỉnh An Giang",vinh-tuy,commune,18
@@ -1079,16 +1079,16 @@ code,name,fullName,slug,type,provinceCode
 01078,"Phú Hòa","Xã Phú Hòa, Tỉnh Đồng Nai",phu-hoa,commune,22
 01079,"Tân Biên","Xã Tân Biên, Tỉnh Tây Ninh",tan-bien,commune,15
 01080,"Nam Sách","Xã Nam Sách, Thành phố Hải Phòng",nam-sach,commune,05
-01081,"Tam Đa","Xã Tam Đa, Tỉnh Bắc Ninh",tam-a,commune,10
+01081,"Tam Đa","Xã Tam Đa, Tỉnh Bắc Ninh",tam-da,commune,10
 01082,"Cái Ngang","Xã Cái Ngang, Tỉnh Vĩnh Long",cai-ngang,commune,24
 01083,"Hưng Nguyên Nam","Xã Hưng Nguyên Nam, Tỉnh Nghệ An",hung-nguyen-nam,commune,11
 01084,"Tân Minh","Xã Tân Minh, Thành phố Hải Phòng",tan-minh,commune,05
 01085,"Vạn Xuân","Xã Vạn Xuân, Tỉnh Hưng Yên",van-xuan,commune,02
 01086,"Nam Gianh","Xã Nam Gianh, Tỉnh Quảng Trị",nam-gianh,commune,03
 01087,"Phước Mỹ Trung","Xã Phước Mỹ Trung, Tỉnh Vĩnh Long",phuoc-my-trung,commune,24
-01088,"Đồ Sơn","Phường Đồ Sơn, Thành phố Hải Phòng",o-son,ward,05
+01088,"Đồ Sơn","Phường Đồ Sơn, Thành phố Hải Phòng",do-son,ward,05
 01089,"Tân Phong","Phường Tân Phong, Tỉnh Lai Châu",tan-phong,ward,26
-01090,"Cái Đôi Vàm","Xã Cái Đôi Vàm, Tỉnh Cà Mau",cai-oi-vam,commune,33
+01090,"Cái Đôi Vàm","Xã Cái Đôi Vàm, Tỉnh Cà Mau",cai-doi-vam,commune,33
 01091,"Hà Bắc","Xã Hà Bắc, Thành phố Hải Phòng",ha-bac,commune,05
 01092,"Trường Xuân","Xã Trường Xuân, Thành phố Cần Thơ",truong-xuan,commune,32
 01093,"Tân Xuân","Xã Tân Xuân, Tỉnh Vĩnh Long",tan-xuan,commune,24
@@ -1108,27 +1108,27 @@ code,name,fullName,slug,type,provinceCode
 01107,"Bình Lộc","Phường Bình Lộc, Tỉnh Đồng Nai",binh-loc,ward,22
 01108,"Hòa Hội","Xã Hòa Hội, Thành phố Hồ Chí Minh",hoa-hoi,commune,30
 01109,"Thanh Hà","Xã Thanh Hà, Thành phố Hải Phòng",thanh-ha,commune,05
-01110,"Xuân Trường - Đà Lạt","Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng",xuan-truong-a-lat,ward,29
+01110,"Xuân Trường - Đà Lạt","Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng",xuan-truong-da-lat,ward,29
 01111,"Vĩnh Trụ","Xã Vĩnh Trụ, Tỉnh Ninh Bình",vinh-tru,commune,13
 01112,"Tân Khai","Xã Tân Khai, Tỉnh Đồng Nai",tan-khai,commune,22
 01113,"Bình Ninh","Xã Bình Ninh, Tỉnh Đồng Tháp",binh-ninh,commune,16
 01114,"Gò Công","Phường Gò Công, Tỉnh Đồng Tháp",go-cong,ward,16
 01115,"Lân Phong","Xã Lân Phong, Tỉnh Quảng Ngãi",lan-phong,commune,23
-01116,"Đăk Hà","Xã Đăk Hà, Tỉnh Quảng Ngãi",ak-ha,commune,23
-01117,"Đình Cương","Xã Đình Cương, Tỉnh Quảng Ngãi",inh-cuong,commune,23
+01116,"Đăk Hà","Xã Đăk Hà, Tỉnh Quảng Ngãi",dak-ha,commune,23
+01117,"Đình Cương","Xã Đình Cương, Tỉnh Quảng Ngãi",dinh-cuong,commune,23
 01118,"Vị Tân","Phường Vị Tân, Thành phố Cần Thơ",vi-tan,ward,32
-01119,"Sơn Đông","Xã Sơn Đông, Tỉnh Phú Thọ",son-ong,commune,06
+01119,"Sơn Đông","Xã Sơn Đông, Tỉnh Phú Thọ",son-dong,commune,06
 01120,"Tân Thạnh","Xã Tân Thạnh, Tỉnh An Giang",tan-thanh,commune,18
 01121,"Cái Vồn","Phường Cái Vồn, Tỉnh Vĩnh Long",cai-von,ward,24
 01122,"Tuy Phước Tây","Xã Tuy Phước Tây, Tỉnh Gia Lai",tuy-phuoc-tay,commune,28
 01123,"Tầm Vu","Xã Tầm Vu, Tỉnh Tây Ninh",tam-vu,commune,15
 01124,"Trần Phú","Xã Trần Phú, Thành phố Hải Phòng",tran-phu,commune,05
-01125,"Trần Hưng Đạo","Phường Trần Hưng Đạo, Thành phố Hải Phòng",tran-hung-ao,ward,05
+01125,"Trần Hưng Đạo","Phường Trần Hưng Đạo, Thành phố Hải Phòng",tran-hung-dao,ward,05
 01126,"Bến Tre","Phường Bến Tre, Tỉnh Vĩnh Long",ben-tre,ward,24
 01127,"Kim Bôi","Xã Kim Bôi, Tỉnh Phú Thọ",kim-boi,commune,06
-01128,"Yên Đồng","Xã Yên Đồng, Tỉnh Ninh Bình",yen-ong,commune,13
-01129,"Mộ Đức","Xã Mộ Đức, Tỉnh Quảng Ngãi",mo-uc,commune,23
-01130,"Đồng Xoài","Phường Đồng Xoài, Tỉnh Đồng Nai",ong-xoai,ward,22
+01128,"Yên Đồng","Xã Yên Đồng, Tỉnh Ninh Bình",yen-dong,commune,13
+01129,"Mộ Đức","Xã Mộ Đức, Tỉnh Quảng Ngãi",mo-duc,commune,23
+01130,"Đồng Xoài","Phường Đồng Xoài, Tỉnh Đồng Nai",dong-xoai,ward,22
 01131,"Hương An","Phường Hương An, Thành phố Huế",huong-an,ward,04
 01132,"Long Khánh","Xã Long Khánh, Tỉnh Đồng Tháp",long-khanh,commune,16
 01133,"Dương Minh Châu","Xã Dương Minh Châu, Tỉnh Tây Ninh",duong-minh-chau,commune,15
@@ -1138,7 +1138,7 @@ code,name,fullName,slug,type,provinceCode
 01137,"Hồng Quang","Phường Hồng Quang, Tỉnh Ninh Bình",hong-quang,ward,13
 01138,"Giai Lạc","Xã Giai Lạc, Tỉnh Nghệ An",giai-lac,commune,11
 01139,"Mỹ Thành","Xã Mỹ Thành, Tỉnh Đồng Tháp",my-thanh,commune,16
-01140,"Hiệp Đức","Xã Hiệp Đức, Tỉnh Đồng Tháp",hiep-uc,commune,16
+01140,"Hiệp Đức","Xã Hiệp Đức, Tỉnh Đồng Tháp",hiep-duc,commune,16
 01141,"Biển Bạch","Xã Biển Bạch, Tỉnh Cà Mau",bien-bach,commune,33
 01142,"Nam Dong","Xã Nam Dong, Tỉnh Lâm Đồng",nam-dong,commune,29
 01143,"Hoà Khánh","Xã Hoà Khánh, Tỉnh Tây Ninh",hoa-khanh,commune,15
@@ -1146,7 +1146,7 @@ code,name,fullName,slug,type,provinceCode
 01145,"Trường Ninh","Xã Trường Ninh, Tỉnh Quảng Trị",truong-ninh,commune,03
 01146,"An Minh","Xã An Minh, Tỉnh An Giang",an-minh,commune,18
 01147,"Trung Thành","Xã Trung Thành, Tỉnh Vĩnh Long",trung-thanh,commune,24
-01148,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Đồng Nai",ong-tam,commune,22
+01148,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Đồng Nai",dong-tam,commune,22
 01149,"Phước Hữu","Xã Phước Hữu, Tỉnh Khánh Hòa",phuoc-huu,commune,14
 01150,"Quỳnh An","Xã Quỳnh An, Tỉnh Hưng Yên",quynh-an,commune,02
 01151,"Quỳnh Tam","Xã Quỳnh Tam, Tỉnh Nghệ An",quynh-tam,commune,11
@@ -1161,24 +1161,24 @@ code,name,fullName,slug,type,provinceCode
 01160,"Tân Lộc","Xã Tân Lộc, Tỉnh Cà Mau",tan-loc,commune,33
 01161,"Trung Chính","Xã Trung Chính, Tỉnh Thanh Hoá",trung-chinh,commune,07
 01162,"Yên Mô","Xã Yên Mô, Tỉnh Ninh Bình",yen-mo,commune,13
-01163,"Đồng Khởi","Xã Đồng Khởi, Tỉnh Vĩnh Long",ong-khoi,commune,24
+01163,"Đồng Khởi","Xã Đồng Khởi, Tỉnh Vĩnh Long",dong-khoi,commune,24
 01164,"Bờ Y","Xã Bờ Y, Tỉnh Quảng Ngãi",bo-y,commune,23
 01165,"Tân Phú","Xã Tân Phú, Tỉnh Vĩnh Long",tan-phu,commune,24
 01166,"Tân Dĩnh","Xã Tân Dĩnh, Tỉnh Bắc Ninh",tan-dinh,commune,10
 01167,"Phan Ngọc Hiển","Xã Phan Ngọc Hiển, Tỉnh Cà Mau",phan-ngoc-hien,commune,33
 01168,"Phước Dinh","Xã Phước Dinh, Tỉnh Khánh Hòa",phuoc-dinh,commune,14
 01169,"Chí Minh","Xã Chí Minh, Tỉnh Hưng Yên",chi-minh,commune,02
-01170,"Cần Đăng","Xã Cần Đăng, Tỉnh An Giang",can-ang,commune,18
+01170,"Cần Đăng","Xã Cần Đăng, Tỉnh An Giang",can-dang,commune,18
 01171,"Bình Lục","Xã Bình Lục, Tỉnh Ninh Bình",binh-luc,commune,13
 01172,"Tân Hưng","Xã Tân Hưng, Tỉnh Cà Mau",tan-hung,commune,33
-01173,"Đăk Tô","Xã Đăk Tô, Tỉnh Quảng Ngãi",ak-to,commune,23
+01173,"Đăk Tô","Xã Đăk Tô, Tỉnh Quảng Ngãi",dak-to,commune,23
 01174,"Hàm Tân","Xã Hàm Tân, Tỉnh Lâm Đồng",ham-tan,commune,29
 01175,"Suối Hai","Xã Suối Hai, Thành phố Hà Nội",suoi-hai,commune,01
 01176,"Việt Tiến","Xã Việt Tiến, Tỉnh Hưng Yên",viet-tien,commune,02
-01177,"Thanh Đức","Phường Thanh Đức, Tỉnh Vĩnh Long",thanh-uc,ward,24
+01177,"Thanh Đức","Phường Thanh Đức, Tỉnh Vĩnh Long",thanh-duc,ward,24
 01178,"Thác Bà","Xã Thác Bà, Tỉnh Lào Cai",thac-ba,commune,09
 01179,"An Phú","Xã An Phú, Thành phố Hải Phòng",an-phu,commune,05
-01180,"Bình Đức","Xã Bình Đức, Tỉnh Tây Ninh",binh-uc,commune,15
+01180,"Bình Đức","Xã Bình Đức, Tỉnh Tây Ninh",binh-duc,commune,15
 01181,"Thành Thới","Xã Thành Thới, Tỉnh Vĩnh Long",thanh-thoi,commune,24
 01182,"Thiện Hưng","Xã Thiện Hưng, Tỉnh Đồng Nai",thien-hung,commune,22
 01183,"Hoài Ân","Xã Hoài Ân, Tỉnh Gia Lai",hoai-an,commune,28
@@ -1189,39 +1189,39 @@ code,name,fullName,slug,type,provinceCode
 01188,"Ea Tul","Xã Ea Tul, Tỉnh Đắk Lắk",ea-tul,commune,27
 01189,"Tịnh Biên","Phường Tịnh Biên, Tỉnh An Giang",tinh-bien,ward,18
 01190,"Phú Xuân","Xã Phú Xuân, Tỉnh Đắk Lắk",phu-xuan,commune,27
-01191,"Tam Đảo","Xã Tam Đảo, Tỉnh Phú Thọ",tam-ao,commune,06
-01192,"Đào Viên","Phường Đào Viên, Tỉnh Bắc Ninh",ao-vien,ward,10
+01191,"Tam Đảo","Xã Tam Đảo, Tỉnh Phú Thọ",tam-dao,commune,06
+01192,"Đào Viên","Phường Đào Viên, Tỉnh Bắc Ninh",dao-vien,ward,10
 01193,"Nghĩa Dân","Xã Nghĩa Dân, Tỉnh Hưng Yên",nghia-dan,commune,02
-01194,"Cổ Đạm","Xã Cổ Đạm, Tỉnh Hà Tĩnh",co-am,commune,17
+01194,"Cổ Đạm","Xã Cổ Đạm, Tỉnh Hà Tĩnh",co-dam,commune,17
 01195,"Nhị Long","Xã Nhị Long, Tỉnh Vĩnh Long",nhi-long,commune,24
 01196,"Trường Khánh","Xã Trường Khánh, Thành phố Cần Thơ",truong-khanh,commune,32
 01197,"Bình Trưng","Xã Bình Trưng, Tỉnh Đồng Tháp",binh-trung,commune,16
 01198,"Lập Thạch","Xã Lập Thạch, Tỉnh Phú Thọ",lap-thach,commune,06
-01199,"Đại Thành","Phường Đại Thành, Thành phố Cần Thơ",ai-thanh,ward,32
+01199,"Đại Thành","Phường Đại Thành, Thành phố Cần Thơ",dai-thanh,ward,32
 01200,"Quảng Tín","Xã Quảng Tín, Tỉnh Lâm Đồng",quang-tin,commune,29
 01201,"Trí Quả","Phường Trí Quả, Tỉnh Bắc Ninh",tri-qua,ward,10
 01202,"Vĩnh Am","Xã Vĩnh Am, Thành phố Hải Phòng",vinh-am,commune,05
 01203,"Cẩm Giang","Xã Cẩm Giang, Thành phố Hải Phòng",cam-giang,commune,05
 01204,"Tài Văn","Xã Tài Văn, Thành phố Cần Thơ",tai-van,commune,32
-01205,"Đồng Văn","Phường Đồng Văn, Tỉnh Ninh Bình",ong-van,ward,13
+01205,"Đồng Văn","Phường Đồng Văn, Tỉnh Ninh Bình",dong-van,ward,13
 01206,"Trung Hiệp","Xã Trung Hiệp, Tỉnh Vĩnh Long",trung-hiep,commune,24
 01207,"Thạch Khôi","Phường Thạch Khôi, Thành phố Hải Phòng",thach-khoi,ward,05
-01208,"Đông Hoa Lư","Phường Đông Hoa Lư, Tỉnh Ninh Bình",ong-hoa-lu,ward,13
+01208,"Đông Hoa Lư","Phường Đông Hoa Lư, Tỉnh Ninh Bình",dong-hoa-lu,ward,13
 01209,"Nguyệt Viên","Phường Nguyệt Viên, Tỉnh Thanh Hoá",nguyet-vien,ward,07
 01210,"Thọ Xuân","Xã Thọ Xuân, Tỉnh Thanh Hoá",tho-xuan,commune,07
-01211,"Đường An","Xã Đường An, Thành phố Hải Phòng",uong-an,commune,05
+01211,"Đường An","Xã Đường An, Thành phố Hải Phòng",duong-an,commune,05
 01212,"Hiếu Thành","Xã Hiếu Thành, Tỉnh Vĩnh Long",hieu-thanh,commune,24
 01213,"Tân Tiến","Phường Tân Tiến, Tỉnh Bắc Ninh",tan-tien,ward,10
 01214,"Sông Lô","Xã Sông Lô, Tỉnh Phú Thọ",song-lo,commune,06
 01215,"Liên Bão","Xã Liên Bão, Tỉnh Bắc Ninh",lien-bao,commune,10
 01216,"Bình Giã","Xã Bình Giã, Thành phố Hồ Chí Minh",binh-gia,commune,30
 01217,"Bình Minh","Phường Bình Minh, Tỉnh Vĩnh Long",binh-minh,ward,24
-01218,"Sơn Đông","Phường Sơn Đông, Tỉnh Vĩnh Long",son-ong,ward,24
+01218,"Sơn Đông","Phường Sơn Đông, Tỉnh Vĩnh Long",son-dong,ward,24
 01219,"Hà Tây","Xã Hà Tây, Thành phố Hải Phòng",ha-tay,commune,05
 01220,"An Thắng","Phường An Thắng, Thành phố Đà Nẵng",an-thang,ward,12
 01221,"Ea Ning","Xã Ea Ning, Tỉnh Đắk Lắk",ea-ning,commune,27
-01222,"Đông Trạch","Xã Đông Trạch, Tỉnh Quảng Trị",ong-trach,commune,03
-01223,"Nguyệt Đức","Xã Nguyệt Đức, Tỉnh Phú Thọ",nguyet-uc,commune,06
+01222,"Đông Trạch","Xã Đông Trạch, Tỉnh Quảng Trị",dong-trach,commune,03
+01223,"Nguyệt Đức","Xã Nguyệt Đức, Tỉnh Phú Thọ",nguyet-duc,commune,06
 01224,"Tà Lài","Xã Tà Lài, Tỉnh Đồng Nai",ta-lai,commune,22
 01225,"Tiểu Cần","Xã Tiểu Cần, Tỉnh Vĩnh Long",tieu-can,commune,24
 01226,"Nam Xang","Xã Nam Xang, Tỉnh Ninh Bình",nam-xang,commune,13
@@ -1241,7 +1241,7 @@ code,name,fullName,slug,type,provinceCode
 01240,"Phú Nghĩa","Xã Phú Nghĩa, Tỉnh Đồng Nai",phu-nghia,commune,22
 01241,"Tân Mai","Phường Tân Mai, Tỉnh Nghệ An",tan-mai,ward,11
 01242,"Chư Prông","Xã Chư Prông, Tỉnh Gia Lai",chu-prong,commune,28
-01243,"Bình Đại","Xã Bình Đại, Tỉnh Vĩnh Long",binh-ai,commune,24
+01243,"Bình Đại","Xã Bình Đại, Tỉnh Vĩnh Long",binh-dai,commune,24
 01244,"Hoằng Châu","Xã Hoằng Châu, Tỉnh Thanh Hoá",hoang-chau,commune,07
 01245,"Nguyễn Lương Bằng","Xã Nguyễn Lương Bằng, Thành phố Hải Phòng",nguyen-luong-bang,commune,05
 01246,"Chợ Gạo","Xã Chợ Gạo, Tỉnh Đồng Tháp",cho-gao,commune,16
@@ -1251,7 +1251,7 @@ code,name,fullName,slug,type,provinceCode
 01250,"Thiệu Quang","Xã Thiệu Quang, Tỉnh Thanh Hoá",thieu-quang,commune,07
 01251,"Hải Bình","Phường Hải Bình, Tỉnh Thanh Hoá",hai-binh,ward,07
 01252,"Bản Nguyên","Xã Bản Nguyên, Tỉnh Phú Thọ",ban-nguyen,commune,06
-01253,"Long Đức","Phường Long Đức, Tỉnh Vĩnh Long",long-uc,ward,24
+01253,"Long Đức","Phường Long Đức, Tỉnh Vĩnh Long",long-duc,ward,24
 01254,"Bắc Quang","Xã Bắc Quang, Tỉnh Tuyên Quang",bac-quang,commune,34
 01255,"Quảng Ngọc","Xã Quảng Ngọc, Tỉnh Thanh Hoá",quang-ngoc,commune,07
 01256,"Long Hưng","Xã Long Hưng, Thành phố Cần Thơ",long-hung,commune,32
@@ -1262,7 +1262,7 @@ code,name,fullName,slug,type,provinceCode
 01261,"Hiệp Hưng","Xã Hiệp Hưng, Thành phố Cần Thơ",hiep-hung,commune,32
 01262,"Tân Châu","Phường Tân Châu, Tỉnh An Giang",tan-chau,ward,18
 01263,"Yết Kiêu","Xã Yết Kiêu, Thành phố Hải Phòng",yet-kieu,commune,05
-01264,"Hà Đông","Xã Hà Đông, Thành phố Hải Phòng",ha-ong,commune,05
+01264,"Hà Đông","Xã Hà Đông, Thành phố Hải Phòng",ha-dong,commune,05
 01265,"Thường Xuân","Xã Thường Xuân, Tỉnh Thanh Hoá",thuong-xuan,commune,07
 01266,"Phụng Hiệp","Xã Phụng Hiệp, Thành phố Cần Thơ",phung-hiep,commune,32
 01267,"Hiệp Hòa","Phường Hiệp Hòa, Tỉnh Quảng Ninh",hiep-hoa,ward,08
@@ -1278,16 +1278,16 @@ code,name,fullName,slug,type,provinceCode
 01277,"Hậu Lộc","Xã Hậu Lộc, Tỉnh Thanh Hoá",hau-loc,commune,07
 01278,"La Ngà","Xã La Ngà, Tỉnh Đồng Nai",la-nga,commune,22
 01279,"Quế Sơn Trung","Xã Quế Sơn Trung, Thành phố Đà Nẵng",que-son-trung,commune,12
-01280,"Đất Mũi","Xã Đất Mũi, Tỉnh Cà Mau",at-mui,commune,33
+01280,"Đất Mũi","Xã Đất Mũi, Tỉnh Cà Mau",dat-mui,commune,33
 01281,"Ea M’Droh","Xã Ea M’Droh, Tỉnh Đắk Lắk",ea-mdroh,commune,27
 01282,"Bình Mỹ","Xã Bình Mỹ, Tỉnh Ninh Bình",binh-my,commune,13
 01283,"Nam Thanh Miện","Xã Nam Thanh Miện, Thành phố Hải Phòng",nam-thanh-mien,commune,05
 01284,"Bố Trạch","Xã Bố Trạch, Tỉnh Quảng Trị",bo-trach,commune,03
-01285,"Đô Vinh","Phường Đô Vinh, Tỉnh Khánh Hòa",o-vinh,ward,14
+01285,"Đô Vinh","Phường Đô Vinh, Tỉnh Khánh Hòa",do-vinh,ward,14
 01286,"Nho Quan","Xã Nho Quan, Tỉnh Ninh Bình",nho-quan,commune,13
 01287,"Phú Lâm","Xã Phú Lâm, Tỉnh An Giang",phu-lam,commune,18
 01288,"Tạ An Khương","Xã Tạ An Khương, Tỉnh Cà Mau",ta-an-khuong,commune,33
-01289,"Đức An","Xã Đức An, Tỉnh Lâm Đồng",uc-an,commune,29
+01289,"Đức An","Xã Đức An, Tỉnh Lâm Đồng",duc-an,commune,29
 01290,"Phước Long","Phường Phước Long, Tỉnh Đồng Nai",phuoc-long,ward,22
 01291,"Nhã Nam","Xã Nhã Nam, Tỉnh Bắc Ninh",nha-nam,commune,10
 01292,"Lam Sơn","Xã Lam Sơn, Tỉnh Thanh Hoá",lam-son,commune,07
@@ -1323,7 +1323,7 @@ code,name,fullName,slug,type,provinceCode
 01322,"Hàm Thuận Nam","Xã Hàm Thuận Nam, Tỉnh Lâm Đồng",ham-thuan-nam,commune,29
 01323,"Vị Thanh","Phường Vị Thanh, Thành phố Cần Thơ",vi-thanh,ward,32
 01324,"Hồng Châu","Xã Hồng Châu, Thành phố Hải Phòng",hong-chau,commune,05
-01325,"Đại Đồng","Xã Đại Đồng, Tỉnh Hưng Yên",ai-ong,commune,02
+01325,"Đại Đồng","Xã Đại Đồng, Tỉnh Hưng Yên",dai-dong,commune,02
 01326,"Nam Ban - Lâm Hà","Xã Nam Ban - Lâm Hà, Tỉnh Lâm Đồng",nam-ban-lam-ha,commune,29
 01327,"Mường La","Xã Mường La, Tỉnh Sơn La",muong-la,commune,31
 01328,"Tiên Lữ","Xã Tiên Lữ, Tỉnh Phú Thọ",tien-lu,commune,06
@@ -1338,13 +1338,13 @@ code,name,fullName,slug,type,provinceCode
 01337,"Bình Xuyên","Xã Bình Xuyên, Tỉnh Phú Thọ",binh-xuyen,commune,06
 01338,"Hoằng Giang","Xã Hoằng Giang, Tỉnh Thanh Hoá",hoang-giang,commune,07
 01339,"Phong Châu","Phường Phong Châu, Tỉnh Phú Thọ",phong-chau,ward,06
-01340,"Hảo Đước","Xã Hảo Đước, Tỉnh Tây Ninh",hao-uoc,commune,15
+01340,"Hảo Đước","Xã Hảo Đước, Tỉnh Tây Ninh",hao-duoc,commune,15
 01341,"Bình Sơn","Xã Bình Sơn, Tỉnh Ninh Bình",binh-son,commune,13
 01342,"Lâm Thao","Xã Lâm Thao, Tỉnh Bắc Ninh",lam-thao,commune,10
 01343,"Long Hiệp","Xã Long Hiệp, Tỉnh Vĩnh Long",long-hiep,commune,24
 01344,"Vĩnh Trạch","Xã Vĩnh Trạch, Tỉnh An Giang",vinh-trach,commune,18
 01345,"Sa Huỳnh","Phường Sa Huỳnh, Tỉnh Quảng Ngãi",sa-huynh,ward,23
-01346,"Đồng Sơn","Phường Đồng Sơn, Tỉnh Quảng Trị",ong-son,ward,03
+01346,"Đồng Sơn","Phường Đồng Sơn, Tỉnh Quảng Trị",dong-son,ward,03
 01347,"Vị Thủy","Xã Vị Thủy, Thành phố Cần Thơ",vi-thuy,commune,32
 01348,"Lê Hồ","Phường Lê Hồ, Tỉnh Ninh Bình",le-ho,ward,13
 01349,"Cư M’gar","Xã Cư M’gar, Tỉnh Đắk Lắk",cu-mgar,commune,27
@@ -1357,16 +1357,16 @@ code,name,fullName,slug,type,provinceCode
 01356,"Lộc Ninh","Xã Lộc Ninh, Tỉnh Đồng Nai",loc-ninh,commune,22
 01357,"Lý Nhân","Xã Lý Nhân, Tỉnh Ninh Bình",ly-nhan,commune,13
 01358,"Bình Thành","Xã Bình Thành, Tỉnh Đồng Tháp",binh-thanh,commune,16
-01359,"Đào Xá","Xã Đào Xá, Tỉnh Phú Thọ",ao-xa,commune,06
+01359,"Đào Xá","Xã Đào Xá, Tỉnh Phú Thọ",dao-xa,commune,06
 01360,"Thiệu Trung","Xã Thiệu Trung, Tỉnh Thanh Hoá",thieu-trung,commune,07
 01361,"Hoa Quân","Xã Hoa Quân, Tỉnh Nghệ An",hoa-quan,commune,11
-01362,"Chiên Đàn","Xã Chiên Đàn, Thành phố Đà Nẵng",chien-an,commune,12
-01363,"Bù Đăng","Xã Bù Đăng, Tỉnh Đồng Nai",bu-ang,commune,22
+01362,"Chiên Đàn","Xã Chiên Đàn, Thành phố Đà Nẵng",chien-dan,commune,12
+01363,"Bù Đăng","Xã Bù Đăng, Tỉnh Đồng Nai",bu-dang,commune,22
 01364,"Duy Nghĩa","Xã Duy Nghĩa, Thành phố Đà Nẵng",duy-nghia,commune,12
 01365,"Tân Thới","Xã Tân Thới, Tỉnh Đồng Tháp",tan-thoi,commune,16
 01366,"Tân Hạnh","Phường Tân Hạnh, Tỉnh Vĩnh Long",tan-hanh,ward,24
 01367,"Ba Chúc","Xã Ba Chúc, Tỉnh An Giang",ba-chuc,commune,18
-01368,"Đôn Châu","Xã Đôn Châu, Tỉnh Vĩnh Long",on-chau,commune,24
+01368,"Đôn Châu","Xã Đôn Châu, Tỉnh Vĩnh Long",don-chau,commune,24
 01369,"Lâm Tân","Xã Lâm Tân, Thành phố Cần Thơ",lam-tan,commune,32
 01370,"Ninh Sơn","Xã Ninh Sơn, Tỉnh Khánh Hòa",ninh-son,commune,14
 01371,"Hoàng Quế","Phường Hoàng Quế, Tỉnh Quảng Ninh",hoang-que,ward,08
@@ -1379,15 +1379,15 @@ code,name,fullName,slug,type,provinceCode
 01378,"Lương Tài","Xã Lương Tài, Tỉnh Bắc Ninh",luong-tai,commune,10
 01379,"Tập Ngãi","Xã Tập Ngãi, Tỉnh Vĩnh Long",tap-ngai,commune,24
 01380,"Nam Hồng","Xã Nam Hồng, Tỉnh Ninh Bình",nam-hong,commune,13
-01381,"Đông A","Phường Đông A, Tỉnh Ninh Bình",ong-a,ward,13
+01381,"Đông A","Phường Đông A, Tỉnh Ninh Bình",dong-a,ward,13
 01382,"Tiên Thủy","Xã Tiên Thủy, Tỉnh Vĩnh Long",tien-thuy,commune,24
-01383,"Tuy Đức","Xã Tuy Đức, Tỉnh Lâm Đồng",tuy-uc,commune,29
+01383,"Tuy Đức","Xã Tuy Đức, Tỉnh Lâm Đồng",tuy-duc,commune,29
 01384,"Song Liễu","Phường Song Liễu, Tỉnh Bắc Ninh",song-lieu,ward,10
-01385,"Đa Kia","Xã Đa Kia, Tỉnh Đồng Nai",a-kia,commune,22
+01385,"Đa Kia","Xã Đa Kia, Tỉnh Đồng Nai",da-kia,commune,22
 01386,"Gio Linh","Xã Gio Linh, Tỉnh Quảng Trị",gio-linh,commune,03
 01387,"Trường Tân","Xã Trường Tân, Thành phố Hải Phòng",truong-tan,commune,05
 01388,"Thới An Hội","Xã Thới An Hội, Thành phố Cần Thơ",thoi-an-hoi,commune,32
-01389,"Đức Lập","Xã Đức Lập, Tỉnh Tây Ninh",uc-lap,commune,15
+01389,"Đức Lập","Xã Đức Lập, Tỉnh Tây Ninh",duc-lap,commune,15
 01390,"Ba Ngòi","Phường Ba Ngòi, Tỉnh Khánh Hòa",ba-ngoi,ward,14
 01391,"Hòa Thuận","Xã Hòa Thuận, Tỉnh An Giang",hoa-thuan,commune,18
 01392,"Dương Nỗ","Phường Dương Nỗ, Thành phố Huế",duong-no,ward,04
@@ -1396,7 +1396,7 @@ code,name,fullName,slug,type,provinceCode
 01395,"Nguyễn Trãi","Xã Nguyễn Trãi, Tỉnh Hưng Yên",nguyen-trai,commune,02
 01396,"Vạn Thắng","Xã Vạn Thắng, Tỉnh Khánh Hòa",van-thang,commune,14
 01397,"Hồng Quang","Xã Hồng Quang, Tỉnh Hưng Yên",hong-quang,commune,02
-01398,"Đắk Mil","Xã Đắk Mil, Tỉnh Lâm Đồng",ak-mil,commune,29
+01398,"Đắk Mil","Xã Đắk Mil, Tỉnh Lâm Đồng",dak-mil,commune,29
 01399,"Yên Sơn","Xã Yên Sơn, Tỉnh Tuyên Quang",yen-son,commune,34
 01400,"Trung Sơn","Phường Trung Sơn, Tỉnh Ninh Bình",trung-son,ward,13
 01401,"Nghĩa Hành","Xã Nghĩa Hành, Tỉnh Quảng Ngãi",nghia-hanh,commune,23
@@ -1417,7 +1417,7 @@ code,name,fullName,slug,type,provinceCode
 01416,"Quảng Yên","Phường Quảng Yên, Tỉnh Quảng Ninh",quang-yen,ward,08
 01417,"Sông Ray","Xã Sông Ray, Tỉnh Đồng Nai",song-ray,commune,22
 01418,"Phú Vinh","Xã Phú Vinh, Tỉnh Đồng Nai",phu-vinh,commune,22
-01419,"Hồ Đắc Kiện","Xã Hồ Đắc Kiện, Thành phố Cần Thơ",ho-ac-kien,commune,32
+01419,"Hồ Đắc Kiện","Xã Hồ Đắc Kiện, Thành phố Cần Thơ",ho-dac-kien,commune,32
 01420,"Lâm Thao","Xã Lâm Thao, Tỉnh Phú Thọ",lam-thao,commune,06
 01421,"Tân Thành","Xã Tân Thành, Tỉnh Lâm Đồng",tan-thanh,commune,29
 01422,"Tân Ngãi","Phường Tân Ngãi, Tỉnh Vĩnh Long",tan-ngai,ward,24
@@ -1429,12 +1429,12 @@ code,name,fullName,slug,type,provinceCode
 01428,"Lam Thành","Xã Lam Thành, Tỉnh Nghệ An",lam-thanh,commune,11
 01429,"Cam Ranh","Phường Cam Ranh, Tỉnh Khánh Hòa",cam-ranh,ward,14
 01430,"Thạch Hà","Xã Thạch Hà, Tỉnh Hà Tĩnh",thach-ha,commune,17
-01431,"Đông Lộc","Xã Đông Lộc, Tỉnh Nghệ An",ong-loc,commune,11
+01431,"Đông Lộc","Xã Đông Lộc, Tỉnh Nghệ An",dong-loc,commune,11
 01432,"Quảng Tân","Xã Quảng Tân, Tỉnh Lâm Đồng",quang-tan,commune,29
 01433,"Trung Lộc","Xã Trung Lộc, Tỉnh Nghệ An",trung-loc,commune,11
 01434,"Phong Mỹ","Xã Phong Mỹ, Tỉnh Đồng Tháp",phong-my,commune,16
 01435,"Ninh Hải","Xã Ninh Hải, Tỉnh Khánh Hòa",ninh-hai,commune,14
-01436,"Hội An Đông","Phường Hội An Đông, Thành phố Đà Nẵng",hoi-an-ong,ward,12
+01436,"Hội An Đông","Phường Hội An Đông, Thành phố Đà Nẵng",hoi-an-dong,ward,12
 01437,"Ngự Thiên","Xã Ngự Thiên, Tỉnh Hưng Yên",ngu-thien,commune,02
 01438,"Thọ Long","Xã Thọ Long, Tỉnh Thanh Hoá",tho-long,commune,07
 01439,"Hòa Hiệp","Xã Hòa Hiệp, Tỉnh Vĩnh Long",hoa-hiep,commune,24
@@ -1443,15 +1443,15 @@ code,name,fullName,slug,type,provinceCode
 01442,"Thiên Trường","Phường Thiên Trường, Tỉnh Ninh Bình",thien-truong,ward,13
 01443,"Tam Anh","Xã Tam Anh, Thành phố Đà Nẵng",tam-anh,commune,12
 01444,"Ia Pa","Xã Ia Pa, Tỉnh Gia Lai",ia-pa,commune,28
-01445,"Đồng Hỷ","Xã Đồng Hỷ, Tỉnh Thái Nguyên",ong-hy,commune,19
+01445,"Đồng Hỷ","Xã Đồng Hỷ, Tỉnh Thái Nguyên",dong-hy,commune,19
 01446,"Phước Sơn","Xã Phước Sơn, Tỉnh Đồng Nai",phuoc-son,commune,22
 01447,"Việt Hòa","Phường Việt Hòa, Thành phố Hải Phòng",viet-hoa,ward,05
 01448,"Bắc Lý","Xã Bắc Lý, Tỉnh Ninh Bình",bac-ly,commune,13
 01449,"Nghĩa Lâm","Xã Nghĩa Lâm, Tỉnh Ninh Bình",nghia-lam,commune,13
-01450,"Rạng Đông","Xã Rạng Đông, Tỉnh Ninh Bình",rang-ong,commune,13
+01450,"Rạng Đông","Xã Rạng Đông, Tỉnh Ninh Bình",rang-dong,commune,13
 01451,"Nhân Hòa","Phường Nhân Hòa, Tỉnh Bắc Ninh",nhan-hoa,ward,10
-01452,"Đồng Thịnh","Xã Đồng Thịnh, Tỉnh Ninh Bình",ong-thinh,commune,13
-01453,"Đồng Kho","Xã Đồng Kho, Tỉnh Lâm Đồng",ong-kho,commune,29
+01452,"Đồng Thịnh","Xã Đồng Thịnh, Tỉnh Ninh Bình",dong-thinh,commune,13
+01453,"Đồng Kho","Xã Đồng Kho, Tỉnh Lâm Đồng",dong-kho,commune,29
 01454,"Hòa Lạc","Xã Hòa Lạc, Tỉnh An Giang",hoa-lac,commune,18
 01455,"An Bình","Phường An Bình, Tỉnh Gia Lai",an-binh,ward,28
 01456,"Phú Trạch","Xã Phú Trạch, Tỉnh Quảng Trị",phu-trach,commune,03
@@ -1460,18 +1460,18 @@ code,name,fullName,slug,type,provinceCode
 01459,"Krông Búk","Xã Krông Búk, Tỉnh Đắk Lắk",krong-buk,commune,27
 01460,"Ea Hiao","Xã Ea Hiao, Tỉnh Đắk Lắk",ea-hiao,commune,27
 01461,"Long Bình","Xã Long Bình, Tỉnh Đồng Tháp",long-binh,commune,16
-01462,"Điện Bàn Bắc","Phường Điện Bàn Bắc, Thành phố Đà Nẵng",ien-ban-bac,ward,12
+01462,"Điện Bàn Bắc","Phường Điện Bàn Bắc, Thành phố Đà Nẵng",dien-ban-bac,ward,12
 01463,"Quảng Chính","Xã Quảng Chính, Tỉnh Thanh Hoá",quang-chinh,commune,07
 01464,"Thạnh Bình","Xã Thạnh Bình, Tỉnh Tây Ninh",thanh-binh,commune,15
 01465,"Ea Súp","Xã Ea Súp, Tỉnh Đắk Lắk",ea-sup,commune,27
 01466,"Hàm Giang","Xã Hàm Giang, Tỉnh Vĩnh Long",ham-giang,commune,24
 01467,"Nam Tiên Hưng","Xã Nam Tiên Hưng, Tỉnh Hưng Yên",nam-tien-hung,commune,02
-01468,"Đạ Tẻh","Xã Đạ Tẻh, Tỉnh Lâm Đồng",a-teh,commune,29
+01468,"Đạ Tẻh","Xã Đạ Tẻh, Tỉnh Lâm Đồng",da-teh,commune,29
 01469,"Nam Tiền Hải","Xã Nam Tiền Hải, Tỉnh Hưng Yên",nam-tien-hai,commune,02
 01470,"Tân Hào","Xã Tân Hào, Tỉnh Vĩnh Long",tan-hao,commune,24
 01471,"Thạnh An","Xã Thạnh An, Thành phố Cần Thơ",thanh-an,commune,32
 01472,"Yên Thế","Xã Yên Thế, Tỉnh Bắc Ninh",yen-the,commune,10
-01473,"Đại Sơn","Xã Đại Sơn, Thành phố Hải Phòng",ai-son,commune,05
+01473,"Đại Sơn","Xã Đại Sơn, Thành phố Hải Phòng",dai-son,commune,05
 01474,"Tân Thành","Xã Tân Thành, Tỉnh Đồng Tháp",tan-thanh,commune,16
 01475,"Hòa Thịnh","Xã Hòa Thịnh, Tỉnh Đắk Lắk",hoa-thinh,commune,27
 01476,"Ân Thi","Xã Ân Thi, Tỉnh Hưng Yên",an-thi,commune,02
@@ -1480,19 +1480,19 @@ code,name,fullName,slug,type,provinceCode
 01479,"Vĩnh Thạnh","Xã Vĩnh Thạnh, Thành phố Cần Thơ",vinh-thanh,commune,32
 01480,"Bắc Hà","Xã Bắc Hà, Tỉnh Lào Cai",bac-ha,commune,09
 01481,"Vĩnh Thuận","Xã Vĩnh Thuận, Tỉnh An Giang",vinh-thuan,commune,18
-01482,"Đoan Hùng","Xã Đoan Hùng, Tỉnh Phú Thọ",oan-hung,commune,06
+01482,"Đoan Hùng","Xã Đoan Hùng, Tỉnh Phú Thọ",doan-hung,commune,06
 01483,"Xuân An","Xã Xuân An, Tỉnh Gia Lai",xuan-an,commune,28
-01484,"Đồng Châu","Xã Đồng Châu, Tỉnh Hưng Yên",ong-chau,commune,02
+01484,"Đồng Châu","Xã Đồng Châu, Tỉnh Hưng Yên",dong-chau,commune,02
 01485,"Sơn Nam","Phường Sơn Nam, Tỉnh Hưng Yên",son-nam,ward,02
 01486,"Tứ Minh","Phường Tứ Minh, Thành phố Hải Phòng",tu-minh,ward,05
 01487,"Tân Uyên","Xã Tân Uyên, Tỉnh Lai Châu",tan-uyen,commune,26
 01488,"Quang Trung","Xã Quang Trung, Tỉnh Bắc Ninh",quang-trung,commune,10
 01489,"Tân Quan","Xã Tân Quan, Tỉnh Đồng Nai",tan-quan,commune,22
 01490,"Phú Thọ","Xã Phú Thọ, Tỉnh Đồng Tháp",phu-tho,commune,16
-01491,"Nam Đồ Sơn","Phường Nam Đồ Sơn, Thành phố Hải Phòng",nam-o-son,ward,05
+01491,"Nam Đồ Sơn","Phường Nam Đồ Sơn, Thành phố Hải Phòng",nam-do-son,ward,05
 01492,"Long Phú 1","Phường Long Phú 1, Thành phố Cần Thơ",long-phu-1,ward,32
 01493,"Chiêm Hoá","Xã Chiêm Hoá, Tỉnh Tuyên Quang",chiem-hoa,commune,34
-01494,"Đông Thành","Xã Đông Thành, Tỉnh Thanh Hoá",ong-thanh,commune,07
+01494,"Đông Thành","Xã Đông Thành, Tỉnh Thanh Hoá",dong-thanh,commune,07
 01495,"Mang Yang","Xã Mang Yang, Tỉnh Gia Lai",mang-yang,commune,28
 01496,"Tam Thanh","Phường Tam Thanh, Tỉnh Lạng Sơn",tam-thanh,ward,20
 01497,"Tân Hải","Phường Tân Hải, Thành phố Hồ Chí Minh",tan-hai,ward,30
@@ -1506,12 +1506,12 @@ code,name,fullName,slug,type,provinceCode
 01505,"Mễ Sở","Xã Mễ Sở, Tỉnh Hưng Yên",me-so,commune,02
 01506,"Năm Căn","Xã Năm Căn, Tỉnh Cà Mau",nam-can,commune,33
 01507,"Cam Lộ","Xã Cam Lộ, Tỉnh Quảng Trị",cam-lo,commune,03
-01508,"Gò Công Đông","Xã Gò Công Đông, Tỉnh Đồng Tháp",go-cong-ong,commune,16
+01508,"Gò Công Đông","Xã Gò Công Đông, Tỉnh Đồng Tháp",go-cong-dong,commune,16
 01509,"Hải Lựu","Xã Hải Lựu, Tỉnh Phú Thọ",hai-luu,commune,06
 01510,"Ninh Châu","Xã Ninh Châu, Tỉnh Quảng Trị",ninh-chau,commune,03
 01511,"Trà Cú","Xã Trà Cú, Tỉnh Vĩnh Long",tra-cu,commune,24
 01512,"Thanh Ba","Xã Thanh Ba, Tỉnh Phú Thọ",thanh-ba,commune,06
-01513,"Quới Điền","Xã Quới Điền, Tỉnh Vĩnh Long",quoi-ien,commune,24
+01513,"Quới Điền","Xã Quới Điền, Tỉnh Vĩnh Long",quoi-dien,commune,24
 01514,"Hương Khê","Xã Hương Khê, Tỉnh Hà Tĩnh",huong-khe,commune,17
 01515,"Tân Lân","Xã Tân Lân, Tỉnh Tây Ninh",tan-lan,commune,15
 01516,"Hương Trà","Phường Hương Trà, Thành phố Huế",huong-tra,ward,04
@@ -1532,7 +1532,7 @@ code,name,fullName,slug,type,provinceCode
 01531,"Mai Phụ","Xã Mai Phụ, Tỉnh Hà Tĩnh",mai-phu,commune,17
 01532,"Liên Minh","Xã Liên Minh, Tỉnh Ninh Bình",lien-minh,commune,13
 01533,"Tuy An Nam","Xã Tuy An Nam, Tỉnh Đắk Lắk",tuy-an-nam,commune,27
-01534,"Đăk Cấm","Phường Đăk Cấm, Tỉnh Quảng Ngãi",ak-cam,ward,23
+01534,"Đăk Cấm","Phường Đăk Cấm, Tỉnh Quảng Ngãi",dak-cam,ward,23
 01535,"Giao Phúc","Xã Giao Phúc, Tỉnh Ninh Bình",giao-phuc,commune,13
 01536,"Tu Bông","Xã Tu Bông, Tỉnh Khánh Hòa",tu-bong,commune,14
 01537,"Long Thuận","Phường Long Thuận, Tỉnh Đồng Tháp",long-thuan,ward,16
@@ -1553,12 +1553,12 @@ code,name,fullName,slug,type,provinceCode
 01552,"Anh Sơn","Xã Anh Sơn, Tỉnh Nghệ An",anh-son,commune,11
 01553,"Hàm Yên","Xã Hàm Yên, Tỉnh Tuyên Quang",ham-yen,commune,34
 01554,"An Lục Long","Xã An Lục Long, Tỉnh Tây Ninh",an-luc-long,commune,15
-01555,"Long Điền","Xã Long Điền, Tỉnh Cà Mau",long-ien,commune,33
+01555,"Long Điền","Xã Long Điền, Tỉnh Cà Mau",long-dien,commune,33
 01556,"Tân Thuận","Xã Tân Thuận, Tỉnh Hưng Yên",tan-thuan,commune,02
 01557,"Quang Hưng","Xã Quang Hưng, Tỉnh Hưng Yên",quang-hung,commune,02
 01558,"Thạnh Trị","Xã Thạnh Trị, Tỉnh Vĩnh Long",thanh-tri,commune,24
 01559,"Lai Hòa","Xã Lai Hòa, Thành phố Cần Thơ",lai-hoa,commune,32
-01560,"Đức Hợp","Xã Đức Hợp, Tỉnh Hưng Yên",uc-hop,commune,02
+01560,"Đức Hợp","Xã Đức Hợp, Tỉnh Hưng Yên",duc-hop,commune,02
 01561,"Bình Phước","Xã Bình Phước, Tỉnh Vĩnh Long",binh-phuoc,commune,24
 01562,"Quảng Phú","Phường Quảng Phú, Thành phố Đà Nẵng",quang-phu,ward,12
 01563,"Cửa Tùng","Xã Cửa Tùng, Tỉnh Quảng Trị",cua-tung,commune,03
@@ -1580,7 +1580,7 @@ code,name,fullName,slug,type,provinceCode
 01579,"Móng Cái 2","Phường Móng Cái 2, Tỉnh Quảng Ninh",mong-cai-2,ward,08
 01580,"Quới An","Xã Quới An, Tỉnh Vĩnh Long",quoi-an,commune,24
 01581,"An Quang","Xã An Quang, Thành phố Hải Phòng",an-quang,commune,05
-01582,"Nguyễn Đại Năng","Phường Nguyễn Đại Năng, Thành phố Hải Phòng",nguyen-ai-nang,ward,05
+01582,"Nguyễn Đại Năng","Phường Nguyễn Đại Năng, Thành phố Hải Phòng",nguyen-dai-nang,ward,05
 01583,"Long Hựu","Xã Long Hựu, Tỉnh Tây Ninh",long-huu,commune,15
 01584,"Phúc Thuận","Phường Phúc Thuận, Tỉnh Thái Nguyên",phuc-thuan,ward,19
 01585,"Bạch Ngọc","Xã Bạch Ngọc, Tỉnh Nghệ An",bach-ngoc,commune,11
@@ -1599,11 +1599,11 @@ code,name,fullName,slug,type,provinceCode
 01598,"Thăng Bình","Xã Thăng Bình, Tỉnh Thanh Hoá",thang-binh,commune,07
 01599,"Võ Miếu","Xã Võ Miếu, Tỉnh Phú Thọ",vo-mieu,commune,06
 01600,"Quách Phẩm","Xã Quách Phẩm, Tỉnh Cà Mau",quach-pham,commune,33
-01601,"Đan Thượng","Xã Đan Thượng, Tỉnh Phú Thọ",an-thuong,commune,06
+01601,"Đan Thượng","Xã Đan Thượng, Tỉnh Phú Thọ",dan-thuong,commune,06
 01602,"Tuyên Quang","Xã Tuyên Quang, Tỉnh Lâm Đồng",tuyen-quang,commune,29
-01603,"Ba Đồn","Phường Ba Đồn, Tỉnh Quảng Trị",ba-on,ward,03
-01604,"Cuôr Đăng","Xã Cuôr Đăng, Tỉnh Đắk Lắk",cuor-ang,commune,27
-01605,"Đốc Binh Kiều","Xã Đốc Binh Kiều, Tỉnh Đồng Tháp",oc-binh-kieu,commune,16
+01603,"Ba Đồn","Phường Ba Đồn, Tỉnh Quảng Trị",ba-don,ward,03
+01604,"Cuôr Đăng","Xã Cuôr Đăng, Tỉnh Đắk Lắk",cuor-dang,commune,27
+01605,"Đốc Binh Kiều","Xã Đốc Binh Kiều, Tỉnh Đồng Tháp",doc-binh-kieu,commune,16
 01606,"Ea Rốk","Xã Ea Rốk, Tỉnh Đắk Lắk",ea-rok,commune,27
 01607,"An Thành","Xã An Thành, Thành phố Hải Phòng",an-thanh,commune,05
 01608,"Tân Tiến","Xã Tân Tiến, Tỉnh Đắk Lắk",tan-tien,commune,27
@@ -1616,7 +1616,7 @@ code,name,fullName,slug,type,provinceCode
 01615,"Lộc Thuận","Xã Lộc Thuận, Tỉnh Vĩnh Long",loc-thuan,commune,24
 01616,"Nghĩa Sơn","Xã Nghĩa Sơn, Tỉnh Ninh Bình",nghia-son,commune,13
 01617,"Bình Tân","Xã Bình Tân, Tỉnh Đồng Nai",binh-tan,commune,22
-01618,"Đông Hiếu","Xã Đông Hiếu, Tỉnh Nghệ An",ong-hieu,commune,11
+01618,"Đông Hiếu","Xã Đông Hiếu, Tỉnh Nghệ An",dong-hieu,commune,11
 01619,"Lạc Phượng","Xã Lạc Phượng, Thành phố Hải Phòng",lac-phuong,commune,05
 01620,"Phú Tân","Phường Phú Tân, Tỉnh Vĩnh Long",phu-tan,ward,24
 01621,"Ea Wy","Xã Ea Wy, Tỉnh Đắk Lắk",ea-wy,commune,27
@@ -1624,7 +1624,7 @@ code,name,fullName,slug,type,provinceCode
 01623,"Quý Lộc","Xã Quý Lộc, Tỉnh Thanh Hoá",quy-loc,commune,07
 01624,"Mỹ Quý","Xã Mỹ Quý, Tỉnh Tây Ninh",my-quy,commune,15
 01625,"Hoành Bồ","Phường Hoành Bồ, Tỉnh Quảng Ninh",hoanh-bo,ward,08
-01626,"Đông Cứu","Xã Đông Cứu, Tỉnh Bắc Ninh",ong-cuu,commune,10
+01626,"Đông Cứu","Xã Đông Cứu, Tỉnh Bắc Ninh",dong-cuu,commune,10
 01627,"Phù Mỹ","Xã Phù Mỹ, Tỉnh Gia Lai",phu-my,commune,28
 01628,"Gia Hanh","Xã Gia Hanh, Tỉnh Hà Tĩnh",gia-hanh,commune,17
 01629,"Ba Sao","Xã Ba Sao, Tỉnh Đồng Tháp",ba-sao,commune,16
@@ -1632,43 +1632,43 @@ code,name,fullName,slug,type,provinceCode
 01631,"Thạnh Phú","Xã Thạnh Phú, Tỉnh Đồng Tháp",thanh-phu,commune,16
 01632,"Châu Hòa","Xã Châu Hòa, Tỉnh Vĩnh Long",chau-hoa,commune,24
 01633,"Hiếu Phụng","Xã Hiếu Phụng, Tỉnh Vĩnh Long",hieu-phung,commune,24
-01634,"Định Hòa","Xã Định Hòa, Tỉnh Thanh Hoá",inh-hoa,commune,07
-01635,"Định Tân","Xã Định Tân, Tỉnh Thanh Hoá",inh-tan,commune,07
+01634,"Định Hòa","Xã Định Hòa, Tỉnh Thanh Hoá",dinh-hoa,commune,07
+01635,"Định Tân","Xã Định Tân, Tỉnh Thanh Hoá",dinh-tan,commune,07
 01636,"Yên Thắng","Phường Yên Thắng, Tỉnh Ninh Bình",yen-thang,ward,13
 01637,"Chi Lăng","Phường Chi Lăng, Tỉnh An Giang",chi-lang,ward,18
 01638,"Tiến Thành","Phường Tiến Thành, Tỉnh Lâm Đồng",tien-thanh,ward,29
-01639,"Nam Đồng","Xã Nam Đồng, Tỉnh Ninh Bình",nam-ong,commune,13
+01639,"Nam Đồng","Xã Nam Đồng, Tỉnh Ninh Bình",nam-dong,commune,13
 01640,"An Qui","Xã An Qui, Tỉnh Vĩnh Long",an-qui,commune,24
 01641,"Văn Kiều","Xã Văn Kiều, Tỉnh Nghệ An",van-kieu,commune,11
 01642,"Duy Tân","Phường Duy Tân, Tỉnh Ninh Bình",duy-tan,ward,13
 01643,"Thành Công","Xã Thành Công, Tỉnh Thái Nguyên",thanh-cong,commune,19
 01644,"Phú Lộc","Xã Phú Lộc, Thành phố Huế",phu-loc,commune,04
 01645,"Sơn Thuỷ","Xã Sơn Thuỷ, Tỉnh Tuyên Quang",son-thuy,commune,34
-01646,"Châu Đức","Xã Châu Đức, Thành phố Hồ Chí Minh",chau-uc,commune,30
+01646,"Châu Đức","Xã Châu Đức, Thành phố Hồ Chí Minh",chau-duc,commune,30
 01647,"Phúc Lộc","Xã Phúc Lộc, Tỉnh Nghệ An",phuc-loc,commune,11
 01648,"Hùng Hòa","Xã Hùng Hòa, Tỉnh Vĩnh Long",hung-hoa,commune,24
 01649,"Hồng Phong","Xã Hồng Phong, Tỉnh Ninh Bình",hong-phong,commune,13
-01650,"Đan Hải","Xã Đan Hải, Tỉnh Hà Tĩnh",an-hai,commune,17
+01650,"Đan Hải","Xã Đan Hải, Tỉnh Hà Tĩnh",dan-hai,commune,17
 01651,"Chi Lăng","Xã Chi Lăng, Tỉnh Lạng Sơn",chi-lang,commune,20
 01652,"Vĩnh Hòa","Xã Vĩnh Hòa, Thành phố Hải Phòng",vinh-hoa,commune,05
 01653,"Tiên Phước","Xã Tiên Phước, Thành phố Đà Nẵng",tien-phuoc,commune,12
 01654,"Phước Vĩnh Tây","Xã Phước Vĩnh Tây, Tỉnh Tây Ninh",phuoc-vinh-tay,commune,15
 01655,"Nguyên Giáp","Xã Nguyên Giáp, Thành phố Hải Phòng",nguyen-giap,commune,05
-01656,"Đắk Sắk","Xã Đắk Sắk, Tỉnh Lâm Đồng",ak-sak,commune,29
+01656,"Đắk Sắk","Xã Đắk Sắk, Tỉnh Lâm Đồng",dak-sak,commune,29
 01657,"Kiến Hưng","Xã Kiến Hưng, Thành phố Hải Phòng",kien-hung,commune,05
 01658,"Phong Dinh","Phường Phong Dinh, Thành phố Huế",phong-dinh,ward,04
-01659,"Chí Đám","Xã Chí Đám, Tỉnh Phú Thọ",chi-am,commune,06
+01659,"Chí Đám","Xã Chí Đám, Tỉnh Phú Thọ",chi-dam,commune,06
 01660,"Giao Hưng","Xã Giao Hưng, Tỉnh Ninh Bình",giao-hung,commune,13
 01661,"A Sào","Xã A Sào, Tỉnh Hưng Yên",a-sao,commune,02
 01662,"Bắc Tân Uyên","Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh",bac-tan-uyen,commune,30
 01663,"Phú Thọ","Phường Phú Thọ, Tỉnh Phú Thọ",phu-tho,ward,06
-01664,"Ka Đô","Xã Ka Đô, Tỉnh Lâm Đồng",ka-o,commune,29
+01664,"Ka Đô","Xã Ka Đô, Tỉnh Lâm Đồng",ka-do,commune,29
 01665,"Kim Bảng","Xã Kim Bảng, Tỉnh Nghệ An",kim-bang,commune,11
 01666,"Lịch Hội Thượng","Xã Lịch Hội Thượng, Thành phố Cần Thơ",lich-hoi-thuong,commune,32
 01667,"Thắng Lợi","Xã Thắng Lợi, Tỉnh Thanh Hoá",thang-loi,commune,07
 01668,"Nhân Cơ","Xã Nhân Cơ, Tỉnh Lâm Đồng",nhan-co,commune,29
 01669,"Hoàng Cương","Xã Hoàng Cương, Tỉnh Phú Thọ",hoang-cuong,commune,06
-01670,"Phong Điền","Phường Phong Điền, Thành phố Huế",phong-ien,ward,04
+01670,"Phong Điền","Phường Phong Điền, Thành phố Huế",phong-dien,ward,04
 01671,"Thọ Lập","Xã Thọ Lập, Tỉnh Thanh Hoá",tho-lap,commune,07
 01672,"Nam An Phụ","Xã Nam An Phụ, Thành phố Hải Phòng",nam-an-phu,commune,05
 01673,"Sơn Thành","Xã Sơn Thành, Tỉnh Đắk Lắk",son-thanh,commune,27
@@ -1679,7 +1679,7 @@ code,name,fullName,slug,type,provinceCode
 01678,"Hà Nam","Xã Hà Nam, Thành phố Hải Phòng",ha-nam,commune,05
 01679,"Chiềng Mung","Xã Chiềng Mung, Tỉnh Sơn La",chieng-mung,commune,31
 01680,"Thọ Phong","Xã Thọ Phong, Tỉnh Quảng Ngãi",tho-phong,commune,23
-01681,"Đồng Lộc","Xã Đồng Lộc, Tỉnh Hà Tĩnh",ong-loc,commune,17
+01681,"Đồng Lộc","Xã Đồng Lộc, Tỉnh Hà Tĩnh",dong-loc,commune,17
 01682,"Tân Thành","Xã Tân Thành, Tỉnh Tây Ninh",tan-thanh,commune,15
 01683,"Ngọc Liên","Xã Ngọc Liên, Tỉnh Thanh Hoá",ngoc-lien,commune,07
 01684,"Liêm Tuyền","Phường Liêm Tuyền, Tỉnh Ninh Bình",liem-tuyen,ward,13
@@ -1687,16 +1687,16 @@ code,name,fullName,slug,type,provinceCode
 01686,"Mỹ Thiện","Xã Mỹ Thiện, Tỉnh Đồng Tháp",my-thien,commune,16
 01687,"Liêm Hà","Xã Liêm Hà, Tỉnh Ninh Bình",liem-ha,commune,13
 01688,"Yên Xuân","Xã Yên Xuân, Tỉnh Nghệ An",yen-xuan,commune,11
-01689,"Đất Mới","Xã Đất Mới, Tỉnh Cà Mau",at-moi,commune,33
+01689,"Đất Mới","Xã Đất Mới, Tỉnh Cà Mau",dat-moi,commune,33
 01690,"Thanh Thuỷ","Xã Thanh Thuỷ, Tỉnh Phú Thọ",thanh-thuy,commune,06
 01691,"Nguyễn Uý","Phường Nguyễn Uý, Tỉnh Ninh Bình",nguyen-uy,ward,13
 01692,"Hưng Khánh Trung","Xã Hưng Khánh Trung, Tỉnh Vĩnh Long",hung-khanh-trung,commune,24
 01693,"Vu Gia","Xã Vu Gia, Thành phố Đà Nẵng",vu-gia,commune,12
-01694,"Nam Ba Đồn","Xã Nam Ba Đồn, Tỉnh Quảng Trị",nam-ba-on,commune,03
+01694,"Nam Ba Đồn","Xã Nam Ba Đồn, Tỉnh Quảng Trị",nam-ba-don,commune,03
 01695,"Khe Sanh","Xã Khe Sanh, Tỉnh Quảng Trị",khe-sanh,commune,03
 01696,"Long Hà","Xã Long Hà, Tỉnh Đồng Nai",long-ha,commune,22
 01697,"Xuân Lộc","Xã Xuân Lộc, Tỉnh Đắk Lắk",xuan-loc,commune,27
-01698,"Tân Đông","Xã Tân Đông, Tỉnh Tây Ninh",tan-ong,commune,15
+01698,"Tân Đông","Xã Tân Đông, Tỉnh Tây Ninh",tan-dong,commune,15
 01699,"Phú Thuận","Xã Phú Thuận, Thành phố Đà Nẵng",phu-thuan,commune,12
 01700,"Nhị Quý","Phường Nhị Quý, Tỉnh Đồng Tháp",nhi-quy,ward,16
 01701,"Hoằng Sơn","Xã Hoằng Sơn, Tỉnh Thanh Hoá",hoang-son,commune,07
@@ -1708,7 +1708,7 @@ code,name,fullName,slug,type,provinceCode
 01707,"Lạc Sơn","Xã Lạc Sơn, Tỉnh Phú Thọ",lac-son,commune,06
 01708,"Hiền Quan","Xã Hiền Quan, Tỉnh Phú Thọ",hien-quan,commune,06
 01709,"An Phú Tân","Xã An Phú Tân, Tỉnh Vĩnh Long",an-phu-tan,commune,24
-01710,"Tây Đô","Xã Tây Đô, Tỉnh Thanh Hoá",tay-o,commune,07
+01710,"Tây Đô","Xã Tây Đô, Tỉnh Thanh Hoá",tay-do,commune,07
 01711,"Tân Ninh","Xã Tân Ninh, Tỉnh Thanh Hoá",tan-ninh,commune,07
 01712,"Tiên Lữ","Xã Tiên Lữ, Tỉnh Hưng Yên",tien-lu,commune,02
 01713,"Xuân Sơn","Xã Xuân Sơn, Thành phố Hồ Chí Minh",xuan-son,commune,30
@@ -1730,9 +1730,9 @@ code,name,fullName,slug,type,provinceCode
 01729,"Thư Trì","Xã Thư Trì, Tỉnh Hưng Yên",thu-tri,commune,02
 01730,"Khánh An","Xã Khánh An, Tỉnh Cà Mau",khanh-an,commune,33
 01731,"Triệu Bình","Xã Triệu Bình, Tỉnh Quảng Trị",trieu-binh,commune,03
-01732,"Đông Thành","Xã Đông Thành, Tỉnh Tây Ninh",ong-thanh,commune,15
+01732,"Đông Thành","Xã Đông Thành, Tỉnh Tây Ninh",dong-thanh,commune,15
 01733,"Cửa Việt","Xã Cửa Việt, Tỉnh Quảng Trị",cua-viet,commune,03
-01734,"Đông Thái Ninh","Xã Đông Thái Ninh, Tỉnh Hưng Yên",ong-thai-ninh,commune,02
+01734,"Đông Thái Ninh","Xã Đông Thái Ninh, Tỉnh Hưng Yên",dong-thai-ninh,commune,02
 01735,"Cần Giờ","Xã Cần Giờ, Thành phố Hồ Chí Minh",can-gio,commune,30
 01736,"Vũ Quý","Xã Vũ Quý, Tỉnh Hưng Yên",vu-quy,commune,02
 01737,"Tân Hưng","Xã Tân Hưng, Tỉnh Hưng Yên",tan-hung,commune,02
@@ -1743,7 +1743,7 @@ code,name,fullName,slug,type,provinceCode
 01742,"Tiên Sơn","Phường Tiên Sơn, Tỉnh Ninh Bình",tien-son,ward,13
 01743,"Trần Nhân Tông","Phường Trần Nhân Tông, Thành phố Hải Phòng",tran-nhan-tong,ward,05
 01744,"Vĩnh Trinh","Xã Vĩnh Trinh, Thành phố Cần Thơ",vinh-trinh,commune,32
-01745,"Đại Từ","Xã Đại Từ, Tỉnh Thái Nguyên",ai-tu,commune,19
+01745,"Đại Từ","Xã Đại Từ, Tỉnh Thái Nguyên",dai-tu,commune,19
 01746,"Thành Vinh","Xã Thành Vinh, Tỉnh Thanh Hoá",thanh-vinh,commune,07
 01747,"Yên Trị","Xã Yên Trị, Tỉnh Phú Thọ",yen-tri,commune,06
 01748,"Phù Lãng","Xã Phù Lãng, Tỉnh Bắc Ninh",phu-lang,commune,10
@@ -1753,20 +1753,20 @@ code,name,fullName,slug,type,provinceCode
 01752,"Hải An","Xã Hải An, Tỉnh Ninh Bình",hai-an,commune,13
 01753,"Xuyên Mộc","Xã Xuyên Mộc, Thành phố Hồ Chí Minh",xuyen-moc,commune,30
 01754,"Thái Hòa","Phường Thái Hòa, Tỉnh Nghệ An",thai-hoa,ward,11
-01755,"Đồng Xuân","Xã Đồng Xuân, Tỉnh Đắk Lắk",ong-xuan,commune,27
+01755,"Đồng Xuân","Xã Đồng Xuân, Tỉnh Đắk Lắk",dong-xuan,commune,27
 01756,"Trung Tâm","Phường Trung Tâm, Tỉnh Lào Cai",trung-tam,ward,09
 01757,"Hùng Thắng","Xã Hùng Thắng, Thành phố Hải Phòng",hung-thang,commune,05
 01758,"Quang Thiện","Xã Quang Thiện, Tỉnh Ninh Bình",quang-thien,commune,13
 01759,"Tân Trụ","Xã Tân Trụ, Tỉnh Tây Ninh",tan-tru,commune,15
-01760,"Tam Điệp","Phường Tam Điệp, Tỉnh Ninh Bình",tam-iep,ward,13
+01760,"Tam Điệp","Phường Tam Điệp, Tỉnh Ninh Bình",tam-diep,ward,13
 01761,"Trường Xuân","Xã Trường Xuân, Tỉnh Lâm Đồng",truong-xuan,commune,29
 01762,"Hòa Thắng","Phường Hòa Thắng, Tỉnh Khánh Hòa",hoa-thang,ward,14
 01763,"Ayun Pa","Phường Ayun Pa, Tỉnh Gia Lai",ayun-pa,ward,28
 01764,"Liên Sơn Lắk","Xã Liên Sơn Lắk, Tỉnh Đắk Lắk",lien-son-lak,commune,27
 01765,"Nhân Thắng","Xã Nhân Thắng, Tỉnh Bắc Ninh",nhan-thang,commune,10
-01766,"Vĩnh Định","Xã Vĩnh Định, Tỉnh Quảng Trị",vinh-inh,commune,03
+01766,"Vĩnh Định","Xã Vĩnh Định, Tỉnh Quảng Trị",vinh-dinh,commune,03
 01767,"Mỹ Hòa Hưng","Xã Mỹ Hòa Hưng, Tỉnh An Giang",my-hoa-hung,commune,18
-01768,"Đồng Việt","Xã Đồng Việt, Tỉnh Bắc Ninh",ong-viet,commune,10
+01768,"Đồng Việt","Xã Đồng Việt, Tỉnh Bắc Ninh",dong-viet,commune,10
 01769,"Hòa Vang","Xã Hòa Vang, Thành phố Đà Nẵng",hoa-vang,commune,12
 01770,"Giao Bình","Xã Giao Bình, Tỉnh Ninh Bình",giao-binh,commune,13
 01771,"Trần Liễu","Phường Trần Liễu, Thành phố Hải Phòng",tran-lieu,ward,05
@@ -1782,7 +1782,7 @@ code,name,fullName,slug,type,provinceCode
 01781,"Quảng Ninh","Xã Quảng Ninh, Tỉnh Thanh Hoá",quang-ninh,commune,07
 01782,"Văn Phú","Phường Văn Phú, Tỉnh Lào Cai",van-phu,ward,09
 01783,"Thanh Tùng","Xã Thanh Tùng, Tỉnh Cà Mau",thanh-tung,commune,33
-01784,"Xuân Đường","Xã Xuân Đường, Tỉnh Đồng Nai",xuan-uong,commune,22
+01784,"Xuân Đường","Xã Xuân Đường, Tỉnh Đồng Nai",xuan-duong,commune,22
 01785,"Yên Minh","Xã Yên Minh, Tỉnh Tuyên Quang",yen-minh,commune,34
 01786,"Hưng Thuận","Xã Hưng Thuận, Tỉnh Tây Ninh",hung-thuan,commune,15
 01787,"Nga Thắng","Xã Nga Thắng, Tỉnh Thanh Hoá",nga-thang,commune,07
@@ -1791,10 +1791,10 @@ code,name,fullName,slug,type,provinceCode
 01790,"Hòa Mỹ","Xã Hòa Mỹ, Tỉnh Đắk Lắk",hoa-my,commune,27
 01791,"Lương Sơn","Xã Lương Sơn, Tỉnh Nghệ An",luong-son,commune,11
 01792,"Khánh Trung","Xã Khánh Trung, Tỉnh Ninh Bình",khanh-trung,commune,13
-01793,"An Nhơn Đông","Phường An Nhơn Đông, Tỉnh Gia Lai",an-nhon-ong,ward,28
+01793,"An Nhơn Đông","Phường An Nhơn Đông, Tỉnh Gia Lai",an-nhon-dong,ward,28
 01794,"Tam Nông","Xã Tam Nông, Tỉnh Phú Thọ",tam-nong,commune,06
 01795,"Triệu Lộc","Xã Triệu Lộc, Tỉnh Thanh Hoá",trieu-loc,commune,07
-01796,"Tam Đồng","Xã Tam Đồng, Tỉnh Nghệ An",tam-ong,commune,11
+01796,"Tam Đồng","Xã Tam Đồng, Tỉnh Nghệ An",tam-dong,commune,11
 01797,"Vĩnh Thịnh","Xã Vĩnh Thịnh, Thành phố Hải Phòng",vinh-thinh,commune,05
 01798,"Long Bình","Phường Long Bình, Thành phố Cần Thơ",long-binh,ward,32
 01799,"Tân Long Hội","Xã Tân Long Hội, Tỉnh Vĩnh Long",tan-long-hoi,commune,24
@@ -1803,7 +1803,7 @@ code,name,fullName,slug,type,provinceCode
 01802,"Quới Thiện","Xã Quới Thiện, Tỉnh Vĩnh Long",quoi-thien,commune,24
 01803,"Yên Trung","Xã Yên Trung, Tỉnh Nghệ An",yen-trung,commune,11
 01804,"Như Thanh","Xã Như Thanh, Tỉnh Thanh Hoá",nhu-thanh,commune,07
-01805,"Đào Duy Tư","Phường Đào Duy Tư, Tỉnh Thanh Hoá",ao-duy-tu,ward,07
+01805,"Đào Duy Tư","Phường Đào Duy Tư, Tỉnh Thanh Hoá",dao-duy-tu,ward,07
 01806,"Phú Mỹ","Xã Phú Mỹ, Tỉnh Cà Mau",phu-my,commune,33
 01807,"Việt An","Xã Việt An, Thành phố Đà Nẵng",viet-an,commune,12
 01808,"Kiến Minh","Xã Kiến Minh, Thành phố Hải Phòng",kien-minh,commune,05
@@ -1813,15 +1813,15 @@ code,name,fullName,slug,type,provinceCode
 01812,"Tiên Hoa","Xã Tiên Hoa, Tỉnh Hưng Yên",tien-hoa,commune,02
 01813,"Hòa Hội","Xã Hòa Hội, Tỉnh Gia Lai",hoa-hoi,commune,28
 01814,"Chấn Hưng","Xã Chấn Hưng, Thành phố Hải Phòng",chan-hung,commune,05
-01815,"Mường Động","Xã Mường Động, Tỉnh Phú Thọ",muong-ong,commune,06
+01815,"Mường Động","Xã Mường Động, Tỉnh Phú Thọ",muong-dong,commune,06
 01816,"Bình Châu","Xã Bình Châu, Thành phố Hồ Chí Minh",binh-chau,commune,30
 01817,"Kim Thanh","Phường Kim Thanh, Tỉnh Ninh Bình",kim-thanh,ward,13
 01818,"Cẩm Tú","Xã Cẩm Tú, Tỉnh Thanh Hoá",cam-tu,commune,07
 01819,"Con Cuông","Xã Con Cuông, Tỉnh Nghệ An",con-cuong,commune,11
-01820,"Đồng Văn","Xã Đồng Văn, Tỉnh Tuyên Quang",ong-van,commune,34
+01820,"Đồng Văn","Xã Đồng Văn, Tỉnh Tuyên Quang",dong-van,commune,34
 01821,"Hoàng An","Xã Hoàng An, Tỉnh Phú Thọ",hoang-an,commune,06
 01822,"Hòa Hiệp","Xã Hòa Hiệp, Thành phố Hồ Chí Minh",hoa-hiep,commune,30
-01823,"Đầm Hà","Xã Đầm Hà, Tỉnh Quảng Ninh",am-ha,commune,08
+01823,"Đầm Hà","Xã Đầm Hà, Tỉnh Quảng Ninh",dam-ha,commune,08
 01824,"Lương Hòa","Xã Lương Hòa, Tỉnh Vĩnh Long",luong-hoa,commune,24
 01825,"Gia Vân","Xã Gia Vân, Tỉnh Ninh Bình",gia-van,commune,13
 01826,"Tân Thạnh","Xã Tân Thạnh, Tỉnh Tây Ninh",tan-thanh,commune,15
@@ -1841,7 +1841,7 @@ code,name,fullName,slug,type,provinceCode
 01840,"Nghi Dương","Xã Nghi Dương, Thành phố Hải Phòng",nghi-duong,commune,05
 01841,"Nghĩa Khánh","Xã Nghĩa Khánh, Tỉnh Nghệ An",nghia-khanh,commune,11
 01842,"Ngô Mây","Xã Ngô Mây, Tỉnh Gia Lai",ngo-may,commune,28
-01843,"Đại Lãnh","Xã Đại Lãnh, Tỉnh Khánh Hòa",ai-lanh,commune,14
+01843,"Đại Lãnh","Xã Đại Lãnh, Tỉnh Khánh Hòa",dai-lanh,commune,14
 01844,"Lý Sơn","Đặc khu Lý Sơn, Tỉnh Quảng Ngãi",ly-son,commune,23
 01845,"Phú Khê","Xã Phú Khê, Tỉnh Phú Thọ",phu-khe,commune,06
 01846,"Tân Hải","Xã Tân Hải, Tỉnh Lâm Đồng",tan-hai,commune,29
@@ -1862,7 +1862,7 @@ code,name,fullName,slug,type,provinceCode
 01861,"Xuân Lộc","Xã Xuân Lộc, Tỉnh Hà Tĩnh",xuan-loc,commune,17
 01862,"Châu Pha","Xã Châu Pha, Thành phố Hồ Chí Minh",chau-pha,commune,30
 01863,"Cầu Khởi","Xã Cầu Khởi, Tỉnh Tây Ninh",cau-khoi,commune,15
-01864,"Đoàn Kết","Phường Đoàn Kết, Tỉnh Lai Châu",oan-ket,ward,26
+01864,"Đoàn Kết","Phường Đoàn Kết, Tỉnh Lai Châu",doan-ket,ward,26
 01865,"Hòa Sơn","Xã Hòa Sơn, Tỉnh Đắk Lắk",hoa-son,commune,27
 01866,"Bắc Kạn","Phường Bắc Kạn, Tỉnh Thái Nguyên",bac-kan,ward,19
 01867,"Mỹ Long","Xã Mỹ Long, Tỉnh Vĩnh Long",my-long,commune,24
@@ -1873,30 +1873,30 @@ code,name,fullName,slug,type,provinceCode
 01872,"Thanh An","Xã Thanh An, Thành phố Hồ Chí Minh",thanh-an,commune,30
 01873,"Trường Long Tây","Xã Trường Long Tây, Thành phố Cần Thơ",truong-long-tay,commune,32
 01874,"Cẩm Bình","Xã Cẩm Bình, Tỉnh Hà Tĩnh",cam-binh,commune,17
-01875,"Nam Đông Hưng","Xã Nam Đông Hưng, Tỉnh Hưng Yên",nam-ong-hung,commune,02
+01875,"Nam Đông Hưng","Xã Nam Đông Hưng, Tỉnh Hưng Yên",nam-dong-hung,commune,02
 01876,"Lạc Lương","Xã Lạc Lương, Tỉnh Phú Thọ",lac-luong,commune,06
 01877,"Mường Bú","Xã Mường Bú, Tỉnh Sơn La",muong-bu,commune,31
 01878,"Kbang","Xã Kbang, Tỉnh Gia Lai",kbang,commune,28
 01879,"Bà Nà","Xã Bà Nà, Thành phố Đà Nẵng",ba-na,commune,12
-01880,"Bắc Đông Quan","Xã Bắc Đông Quan, Tỉnh Hưng Yên",bac-ong-quan,commune,02
+01880,"Bắc Đông Quan","Xã Bắc Đông Quan, Tỉnh Hưng Yên",bac-dong-quan,commune,02
 01881,"Tây Tiền Hải","Xã Tây Tiền Hải, Tỉnh Hưng Yên",tay-tien-hai,commune,02
 01882,"Cầu Thia","Phường Cầu Thia, Tỉnh Lào Cai",cau-thia,ward,09
 01883,"Bảo Thạnh","Xã Bảo Thạnh, Tỉnh Vĩnh Long",bao-thanh,commune,24
-01884,"Đăk Rơ Wa","Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi",ak-ro-wa,commune,23
+01884,"Đăk Rơ Wa","Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi",dak-ro-wa,commune,23
 01885,"Long Hòa","Xã Long Hòa, Thành phố Hồ Chí Minh",long-hoa,commune,30
 01886,"Phú Sơn - Lâm Hà","Xã Phú Sơn - Lâm Hà, Tỉnh Lâm Đồng",phu-son-lam-ha,commune,29
 01887,"Núi Cấm","Xã Núi Cấm, Tỉnh An Giang",nui-cam,commune,18
-01888,"Đông Quan","Xã Đông Quan, Tỉnh Hưng Yên",ong-quan,commune,02
+01888,"Đông Quan","Xã Đông Quan, Tỉnh Hưng Yên",dong-quan,commune,02
 01889,"Phú Thành","Xã Phú Thành, Tỉnh Đồng Tháp",phu-thanh,commune,16
 01890,"Diên Sanh","Xã Diên Sanh, Tỉnh Quảng Trị",dien-sanh,commune,03
 01891,"Hồng Thái","Xã Hồng Thái, Tỉnh Lâm Đồng",hong-thai,commune,29
 01892,"Tân Hộ Cơ","Xã Tân Hộ Cơ, Tỉnh Đồng Tháp",tan-ho-co,commune,16
 01893,"Nghĩa Lộc","Xã Nghĩa Lộc, Tỉnh Nghệ An",nghia-loc,commune,11
-01894,"Đồng Bằng","Xã Đồng Bằng, Tỉnh Hưng Yên",ong-bang,commune,02
+01894,"Đồng Bằng","Xã Đồng Bằng, Tỉnh Hưng Yên",dong-bang,commune,02
 01895,"Vân Hồ","Xã Vân Hồ, Tỉnh Sơn La",van-ho,commune,31
 01896,"Phúc Hòa","Xã Phúc Hòa, Tỉnh Bắc Ninh",phuc-hoa,commune,10
 01897,"Phước Long","Xã Phước Long, Tỉnh Cà Mau",phuoc-long,commune,33
-01898,"Đồng Đăng","Xã Đồng Đăng, Tỉnh Lạng Sơn",ong-ang,commune,20
+01898,"Đồng Đăng","Xã Đồng Đăng, Tỉnh Lạng Sơn",dong-dang,commune,20
 01899,"An Sinh","Phường An Sinh, Tỉnh Quảng Ninh",an-sinh,ward,08
 01900,"Nga An","Xã Nga An, Tỉnh Thanh Hoá",nga-an,commune,07
 01901,"Kinh Môn","Phường Kinh Môn, Thành phố Hải Phòng",kinh-mon,ward,05
@@ -1904,18 +1904,18 @@ code,name,fullName,slug,type,provinceCode
 01903,"Hàng Gòn","Phường Hàng Gòn, Tỉnh Đồng Nai",hang-gon,ward,22
 01904,"Phạm Sư Mạnh","Phường Phạm Sư Mạnh, Thành phố Hải Phòng",pham-su-manh,ward,05
 01905,"Cà Ná","Xã Cà Ná, Tỉnh Khánh Hòa",ca-na,commune,14
-01906,"Nam Đồng","Phường Nam Đồng, Thành phố Hải Phòng",nam-ong,ward,05
+01906,"Nam Đồng","Phường Nam Đồng, Thành phố Hải Phòng",nam-dong,ward,05
 01907,"Quảng Lập","Xã Quảng Lập, Tỉnh Lâm Đồng",quang-lap,commune,29
 01908,"Lĩnh Toại","Xã Lĩnh Toại, Tỉnh Thanh Hoá",linh-toai,commune,07
 01909,"Quy Nhơn Tây","Phường Quy Nhơn Tây, Tỉnh Gia Lai",quy-nhon-tay,ward,28
 01910,"Tam Quan","Phường Tam Quan, Tỉnh Gia Lai",tam-quan,ward,28
-01911,"Tiên Điền","Xã Tiên Điền, Tỉnh Hà Tĩnh",tien-ien,commune,17
+01911,"Tiên Điền","Xã Tiên Điền, Tỉnh Hà Tĩnh",tien-dien,commune,17
 01912,"Vĩnh Tường","Xã Vĩnh Tường, Tỉnh Nghệ An",vinh-tuong,commune,11
 01913,"Thăng Trường","Xã Thăng Trường, Thành phố Đà Nẵng",thang-truong,commune,12
 01914,"Thạnh Bình","Xã Thạnh Bình, Thành phố Đà Nẵng",thanh-binh,commune,12
 01915,"Sơn Hạ","Xã Sơn Hạ, Tỉnh Quảng Ngãi",son-ha,commune,23
-01916,"Đồng Dương","Xã Đồng Dương, Thành phố Đà Nẵng",ong-duong,commune,12
-01917,"Đạo Trù","Xã Đạo Trù, Tỉnh Phú Thọ",ao-tru,commune,06
+01916,"Đồng Dương","Xã Đồng Dương, Thành phố Đà Nẵng",dong-duong,commune,12
+01917,"Đạo Trù","Xã Đạo Trù, Tỉnh Phú Thọ",dao-tru,commune,06
 01918,"Xuân Ái","Xã Xuân Ái, Tỉnh Lào Cai",xuan-ai,commune,09
 01919,"Ái Quốc","Phường Ái Quốc, Thành phố Hải Phòng",ai-quoc,ward,05
 01920,"Tây Hiếu","Phường Tây Hiếu, Tỉnh Nghệ An",tay-hieu,ward,11
@@ -1923,35 +1923,35 @@ code,name,fullName,slug,type,provinceCode
 01922,"Phiêng Pằn","Xã Phiêng Pằn, Tỉnh Sơn La",phieng-pan,commune,31
 01923,"Minh Thọ","Xã Minh Thọ, Tỉnh Hưng Yên",minh-tho,commune,02
 01924,"Tân Mỹ","Xã Tân Mỹ, Tỉnh Quảng Trị",tan-my,commune,03
-01925,"Lê Đại Hành","Phường Lê Đại Hành, Thành phố Hải Phòng",le-ai-hanh,ward,05
+01925,"Lê Đại Hành","Phường Lê Đại Hành, Thành phố Hải Phòng",le-dai-hanh,ward,05
 01926,"Ia Grai","Xã Ia Grai, Tỉnh Gia Lai",ia-grai,commune,28
 01927,"Mường Hung","Xã Mường Hung, Tỉnh Sơn La",muong-hung,commune,31
-01928,"Đông Thuận","Xã Đông Thuận, Thành phố Cần Thơ",ong-thuan,commune,32
+01928,"Đông Thuận","Xã Đông Thuận, Thành phố Cần Thơ",dong-thuan,commune,32
 01929,"Thượng Hồng","Xã Thượng Hồng, Thành phố Hải Phòng",thuong-hong,commune,05
 01930,"Hồng Minh","Xã Hồng Minh, Tỉnh Hưng Yên",hong-minh,commune,02
 01931,"Nguyễn Bỉnh Khiêm","Xã Nguyễn Bỉnh Khiêm, Thành phố Hải Phòng",nguyen-binh-khiem,commune,05
 01932,"Mường Khiêng","Xã Mường Khiêng, Tỉnh Sơn La",muong-khieng,commune,31
 01933,"Nhân Hà","Xã Nhân Hà, Tỉnh Ninh Bình",nhan-ha,commune,13
-01934,"Đồng Lê","Xã Đồng Lê, Tỉnh Quảng Trị",ong-le,commune,03
+01934,"Đồng Lê","Xã Đồng Lê, Tỉnh Quảng Trị",dong-le,commune,03
 01935,"Trừ Văn Thố","Xã Trừ Văn Thố, Thành phố Hồ Chí Minh",tru-van-tho,commune,30
-01936,"Đại Ngãi","Xã Đại Ngãi, Thành phố Cần Thơ",ai-ngai,commune,32
+01936,"Đại Ngãi","Xã Đại Ngãi, Thành phố Cần Thơ",dai-ngai,commune,32
 01937,"Lạc Thủy","Xã Lạc Thủy, Tỉnh Phú Thọ",lac-thuy,commune,06
 01938,"Long Thuận","Xã Long Thuận, Tỉnh Tây Ninh",long-thuan,commune,15
 01939,"Bình Thanh","Xã Bình Thanh, Tỉnh Hưng Yên",binh-thanh,commune,02
 01940,"Hòa Tú","Xã Hòa Tú, Thành phố Cần Thơ",hoa-tu,commune,32
-01941,"Nam Đàn","Xã Nam Đàn, Tỉnh Nghệ An",nam-an,commune,11
+01941,"Nam Đàn","Xã Nam Đàn, Tỉnh Nghệ An",nam-dan,commune,11
 01942,"Ngọc Lâm","Xã Ngọc Lâm, Tỉnh Hưng Yên",ngoc-lam,commune,02
 01943,"Tân Hòa","Xã Tân Hòa, Tỉnh Tây Ninh",tan-hoa,commune,15
 01944,"Bạc Liêu","Phường Bạc Liêu, Tỉnh Cà Mau",bac-lieu,ward,33
-01945,"Đại Huệ","Xã Đại Huệ, Tỉnh Nghệ An",ai-hue,commune,11
-01946,"Định Hóa","Xã Định Hóa, Tỉnh Ninh Bình",inh-hoa,commune,13
+01945,"Đại Huệ","Xã Đại Huệ, Tỉnh Nghệ An",dai-hue,commune,11
+01946,"Định Hóa","Xã Định Hóa, Tỉnh Ninh Bình",dinh-hoa,commune,13
 01947,"Mường Khương","Xã Mường Khương, Tỉnh Lào Cai",muong-khuong,commune,09
 01948,"Vĩnh Viễn","Xã Vĩnh Viễn, Thành phố Cần Thơ",vinh-vien,commune,32
-01949,"Sơn Động","Xã Sơn Động, Tỉnh Bắc Ninh",son-ong,commune,10
+01949,"Sơn Động","Xã Sơn Động, Tỉnh Bắc Ninh",son-dong,commune,10
 01950,"Na Dương","Xã Na Dương, Tỉnh Lạng Sơn",na-duong,commune,20
 01951,"Duyên Hải","Phường Duyên Hải, Tỉnh Vĩnh Long",duyen-hai,ward,24
-01952,"Đại Đồng","Xã Đại Đồng, Tỉnh Phú Thọ",ai-ong,commune,06
-01953,"Đắk Wil","Xã Đắk Wil, Tỉnh Lâm Đồng",ak-wil,commune,29
+01952,"Đại Đồng","Xã Đại Đồng, Tỉnh Phú Thọ",dai-dong,commune,06
+01953,"Đắk Wil","Xã Đắk Wil, Tỉnh Lâm Đồng",dak-wil,commune,29
 01954,"Bình Giang","Xã Bình Giang, Tỉnh Ninh Bình",binh-giang,commune,13
 01955,"Bình Ca","Xã Bình Ca, Tỉnh Tuyên Quang",binh-ca,commune,34
 01956,"Thọ Ngọc","Xã Thọ Ngọc, Tỉnh Thanh Hoá",tho-ngoc,commune,07
@@ -1965,18 +1965,18 @@ code,name,fullName,slug,type,provinceCode
 01964,"Lâm Sơn","Xã Lâm Sơn, Tỉnh Khánh Hòa",lam-son,commune,14
 01965,"Minh Thạnh","Xã Minh Thạnh, Thành phố Hồ Chí Minh",minh-thanh,commune,30
 01966,"Vĩnh Hựu","Xã Vĩnh Hựu, Tỉnh Đồng Tháp",vinh-huu,commune,16
-01967,"Minh Đài","Xã Minh Đài, Tỉnh Phú Thọ",minh-ai,commune,06
-01968,"Đông Gia Nghĩa","Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng",ong-gia-nghia,ward,29
+01967,"Minh Đài","Xã Minh Đài, Tỉnh Phú Thọ",minh-dai,commune,06
+01968,"Đông Gia Nghĩa","Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng",dong-gia-nghia,ward,29
 01969,"Suối Dầu","Xã Suối Dầu, Tỉnh Khánh Hòa",suoi-dau,commune,14
 01970,"Suối Hiệp","Xã Suối Hiệp, Tỉnh Khánh Hòa",suoi-hiep,commune,14
 01971,"An Viễn","Xã An Viễn, Tỉnh Đồng Nai",an-vien,commune,22
 01972,"Vân Du","Xã Vân Du, Tỉnh Thanh Hoá",van-du,commune,07
-01973,"Hòa Điền","Xã Hòa Điền, Tỉnh An Giang",hoa-ien,commune,18
+01973,"Hòa Điền","Xã Hòa Điền, Tỉnh An Giang",hoa-dien,commune,18
 01974,"Hỏa Lựu","Xã Hỏa Lựu, Thành phố Cần Thơ",hoa-luu,commune,32
 01975,"Sốp Cộp","Xã Sốp Cộp, Tỉnh Sơn La",sop-cop,commune,31
 01976,"Tân Châu","Xã Tân Châu, Tỉnh Tây Ninh",tan-chau,commune,15
 01977,"Trường Long","Xã Trường Long, Thành phố Cần Thơ",truong-long,commune,32
-01978,"Đồng Thái","Xã Đồng Thái, Tỉnh Ninh Bình",ong-thai,commune,13
+01978,"Đồng Thái","Xã Đồng Thái, Tỉnh Ninh Bình",dong-thai,commune,13
 01979,"Thạnh Lợi","Xã Thạnh Lợi, Tỉnh Tây Ninh",thanh-loi,commune,15
 01980,"Lương Tâm","Xã Lương Tâm, Thành phố Cần Thơ",luong-tam,commune,32
 01981,"Yên Thủy","Xã Yên Thủy, Tỉnh Phú Thọ",yen-thuy,commune,06
@@ -1990,7 +1990,7 @@ code,name,fullName,slug,type,provinceCode
 01989,"Vị Xuyên","Xã Vị Xuyên, Tỉnh Tuyên Quang",vi-xuyen,commune,34
 01990,"Cẩm Duệ","Xã Cẩm Duệ, Tỉnh Hà Tĩnh",cam-due,commune,17
 01991,"Ea Ô","Xã Ea Ô, Tỉnh Đắk Lắk",ea-o,commune,27
-01992,"Đại Hoàng","Xã Đại Hoàng, Tỉnh Ninh Bình",ai-hoang,commune,13
+01992,"Đại Hoàng","Xã Đại Hoàng, Tỉnh Ninh Bình",dai-hoang,commune,13
 01993,"Phước Giang","Xã Phước Giang, Tỉnh Quảng Ngãi",phuoc-giang,commune,23
 01994,"Sông Hinh","Xã Sông Hinh, Tỉnh Đắk Lắk",song-hinh,commune,27
 01995,"An Phước","Xã An Phước, Tỉnh Đồng Tháp",an-phuoc,commune,16
@@ -2001,17 +2001,17 @@ code,name,fullName,slug,type,provinceCode
 02000,"Thanh Sơn","Xã Thanh Sơn, Tỉnh Ninh Bình",thanh-son,commune,13
 02001,"Nghĩa Lâm","Xã Nghĩa Lâm, Tỉnh Nghệ An",nghia-lam,commune,11
 02002,"Kiến Tường","Phường Kiến Tường, Tỉnh Tây Ninh",kien-tuong,ward,15
-02003,"Đông Phú","Xã Đông Phú, Tỉnh Bắc Ninh",ong-phu,commune,10
-02004,"Bắc Đông Hưng","Xã Bắc Đông Hưng, Tỉnh Hưng Yên",bac-ong-hung,commune,02
+02003,"Đông Phú","Xã Đông Phú, Tỉnh Bắc Ninh",dong-phu,commune,10
+02004,"Bắc Đông Hưng","Xã Bắc Đông Hưng, Tỉnh Hưng Yên",bac-dong-hung,commune,02
 02005,"Tân Khánh","Xã Tân Khánh, Tỉnh Thái Nguyên",tan-khanh,commune,19
 02006,"Lộc Tấn","Xã Lộc Tấn, Tỉnh Đồng Nai",loc-tan,commune,22
-02007,"Đak Nhau","Xã Đak Nhau, Tỉnh Đồng Nai",ak-nhau,commune,22
+02007,"Đak Nhau","Xã Đak Nhau, Tỉnh Đồng Nai",dak-nhau,commune,22
 02008,"Thuận Lợi","Xã Thuận Lợi, Tỉnh Đồng Nai",thuan-loi,commune,22
 02009,"Nam Gia Nghĩa","Phường Nam Gia Nghĩa, Tỉnh Lâm Đồng",nam-gia-nghia,ward,29
 02010,"Khánh Hội","Xã Khánh Hội, Tỉnh Ninh Bình",khanh-hoi,commune,13
-02011,"Tân Phú Đông","Xã Tân Phú Đông, Tỉnh Đồng Tháp",tan-phu-ong,commune,16
+02011,"Tân Phú Đông","Xã Tân Phú Đông, Tỉnh Đồng Tháp",tan-phu-dong,commune,16
 02012,"Thanh Liêm","Xã Thanh Liêm, Tỉnh Ninh Bình",thanh-liem,commune,13
-02013,"Đức Cơ","Xã Đức Cơ, Tỉnh Gia Lai",uc-co,commune,28
+02013,"Đức Cơ","Xã Đức Cơ, Tỉnh Gia Lai",duc-co,commune,28
 02014,"Kỳ Xuân","Xã Kỳ Xuân, Tỉnh Hà Tĩnh",ky-xuan,commune,17
 02015,"Yên Ninh","Xã Yên Ninh, Tỉnh Thanh Hoá",yen-ninh,commune,07
 02016,"Trường Lưu","Xã Trường Lưu, Tỉnh Hà Tĩnh",truong-luu,commune,17
@@ -2019,12 +2019,12 @@ code,name,fullName,slug,type,provinceCode
 02018,"Yên Trạch","Xã Yên Trạch, Tỉnh Thái Nguyên",yen-trach,commune,19
 02019,"Mỹ Phước","Xã Mỹ Phước, Thành phố Cần Thơ",my-phuoc,commune,32
 02020,"Triệu Phong","Xã Triệu Phong, Tỉnh Quảng Trị",trieu-phong,commune,03
-02021,"Lê Quý Đôn","Xã Lê Quý Đôn, Tỉnh Hưng Yên",le-quy-on,commune,02
+02021,"Lê Quý Đôn","Xã Lê Quý Đôn, Tỉnh Hưng Yên",le-quy-don,commune,02
 02022,"Nam Cam Ranh","Xã Nam Cam Ranh, Tỉnh Khánh Hòa",nam-cam-ranh,commune,14
-02023,"Đông Tiên Hưng","Xã Đông Tiên Hưng, Tỉnh Hưng Yên",ong-tien-hung,commune,02
+02023,"Đông Tiên Hưng","Xã Đông Tiên Hưng, Tỉnh Hưng Yên",dong-tien-hung,commune,02
 02024,"Thụy Anh","Xã Thụy Anh, Tỉnh Hưng Yên",thuy-anh,commune,02
 02025,"Ngọc Trạo","Xã Ngọc Trạo, Tỉnh Thanh Hoá",ngoc-trao,commune,07
-02026,"Ninh Điền","Xã Ninh Điền, Tỉnh Tây Ninh",ninh-ien,commune,15
+02026,"Ninh Điền","Xã Ninh Điền, Tỉnh Tây Ninh",ninh-dien,commune,15
 02027,"Nguyệt Ấn","Xã Nguyệt Ấn, Tỉnh Thanh Hoá",nguyet-an,commune,07
 02028,"Lao Bảo","Xã Lao Bảo, Tỉnh Quảng Trị",lao-bao,commune,03
 02029,"Lục Sỹ Thành","Xã Lục Sỹ Thành, Tỉnh Vĩnh Long",luc-sy-thanh,commune,24
@@ -2053,11 +2053,11 @@ code,name,fullName,slug,type,provinceCode
 02052,"Krông Bông","Xã Krông Bông, Tỉnh Đắk Lắk",krong-bong,commune,27
 02053,"Lương Văn Tri","Phường Lương Văn Tri, Tỉnh Lạng Sơn",luong-van-tri,ward,20
 02054,"Tân Tiến","Xã Tân Tiến, Tỉnh Hưng Yên",tan-tien,commune,02
-02055,"Đạ Huoai","Xã Đạ Huoai, Tỉnh Lâm Đồng",a-huoai,commune,29
+02055,"Đạ Huoai","Xã Đạ Huoai, Tỉnh Lâm Đồng",da-huoai,commune,29
 02056,"Ia Lâu","Xã Ia Lâu, Tỉnh Gia Lai",ia-lau,commune,28
 02057,"Quỳ Châu","Xã Quỳ Châu, Tỉnh Nghệ An",quy-chau,commune,11
 02058,"Vĩnh Trạch","Phường Vĩnh Trạch, Tỉnh Cà Mau",vinh-trach,ward,33
-02059,"Đông Hải","Xã Đông Hải, Tỉnh Cà Mau",ong-hai,commune,33
+02059,"Đông Hải","Xã Đông Hải, Tỉnh Cà Mau",dong-hai,commune,33
 02060,"Phú Xuyên","Xã Phú Xuyên, Tỉnh Thái Nguyên",phu-xuyen,commune,19
 02061,"Yên Thọ","Xã Yên Thọ, Tỉnh Thanh Hoá",yen-tho,commune,07
 02062,"Tà Hine","Xã Tà Hine, Tỉnh Lâm Đồng",ta-hine,commune,29
@@ -2065,60 +2065,60 @@ code,name,fullName,slug,type,provinceCode
 02064,"Cát Ngạn","Xã Cát Ngạn, Tỉnh Nghệ An",cat-ngan,commune,11
 02065,"Hòa Xuân","Xã Hòa Xuân, Tỉnh Đắk Lắk",hoa-xuan,commune,27
 02066,"Lý Thường Kiệt","Phường Lý Thường Kiệt, Tỉnh Ninh Bình",ly-thuong-kiet,ward,13
-02067,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Thanh Hoá",ong-tien,commune,07
+02067,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Thanh Hoá",dong-tien,commune,07
 02068,"Ia Krêl","Xã Ia Krêl, Tỉnh Gia Lai",ia-krel,commune,28
 02069,"Hùng Việt","Xã Hùng Việt, Tỉnh Phú Thọ",hung-viet,commune,06
-02070,"Đức Huệ","Xã Đức Huệ, Tỉnh Tây Ninh",uc-hue,commune,15
+02070,"Đức Huệ","Xã Đức Huệ, Tỉnh Tây Ninh",duc-hue,commune,15
 02071,"Thống Nhất","Phường Thống Nhất, Tỉnh Phú Thọ",thong-nhat,ward,06
 02072,"Sa Pa","Phường Sa Pa, Tỉnh Lào Cai",sa-pa,ward,09
-02073,"Đắk Liêng","Xã Đắk Liêng, Tỉnh Đắk Lắk",ak-lieng,commune,27
+02073,"Đắk Liêng","Xã Đắk Liêng, Tỉnh Đắk Lắk",dak-lieng,commune,27
 02074,"Si Ma Cai","Xã Si Ma Cai, Tỉnh Lào Cai",si-ma-cai,commune,09
 02075,"Quế Phong","Xã Quế Phong, Tỉnh Nghệ An",que-phong,commune,11
-02076,"Đồng Kỳ","Xã Đồng Kỳ, Tỉnh Bắc Ninh",ong-ky,commune,10
+02076,"Đồng Kỳ","Xã Đồng Kỳ, Tỉnh Bắc Ninh",dong-ky,commune,10
 02077,"M’Drắk","Xã M’Drắk, Tỉnh Đắk Lắk",mdrak,commune,27
 02078,"Cẩm Vân","Xã Cẩm Vân, Tỉnh Thanh Hoá",cam-van,commune,07
 02079,"Vĩnh Công","Xã Vĩnh Công, Tỉnh Tây Ninh",vinh-cong,commune,15
-02080,"Đoàn Đào","Xã Đoàn Đào, Tỉnh Hưng Yên",oan-ao,commune,02
+02080,"Đoàn Đào","Xã Đoàn Đào, Tỉnh Hưng Yên",doan-dao,commune,02
 02081,"Bắc An Phụ","Phường Bắc An Phụ, Thành phố Hải Phòng",bac-an-phu,ward,05
 02082,"Tân An","Xã Tân An, Tỉnh Nghệ An",tan-an,commune,11
 02083,"Tân Lợi","Xã Tân Lợi, Tỉnh Đồng Nai",tan-loi,commune,22
-02084,"Đông Hiệp","Xã Đông Hiệp, Thành phố Cần Thơ",ong-hiep,commune,32
+02084,"Đông Hiệp","Xã Đông Hiệp, Thành phố Cần Thơ",dong-hiep,commune,32
 02085,"Khâu Vai","Xã Khâu Vai, Tỉnh Tuyên Quang",khau-vai,commune,34
 02086,"Quyết Thắng","Xã Quyết Thắng, Tỉnh Phú Thọ",quyet-thang,commune,06
 02087,"Tràm Chim","Xã Tràm Chim, Tỉnh Đồng Tháp",tram-chim,commune,16
 02088,"Phú Sơn","Xã Phú Sơn, Tỉnh Ninh Bình",phu-son,commune,13
-02089,"Tà Đùng","Xã Tà Đùng, Tỉnh Lâm Đồng",ta-ung,commune,29
+02089,"Tà Đùng","Xã Tà Đùng, Tỉnh Lâm Đồng",ta-dung,commune,29
 02090,"Chiềng Cơi","Phường Chiềng Cơi, Tỉnh Sơn La",chieng-coi,ward,31
 02091,"Hy Cương","Xã Hy Cương, Tỉnh Phú Thọ",hy-cuong,commune,06
 02092,"KDang","Xã KDang, Tỉnh Gia Lai",kdang,commune,28
-02093,"Đại An","Xã Đại An, Tỉnh Vĩnh Long",ai-an,commune,24
-02094,"Đức Xuân","Phường Đức Xuân, Tỉnh Thái Nguyên",uc-xuan,ward,19
+02093,"Đại An","Xã Đại An, Tỉnh Vĩnh Long",dai-an,commune,24
+02094,"Đức Xuân","Phường Đức Xuân, Tỉnh Thái Nguyên",duc-xuan,ward,19
 02095,"Krông Nô","Xã Krông Nô, Tỉnh Lâm Đồng",krong-no,commune,29
 02096,"Hạp Lĩnh","Phường Hạp Lĩnh, Tỉnh Bắc Ninh",hap-linh,ward,10
 02097,"Nhân Hòa","Xã Nhân Hòa, Tỉnh Nghệ An",nhan-hoa,commune,11
 02098,"Thuận An","Xã Thuận An, Tỉnh Lâm Đồng",thuan-an,commune,29
-02099,"An Thới Đông","Xã An Thới Đông, Thành phố Hồ Chí Minh",an-thoi-ong,commune,30
+02099,"An Thới Đông","Xã An Thới Đông, Thành phố Hồ Chí Minh",an-thoi-dong,commune,30
 02100,"Ia Rsai","Xã Ia Rsai, Tỉnh Gia Lai",ia-rsai,commune,28
 02101,"Bàu Lâm","Xã Bàu Lâm, Thành phố Hồ Chí Minh",bau-lam,commune,30
 02102,"Móng Cái 3","Phường Móng Cái 3, Tỉnh Quảng Ninh",mong-cai-3,ward,08
 02103,"Quyết Thắng","Xã Quyết Thắng, Thành phố Hải Phòng",quyet-thang,commune,05
 02104,"Kon Gang","Xã Kon Gang, Tỉnh Gia Lai",kon-gang,commune,28
 02105,"Yên Mạc","Xã Yên Mạc, Tỉnh Ninh Bình",yen-mac,commune,13
-02106,"Thượng Đức","Xã Thượng Đức, Thành phố Đà Nẵng",thuong-uc,commune,12
+02106,"Thượng Đức","Xã Thượng Đức, Thành phố Đà Nẵng",thuong-duc,commune,12
 02107,"Thảo Nguyên","Phường Thảo Nguyên, Tỉnh Sơn La",thao-nguyen,ward,31
 02108,"Bình Hiệp","Xã Bình Hiệp, Tỉnh Gia Lai",binh-hiep,commune,28
 02109,"Tân Gianh","Xã Tân Gianh, Tỉnh Quảng Trị",tan-gianh,commune,03
 02110,"Ân Hảo","Xã Ân Hảo, Tỉnh Gia Lai",an-hao,commune,28
 02111,"Nguyễn Du","Xã Nguyễn Du, Tỉnh Hưng Yên",nguyen-du,commune,02
 02112,"Ninh Xá","Phường Ninh Xá, Tỉnh Bắc Ninh",ninh-xa,ward,10
-02113,"Quang Đồng","Xã Quang Đồng, Tỉnh Nghệ An",quang-ong,commune,11
+02113,"Quang Đồng","Xã Quang Đồng, Tỉnh Nghệ An",quang-dong,commune,11
 02114,"Hiền Lương","Xã Hiền Lương, Tỉnh Phú Thọ",hien-luong,commune,06
-02115,"Định Hóa","Xã Định Hóa, Tỉnh Thái Nguyên",inh-hoa,commune,19
+02115,"Định Hóa","Xã Định Hóa, Tỉnh Thái Nguyên",dinh-hoa,commune,19
 02116,"Xuân Du","Xã Xuân Du, Tỉnh Thanh Hoá",xuan-du,commune,07
 02117,"Nghĩa Hành","Xã Nghĩa Hành, Tỉnh Nghệ An",nghia-hanh,commune,11
 02118,"Nam Hồng Lĩnh","Phường Nam Hồng Lĩnh, Tỉnh Hà Tĩnh",nam-hong-linh,ward,17
 02119,"Tân Minh","Xã Tân Minh, Tỉnh Lâm Đồng",tan-minh,commune,29
-02120,"Đông Hưng","Xã Đông Hưng, Tỉnh An Giang",ong-hung,commune,18
+02120,"Đông Hưng","Xã Đông Hưng, Tỉnh An Giang",dong-hung,commune,18
 02121,"Nha Bích","Xã Nha Bích, Tỉnh Đồng Nai",nha-bich,commune,22
 02122,"Bàu Cạn","Xã Bàu Cạn, Tỉnh Gia Lai",bau-can,commune,28
 02123,"Nam Thụy Anh","Xã Nam Thụy Anh, Tỉnh Hưng Yên",nam-thuy-anh,commune,02
@@ -2126,8 +2126,8 @@ code,name,fullName,slug,type,provinceCode
 02125,"Uar","Xã Uar, Tỉnh Gia Lai",uar,commune,28
 02126,"Trường Văn","Xã Trường Văn, Tỉnh Thanh Hoá",truong-van,commune,07
 02127,"Tiên Yên","Xã Tiên Yên, Tỉnh Quảng Ninh",tien-yen,commune,08
-02128,"Bình Định","Xã Bình Định, Tỉnh Hưng Yên",binh-inh,commune,02
-02129,"Tân Điền","Xã Tân Điền, Tỉnh Đồng Tháp",tan-ien,commune,16
+02128,"Bình Định","Xã Bình Định, Tỉnh Hưng Yên",binh-dinh,commune,02
+02129,"Tân Điền","Xã Tân Điền, Tỉnh Đồng Tháp",tan-dien,commune,16
 02130,"Tân Dân","Phường Tân Dân, Tỉnh Thanh Hoá",tan-dan,ward,07
 02131,"Thạnh Phước","Xã Thạnh Phước, Tỉnh Tây Ninh",thanh-phuoc,commune,15
 02132,"Vạn Phú","Xã Vạn Phú, Tỉnh Thái Nguyên",van-phu,commune,19
@@ -2138,12 +2138,12 @@ code,name,fullName,slug,type,provinceCode
 02137,"Giá Rai","Phường Giá Rai, Tỉnh Cà Mau",gia-rai,ward,33
 02138,"Cẩm Hưng","Xã Cẩm Hưng, Tỉnh Hà Tĩnh",cam-hung,commune,17
 02139,"Hải Lộc","Xã Hải Lộc, Tỉnh Nghệ An",hai-loc,commune,11
-02140,"Đông Cuông","Xã Đông Cuông, Tỉnh Lào Cai",ong-cuong,commune,09
+02140,"Đông Cuông","Xã Đông Cuông, Tỉnh Lào Cai",dong-cuong,commune,09
 02141,"Trần Thương","Xã Trần Thương, Tỉnh Ninh Bình",tran-thuong,commune,13
 02142,"Gia Phù","Xã Gia Phù, Tỉnh Sơn La",gia-phu,commune,31
 02143,"Bình Khê","Phường Bình Khê, Tỉnh Quảng Ninh",binh-khe,ward,08
 02144,"Bắc Yên","Xã Bắc Yên, Tỉnh Sơn La",bac-yen,commune,31
-02145,"Đăk BLa","Phường Đăk BLa, Tỉnh Quảng Ngãi",ak-bla,ward,23
+02145,"Đăk BLa","Phường Đăk BLa, Tỉnh Quảng Ngãi",dak-bla,ward,23
 02146,"Nhữ Khê","Xã Nhữ Khê, Tỉnh Tuyên Quang",nhu-khe,commune,34
 02147,"Tân Hội","Xã Tân Hội, Tỉnh Tây Ninh",tan-hoi,commune,15
 02148,"Hạ Hòa","Xã Hạ Hòa, Tỉnh Phú Thọ",ha-hoa,commune,06
@@ -2156,14 +2156,14 @@ code,name,fullName,slug,type,provinceCode
 02155,"Gia Hưng","Xã Gia Hưng, Tỉnh Ninh Bình",gia-hung,commune,13
 02156,"Chư A Thai","Xã Chư A Thai, Tỉnh Gia Lai",chu-a-thai,commune,28
 02157,"Hà Giang 1","Phường Hà Giang 1, Tỉnh Tuyên Quang",ha-giang-1,ward,34
-02158,"Đông Mai","Phường Đông Mai, Tỉnh Quảng Ninh",ong-mai,ward,08
-02159,"Vạn Đức","Xã Vạn Đức, Tỉnh Gia Lai",van-uc,commune,28
+02158,"Đông Mai","Phường Đông Mai, Tỉnh Quảng Ninh",dong-mai,ward,08
+02159,"Vạn Đức","Xã Vạn Đức, Tỉnh Gia Lai",van-duc,commune,28
 02160,"Trường Lâm","Xã Trường Lâm, Tỉnh Thanh Hoá",truong-lam,commune,07
-02161,"Xuân Đài","Phường Xuân Đài, Tỉnh Đắk Lắk",xuan-ai,ward,27
+02161,"Xuân Đài","Phường Xuân Đài, Tỉnh Đắk Lắk",xuan-dai,ward,27
 02162,"Hoạt Giang","Xã Hoạt Giang, Tỉnh Thanh Hoá",hoat-giang,commune,07
 02163,"Bảo Yên","Xã Bảo Yên, Tỉnh Lào Cai",bao-yen,commune,09
 02164,"Tân Tiến","Xã Tân Tiến, Tỉnh Thanh Hoá",tan-tien,commune,07
-02165,"Nam Đà","Xã Nam Đà, Tỉnh Lâm Đồng",nam-a,commune,29
+02165,"Nam Đà","Xã Nam Đà, Tỉnh Lâm Đồng",nam-da,commune,29
 02166,"Ba Gia","Xã Ba Gia, Tỉnh Quảng Ngãi",ba-gia,commune,23
 02167,"Minh Hóa","Xã Minh Hóa, Tỉnh Quảng Trị",minh-hoa,commune,03
 02168,"Láng Tròn","Phường Láng Tròn, Tỉnh Cà Mau",lang-tron,ward,33
@@ -2200,10 +2200,10 @@ code,name,fullName,slug,type,provinceCode
 02199,"Hợp Kim","Xã Hợp Kim, Tỉnh Phú Thọ",hop-kim,commune,06
 02200,"Tam Nông","Xã Tam Nông, Tỉnh Đồng Tháp",tam-nong,commune,16
 02201,"Nông Sơn","Xã Nông Sơn, Thành phố Đà Nẵng",nong-son,commune,12
-02202,"Điền Lư","Xã Điền Lư, Tỉnh Thanh Hoá",ien-lu,commune,07
+02202,"Điền Lư","Xã Điền Lư, Tỉnh Thanh Hoá",dien-lu,commune,07
 02203,"Chiềng Lao","Xã Chiềng Lao, Tỉnh Sơn La",chieng-lao,commune,31
 02204,"Hoành Sơn","Phường Hoành Sơn, Tỉnh Hà Tĩnh",hoanh-son,ward,17
-02205,"Đông Kinh","Xã Đông Kinh, Tỉnh Hà Tĩnh",ong-kinh,commune,17
+02205,"Đông Kinh","Xã Đông Kinh, Tỉnh Hà Tĩnh",dong-kinh,commune,17
 02206,"Yên Kỳ","Xã Yên Kỳ, Tỉnh Phú Thọ",yen-ky,commune,06
 02207,"Thới Thuận","Xã Thới Thuận, Tỉnh Vĩnh Long",thoi-thuan,commune,24
 02208,"Tùng Lộc","Xã Tùng Lộc, Tỉnh Hà Tĩnh",tung-loc,commune,17
@@ -2218,23 +2218,23 @@ code,name,fullName,slug,type,provinceCode
 02217,"Trà Giang","Xã Trà Giang, Tỉnh Quảng Ngãi",tra-giang,commune,23
 02218,"Vĩnh Thủy","Xã Vĩnh Thủy, Tỉnh Quảng Trị",vinh-thuy,commune,03
 02219,"Hợp Tiến","Xã Hợp Tiến, Thành phố Hải Phòng",hop-tien,commune,05
-02220,"Nghị Đức","Xã Nghị Đức, Tỉnh Lâm Đồng",nghi-uc,commune,29
+02220,"Nghị Đức","Xã Nghị Đức, Tỉnh Lâm Đồng",nghi-duc,commune,29
 02221,"Lĩnh Nam","Phường Lĩnh Nam, Thành phố Hà Nội",linh-nam,ward,01
 02222,"Quang Hưng","Xã Quang Hưng, Tỉnh Ninh Bình",quang-hung,commune,13
-02223,"Ba Đình","Xã Ba Đình, Tỉnh Thanh Hoá",ba-inh,commune,07
+02223,"Ba Đình","Xã Ba Đình, Tỉnh Thanh Hoá",ba-dinh,commune,07
 02224,"Thanh An","Xã Thanh An, Tỉnh Điện Biên",thanh-an,commune,21
 02225,"Mỹ An","Xã Mỹ An, Tỉnh Tây Ninh",my-an,commune,15
 02226,"Gia Trấn","Xã Gia Trấn, Tỉnh Ninh Bình",gia-tran,commune,13
 02227,"Tuấn Sơn","Xã Tuấn Sơn, Tỉnh Lạng Sơn",tuan-son,commune,20
 02228,"Xuân Lũng","Xã Xuân Lũng, Tỉnh Phú Thọ",xuan-lung,commune,06
-02229,"Đinh Trang Thượng","Xã Đinh Trang Thượng, Tỉnh Lâm Đồng",inh-trang-thuong,commune,29
-02230,"Đại Đình","Xã Đại Đình, Tỉnh Phú Thọ",ai-inh,commune,06
+02229,"Đinh Trang Thượng","Xã Đinh Trang Thượng, Tỉnh Lâm Đồng",dinh-trang-thuong,commune,29
+02230,"Đại Đình","Xã Đại Đình, Tỉnh Phú Thọ",dai-dinh,commune,06
 02231,"Tằng Lỏong","Xã Tằng Lỏong, Tỉnh Lào Cai",tang-loong,commune,09
 02232,"A Lưới 2","Xã A Lưới 2, Thành phố Huế",a-luoi-2,commune,04
 02233,"Tân Thành","Xã Tân Thành, Tỉnh Lạng Sơn",tan-thanh,commune,20
 02234,"Hải Ninh","Phường Hải Ninh, Tỉnh Hà Tĩnh",hai-ninh,ward,17
 02235,"Mường Kim","Xã Mường Kim, Tỉnh Lai Châu",muong-kim,commune,26
-02236,"Đông Thành","Xã Đông Thành, Tỉnh Phú Thọ",ong-thanh,commune,06
+02236,"Đông Thành","Xã Đông Thành, Tỉnh Phú Thọ",dong-thanh,commune,06
 02237,"Chiềng La","Xã Chiềng La, Tỉnh Sơn La",chieng-la,commune,31
 02238,"Cao Phong","Xã Cao Phong, Tỉnh Phú Thọ",cao-phong,commune,06
 02239,"Khánh Hưng","Xã Khánh Hưng, Tỉnh Tây Ninh",khanh-hung,commune,15
@@ -2246,7 +2246,7 @@ code,name,fullName,slug,type,provinceCode
 02245,"Kỳ Sơn","Phường Kỳ Sơn, Tỉnh Phú Thọ",ky-son,ward,06
 02246,"Ia Tul","Xã Ia Tul, Tỉnh Gia Lai",ia-tul,commune,28
 02247,"Thạnh Phong","Xã Thạnh Phong, Tỉnh Vĩnh Long",thanh-phong,commune,24
-02248,"Nghĩa Đồng","Xã Nghĩa Đồng, Tỉnh Nghệ An",nghia-ong,commune,11
+02248,"Nghĩa Đồng","Xã Nghĩa Đồng, Tỉnh Nghệ An",nghia-dong,commune,11
 02249,"Gia Lâm","Xã Gia Lâm, Tỉnh Ninh Bình",gia-lam,commune,13
 02250,"An Nhơn Tây","Xã An Nhơn Tây, Tỉnh Gia Lai",an-nhon-tay,commune,28
 02251,"Ea Kiết","Xã Ea Kiết, Tỉnh Đắk Lắk",ea-kiet,commune,27
@@ -2272,17 +2272,17 @@ code,name,fullName,slug,type,provinceCode
 02271,"Mường Thàng","Xã Mường Thàng, Tỉnh Phú Thọ",muong-thang,commune,06
 02272,"Cửu An","Xã Cửu An, Tỉnh Gia Lai",cuu-an,commune,28
 02273,"Yên Phú","Xã Yên Phú, Tỉnh Phú Thọ",yen-phu,commune,06
-02274,"Đà Bắc","Xã Đà Bắc, Tỉnh Phú Thọ",a-bac,commune,06
+02274,"Đà Bắc","Xã Đà Bắc, Tỉnh Phú Thọ",da-bac,commune,06
 02275,"Cát Tiên","Xã Cát Tiên, Tỉnh Lâm Đồng",cat-tien,commune,29
 02276,"Mèo Vạc","Xã Mèo Vạc, Tỉnh Tuyên Quang",meo-vac,commune,34
 02277,"Bình Minh","Xã Bình Minh, Tỉnh Quảng Ngãi",binh-minh,commune,23
-02278,"Nghĩa Đàn","Xã Nghĩa Đàn, Tỉnh Nghệ An",nghia-an,commune,11
-02279,"Tiên Đồng","Xã Tiên Đồng, Tỉnh Nghệ An",tien-ong,commune,11
+02278,"Nghĩa Đàn","Xã Nghĩa Đàn, Tỉnh Nghệ An",nghia-dan,commune,11
+02279,"Tiên Đồng","Xã Tiên Đồng, Tỉnh Nghệ An",tien-dong,commune,11
 02280,"Búng Lao","Xã Búng Lao, Tỉnh Điện Biên",bung-lao,commune,21
 02281,"Nâm Nung","Xã Nâm Nung, Tỉnh Lâm Đồng",nam-nung,commune,29
 02282,"Tân Lập","Xã Tân Lập, Tỉnh Lâm Đồng",tan-lap,commune,29
 02283,"Hợp Lý","Xã Hợp Lý, Tỉnh Phú Thọ",hop-ly,commune,06
-02284,"Đăk Mar","Xã Đăk Mar, Tỉnh Quảng Ngãi",ak-mar,commune,23
+02284,"Đăk Mar","Xã Đăk Mar, Tỉnh Quảng Ngãi",dak-mar,commune,23
 02285,"Na Sang","Xã Na Sang, Tỉnh Điện Biên",na-sang,commune,21
 02286,"Xín Mần","Xã Xín Mần, Tỉnh Tuyên Quang",xin-man,commune,34
 02287,"Lâm Thượng","Xã Lâm Thượng, Tỉnh Lào Cai",lam-thuong,commune,09
@@ -2301,10 +2301,10 @@ code,name,fullName,slug,type,provinceCode
 02300,"Hồng Sơn","Xã Hồng Sơn, Tỉnh Tuyên Quang",hong-son,commune,34
 02301,"Cẩm Lạc","Xã Cẩm Lạc, Tỉnh Hà Tĩnh",cam-lac,commune,17
 02302,"Dân Tiến","Xã Dân Tiến, Tỉnh Thái Nguyên",dan-tien,commune,19
-02303,"Đăk Ơ","Xã Đăk Ơ, Tỉnh Đồng Nai",ak-o,commune,22
+02303,"Đăk Ơ","Xã Đăk Ơ, Tỉnh Đồng Nai",dak-o,commune,22
 02304,"Hậu Thạnh","Xã Hậu Thạnh, Tỉnh Tây Ninh",hau-thanh,commune,15
-02305,"Hưng Điền","Xã Hưng Điền, Tỉnh Tây Ninh",hung-ien,commune,15
-02306,"Đại Lai","Xã Đại Lai, Tỉnh Bắc Ninh",ai-lai,commune,10
+02305,"Hưng Điền","Xã Hưng Điền, Tỉnh Tây Ninh",hung-dien,commune,15
+02306,"Đại Lai","Xã Đại Lai, Tỉnh Bắc Ninh",dai-lai,commune,10
 02307,"Vĩnh Thanh","Xã Vĩnh Thanh, Tỉnh Cà Mau",vinh-thanh,commune,33
 02308,"Bình Nguyên","Xã Bình Nguyên, Tỉnh Hưng Yên",binh-nguyen,commune,02
 02309,"Liên Hòa","Xã Liên Hòa, Tỉnh Phú Thọ",lien-hoa,commune,06
@@ -2345,7 +2345,7 @@ code,name,fullName,slug,type,provinceCode
 02344,"Toàn Lưu","Xã Toàn Lưu, Tỉnh Hà Tĩnh",toan-luu,commune,17
 02345,"Văn Miếu","Xã Văn Miếu, Tỉnh Phú Thọ",van-mieu,commune,06
 02346,"Chiềng Hặc","Xã Chiềng Hặc, Tỉnh Sơn La",chieng-hac,commune,31
-02347,"Đức Minh","Xã Đức Minh, Tỉnh Hà Tĩnh",uc-minh,commune,17
+02347,"Đức Minh","Xã Đức Minh, Tỉnh Hà Tĩnh",duc-minh,commune,17
 02348,"Hồng Châu","Phường Hồng Châu, Tỉnh Hưng Yên",hong-chau,ward,02
 02349,"Nghĩa Lộ","Phường Nghĩa Lộ, Tỉnh Lào Cai",nghia-lo,ward,09
 02350,"Chiềng Khương","Xã Chiềng Khương, Tỉnh Sơn La",chieng-khuong,commune,31
@@ -2353,10 +2353,10 @@ code,name,fullName,slug,type,provinceCode
 02352,"Trường Sơn","Xã Trường Sơn, Tỉnh Bắc Ninh",truong-son,commune,10
 02353,"Hương Phố","Xã Hương Phố, Tỉnh Hà Tĩnh",huong-pho,commune,17
 02354,"Bình Thuận","Phường Bình Thuận, Tỉnh Tuyên Quang",binh-thuan,ward,34
-02355,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Hà Tĩnh",ong-tien,commune,17
+02355,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Hà Tĩnh",dong-tien,commune,17
 02356,"Bình Lư","Xã Bình Lư, Tỉnh Lai Châu",binh-lu,commune,26
 02357,"Ân Tường","Xã Ân Tường, Tỉnh Gia Lai",an-tuong,commune,28
-02358,"Đak Pơ","Xã Đak Pơ, Tỉnh Gia Lai",ak-po,commune,28
+02358,"Đak Pơ","Xã Đak Pơ, Tỉnh Gia Lai",dak-po,commune,28
 02359,"Dân Chủ","Xã Dân Chủ, Tỉnh Phú Thọ",dan-chu,commune,06
 02360,"Bản Lầu","Xã Bản Lầu, Tỉnh Lào Cai",ban-lau,commune,09
 02361,"Thọ Bình","Xã Thọ Bình, Tỉnh Thanh Hoá",tho-binh,commune,07
@@ -2369,7 +2369,7 @@ code,name,fullName,slug,type,provinceCode
 02368,"Tân Yên","Xã Tân Yên, Tỉnh Sơn La",tan-yen,commune,31
 02369,"Kon Braih","Xã Kon Braih, Tỉnh Quảng Ngãi",kon-braih,commune,23
 02370,"Hải Lĩnh","Phường Hải Lĩnh, Tỉnh Thanh Hoá",hai-linh,ward,07
-02371,"Đồng Yên","Xã Đồng Yên, Tỉnh Tuyên Quang",ong-yen,commune,34
+02371,"Đồng Yên","Xã Đồng Yên, Tỉnh Tuyên Quang",dong-yen,commune,34
 02372,"Thái Hoà","Xã Thái Hoà, Tỉnh Tuyên Quang",thai-hoa,commune,34
 02373,"Thạnh Hải","Xã Thạnh Hải, Tỉnh Vĩnh Long",thanh-hai,commune,24
 02374,"Bình Giang","Xã Bình Giang, Tỉnh An Giang",binh-giang,commune,18
@@ -2383,9 +2383,9 @@ code,name,fullName,slug,type,provinceCode
 02382,"Tam Chúc","Phường Tam Chúc, Tỉnh Ninh Bình",tam-chuc,ward,13
 02383,"Vụ Bổn","Xã Vụ Bổn, Tỉnh Đắk Lắk",vu-bon,commune,27
 02384,"Nậm Lầu","Xã Nậm Lầu, Tỉnh Sơn La",nam-lau,commune,31
-02385,"Đông Thọ","Xã Đông Thọ, Tỉnh Tuyên Quang",ong-tho,commune,34
+02385,"Đông Thọ","Xã Đông Thọ, Tỉnh Tuyên Quang",dong-tho,commune,34
 02386,"Tam Mỹ","Xã Tam Mỹ, Thành phố Đà Nẵng",tam-my,commune,12
-02387,"Đông Ngũ","Xã Đông Ngũ, Tỉnh Quảng Ninh",ong-ngu,commune,08
+02387,"Đông Ngũ","Xã Đông Ngũ, Tỉnh Quảng Ninh",dong-ngu,commune,08
 02388,"Châu Tiến","Xã Châu Tiến, Tỉnh Nghệ An",chau-tien,commune,11
 02389,"Quảng Tân","Xã Quảng Tân, Tỉnh Quảng Ninh",quang-tan,commune,08
 02390,"Tân Hưng","Xã Tân Hưng, Tỉnh Tây Ninh",tan-hung,commune,15
@@ -2395,7 +2395,7 @@ code,name,fullName,slug,type,provinceCode
 02394,"Bình Xa","Xã Bình Xa, Tỉnh Tuyên Quang",binh-xa,commune,34
 02395,"Văn Lang","Xã Văn Lang, Tỉnh Phú Thọ",van-lang,commune,06
 02396,"Vĩnh Hậu","Xã Vĩnh Hậu, Tỉnh Cà Mau",vinh-hau,commune,33
-02397,"Đoàn Kết","Xã Đoàn Kết, Tỉnh Sơn La",oan-ket,commune,31
+02397,"Đoàn Kết","Xã Đoàn Kết, Tỉnh Sơn La",doan-ket,commune,31
 02398,"Mường Quàng","Xã Mường Quàng, Tỉnh Nghệ An",muong-quang,commune,11
 02399,"Võ Lao","Xã Võ Lao, Tỉnh Lào Cai",vo-lao,commune,09
 02400,"Bắc Thái Ninh","Xã Bắc Thái Ninh, Tỉnh Hưng Yên",bac-thai-ninh,commune,02
@@ -2426,13 +2426,13 @@ code,name,fullName,slug,type,provinceCode
 02425,"Tây Ninh Hòa","Xã Tây Ninh Hòa, Tỉnh Khánh Hòa",tay-ninh-hoa,commune,14
 02426,"Hương Bình","Xã Hương Bình, Tỉnh Hà Tĩnh",huong-binh,commune,17
 02427,"Thạch Khê","Xã Thạch Khê, Tỉnh Hà Tĩnh",thach-khe,commune,17
-02428,"Vĩnh Điều","Xã Vĩnh Điều, Tỉnh An Giang",vinh-ieu,commune,18
-02429,"Đức Quang","Xã Đức Quang, Tỉnh Hà Tĩnh",uc-quang,commune,17
+02428,"Vĩnh Điều","Xã Vĩnh Điều, Tỉnh An Giang",vinh-dieu,commune,18
+02429,"Đức Quang","Xã Đức Quang, Tỉnh Hà Tĩnh",duc-quang,commune,17
 02430,"Võ Nhai","Xã Võ Nhai, Tỉnh Thái Nguyên",vo-nhai,commune,19
 02431,"Ba Chẽ","Xã Ba Chẽ, Tỉnh Quảng Ninh",ba-che,commune,08
 02432,"Kông Bơ La","Xã Kông Bơ La, Tỉnh Gia Lai",kong-bo-la,commune,28
 02433,"Ia Tôr","Xã Ia Tôr, Tỉnh Gia Lai",ia-tor,commune,28
-02434,"Đăk Pék","Xã Đăk Pék, Tỉnh Quảng Ngãi",ak-pek,commune,23
+02434,"Đăk Pék","Xã Đăk Pék, Tỉnh Quảng Ngãi",dak-pek,commune,23
 02435,"Hương Xuân","Xã Hương Xuân, Tỉnh Hà Tĩnh",huong-xuan,commune,17
 02436,"Albá","Xã Albá, Tỉnh Gia Lai",alba,commune,28
 02437,"Tây Thái Ninh","Xã Tây Thái Ninh, Tỉnh Hưng Yên",tay-thai-ninh,commune,02
@@ -2443,14 +2443,14 @@ code,name,fullName,slug,type,provinceCode
 02442,"Trại Cau","Xã Trại Cau, Tỉnh Thái Nguyên",trai-cau,commune,19
 02443,"Thống Nhất","Xã Thống Nhất, Tỉnh Quảng Ninh",thong-nhat,commune,08
 02444,"Thăng Phú","Xã Thăng Phú, Thành phố Đà Nẵng",thang-phu,commune,12
-02445,"Đam Rông 1","Xã Đam Rông 1, Tỉnh Lâm Đồng",am-rong-1,commune,29
+02445,"Đam Rông 1","Xã Đam Rông 1, Tỉnh Lâm Đồng",dam-rong-1,commune,29
 02446,"Púng Bánh","Xã Púng Bánh, Tỉnh Sơn La",pung-banh,commune,31
 02447,"Chất Bình","Xã Chất Bình, Tỉnh Ninh Bình",chat-binh,commune,13
 02448,"Vĩnh Lợi","Xã Vĩnh Lợi, Tỉnh Cà Mau",vinh-loi,commune,33
 02449,"Hùng An","Xã Hùng An, Tỉnh Tuyên Quang",hung-an,commune,34
-02450,"Đường Hoa","Xã Đường Hoa, Tỉnh Quảng Ninh",uong-hoa,commune,08
-02451,"Biển Động","Xã Biển Động, Tỉnh Bắc Ninh",bien-ong,commune,10
-02452,"Đam Rông 4","Xã Đam Rông 4, Tỉnh Lâm Đồng",am-rong-4,commune,29
+02450,"Đường Hoa","Xã Đường Hoa, Tỉnh Quảng Ninh",duong-hoa,commune,08
+02451,"Biển Động","Xã Biển Động, Tỉnh Bắc Ninh",bien-dong,commune,10
+02452,"Đam Rông 4","Xã Đam Rông 4, Tỉnh Lâm Đồng",dam-rong-4,commune,29
 02453,"Vĩnh Chân","Xã Vĩnh Chân, Tỉnh Phú Thọ",vinh-chan,commune,06
 02454,"Mỹ Thủy","Xã Mỹ Thủy, Tỉnh Quảng Trị",my-thuy,commune,03
 02455,"Ia Khươl","Xã Ia Khươl, Tỉnh Gia Lai",ia-khuol,commune,28
@@ -2461,8 +2461,8 @@ code,name,fullName,slug,type,provinceCode
 02460,"Nam Dương","Xã Nam Dương, Tỉnh Bắc Ninh",nam-duong,commune,10
 02461,"Việt Xuyên","Xã Việt Xuyên, Tỉnh Hà Tĩnh",viet-xuyen,commune,17
 02462,"Yang Mao","Xã Yang Mao, Tỉnh Đắk Lắk",yang-mao,commune,27
-02463,"Cao Đức","Xã Cao Đức, Tỉnh Bắc Ninh",cao-uc,commune,10
-02464,"Minh Đức","Xã Minh Đức, Tỉnh Đồng Nai",minh-uc,commune,22
+02463,"Cao Đức","Xã Cao Đức, Tỉnh Bắc Ninh",cao-duc,commune,10
+02464,"Minh Đức","Xã Minh Đức, Tỉnh Đồng Nai",minh-duc,commune,22
 02465,"Phong Hải","Xã Phong Hải, Tỉnh Lào Cai",phong-hai,commune,09
 02466,"Bằng Luân","Xã Bằng Luân, Tỉnh Phú Thọ",bang-luan,commune,06
 02467,"Khổng Lào","Xã Khổng Lào, Tỉnh Lai Châu",khong-lao,commune,26
@@ -2484,7 +2484,7 @@ code,name,fullName,slug,type,provinceCode
 02483,"Nậm Ty","Xã Nậm Ty, Tỉnh Sơn La",nam-ty,commune,31
 02484,"Suối Kiết","Xã Suối Kiết, Tỉnh Lâm Đồng",suoi-kiet,commune,29
 02485,"Ia Dreh","Xã Ia Dreh, Tỉnh Gia Lai",ia-dreh,commune,28
-02486,"Điền Quang","Xã Điền Quang, Tỉnh Thanh Hoá",ien-quang,commune,07
+02486,"Điền Quang","Xã Điền Quang, Tỉnh Thanh Hoá",dien-quang,commune,07
 02487,"Hải Lăng","Xã Hải Lăng, Tỉnh Quảng Trị",hai-lang,commune,03
 02488,"Yên Phúc","Xã Yên Phúc, Tỉnh Lạng Sơn",yen-phuc,commune,20
 02489,"Tây Thụy Anh","Xã Tây Thụy Anh, Tỉnh Hưng Yên",tay-thuy-anh,commune,02
@@ -2501,16 +2501,16 @@ code,name,fullName,slug,type,provinceCode
 02500,"Long Vĩnh","Xã Long Vĩnh, Tỉnh Vĩnh Long",long-vinh,commune,24
 02501,"Sin Suối Hồ","Xã Sin Suối Hồ, Tỉnh Lai Châu",sin-suoi-ho,commune,26
 02502,"Trung Thuần","Xã Trung Thuần, Tỉnh Quảng Trị",trung-thuan,commune,03
-02503,"Lai Đồng","Xã Lai Đồng, Tỉnh Phú Thọ",lai-ong,commune,06
+02503,"Lai Đồng","Xã Lai Đồng, Tỉnh Phú Thọ",lai-dong,commune,06
 02504,"Ninh Gia","Xã Ninh Gia, Tỉnh Lâm Đồng",ninh-gia,commune,29
 02505,"Nam Tuấn","Xã Nam Tuấn, Tỉnh Cao Bằng",nam-tuan,commune,25
 02506,"Hàm Thạnh","Xã Hàm Thạnh, Tỉnh Lâm Đồng",ham-thanh,commune,29
-02507,"Đam Rông 2","Xã Đam Rông 2, Tỉnh Lâm Đồng",am-rong-2,commune,29
-02508,"Chợ Đồn","Xã Chợ Đồn, Tỉnh Thái Nguyên",cho-on,commune,19
+02507,"Đam Rông 2","Xã Đam Rông 2, Tỉnh Lâm Đồng",dam-rong-2,commune,29
+02508,"Chợ Đồn","Xã Chợ Đồn, Tỉnh Thái Nguyên",cho-don,commune,19
 02509,"Nam Hòa","Xã Nam Hòa, Tỉnh Thái Nguyên",nam-hoa,commune,19
 02510,"Ea H’leo","Xã Ea H’leo, Tỉnh Đắk Lắk",ea-hleo,commune,27
 02511,"Bình Liêu","Xã Bình Liêu, Tỉnh Quảng Ninh",binh-lieu,commune,08
-02512,"Anh Sơn Đông","Xã Anh Sơn Đông, Tỉnh Nghệ An",anh-son-ong,commune,11
+02512,"Anh Sơn Đông","Xã Anh Sơn Đông, Tỉnh Nghệ An",anh-son-dong,commune,11
 02513,"Tủa Sín Chải","Xã Tủa Sín Chải, Tỉnh Lai Châu",tua-sin-chai,commune,26
 02514,"Xuân Phước","Xã Xuân Phước, Tỉnh Đắk Lắk",xuan-phuoc,commune,27
 02515,"Sì Lở Lầu","Xã Sì Lở Lầu, Tỉnh Lai Châu",si-lo-lau,commune,26
@@ -2539,10 +2539,10 @@ code,name,fullName,slug,type,provinceCode
 02538,"Nam Cát Tiên","Xã Nam Cát Tiên, Tỉnh Đồng Nai",nam-cat-tien,commune,22
 02539,"Vân Sơn","Phường Vân Sơn, Tỉnh Sơn La",van-son,ward,31
 02540,"Vân Bán","Xã Vân Bán, Tỉnh Phú Thọ",van-ban,commune,06
-02541,"Đồng Lương","Xã Đồng Lương, Tỉnh Phú Thọ",ong-luong,commune,06
-02542,"Đức Bình","Xã Đức Bình, Tỉnh Đắk Lắk",uc-binh,commune,27
+02541,"Đồng Lương","Xã Đồng Lương, Tỉnh Phú Thọ",dong-luong,commune,06
+02542,"Đức Bình","Xã Đức Bình, Tỉnh Đắk Lắk",duc-binh,commune,27
 02543,"Song Khủa","Xã Song Khủa, Tỉnh Sơn La",song-khua,commune,31
-02544,"Đam Rông 3","Xã Đam Rông 3, Tỉnh Lâm Đồng",am-rong-3,commune,29
+02544,"Đam Rông 3","Xã Đam Rông 3, Tỉnh Lâm Đồng",dam-rong-3,commune,29
 02545,"Du Già","Xã Du Già, Tỉnh Tuyên Quang",du-gia,commune,34
 02546,"Kỳ Thượng","Xã Kỳ Thượng, Tỉnh Hà Tĩnh",ky-thuong,commune,17
 02547,"Sính Phình","Xã Sính Phình, Tỉnh Điện Biên",sinh-phinh,commune,21
@@ -2578,11 +2578,11 @@ code,name,fullName,slug,type,provinceCode
 02577,"Thọ Văn","Xã Thọ Văn, Tỉnh Phú Thọ",tho-van,commune,06
 02578,"An Trạch","Xã An Trạch, Tỉnh Cà Mau",an-trach,commune,33
 02579,"Quảng Lâm","Xã Quảng Lâm, Tỉnh Cao Bằng",quang-lam,commune,25
-02580,"Bình Điền","Xã Bình Điền, Thành phố Huế",binh-ien,commune,04
+02580,"Bình Điền","Xã Bình Điền, Thành phố Huế",binh-dien,commune,04
 02581,"Tân Mỹ","Xã Tân Mỹ, Tỉnh Tuyên Quang",tan-my,commune,34
 02582,"Quý Lương","Xã Quý Lương, Tỉnh Thanh Hoá",quy-luong,commune,07
 02583,"Lũng Cú","Xã Lũng Cú, Tỉnh Tuyên Quang",lung-cu,commune,34
-02584,"Xuân Đài","Xã Xuân Đài, Tỉnh Phú Thọ",xuan-ai,commune,06
+02584,"Xuân Đài","Xã Xuân Đài, Tỉnh Phú Thọ",xuan-dai,commune,06
 02585,"Quảng Yên","Xã Quảng Yên, Tỉnh Phú Thọ",quang-yen,commune,06
 02586,"Ea Păl","Xã Ea Păl, Tỉnh Đắk Lắk",ea-pal,commune,27
 02587,"Cát Tiên 2","Xã Cát Tiên 2, Tỉnh Lâm Đồng",cat-tien-2,commune,29
@@ -2590,14 +2590,14 @@ code,name,fullName,slug,type,provinceCode
 02589,"Hạnh Phúc","Xã Hạnh Phúc, Tỉnh Cao Bằng",hanh-phuc,commune,25
 02590,"Bình Gia","Xã Bình Gia, Tỉnh Lạng Sơn",binh-gia,commune,20
 02591,"Vũ Quang","Xã Vũ Quang, Tỉnh Hà Tĩnh",vu-quang,commune,17
-02592,"Cự Đồng","Xã Cự Đồng, Tỉnh Phú Thọ",cu-ong,commune,06
+02592,"Cự Đồng","Xã Cự Đồng, Tỉnh Phú Thọ",cu-dong,commune,06
 02593,"Yên Phú","Xã Yên Phú, Tỉnh Thanh Hoá",yen-phu,commune,07
 02594,"Nà Tấu","Xã Nà Tấu, Tỉnh Điện Biên",na-tau,commune,21
-02595,"Hiệp Đức","Xã Hiệp Đức, Thành phố Đà Nẵng",hiep-uc,commune,12
-02596,"Đạ Huoai 2","Xã Đạ Huoai 2, Tỉnh Lâm Đồng",a-huoai-2,commune,29
+02595,"Hiệp Đức","Xã Hiệp Đức, Thành phố Đà Nẵng",hiep-duc,commune,12
+02596,"Đạ Huoai 2","Xã Đạ Huoai 2, Tỉnh Lâm Đồng",da-huoai-2,commune,29
 02597,"Lạc Dương","Xã Lạc Dương, Tỉnh Lâm Đồng",lac-duong,commune,29
 02598,"Tân Trào","Xã Tân Trào, Tỉnh Tuyên Quang",tan-trao,commune,34
-02599,"Đak Sơmei","Xã Đak Sơmei, Tỉnh Gia Lai",ak-somei,commune,28
+02599,"Đak Sơmei","Xã Đak Sơmei, Tỉnh Gia Lai",dak-somei,commune,28
 02600,"Gia Hội","Xã Gia Hội, Tỉnh Lào Cai",gia-hoi,commune,09
 02601,"Tuần Châu","Phường Tuần Châu, Tỉnh Quảng Ninh",tuan-chau,ward,08
 02602,"Yên Phú","Xã Yên Phú, Tỉnh Tuyên Quang",yen-phu,commune,34
@@ -2611,13 +2611,13 @@ code,name,fullName,slug,type,provinceCode
 02610,"Sơn Tây","Xã Sơn Tây, Tỉnh Hà Tĩnh",son-tay,commune,17
 02611,"Hưng Hội","Xã Hưng Hội, Tỉnh Cà Mau",hung-hoi,commune,33
 02612,"Công Hải","Xã Công Hải, Tỉnh Khánh Hòa",cong-hai,commune,14
-02613,"Đắk Phơi","Xã Đắk Phơi, Tỉnh Đắk Lắk",ak-phoi,commune,27
+02613,"Đắk Phơi","Xã Đắk Phơi, Tỉnh Đắk Lắk",dak-phoi,commune,27
 02614,"Tô Múa","Xã Tô Múa, Tỉnh Sơn La",to-mua,commune,31
 02615,"Thượng Bằng La","Xã Thượng Bằng La, Tỉnh Lào Cai",thuong-bang-la,commune,09
-02616,"Đèo Gia","Xã Đèo Gia, Tỉnh Bắc Ninh",eo-gia,commune,10
-02617,"Đakrông","Xã Đakrông, Tỉnh Quảng Trị",akrong,commune,03
+02616,"Đèo Gia","Xã Đèo Gia, Tỉnh Bắc Ninh",deo-gia,commune,10
+02617,"Đakrông","Xã Đakrông, Tỉnh Quảng Trị",dakrong,commune,03
 02618,"Tràng Xá","Xã Tràng Xá, Tỉnh Thái Nguyên",trang-xa,commune,19
-02619,"Đạ Tẻh 2","Xã Đạ Tẻh 2, Tỉnh Lâm Đồng",a-teh-2,commune,29
+02619,"Đạ Tẻh 2","Xã Đạ Tẻh 2, Tỉnh Lâm Đồng",da-teh-2,commune,29
 02620,"Co Mạ","Xã Co Mạ, Tỉnh Sơn La",co-ma,commune,31
 02621,"Chợ Rã","Xã Chợ Rã, Tỉnh Thái Nguyên",cho-ra,commune,19
 02622,"Tiền Phong","Xã Tiền Phong, Tỉnh Nghệ An",tien-phong,commune,11
@@ -2629,7 +2629,7 @@ code,name,fullName,slug,type,provinceCode
 02628,"Tân Lập","Xã Tân Lập, Tỉnh Quảng Trị",tan-lap,commune,03
 02629,"Hoà Hội","Xã Hoà Hội, Tỉnh Tây Ninh",hoa-hoi,commune,15
 02630,"Pờ Tó","Xã Pờ Tó, Tỉnh Gia Lai",po-to,commune,28
-02631,"Đường Thượng","Xã Đường Thượng, Tỉnh Tuyên Quang",uong-thuong,commune,34
+02631,"Đường Thượng","Xã Đường Thượng, Tỉnh Tuyên Quang",duong-thuong,commune,34
 02632,"Lìa","Xã Lìa, Tỉnh Quảng Trị",lia,commune,03
 02633,"Mường Mùn","Xã Mường Mùn, Tỉnh Điện Biên",muong-mun,commune,21
 02634,"Hra","Xã Hra, Tỉnh Gia Lai",hra,commune,28
@@ -2637,11 +2637,11 @@ code,name,fullName,slug,type,provinceCode
 02636,"Thống Nhất","Xã Thống Nhất, Tỉnh Lạng Sơn",thong-nhat,commune,20
 02637,"Tân Hòa","Phường Tân Hòa, Tỉnh Phú Thọ",tan-hoa,ward,06
 02638,"Hội Sơn","Xã Hội Sơn, Tỉnh Gia Lai",hoi-son,commune,28
-02639,"Hương Đô","Xã Hương Đô, Tỉnh Hà Tĩnh",huong-o,commune,17
+02639,"Hương Đô","Xã Hương Đô, Tỉnh Hà Tĩnh",huong-do,commune,17
 02640,"Khánh Yên","Xã Khánh Yên, Tỉnh Lào Cai",khanh-yen,commune,09
 02641,"Mường Ham","Xã Mường Ham, Tỉnh Nghệ An",muong-ham,commune,11
 02642,"Tiên Yên","Xã Tiên Yên, Tỉnh Tuyên Quang",tien-yen,commune,34
-02643,"Đông Hải","Xã Đông Hải, Tỉnh Vĩnh Long",ong-hai,commune,24
+02643,"Đông Hải","Xã Đông Hải, Tỉnh Vĩnh Long",dong-hai,commune,24
 02644,"Chợ Mới","Xã Chợ Mới, Tỉnh Thái Nguyên",cho-moi,commune,19
 02645,"Bảo Lâm","Xã Bảo Lâm, Tỉnh Cao Bằng",bao-lam,commune,25
 02646,"Vạn Linh","Xã Vạn Linh, Tỉnh Lạng Sơn",van-linh,commune,20
@@ -2664,7 +2664,7 @@ code,name,fullName,slug,type,provinceCode
 02663,"Bằng Thành","Xã Bằng Thành, Tỉnh Thái Nguyên",bang-thanh,commune,19
 02664,"Quốc Khánh","Xã Quốc Khánh, Tỉnh Lạng Sơn",quoc-khanh,commune,20
 02665,"Mường Than","Xã Mường Than, Tỉnh Lai Châu",muong-than,commune,26
-02666,"Nghĩa Đô","Xã Nghĩa Đô, Tỉnh Lào Cai",nghia-o,commune,09
+02666,"Nghĩa Đô","Xã Nghĩa Đô, Tỉnh Lào Cai",nghia-do,commune,09
 02667,"Mường Chà","Xã Mường Chà, Tỉnh Điện Biên",muong-cha,commune,21
 02668,"Trung Hội","Xã Trung Hội, Tỉnh Thái Nguyên",trung-hoi,commune,19
 02669,"Vân Canh","Xã Vân Canh, Tỉnh Gia Lai",van-canh,commune,28
@@ -2675,7 +2675,7 @@ code,name,fullName,slug,type,provinceCode
 02674,"Hạnh Phúc","Xã Hạnh Phúc, Tỉnh Lào Cai",hanh-phuc,commune,09
 02675,"Hạnh Lâm","Xã Hạnh Lâm, Tỉnh Nghệ An",hanh-lam,commune,11
 02676,"Tà Hộc","Xã Tà Hộc, Tỉnh Sơn La",ta-hoc,commune,31
-02677,"Đăk Môn","Xã Đăk Môn, Tỉnh Quảng Ngãi",ak-mon,commune,23
+02677,"Đăk Môn","Xã Đăk Môn, Tỉnh Quảng Ngãi",dak-mon,commune,23
 02678,"Phú Long","Xã Phú Long, Tỉnh Ninh Bình",phu-long,commune,13
 02679,"Bằng Mạc","Xã Bằng Mạc, Tỉnh Lạng Sơn",bang-mac,commune,20
 02680,"Cư M’ta","Xã Cư M’ta, Tỉnh Đắk Lắk",cu-mta,commune,27
@@ -2690,7 +2690,7 @@ code,name,fullName,slug,type,provinceCode
 02689,"Minh Thanh","Xã Minh Thanh, Tỉnh Tuyên Quang",minh-thanh,commune,34
 02690,"Khánh Khê","Xã Khánh Khê, Tỉnh Lạng Sơn",khanh-khe,commune,20
 02691,"Hồng Thu","Xã Hồng Thu, Tỉnh Lai Châu",hong-thu,commune,26
-02692,"Kon Đào","Xã Kon Đào, Tỉnh Quảng Ngãi",kon-ao,commune,23
+02692,"Kon Đào","Xã Kon Đào, Tỉnh Quảng Ngãi",kon-dao,commune,23
 02693,"Phủ Thông","Xã Phủ Thông, Tỉnh Thái Nguyên",phu-thong,commune,19
 02694,"Liên Sơn","Xã Liên Sơn, Tỉnh Lào Cai",lien-son,commune,09
 02695,"Phượng Tiến","Xã Phượng Tiến, Tỉnh Thái Nguyên",phuong-tien,commune,19
@@ -2700,11 +2700,11 @@ code,name,fullName,slug,type,provinceCode
 02699,"Thiết Ống","Xã Thiết Ống, Tỉnh Thanh Hoá",thiet-ong,commune,07
 02700,"Hoà An","Xã Hoà An, Tỉnh Tuyên Quang",hoa-an,commune,34
 02701,"Mậu Thạch","Xã Mậu Thạch, Tỉnh Nghệ An",mau-thach,commune,11
-02702,"Đức Lương","Xã Đức Lương, Tỉnh Thái Nguyên",uc-luong,commune,19
+02702,"Đức Lương","Xã Đức Lương, Tỉnh Thái Nguyên",duc-luong,commune,19
 02703,"Khả Cửu","Xã Khả Cửu, Tỉnh Phú Thọ",kha-cuu,commune,06
 02704,"Quân Chu","Xã Quân Chu, Tỉnh Thái Nguyên",quan-chu,commune,19
 02705,"Tà Năng","Xã Tà Năng, Tỉnh Lâm Đồng",ta-nang,commune,29
-02706,"Định Thành","Xã Định Thành, Tỉnh Cà Mau",inh-thanh,commune,33
+02706,"Định Thành","Xã Định Thành, Tỉnh Cà Mau",dinh-thanh,commune,33
 02707,"Bắc Mê","Xã Bắc Mê, Tỉnh Tuyên Quang",bac-me,commune,34
 02708,"Gia Phong","Xã Gia Phong, Tỉnh Ninh Bình",gia-phong,commune,13
 02709,"Vĩnh Châu","Xã Vĩnh Châu, Tỉnh Tây Ninh",vinh-chau,commune,15
@@ -2722,9 +2722,9 @@ code,name,fullName,slug,type,provinceCode
 02721,"Cao Minh","Xã Cao Minh, Tỉnh Thái Nguyên",cao-minh,commune,19
 02722,"Tân Thành","Xã Tân Thành, Tỉnh Thanh Hoá",tan-thanh,commune,07
 02723,"Nậm Tăm","Xã Nậm Tăm, Tỉnh Lai Châu",nam-tam,commune,26
-02724,"Bạch Đích","Xã Bạch Đích, Tỉnh Tuyên Quang",bach-ich,commune,34
+02724,"Bạch Đích","Xã Bạch Đích, Tỉnh Tuyên Quang",bach-dich,commune,34
 02725,"Trường Hà","Xã Trường Hà, Tỉnh Cao Bằng",truong-ha,commune,25
-02726,"Đắk song","Xã Đắk song, Tỉnh Lâm Đồng",ak-song,commune,29
+02726,"Đắk song","Xã Đắk song, Tỉnh Lâm Đồng",dak-song,commune,29
 02727,"Ayun","Xã Ayun, Tỉnh Gia Lai",ayun,commune,28
 02728,"Lương Thịnh","Xã Lương Thịnh, Tỉnh Lào Cai",luong-thinh,commune,09
 02729,"Sa Loong","Xã Sa Loong, Tỉnh Quảng Ngãi",sa-loong,commune,23
@@ -2738,7 +2738,7 @@ code,name,fullName,slug,type,provinceCode
 02737,"Dur Kmăl","Xã Dur Kmăl, Tỉnh Đắk Lắk",dur-kmal,commune,27
 02738,"Sủng Máng","Xã Sủng Máng, Tỉnh Tuyên Quang",sung-mang,commune,34
 02739,"Pú Nhung","Xã Pú Nhung, Tỉnh Điện Biên",pu-nhung,commune,21
-02740,"Đoài Dương","Xã Đoài Dương, Tỉnh Cao Bằng",oai-duong,commune,25
+02740,"Đoài Dương","Xã Đoài Dương, Tỉnh Cao Bằng",doai-duong,commune,25
 02741,"Thanh Kỳ","Xã Thanh Kỳ, Tỉnh Thanh Hoá",thanh-ky,commune,07
 02742,"Mường Khoa","Xã Mường Khoa, Tỉnh Lai Châu",muong-khoa,commune,26
 02743,"Sơn Lương","Xã Sơn Lương, Tỉnh Lào Cai",son-luong,commune,09
@@ -2755,7 +2755,7 @@ code,name,fullName,slug,type,provinceCode
 02754,"Trịnh Tường","Xã Trịnh Tường, Tỉnh Lào Cai",trinh-tuong,commune,09
 02755,"Huổi Một","Xã Huổi Một, Tỉnh Sơn La",huoi-mot,commune,31
 02756,"Sơn Lâm","Xã Sơn Lâm, Tỉnh Nghệ An",son-lam,commune,11
-02757,"Đàm Thuỷ","Xã Đàm Thuỷ, Tỉnh Cao Bằng",am-thuy,commune,25
+02757,"Đàm Thuỷ","Xã Đàm Thuỷ, Tỉnh Cao Bằng",dam-thuy,commune,25
 02758,"Trung Thịnh","Xã Trung Thịnh, Tỉnh Tuyên Quang",trung-thinh,commune,34
 02759,"Bác Ái","Xã Bác Ái, Tỉnh Khánh Hòa",bac-ai,commune,14
 02760,"Phú Linh","Xã Phú Linh, Tỉnh Tuyên Quang",phu-linh,commune,34
@@ -2765,12 +2765,12 @@ code,name,fullName,slug,type,provinceCode
 02764,"Châu Khê","Xã Châu Khê, Tỉnh Nghệ An",chau-khe,commune,11
 02765,"Bằng Lang","Xã Bằng Lang, Tỉnh Tuyên Quang",bang-lang,commune,34
 02766,"Dền Sáng","Xã Dền Sáng, Tỉnh Lào Cai",den-sang,commune,09
-02767,"Đại Sơn","Xã Đại Sơn, Tỉnh Bắc Ninh",ai-son,commune,10
+02767,"Đại Sơn","Xã Đại Sơn, Tỉnh Bắc Ninh",dai-son,commune,10
 02768,"Lùng Phình","Xã Lùng Phình, Tỉnh Lào Cai",lung-phinh,commune,09
 02769,"Hưng Vũ","Xã Hưng Vũ, Tỉnh Lạng Sơn",hung-vu,commune,20
 02770,"Thanh Quân","Xã Thanh Quân, Tỉnh Thanh Hoá",thanh-quan,commune,07
 02771,"Ea Ly","Xã Ea Ly, Tỉnh Đắk Lắk",ea-ly,commune,27
-02772,"Đăk Ui","Xã Đăk Ui, Tỉnh Quảng Ngãi",ak-ui,commune,23
+02772,"Đăk Ui","Xã Đăk Ui, Tỉnh Quảng Ngãi",dak-ui,commune,23
 02773,"Sơn Kỳ","Xã Sơn Kỳ, Tỉnh Quảng Ngãi",son-ky,commune,23
 02774,"Vĩnh Tuy","Xã Vĩnh Tuy, Tỉnh Tuyên Quang",vinh-tuy,commune,34
 02775,"Vĩnh Lộc","Xã Vĩnh Lộc, Tỉnh Cà Mau",vinh-loc,commune,33
@@ -2781,26 +2781,26 @@ code,name,fullName,slug,type,provinceCode
 02780,"Hóa Quỳ","Xã Hóa Quỳ, Tỉnh Thanh Hoá",hoa-quy,commune,07
 02781,"Nấm Dẩn","Xã Nấm Dẩn, Tỉnh Tuyên Quang",nam-dan,commune,34
 02782,"Ngọk Réo","Xã Ngọk Réo, Tỉnh Quảng Ngãi",ngok-reo,commune,23
-02783,"Đồng Lương","Xã Đồng Lương, Tỉnh Thanh Hoá",ong-luong,commune,07
+02783,"Đồng Lương","Xã Đồng Lương, Tỉnh Thanh Hoá",dong-luong,commune,07
 02784,"Hiệp Thành","Phường Hiệp Thành, Tỉnh Cà Mau",hiep-thanh,ward,33
 02785,"Châu Hồng","Xã Châu Hồng, Tỉnh Nghệ An",chau-hong,commune,11
 02786,"Lý Bôn","Xã Lý Bôn, Tỉnh Cao Bằng",ly-bon,commune,25
 02787,"Núa Ngam","Xã Núa Ngam, Tỉnh Điện Biên",nua-ngam,commune,21
 02788,"Ba Bể","Xã Ba Bể, Tỉnh Thái Nguyên",ba-be,commune,19
-02789,"Phú Đình","Xã Phú Đình, Tỉnh Thái Nguyên",phu-inh,commune,19
-02790,"Đồng Phúc","Xã Đồng Phúc, Tỉnh Thái Nguyên",ong-phuc,commune,19
+02789,"Phú Đình","Xã Phú Đình, Tỉnh Thái Nguyên",phu-dinh,commune,19
+02790,"Đồng Phúc","Xã Đồng Phúc, Tỉnh Thái Nguyên",dong-phuc,commune,19
 02791,"Bum Tở","Xã Bum Tở, Tỉnh Lai Châu",bum-to,commune,26
-02792,"Quảng Đức","Xã Quảng Đức, Tỉnh Quảng Ninh",quang-uc,commune,08
-02793,"Đạ Tẻh 3","Xã Đạ Tẻh 3, Tỉnh Lâm Đồng",a-teh-3,commune,29
-02794,"Đường Hồng","Xã Đường Hồng, Tỉnh Tuyên Quang",uong-hong,commune,34
+02792,"Quảng Đức","Xã Quảng Đức, Tỉnh Quảng Ninh",quang-duc,commune,08
+02793,"Đạ Tẻh 3","Xã Đạ Tẻh 3, Tỉnh Lâm Đồng",da-teh-3,commune,29
+02794,"Đường Hồng","Xã Đường Hồng, Tỉnh Tuyên Quang",duong-hong,commune,34
 02795,"Tây Trà","Xã Tây Trà, Tỉnh Quảng Ngãi",tay-tra,commune,23
 02796,"Pu Sam Cáp","Xã Pu Sam Cáp, Tỉnh Lai Châu",pu-sam-cap,commune,26
 02797,"Bảo Lâm 5","Xã Bảo Lâm 5, Tỉnh Lâm Đồng",bao-lam-5,commune,29
 02798,"Chiến Thắng","Xã Chiến Thắng, Tỉnh Lạng Sơn",chien-thang,commune,20
 02799,"Hòa Thắng","Xã Hòa Thắng, Tỉnh Lâm Đồng",hoa-thang,commune,29
 02800,"Khánh Sơn","Xã Khánh Sơn, Tỉnh Khánh Hòa",khanh-son,commune,14
-02801,"Đức Đồng","Xã Đức Đồng, Tỉnh Hà Tĩnh",uc-ong,commune,17
-02802,"Tràng Định","Xã Tràng Định, Tỉnh Lạng Sơn",trang-inh,commune,20
+02801,"Đức Đồng","Xã Đức Đồng, Tỉnh Hà Tĩnh",duc-dong,commune,17
+02802,"Tràng Định","Xã Tràng Định, Tỉnh Lạng Sơn",trang-dinh,commune,20
 02803,"Bình Thành","Xã Bình Thành, Tỉnh Thái Nguyên",binh-thanh,commune,19
 02804,"Tân Hợp","Xã Tân Hợp, Tỉnh Lào Cai",tan-hop,commune,09
 02805,"Na Rì","Xã Na Rì, Tỉnh Thái Nguyên",na-ri,commune,19
@@ -2811,7 +2811,7 @@ code,name,fullName,slug,type,provinceCode
 02810,"Ba Vì","Xã Ba Vì, Tỉnh Quảng Ngãi",ba-vi,commune,23
 02811,"Cát Thịnh","Xã Cát Thịnh, Tỉnh Lào Cai",cat-thinh,commune,09
 02812,"Cẩm Giàng","Xã Cẩm Giàng, Tỉnh Thái Nguyên",cam-giang,commune,19
-02813,"Điềm He","Xã Điềm He, Tỉnh Lạng Sơn",iem-he,commune,20
+02813,"Điềm He","Xã Điềm He, Tỉnh Lạng Sơn",diem-he,commune,20
 02814,"Pà Cò","Xã Pà Cò, Tỉnh Phú Thọ",pa-co,commune,06
 02815,"Thu Cúc","Xã Thu Cúc, Tỉnh Phú Thọ",thu-cuc,commune,06
 02816,"Ia O","Xã Ia O, Tỉnh Gia Lai",ia-o,commune,28
@@ -2822,8 +2822,8 @@ code,name,fullName,slug,type,provinceCode
 02821,"Nậm Hàng","Xã Nậm Hàng, Tỉnh Lai Châu",nam-hang,commune,26
 02822,"Khánh Vĩnh","Xã Khánh Vĩnh, Tỉnh Khánh Hòa",khanh-vinh,commune,14
 02823,"Tà Xùa","Xã Tà Xùa, Tỉnh Sơn La",ta-xua,commune,31
-02824,"Đông Trà Bồng","Xã Đông Trà Bồng, Tỉnh Quảng Ngãi",ong-tra-bong,commune,23
-02825,"Đăk Pxi","Xã Đăk Pxi, Tỉnh Quảng Ngãi",ak-pxi,commune,23
+02824,"Đông Trà Bồng","Xã Đông Trà Bồng, Tỉnh Quảng Ngãi",dong-tra-bong,commune,23
+02825,"Đăk Pxi","Xã Đăk Pxi, Tỉnh Quảng Ngãi",dak-pxi,commune,23
 02826,"Quảng Trực","Xã Quảng Trực, Tỉnh Lâm Đồng",quang-truc,commune,29
 02827,"Lóng Phiêng","Xã Lóng Phiêng, Tỉnh Sơn La",long-phieng,commune,31
 02828,"Phong Thạnh","Xã Phong Thạnh, Tỉnh Cà Mau",phong-thanh,commune,33
@@ -2861,7 +2861,7 @@ code,name,fullName,slug,type,provinceCode
 02860,"Nam Cường","Xã Nam Cường, Tỉnh Thái Nguyên",nam-cuong,commune,19
 02861,"Xuân Thọ","Xã Xuân Thọ, Tỉnh Đắk Lắk",xuan-tho,commune,27
 02862,"Tân Trịnh","Xã Tân Trịnh, Tỉnh Tuyên Quang",tan-trinh,commune,34
-02863,"Đình Phong","Xã Đình Phong, Tỉnh Cao Bằng",inh-phong,commune,25
+02863,"Đình Phong","Xã Đình Phong, Tỉnh Cao Bằng",dinh-phong,commune,25
 02864,"Si Pa Phìn","Xã Si Pa Phìn, Tỉnh Điện Biên",si-pa-phin,commune,21
 02865,"A Lưới 4","Xã A Lưới 4, Thành phố Huế",a-luoi-4,commune,04
 02866,"Mường Bám","Xã Mường Bám, Tỉnh Sơn La",muong-bam,commune,31
@@ -2872,15 +2872,15 @@ code,name,fullName,slug,type,provinceCode
 02871,"Khoen On","Xã Khoen On, Tỉnh Lai Châu",khoen-on,commune,26
 02872,"Tà Rụt","Xã Tà Rụt, Tỉnh Quảng Trị",ta-rut,commune,03
 02873,"Quang Bình","Xã Quang Bình, Tỉnh Tuyên Quang",quang-binh,commune,34
-02874,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Tuyên Quang",ong-tam,commune,34
+02874,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Tuyên Quang",dong-tam,commune,34
 02875,"Tây Yên Tử","Xã Tây Yên Tử, Tỉnh Bắc Ninh",tay-yen-tu,commune,10
 02876,"Thung Nai","Xã Thung Nai, Tỉnh Phú Thọ",thung-nai,commune,06
 02877,"Nậm Sỏ","Xã Nậm Sỏ, Tỉnh Lai Châu",nam-so,commune,26
 02878,"Cát Tiên 3","Xã Cát Tiên 3, Tỉnh Lâm Đồng",cat-tien-3,commune,29
-02879,"Tân Đoàn","Xã Tân Đoàn, Tỉnh Lạng Sơn",tan-oan,commune,20
+02879,"Tân Đoàn","Xã Tân Đoàn, Tỉnh Lạng Sơn",tan-doan,commune,20
 02880,"Liên Hiệp","Xã Liên Hiệp, Tỉnh Tuyên Quang",lien-hiep,commune,34
 02881,"Tân Pheo","Xã Tân Pheo, Tỉnh Phú Thọ",tan-pheo,commune,06
-02882,"Trà Đốc","Xã Trà Đốc, Thành phố Đà Nẵng",tra-oc,commune,12
+02882,"Trà Đốc","Xã Trà Đốc, Thành phố Đà Nẵng",tra-doc,commune,12
 02883,"Phình Giàng","Xã Phình Giàng, Tỉnh Điện Biên",phinh-giang,commune,21
 02884,"Hồi Xuân","Xã Hồi Xuân, Tỉnh Thanh Hoá",hoi-xuan,commune,07
 02885,"Hải Ninh","Xã Hải Ninh, Tỉnh Quảng Ninh",hai-ninh,commune,08
@@ -2888,9 +2888,9 @@ code,name,fullName,slug,type,provinceCode
 02887,"Mường Pồn","Xã Mường Pồn, Tỉnh Điện Biên",muong-pon,commune,21
 02888,"Mường Xén","Xã Mường Xén, Tỉnh Nghệ An",muong-xen,commune,11
 02889,"Tân Tiến","Xã Tân Tiến, Tỉnh Tuyên Quang",tan-tien,commune,34
-02890,"Đông Khánh Sơn","Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",ong-khanh-son,commune,14
+02890,"Đông Khánh Sơn","Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",dong-khanh-son,commune,14
 02891,"Cần Yên","Xã Cần Yên, Tỉnh Cao Bằng",can-yen,commune,25
-02892,"Hùng Đức","Xã Hùng Đức, Tỉnh Tuyên Quang",hung-uc,commune,34
+02892,"Hùng Đức","Xã Hùng Đức, Tỉnh Tuyên Quang",hung-duc,commune,34
 02893,"Phúc Lộc","Xã Phúc Lộc, Tỉnh Thái Nguyên",phuc-loc,commune,19
 02894,"Lộc Thạnh","Xã Lộc Thạnh, Tỉnh Đồng Nai",loc-thanh,commune,22
 02895,"Mai Hạ","Xã Mai Hạ, Tỉnh Phú Thọ",mai-ha,commune,06
@@ -2900,7 +2900,7 @@ code,name,fullName,slug,type,provinceCode
 02899,"Anh Dũng","Xã Anh Dũng, Tỉnh Khánh Hòa",anh-dung,commune,14
 02900,"Yên Lập","Xã Yên Lập, Tỉnh Tuyên Quang",yen-lap,commune,34
 02901,"Nam Khánh Vĩnh","Xã Nam Khánh Vĩnh, Tỉnh Khánh Hòa",nam-khanh-vinh,commune,14
-02902,"Bế Văn Đàn","Xã Bế Văn Đàn, Tỉnh Cao Bằng",be-van-an,commune,25
+02902,"Bế Văn Đàn","Xã Bế Văn Đàn, Tỉnh Cao Bằng",be-van-dan,commune,25
 02903,"Bình An","Xã Bình An, Tỉnh Tuyên Quang",binh-an,commune,34
 02904,"Ia Rbol","Xã Ia Rbol, Tỉnh Gia Lai",ia-rbol,commune,28
 02905,"Nam Quang","Xã Nam Quang, Tỉnh Cao Bằng",nam-quang,commune,25
@@ -2916,14 +2916,14 @@ code,name,fullName,slug,type,provinceCode
 02915,"Mỏ Vàng","Xã Mỏ Vàng, Tỉnh Lào Cai",mo-vang,commune,09
 02916,"Quảng Lâm","Xã Quảng Lâm, Tỉnh Điện Biên",quang-lam,commune,21
 02917,"Nậm Có","Xã Nậm Có, Tỉnh Lào Cai",nam-co,commune,09
-02918,"Thượng Đức","Xã Thượng Đức, Tỉnh Hà Tĩnh",thuong-uc,commune,17
+02918,"Thượng Đức","Xã Thượng Đức, Tỉnh Hà Tĩnh",thuong-duc,commune,17
 02919,"Pu Nhi","Xã Pu Nhi, Tỉnh Điện Biên",pu-nhi,commune,21
 02920,"Ngọc Long","Xã Ngọc Long, Tỉnh Tuyên Quang",ngoc-long,commune,34
 02921,"Lục Hồn","Xã Lục Hồn, Tỉnh Quảng Ninh",luc-hon,commune,08
 02922,"Kon Chiêng","Xã Kon Chiêng, Tỉnh Gia Lai",kon-chieng,commune,28
 02923,"Văn Quan","Xã Văn Quan, Tỉnh Lạng Sơn",van-quan,commune,20
 02924,"Tả Phìn","Xã Tả Phìn, Tỉnh Lào Cai",ta-phin,commune,09
-02925,"Đình Lập","Xã Đình Lập, Tỉnh Lạng Sơn",inh-lap,commune,20
+02925,"Đình Lập","Xã Đình Lập, Tỉnh Lạng Sơn",dinh-lap,commune,20
 02926,"Nghĩa Thuận","Xã Nghĩa Thuận, Tỉnh Tuyên Quang",nghia-thuan,commune,34
 02927,"Sơn Mai","Xã Sơn Mai, Tỉnh Quảng Ngãi",son-mai,commune,23
 02928,"Thượng Lâm","Xã Thượng Lâm, Tỉnh Tuyên Quang",thuong-lam,commune,34
@@ -2935,7 +2935,7 @@ code,name,fullName,slug,type,provinceCode
 02934,"Bản Máy","Xã Bản Máy, Tỉnh Tuyên Quang",ban-may,commune,34
 02935,"Kim Ngân","Xã Kim Ngân, Tỉnh Quảng Trị",kim-ngan,commune,03
 02936,"Yên Cường","Xã Yên Cường, Tỉnh Tuyên Quang",yen-cuong,commune,34
-02937,"Khâm Đức","Xã Khâm Đức, Thành phố Đà Nẵng",kham-uc,commune,12
+02937,"Khâm Đức","Xã Khâm Đức, Thành phố Đà Nẵng",kham-duc,commune,12
 02938,"Cổ Lũng","Xã Cổ Lũng, Tỉnh Thanh Hoá",co-lung,commune,07
 02939,"Ea Bung","Xã Ea Bung, Tỉnh Đắk Lắk",ea-bung,commune,27
 02940,"Bạch Ngọc","Xã Bạch Ngọc, Tỉnh Tuyên Quang",bach-ngoc,commune,34
@@ -2956,38 +2956,38 @@ code,name,fullName,slug,type,provinceCode
 02955,"Tân Văn","Xã Tân Văn, Tỉnh Lạng Sơn",tan-van,commune,20
 02956,"Bản Bo","Xã Bản Bo, Tỉnh Lai Châu",ban-bo,commune,26
 02957,"Chư Krey","Xã Chư Krey, Tỉnh Gia Lai",chu-krey,commune,28
-02958,"Quy Đức","Xã Quy Đức, Tỉnh Phú Thọ",quy-uc,commune,06
+02958,"Quy Đức","Xã Quy Đức, Tỉnh Phú Thọ",quy-duc,commune,06
 02959,"Thông Nông","Xã Thông Nông, Tỉnh Cao Bằng",thong-nong,commune,25
 02960,"Mường Tùng","Xã Mường Tùng, Tỉnh Điện Biên",muong-tung,commune,21
 02961,"Bến Quan","Xã Bến Quan, Tỉnh Quảng Trị",ben-quan,commune,03
-02962,"Măng Đen","Xã Măng Đen, Tỉnh Quảng Ngãi",mang-en,commune,23
+02962,"Măng Đen","Xã Măng Đen, Tỉnh Quảng Ngãi",mang-den,commune,23
 02963,"La Dạ","Xã La Dạ, Tỉnh Lâm Đồng",la-da,commune,29
-02964,"Kim Đông","Xã Kim Đông, Tỉnh Ninh Bình",kim-ong,commune,13
-02965,"Hưng Đạo","Xã Hưng Đạo, Tỉnh Cao Bằng",hung-ao,commune,25
-02966,"Kiên Đài","Xã Kiên Đài, Tỉnh Tuyên Quang",kien-ai,commune,34
+02964,"Kim Đông","Xã Kim Đông, Tỉnh Ninh Bình",kim-dong,commune,13
+02965,"Hưng Đạo","Xã Hưng Đạo, Tỉnh Cao Bằng",hung-dao,commune,25
+02966,"Kiên Đài","Xã Kiên Đài, Tỉnh Tuyên Quang",kien-dai,commune,34
 02967,"Bản Hồ","Xã Bản Hồ, Tỉnh Lào Cai",ban-ho,commune,09
 02968,"Nguyễn Huệ","Xã Nguyễn Huệ, Tỉnh Cao Bằng",nguyen-hue,commune,25
 02969,"Khao Mang","Xã Khao Mang, Tỉnh Lào Cai",khao-mang,commune,09
-02970,"Yên Định","Xã Yên Định, Tỉnh Bắc Ninh",yen-inh,commune,10
-02971,"Bác Ái Đông","Xã Bác Ái Đông, Tỉnh Khánh Hòa",bac-ai-ong,commune,14
+02970,"Yên Định","Xã Yên Định, Tỉnh Bắc Ninh",yen-dinh,commune,10
+02971,"Bác Ái Đông","Xã Bác Ái Đông, Tỉnh Khánh Hòa",bac-ai-dong,commune,14
 02972,"Kon Plông","Xã Kon Plông, Tỉnh Quảng Ngãi",kon-plong,commune,23
 02973,"Chiềng Ken","Xã Chiềng Ken, Tỉnh Lào Cai",chieng-ken,commune,09
 02974,"Trung Hạ","Xã Trung Hạ, Tỉnh Thanh Hoá",trung-ha,commune,07
 02975,"Khuất Xá","Xã Khuất Xá, Tỉnh Lạng Sơn",khuat-xa,commune,20
 02976,"Nguyên Bình","Xã Nguyên Bình, Tỉnh Cao Bằng",nguyen-binh,commune,25
-02977,"Đức Phú","Xã Đức Phú, Thành phố Đà Nẵng",uc-phu,commune,12
+02977,"Đức Phú","Xã Đức Phú, Thành phố Đà Nẵng",duc-phu,commune,12
 02978,"Xuân Giang","Xã Xuân Giang, Tỉnh Tuyên Quang",xuan-giang,commune,34
 02979,"Nà Phặc","Xã Nà Phặc, Tỉnh Thái Nguyên",na-phac,commune,19
 02980,"Bắc Khánh Vĩnh","Xã Bắc Khánh Vĩnh, Tỉnh Khánh Hòa",bac-khanh-vinh,commune,14
 02981,"Vân Sơn","Xã Vân Sơn, Tỉnh Phú Thọ",van-son,commune,06
 02982,"Quảng La","Xã Quảng La, Tỉnh Quảng Ninh",quang-la,commune,08
-02983,"Nam Đông","Xã Nam Đông, Thành phố Huế",nam-ong,commune,04
+02983,"Nam Đông","Xã Nam Đông, Thành phố Huế",nam-dong,commune,04
 02984,"Ia Dom","Xã Ia Dom, Tỉnh Gia Lai",ia-dom,commune,28
 02985,"Minh Lương","Xã Minh Lương, Tỉnh Lào Cai",minh-luong,commune,09
 02986,"Khun Há","Xã Khun Há, Tỉnh Lai Châu",khun-ha,commune,26
 02987,"Lê Lợi","Xã Lê Lợi, Tỉnh Lai Châu",le-loi,commune,26
 02988,"Măng Bút","Xã Măng Bút, Tỉnh Quảng Ngãi",mang-but,commune,23
-02989,"Đông Khê","Xã Đông Khê, Tỉnh Cao Bằng",ong-khe,commune,25
+02989,"Đông Khê","Xã Đông Khê, Tỉnh Cao Bằng",dong-khe,commune,25
 02990,"Vĩnh Quang","Xã Vĩnh Quang, Tỉnh Gia Lai",vinh-quang,commune,28
 02991,"Thạnh Mỹ","Xã Thạnh Mỹ, Thành phố Đà Nẵng",thanh-my,commune,12
 02992,"Ia Chia","Xã Ia Chia, Tỉnh Gia Lai",ia-chia,commune,28
@@ -2999,12 +2999,12 @@ code,name,fullName,slug,type,provinceCode
 02998,"A Lưới 3","Xã A Lưới 3, Thành phố Huế",a-luoi-3,commune,04
 02999,"Tủa Thàng","Xã Tủa Thàng, Tỉnh Điện Biên",tua-thang,commune,21
 03000,"Dương Quỳ","Xã Dương Quỳ, Tỉnh Lào Cai",duong-quy,commune,09
-03001,"Đăk Tờ Kan","Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi",ak-to-kan,commune,23
+03001,"Đăk Tờ Kan","Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi",dak-to-kan,commune,23
 03002,"Phước Hà","Xã Phước Hà, Tỉnh Khánh Hòa",phuoc-ha,commune,14
 03003,"Thắng Lộc","Xã Thắng Lộc, Tỉnh Thanh Hoá",thang-loc,commune,07
 03004,"Long Quảng","Xã Long Quảng, Thành phố Huế",long-quang,commune,04
 03005,"Cao Sơn","Xã Cao Sơn, Tỉnh Phú Thọ",cao-son,commune,06
-03006,"Đông Giang","Xã Đông Giang, Thành phố Đà Nẵng",ong-giang,commune,12
+03006,"Đông Giang","Xã Đông Giang, Thành phố Đà Nẵng",dong-giang,commune,12
 03007,"Ya Ma","Xã Ya Ma, Tỉnh Gia Lai",ya-ma,commune,28
 03008,"Thanh Thịnh","Xã Thanh Thịnh, Tỉnh Thái Nguyên",thanh-thinh,commune,19
 03009,"Cốc Lầu","Xã Cốc Lầu, Tỉnh Lào Cai",coc-lau,commune,09
@@ -3034,7 +3034,7 @@ code,name,fullName,slug,type,provinceCode
 03033,"Yên Hòa","Xã Yên Hòa, Tỉnh Nghệ An",yen-hoa,commune,11
 03034,"Sơn Hồng","Xã Sơn Hồng, Tỉnh Hà Tĩnh",son-hong,commune,17
 03035,"Tuyên Lâm","Xã Tuyên Lâm, Tỉnh Quảng Trị",tuyen-lam,commune,03
-03036,"Độc Lập","Xã Độc Lập, Tỉnh Cao Bằng",oc-lap,commune,25
+03036,"Độc Lập","Xã Độc Lập, Tỉnh Cao Bằng",doc-lap,commune,25
 03037,"Ia Sao","Xã Ia Sao, Tỉnh Gia Lai",ia-sao,commune,28
 03038,"Cô Ba","Xã Cô Ba, Tỉnh Cao Bằng",co-ba,commune,25
 03039,"Trà Tập","Xã Trà Tập, Thành phố Đà Nẵng",tra-tap,commune,12
@@ -3047,10 +3047,10 @@ code,name,fullName,slug,type,provinceCode
 03046,"Bù Gia Mập","Xã Bù Gia Mập, Tỉnh Đồng Nai",bu-gia-map,commune,22
 03047,"Ngân Sơn","Xã Ngân Sơn, Tỉnh Thái Nguyên",ngan-son,commune,19
 03048,"Bạch Thông","Xã Bạch Thông, Tỉnh Thái Nguyên",bach-thong,commune,19
-03049,"Đak Lua","Xã Đak Lua, Tỉnh Đồng Nai",ak-lua,commune,22
+03049,"Đak Lua","Xã Đak Lua, Tỉnh Đồng Nai",dak-lua,commune,22
 03050,"Tùng Bá","Xã Tùng Bá, Tỉnh Tuyên Quang",tung-ba,commune,34
 03051,"SRó","Xã SRó, Tỉnh Gia Lai",sro,commune,28
-03052,"Đăk Rve","Xã Đăk Rve, Tỉnh Quảng Ngãi",ak-rve,commune,23
+03052,"Đăk Rve","Xã Đăk Rve, Tỉnh Quảng Ngãi",dak-rve,commune,23
 03053,"Sam Mứn","Xã Sam Mứn, Tỉnh Điện Biên",sam-mun,commune,21
 03054,"Minh Tâm","Xã Minh Tâm, Tỉnh Cao Bằng",minh-tam,commune,25
 03055,"Pa Ham","Xã Pa Ham, Tỉnh Điện Biên",pa-ham,commune,21
@@ -3066,7 +3066,7 @@ code,name,fullName,slug,type,provinceCode
 03065,"Tân Mai","Xã Tân Mai, Tỉnh Phú Thọ",tan-mai,commune,06
 03066,"Thuận Hoà","Xã Thuận Hoà, Tỉnh Tuyên Quang",thuan-hoa,commune,34
 03067,"Minh Ngọc","Xã Minh Ngọc, Tỉnh Tuyên Quang",minh-ngoc,commune,34
-03068,"Ngọc Đường","Xã Ngọc Đường, Tỉnh Tuyên Quang",ngoc-uong,commune,34
+03068,"Ngọc Đường","Xã Ngọc Đường, Tỉnh Tuyên Quang",ngoc-duong,commune,34
 03069,"Tây Khánh Sơn","Xã Tây Khánh Sơn, Tỉnh Khánh Hòa",tay-khanh-son,commune,14
 03070,"Nghĩa Tá","Xã Nghĩa Tá, Tỉnh Thái Nguyên",nghia-ta,commune,19
 03071,"Trung Khánh Vĩnh","Xã Trung Khánh Vĩnh, Tỉnh Khánh Hòa",trung-khanh-vinh,commune,14
@@ -3076,7 +3076,7 @@ code,name,fullName,slug,type,provinceCode
 03075,"Tam Thái","Xã Tam Thái, Tỉnh Nghệ An",tam-thai,commune,11
 03076,"Tân Kỳ","Xã Tân Kỳ, Tỉnh Thái Nguyên",tan-ky,commune,19
 03077,"Văn Lãng","Xã Văn Lãng, Tỉnh Lạng Sơn",van-lang,commune,20
-03078,"Ba Động","Xã Ba Động, Tỉnh Quảng Ngãi",ba-ong,commune,23
+03078,"Ba Động","Xã Ba Động, Tỉnh Quảng Ngãi",ba-dong,commune,23
 03079,"Thàng Tín","Xã Thàng Tín, Tỉnh Tuyên Quang",thang-tin,commune,34
 03080,"Xím Vàng","Xã Xím Vàng, Tỉnh Sơn La",xim-vang,commune,31
 03081,"Thạch An","Xã Thạch An, Tỉnh Cao Bằng",thach-an,commune,25
@@ -3093,7 +3093,7 @@ code,name,fullName,slug,type,provinceCode
 03092,"Cam Phục","Xã Cam Phục, Tỉnh Nghệ An",cam-phuc,commune,11
 03093,"Thanh Mai","Xã Thanh Mai, Tỉnh Thái Nguyên",thanh-mai,commune,19
 03094,"Trà Mai","Xã Trà Mai, Thành phố Đà Nẵng",tra-mai,commune,12
-03095,"Đức Nhàn","Xã Đức Nhàn, Tỉnh Phú Thọ",uc-nhan,commune,06
+03095,"Đức Nhàn","Xã Đức Nhàn, Tỉnh Phú Thọ",duc-nhan,commune,06
 03096,"Yên Phong","Xã Yên Phong, Tỉnh Thái Nguyên",yen-phong,commune,19
 03097,"Huy Giáp","Xã Huy Giáp, Tỉnh Cao Bằng",huy-giap,commune,25
 03098,"Tây Khánh Vĩnh","Xã Tây Khánh Vĩnh, Tỉnh Khánh Hòa",tay-khanh-vinh,commune,14
@@ -3101,7 +3101,7 @@ code,name,fullName,slug,type,provinceCode
 03100,"Mường Mô","Xã Mường Mô, Tỉnh Lai Châu",muong-mo,commune,26
 03101,"Yên Hoa","Xã Yên Hoa, Tỉnh Tuyên Quang",yen-hoa,commune,34
 03102,"Hiệp Lực","Xã Hiệp Lực, Tỉnh Thái Nguyên",hiep-luc,commune,19
-03103,"Sơn Điền","Xã Sơn Điền, Tỉnh Lâm Đồng",son-ien,commune,29
+03103,"Sơn Điền","Xã Sơn Điền, Tỉnh Lâm Đồng",son-dien,commune,29
 03104,"Thiện Thuật","Xã Thiện Thuật, Tỉnh Lạng Sơn",thien-thuat,commune,20
 03105,"Tìa Dình","Xã Tìa Dình, Tỉnh Điện Biên",tia-dinh,commune,21
 03106,"Ba Dinh","Xã Ba Dinh, Tỉnh Quảng Ngãi",ba-dinh,commune,23
@@ -3123,7 +3123,7 @@ code,name,fullName,slug,type,provinceCode
 03122,"Yên Bình","Xã Yên Bình, Tỉnh Thái Nguyên",yen-binh,commune,19
 03123,"Sông Vàng","Xã Sông Vàng, Thành phố Đà Nẵng",song-vang,commune,12
 03124,"Xuân Dương","Xã Xuân Dương, Tỉnh Thái Nguyên",xuan-duong,commune,19
-03125,"Điền Xá","Xã Điền Xá, Tỉnh Quảng Ninh",ien-xa,commune,08
+03125,"Điền Xá","Xã Điền Xá, Tỉnh Quảng Ninh",dien-xa,commune,08
 03126,"Phước Trà","Xã Phước Trà, Thành phố Đà Nẵng",phuoc-tra,commune,12
 03127,"Cao Lộc","Xã Cao Lộc, Tỉnh Lạng Sơn",cao-loc,commune,20
 03128,"Vinh Quý","Xã Vinh Quý, Tỉnh Cao Bằng",vinh-quy,commune,25
@@ -3141,7 +3141,7 @@ code,name,fullName,slug,type,provinceCode
 03140,"Phong Dụ Thượng","Xã Phong Dụ Thượng, Tỉnh Lào Cai",phong-du-thuong,commune,09
 03141,"Phú Lệ","Xã Phú Lệ, Tỉnh Thanh Hoá",phu-le,commune,07
 03142,"Tu Mơ Rông","Xã Tu Mơ Rông, Tỉnh Quảng Ngãi",tu-mo-rong,commune,23
-03143,"Đăk Sao","Xã Đăk Sao, Tỉnh Quảng Ngãi",ak-sao,commune,23
+03143,"Đăk Sao","Xã Đăk Sao, Tỉnh Quảng Ngãi",dak-sao,commune,23
 03144,"Vân Hòa","Xã Vân Hòa, Tỉnh Đắk Lắk",van-hoa,commune,27
 03145,"Yên Thắng","Xã Yên Thắng, Tỉnh Thanh Hoá",yen-thang,commune,07
 03146,"Phan Thanh","Xã Phan Thanh, Tỉnh Cao Bằng",phan-thanh,commune,25
@@ -3150,8 +3150,8 @@ code,name,fullName,slug,type,provinceCode
 03149,"Xuân Dương","Xã Xuân Dương, Tỉnh Lạng Sơn",xuan-duong,commune,20
 03150,"Trà Leng","Xã Trà Leng, Thành phố Đà Nẵng",tra-leng,commune,12
 03151,"Ea Trang","Xã Ea Trang, Tỉnh Đắk Lắk",ea-trang,commune,27
-03152,"Buôn Đôn","Xã Buôn Đôn, Tỉnh Đắk Lắk",buon-on,commune,27
-03153,"Đạ Huoai 3","Xã Đạ Huoai 3, Tỉnh Lâm Đồng",a-huoai-3,commune,29
+03152,"Buôn Đôn","Xã Buôn Đôn, Tỉnh Đắk Lắk",buon-don,commune,27
+03153,"Đạ Huoai 3","Xã Đạ Huoai 3, Tỉnh Lâm Đồng",da-huoai-3,commune,29
 03154,"Khánh Xuân","Xã Khánh Xuân, Tỉnh Cao Bằng",khanh-xuan,commune,25
 03155,"Nghinh Tường","Xã Nghinh Tường, Tỉnh Thái Nguyên",nghinh-tuong,commune,19
 03156,"Tả Củ Tỷ","Xã Tả Củ Tỷ, Tỉnh Lào Cai",ta-cu-ty,commune,09
@@ -3161,7 +3161,7 @@ code,name,fullName,slug,type,provinceCode
 03160,"Công Sơn","Xã Công Sơn, Tỉnh Lạng Sơn",cong-son,commune,20
 03161,"Tân Tiến","Xã Tân Tiến, Tỉnh Lạng Sơn",tan-tien,commune,20
 03162,"Nậm Mạ","Xã Nậm Mạ, Tỉnh Lai Châu",nam-ma,commune,26
-03163,"Côn Đảo","Đặc khu Côn Đảo, Thành phố Hồ Chí Minh",con-ao,commune,30
+03163,"Côn Đảo","Đặc khu Côn Đảo, Thành phố Hồ Chí Minh",con-dao,commune,30
 03164,"Ia Lốp","Xã Ia Lốp, Tỉnh Đắk Lắk",ia-lop,commune,27
 03165,"Thiên Phủ","Xã Thiên Phủ, Tỉnh Thanh Hoá",thien-phu,commune,07
 03166,"Ngọc Linh","Xã Ngọc Linh, Tỉnh Quảng Ngãi",ngoc-linh,commune,23
@@ -3170,7 +3170,7 @@ code,name,fullName,slug,type,provinceCode
 03169,"Việt Lâm","Xã Việt Lâm, Tỉnh Tuyên Quang",viet-lam,commune,34
 03170,"Phong Nẫm","Xã Phong Nẫm, Thành phố Cần Thơ",phong-nam,commune,32
 03171,"Mường Típ","Xã Mường Típ, Tỉnh Nghệ An",muong-tip,commune,11
-03172,"Tuấn Đạo","Xã Tuấn Đạo, Tỉnh Bắc Ninh",tuan-ao,commune,10
+03172,"Tuấn Đạo","Xã Tuấn Đạo, Tỉnh Bắc Ninh",tuan-dao,commune,10
 03173,"Rờ Kơi","Xã Rờ Kơi, Tỉnh Quảng Ngãi",ro-koi,commune,23
 03174,"Thanh Thuỷ","Xã Thanh Thuỷ, Tỉnh Tuyên Quang",thanh-thuy,commune,34
 03175,"Mô Rai","Xã Mô Rai, Tỉnh Quảng Ngãi",mo-rai,commune,23
@@ -3178,11 +3178,11 @@ code,name,fullName,slug,type,provinceCode
 03177,"Sa Lý","Xã Sa Lý, Tỉnh Bắc Ninh",sa-ly,commune,10
 03178,"Suối Tọ","Xã Suối Tọ, Tỉnh Sơn La",suoi-to,commune,31
 03179,"Trà Tân","Xã Trà Tân, Thành phố Đà Nẵng",tra-tan,commune,12
-03180,"Đak Rong","Xã Đak Rong, Tỉnh Gia Lai",ak-rong,commune,28
+03180,"Đak Rong","Xã Đak Rong, Tỉnh Gia Lai",dak-rong,commune,28
 03181,"Thông Nguyên","Xã Thông Nguyên, Tỉnh Tuyên Quang",thong-nguyen,commune,34
 03182,"Pờ Ly Ngài","Xã Pờ Ly Ngài, Tỉnh Tuyên Quang",po-ly-ngai,commune,34
 03183,"Giáp Trung","Xã Giáp Trung, Tỉnh Tuyên Quang",giap-trung,commune,34
-03184,"Kim Điền","Xã Kim Điền, Tỉnh Quảng Trị",kim-ien,commune,03
+03184,"Kim Điền","Xã Kim Điền, Tỉnh Quảng Trị",kim-dien,commune,03
 03185,"Thượng Sơn","Xã Thượng Sơn, Tỉnh Tuyên Quang",thuong-son,commune,34
 03186,"Phong Quang","Xã Phong Quang, Tỉnh Thái Nguyên",phong-quang,commune,19
 03187,"Hoa Thám","Xã Hoa Thám, Tỉnh Lạng Sơn",hoa-tham,commune,20
@@ -3190,7 +3190,7 @@ code,name,fullName,slug,type,provinceCode
 03189,"Tam Lư","Xã Tam Lư, Tỉnh Thanh Hoá",tam-lu,commune,07
 03190,"Pa Ủ","Xã Pa Ủ, Tỉnh Lai Châu",pa-u,commune,26
 03191,"Sín Thầu","Xã Sín Thầu, Tỉnh Điện Biên",sin-thau,commune,21
-03192,"Kim Đồng","Xã Kim Đồng, Tỉnh Cao Bằng",kim-ong,commune,25
+03192,"Kim Đồng","Xã Kim Đồng, Tỉnh Cao Bằng",kim-dong,commune,25
 03193,"Vân Sơn","Xã Vân Sơn, Tỉnh Bắc Ninh",van-son,commune,10
 03194,"Krong","Xã Krong, Tỉnh Gia Lai",krong,commune,28
 03195,"Vĩnh Sơn","Xã Vĩnh Sơn, Tỉnh Gia Lai",vinh-son,commune,28
@@ -3200,7 +3200,7 @@ code,name,fullName,slug,type,provinceCode
 03199,"Quang Trung","Xã Quang Trung, Tỉnh Cao Bằng",quang-trung,commune,25
 03200,"Lý Quốc","Xã Lý Quốc, Tỉnh Cao Bằng",ly-quoc,commune,25
 03201,"A Mú Sung","Xã A Mú Sung, Tỉnh Lào Cai",a-mu-sung,commune,09
-03202,"Đăk Kôi","Xã Đăk Kôi, Tỉnh Quảng Ngãi",ak-koi,commune,23
+03202,"Đăk Kôi","Xã Đăk Kôi, Tỉnh Quảng Ngãi",dak-koi,commune,23
 03203,"Quảng Nguyên","Xã Quảng Nguyên, Tỉnh Tuyên Quang",quang-nguyen,commune,34
 03204,"Châu Sơn","Xã Châu Sơn, Tỉnh Lạng Sơn",chau-son,commune,20
 03205,"Trà Giáp","Xã Trà Giáp, Thành phố Đà Nẵng",tra-giap,commune,12
@@ -3228,7 +3228,7 @@ code,name,fullName,slug,type,provinceCode
 03227,"Xuân Trường","Xã Xuân Trường, Tỉnh Cao Bằng",xuan-truong,commune,25
 03228,"Mường Lống","Xã Mường Lống, Tỉnh Nghệ An",muong-long,commune,11
 03229,"Bằng Vân","Xã Bằng Vân, Tỉnh Thái Nguyên",bang-van,commune,19
-03230,"Đăk Plô","Xã Đăk Plô, Tỉnh Quảng Ngãi",ak-plo,commune,23
+03230,"Đăk Plô","Xã Đăk Plô, Tỉnh Quảng Ngãi",dak-plo,commune,23
 03231,"Lương Minh","Xã Lương Minh, Tỉnh Quảng Ninh",luong-minh,commune,08
 03232,"Nậm Chày","Xã Nậm Chày, Tỉnh Lào Cai",nam-chay,commune,09
 03233,"Sơn Lộ","Xã Sơn Lộ, Tỉnh Cao Bằng",son-lo,commune,25
@@ -3244,23 +3244,23 @@ code,name,fullName,slug,type,provinceCode
 03243,"Lượng Minh","Xã Lượng Minh, Tỉnh Nghệ An",luong-minh,commune,11
 03244,"Thu Lũm","Xã Thu Lũm, Tỉnh Lai Châu",thu-lum,commune,26
 03245,"Tiền Phong","Xã Tiền Phong, Tỉnh Phú Thọ",tien-phong,commune,06
-03246,"Đức Long","Xã Đức Long, Tỉnh Cao Bằng",uc-long,commune,25
+03246,"Đức Long","Xã Đức Long, Tỉnh Cao Bằng",duc-long,commune,25
 03247,"Chà Tở","Xã Chà Tở, Tỉnh Điện Biên",cha-to,commune,21
-03248,"Đăk Long","Xã Đăk Long, Tỉnh Quảng Ngãi",ak-long,commune,23
+03248,"Đăk Long","Xã Đăk Long, Tỉnh Quảng Ngãi",dak-long,commune,23
 03249,"Thạnh An","Xã Thạnh An, Thành phố Hồ Chí Minh",thanh-an,commune,30
 03250,"Huồi Tụ","Xã Huồi Tụ, Tỉnh Nghệ An",huoi-tu,commune,11
 03251,"Phú Xuân","Xã Phú Xuân, Tỉnh Thanh Hoá",phu-xuan,commune,07
 03252,"Ba Lòng","Xã Ba Lòng, Tỉnh Quảng Trị",ba-long,commune,03
 03253,"Thành Công","Xã Thành Công, Tỉnh Cao Bằng",thanh-cong,commune,25
-03254,"Đông Giang","Xã Đông Giang, Tỉnh Lâm Đồng",ong-giang,commune,29
-03255,"Keng Đu","Xã Keng Đu, Tỉnh Nghệ An",keng-u,commune,11
-03256,"Ia Đal","Xã Ia Đal, Tỉnh Quảng Ngãi",ia-al,commune,23
+03254,"Đông Giang","Xã Đông Giang, Tỉnh Lâm Đồng",dong-giang,commune,29
+03255,"Keng Đu","Xã Keng Đu, Tỉnh Nghệ An",keng-du,commune,11
+03256,"Ia Đal","Xã Ia Đal, Tỉnh Quảng Ngãi",ia-dal,commune,23
 03257,"Tiên Nguyên","Xã Tiên Nguyên, Tỉnh Tuyên Quang",tien-nguyen,commune,34
-03258,"Sơn Điện","Xã Sơn Điện, Tỉnh Thanh Hoá",son-ien,commune,07
+03258,"Sơn Điện","Xã Sơn Điện, Tỉnh Thanh Hoá",son-dien,commune,07
 03259,"Cam Hiệp","Xã Cam Hiệp, Tỉnh Khánh Hòa",cam-hiep,commune,14
 03260,"Nam Giang","Xã Nam Giang, Thành phố Đà Nẵng",nam-giang,commune,12
-03261,"Bạch Đằng","Xã Bạch Đằng, Tỉnh Cao Bằng",bach-ang,commune,25
-03262,"Đăk Song","Xã Đăk Song, Tỉnh Gia Lai",ak-song,commune,28
+03261,"Bạch Đằng","Xã Bạch Đằng, Tỉnh Cao Bằng",bach-dang,commune,25
+03262,"Đăk Song","Xã Đăk Song, Tỉnh Gia Lai",dak-song,commune,28
 03263,"Ca Thành","Xã Ca Thành, Tỉnh Cao Bằng",ca-thanh,commune,25
 03264,"Phước Thành","Xã Phước Thành, Thành phố Đà Nẵng",phuoc-thanh,commune,12
 03265,"Bình Chuẩn","Xã Bình Chuẩn, Tỉnh Nghệ An",binh-chuan,commune,11
@@ -3271,11 +3271,11 @@ code,name,fullName,slug,type,provinceCode
 03270,"Phước Hiệp","Xã Phước Hiệp, Thành phố Đà Nẵng",phuoc-hiep,commune,12
 03271,"Tam chung","Xã Tam chung, Tỉnh Thanh Hoá",tam-chung,commune,07
 03272,"Canh Tân","Xã Canh Tân, Tỉnh Cao Bằng",canh-tan,commune,25
-03273,"Đặng Thùy Trâm","Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi",ang-thuy-tram,commune,23
+03273,"Đặng Thùy Trâm","Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi",dang-thuy-tram,commune,23
 03274,"Phước Chánh","Xã Phước Chánh, Thành phố Đà Nẵng",phuoc-chanh,commune,12
 03275,"Minh Khai","Xã Minh Khai, Tỉnh Cao Bằng",minh-khai,commune,25
 03276,"Xuân Thái","Xã Xuân Thái, Tỉnh Thanh Hoá",xuan-thai,commune,07
-03277,"Cà Đam","Xã Cà Đam, Tỉnh Quảng Ngãi",ca-am,commune,23
+03277,"Cà Đam","Xã Cà Đam, Tỉnh Quảng Ngãi",ca-dam,commune,23
 03278,"Na Loi","Xã Na Loi, Tỉnh Nghệ An",na-loi,commune,11
 03279,"Mường Lèo","Xã Mường Lèo, Tỉnh Sơn La",muong-leo,commune,31
 03280,"Bản Liền","Xã Bản Liền, Tỉnh Lào Cai",ban-lien,commune,09
@@ -3287,7 +3287,7 @@ code,name,fullName,slug,type,provinceCode
 03286,"Sơn Thủy","Xã Sơn Thủy, Tỉnh Thanh Hoá",son-thuy,commune,07
 03287,"Mường Chanh","Xã Mường Chanh, Tỉnh Thanh Hoá",muong-chanh,commune,07
 03288,"Quảng Bạch","Xã Quảng Bạch, Tỉnh Thái Nguyên",quang-bach,commune,19
-03289,"Đoàn Kết","Xã Đoàn Kết, Tỉnh Lạng Sơn",oan-ket,commune,20
+03289,"Đoàn Kết","Xã Đoàn Kết, Tỉnh Lạng Sơn",doan-ket,commune,20
 03290,"A Lưới 5","Xã A Lưới 5, Thành phố Huế",a-luoi-5,commune,04
 03291,"Thượng Quan","Xã Thượng Quan, Tỉnh Thái Nguyên",thuong-quan,commune,19
 03292,"Thượng Trạch","Xã Thượng Trạch, Tỉnh Quảng Trị",thuong-trach,commune,03
@@ -3297,7 +3297,7 @@ code,name,fullName,slug,type,provinceCode
 03296,"Mù Cả","Xã Mù Cả, Tỉnh Lai Châu",mu-ca,commune,26
 03297,"Sảng Mộc","Xã Sảng Mộc, Tỉnh Thái Nguyên",sang-moc,commune,19
 03298,"Trung Sơn","Xã Trung Sơn, Tỉnh Thanh Hoá",trung-son,commune,07
-03299,"Đắc Pring","Xã Đắc Pring, Thành phố Đà Nẵng",ac-pring,commune,12
+03299,"Đắc Pring","Xã Đắc Pring, Thành phố Đà Nẵng",dac-pring,commune,12
 03300,"Quý Hòa","Xã Quý Hòa, Tỉnh Lạng Sơn",quy-hoa,commune,20
 03301,"Mường Mìn","Xã Mường Mìn, Tỉnh Thanh Hoá",muong-min,commune,07
 03302,"Hữu Khuông","Xã Hữu Khuông, Tỉnh Nghệ An",huu-khuong,commune,11

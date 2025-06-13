@@ -10,9 +10,9 @@ code,name,fullName,slug,type,provinceCode
 00728,"Mỹ Thượng","Phường Mỹ Thượng, Thành phố Huế",my-thuong,ward,04
 00768,"Thanh Thủy","Phường Thanh Thủy, Thành phố Huế",thanh-thuy,ward,04
 00776,"Thủy Xuân","Phường Thủy Xuân, Thành phố Huế",thuy-xuan,ward,04
-00829,"Quảng Điền","Xã Quảng Điền, Thành phố Huế",quang-ien,commune,04
+00829,"Quảng Điền","Xã Quảng Điền, Thành phố Huế",quang-dien,commune,04
 00844,"Hóa Châu","Phường Hóa Châu, Thành phố Huế",hoa-chau,ward,04
-00884,"Đan Điền","Xã Đan Điền, Thành phố Huế",an-ien,commune,04
+00884,"Đan Điền","Xã Đan Điền, Thành phố Huế",dan-dien,commune,04
 00944,"Phú Vang","Xã Phú Vang, Thành phố Huế",phu-vang,commune,04
 00946,"Lộc An","Xã Lộc An, Thành phố Huế",loc-an,commune,04
 00987,"Phú Bài","Phường Phú Bài, Thành phố Huế",phu-bai,ward,04
@@ -26,16 +26,16 @@ code,name,fullName,slug,type,provinceCode
 01578,"Hương Thủy","Phường Hương Thủy, Thành phố Huế",huong-thuy,ward,04
 01644,"Phú Lộc","Xã Phú Lộc, Thành phố Huế",phu-loc,commune,04
 01658,"Phong Dinh","Phường Phong Dinh, Thành phố Huế",phong-dinh,ward,04
-01670,"Phong Điền","Phường Phong Điền, Thành phố Huế",phong-ien,ward,04
+01670,"Phong Điền","Phường Phong Điền, Thành phố Huế",phong-dien,ward,04
 01836,"Phong Quảng","Phường Phong Quảng, Thành phố Huế",phong-quang,ward,04
 02017,"Phú Hồ","Xã Phú Hồ, Thành phố Huế",phu-ho,commune,04
 02232,"A Lưới 2","Xã A Lưới 2, Thành phố Huế",a-luoi-2,commune,04
 02320,"Phong Phú","Phường Phong Phú, Thành phố Huế",phong-phu,ward,04
-02580,"Bình Điền","Xã Bình Điền, Thành phố Huế",binh-ien,commune,04
+02580,"Bình Điền","Xã Bình Điền, Thành phố Huế",binh-dien,commune,04
 02716,"Khe Tre","Xã Khe Tre, Thành phố Huế",khe-tre,commune,04
 02752,"A Lưới 1","Xã A Lưới 1, Thành phố Huế",a-luoi-1,commune,04
 02865,"A Lưới 4","Xã A Lưới 4, Thành phố Huế",a-luoi-4,commune,04
-02983,"Nam Đông","Xã Nam Đông, Thành phố Huế",nam-ong,commune,04
+02983,"Nam Đông","Xã Nam Đông, Thành phố Huế",nam-dong,commune,04
 02998,"A Lưới 3","Xã A Lưới 3, Thành phố Huế",a-luoi-3,commune,04
 03004,"Long Quảng","Xã Long Quảng, Thành phố Huế",long-quang,commune,04
 03290,"A Lưới 5","Xã A Lưới 5, Thành phố Huế",a-luoi-5,commune,04

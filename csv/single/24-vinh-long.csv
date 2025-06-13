@@ -23,7 +23,7 @@ code,name,fullName,slug,type,provinceCode
 00801,"Song Lộc","Xã Song Lộc, Tỉnh Vĩnh Long",song-loc,commune,24
 00808,"Vĩnh Xuân","Xã Vĩnh Xuân, Tỉnh Vĩnh Long",vinh-xuan,commune,24
 00814,"Thạnh Phú","Xã Thạnh Phú, Tỉnh Vĩnh Long",thanh-phu,commune,24
-00830,"Đông Thành","Phường Đông Thành, Tỉnh Vĩnh Long",ong-thanh,ward,24
+00830,"Đông Thành","Phường Đông Thành, Tỉnh Vĩnh Long",dong-thanh,ward,24
 00834,"Càng Long","Xã Càng Long, Tỉnh Vĩnh Long",cang-long,commune,24
 00835,"Phong Thạnh","Xã Phong Thạnh, Tỉnh Vĩnh Long",phong-thanh,commune,24
 00849,"Tân Hòa","Xã Tân Hòa, Tỉnh Vĩnh Long",tan-hoa,commune,24
@@ -40,10 +40,10 @@ code,name,fullName,slug,type,provinceCode
 00986,"Hương Mỹ","Xã Hương Mỹ, Tỉnh Vĩnh Long",huong-my,commune,24
 00995,"Nhị Trường","Xã Nhị Trường, Tỉnh Vĩnh Long",nhi-truong,commune,24
 01012,"Trà Ôn","Xã Trà Ôn, Tỉnh Vĩnh Long",tra-on,commune,24
-01022,"An Định","Xã An Định, Tỉnh Vĩnh Long",an-inh,commune,24
+01022,"An Định","Xã An Định, Tỉnh Vĩnh Long",an-dinh,commune,24
 01027,"Giồng Trôm","Xã Giồng Trôm, Tỉnh Vĩnh Long",giong-trom,commune,24
 01030,"Hưng Nhượng","Xã Hưng Nhượng, Tỉnh Vĩnh Long",hung-nhuong,commune,24
-01046,"Đại Điền","Xã Đại Điền, Tỉnh Vĩnh Long",ai-ien,commune,24
+01046,"Đại Điền","Xã Đại Điền, Tỉnh Vĩnh Long",dai-dien,commune,24
 01057,"Nguyệt Hóa","Phường Nguyệt Hóa, Tỉnh Vĩnh Long",nguyet-hoa,ward,24
 01082,"Cái Ngang","Xã Cái Ngang, Tỉnh Vĩnh Long",cai-ngang,commune,24
 01087,"Phước Mỹ Trung","Xã Phước Mỹ Trung, Tỉnh Vĩnh Long",phuoc-my-trung,commune,24
@@ -52,25 +52,25 @@ code,name,fullName,slug,type,provinceCode
 01126,"Bến Tre","Phường Bến Tre, Tỉnh Vĩnh Long",ben-tre,ward,24
 01147,"Trung Thành","Xã Trung Thành, Tỉnh Vĩnh Long",trung-thanh,commune,24
 01157,"Cầu Kè","Xã Cầu Kè, Tỉnh Vĩnh Long",cau-ke,commune,24
-01163,"Đồng Khởi","Xã Đồng Khởi, Tỉnh Vĩnh Long",ong-khoi,commune,24
+01163,"Đồng Khởi","Xã Đồng Khởi, Tỉnh Vĩnh Long",dong-khoi,commune,24
 01165,"Tân Phú","Xã Tân Phú, Tỉnh Vĩnh Long",tan-phu,commune,24
-01177,"Thanh Đức","Phường Thanh Đức, Tỉnh Vĩnh Long",thanh-uc,ward,24
+01177,"Thanh Đức","Phường Thanh Đức, Tỉnh Vĩnh Long",thanh-duc,ward,24
 01181,"Thành Thới","Xã Thành Thới, Tỉnh Vĩnh Long",thanh-thoi,commune,24
 01187,"Nhơn Phú","Xã Nhơn Phú, Tỉnh Vĩnh Long",nhon-phu,commune,24
 01195,"Nhị Long","Xã Nhị Long, Tỉnh Vĩnh Long",nhi-long,commune,24
 01206,"Trung Hiệp","Xã Trung Hiệp, Tỉnh Vĩnh Long",trung-hiep,commune,24
 01212,"Hiếu Thành","Xã Hiếu Thành, Tỉnh Vĩnh Long",hieu-thanh,commune,24
 01217,"Bình Minh","Phường Bình Minh, Tỉnh Vĩnh Long",binh-minh,ward,24
-01218,"Sơn Đông","Phường Sơn Đông, Tỉnh Vĩnh Long",son-ong,ward,24
+01218,"Sơn Đông","Phường Sơn Đông, Tỉnh Vĩnh Long",son-dong,ward,24
 01225,"Tiểu Cần","Xã Tiểu Cần, Tỉnh Vĩnh Long",tieu-can,commune,24
-01243,"Bình Đại","Xã Bình Đại, Tỉnh Vĩnh Long",binh-ai,commune,24
-01253,"Long Đức","Phường Long Đức, Tỉnh Vĩnh Long",long-uc,ward,24
+01243,"Bình Đại","Xã Bình Đại, Tỉnh Vĩnh Long",binh-dai,commune,24
+01253,"Long Đức","Phường Long Đức, Tỉnh Vĩnh Long",long-duc,ward,24
 01302,"Tân An","Xã Tân An, Tỉnh Vĩnh Long",tan-an,commune,24
 01333,"Tam Bình","Xã Tam Bình, Tỉnh Vĩnh Long",tam-binh,commune,24
 01343,"Long Hiệp","Xã Long Hiệp, Tỉnh Vĩnh Long",long-hiep,commune,24
 01352,"Ngũ Lạc","Xã Ngũ Lạc, Tỉnh Vĩnh Long",ngu-lac,commune,24
 01366,"Tân Hạnh","Phường Tân Hạnh, Tỉnh Vĩnh Long",tan-hanh,ward,24
-01368,"Đôn Châu","Xã Đôn Châu, Tỉnh Vĩnh Long",on-chau,commune,24
+01368,"Đôn Châu","Xã Đôn Châu, Tỉnh Vĩnh Long",don-chau,commune,24
 01379,"Tập Ngãi","Xã Tập Ngãi, Tỉnh Vĩnh Long",tap-ngai,commune,24
 01382,"Tiên Thủy","Xã Tiên Thủy, Tỉnh Vĩnh Long",tien-thuy,commune,24
 01406,"Hiệp Mỹ","Xã Hiệp Mỹ, Tỉnh Vĩnh Long",hiep-my,commune,24
@@ -81,7 +81,7 @@ code,name,fullName,slug,type,provinceCode
 01470,"Tân Hào","Xã Tân Hào, Tỉnh Vĩnh Long",tan-hao,commune,24
 01498,"Vinh Kim","Xã Vinh Kim, Tỉnh Vĩnh Long",vinh-kim,commune,24
 01511,"Trà Cú","Xã Trà Cú, Tỉnh Vĩnh Long",tra-cu,commune,24
-01513,"Quới Điền","Xã Quới Điền, Tỉnh Vĩnh Long",quoi-ien,commune,24
+01513,"Quới Điền","Xã Quới Điền, Tỉnh Vĩnh Long",quoi-dien,commune,24
 01544,"Lưu Nghiệp Anh","Xã Lưu Nghiệp Anh, Tỉnh Vĩnh Long",luu-nghiep-anh,commune,24
 01558,"Thạnh Trị","Xã Thạnh Trị, Tỉnh Vĩnh Long",thanh-tri,commune,24
 01561,"Bình Phước","Xã Bình Phước, Tỉnh Vĩnh Long",binh-phuoc,commune,24
@@ -110,7 +110,7 @@ code,name,fullName,slug,type,provinceCode
 01951,"Duyên Hải","Phường Duyên Hải, Tỉnh Vĩnh Long",duyen-hai,ward,24
 02029,"Lục Sỹ Thành","Xã Lục Sỹ Thành, Tỉnh Vĩnh Long",luc-sy-thanh,commune,24
 02047,"Châu Hưng","Xã Châu Hưng, Tỉnh Vĩnh Long",chau-hung,commune,24
-02093,"Đại An","Xã Đại An, Tỉnh Vĩnh Long",ai-an,commune,24
+02093,"Đại An","Xã Đại An, Tỉnh Vĩnh Long",dai-an,commune,24
 02186,"Thạnh Phước","Xã Thạnh Phước, Tỉnh Vĩnh Long",thanh-phuoc,commune,24
 02207,"Thới Thuận","Xã Thới Thuận, Tỉnh Vĩnh Long",thoi-thuan,commune,24
 02247,"Thạnh Phong","Xã Thạnh Phong, Tỉnh Vĩnh Long",thanh-phong,commune,24
@@ -121,5 +121,5 @@ code,name,fullName,slug,type,provinceCode
 02518,"Trường Long Hòa","Phường Trường Long Hòa, Tỉnh Vĩnh Long",truong-long-hoa,ward,24
 02566,"Long Thành","Xã Long Thành, Tỉnh Vĩnh Long",long-thanh,commune,24
 02574,"Long Hữu","Xã Long Hữu, Tỉnh Vĩnh Long",long-huu,commune,24
-02643,"Đông Hải","Xã Đông Hải, Tỉnh Vĩnh Long",ong-hai,commune,24
+02643,"Đông Hải","Xã Đông Hải, Tỉnh Vĩnh Long",dong-hai,commune,24
 02696,"Long Hòa","Xã Long Hòa, Tỉnh Vĩnh Long",long-hoa,commune,24

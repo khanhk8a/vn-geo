@@ -34,7 +34,7 @@
   </ward>
   <ward>
     <code>00005</code>
-    <slug>ba-iem</slug>
+    <slug>ba-diem</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Bà Điểm</name>
@@ -74,7 +74,7 @@
   </ward>
   <ward>
     <code>00010</code>
-    <slug>ong-thanh</slug>
+    <slug>dong-thanh</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Đông Thạnh</name>
@@ -82,7 +82,7 @@
   </ward>
   <ward>
     <code>00011</code>
-    <slug>nam-inh</slug>
+    <slug>nam-dinh</slug>
     <type>ward</type>
     <provinceCode>13</provinceCode>
     <name>Nam Định</name>
@@ -98,7 +98,7 @@
   </ward>
   <ward>
     <code>00013</code>
-    <slug>ha-ong</slug>
+    <slug>ha-dong</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Hà Đông</name>
@@ -114,7 +114,7 @@
   </ward>
   <ward>
     <code>00015</code>
-    <slug>ong-hung-thuan</slug>
+    <slug>dong-hung-thuan</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Đông Hưng Thuận</name>
@@ -122,7 +122,7 @@
   </ward>
   <ward>
     <code>00016</code>
-    <slug>an-phu-ong</slug>
+    <slug>an-phu-dong</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>An Phú Đông</name>
@@ -170,7 +170,7 @@
   </ward>
   <ward>
     <code>00022</code>
-    <slug>binh-tri-ong</slug>
+    <slug>binh-tri-dong</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Bình Trị Đông</name>
@@ -226,7 +226,7 @@
   </ward>
   <ward>
     <code>00029</code>
-    <slug>binh-ong</slug>
+    <slug>binh-dong</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Bình Đông</name>
@@ -274,7 +274,7 @@
   </ward>
   <ward>
     <code>00035</code>
-    <slug>phu-inh</slug>
+    <slug>phu-dinh</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Phú Định</name>
@@ -370,7 +370,7 @@
   </ward>
   <ward>
     <code>00047</code>
-    <slug>ong-hoa</slug>
+    <slug>dong-hoa</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Đông Hòa</name>
@@ -474,7 +474,7 @@
   </ward>
   <ward>
     <code>00060</code>
-    <slug>gia-inh</slug>
+    <slug>gia-dinh</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Gia Định</name>
@@ -498,7 +498,7 @@
   </ward>
   <ward>
     <code>00063</code>
-    <slug>nghia-o</slug>
+    <slug>nghia-do</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Nghĩa Đô</name>
@@ -506,7 +506,7 @@
   </ward>
   <ward>
     <code>00064</code>
-    <slug>an-hoi-ong</slug>
+    <slug>an-hoi-dong</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>An Hội Đông</name>
@@ -570,7 +570,7 @@
   </ward>
   <ward>
     <code>00072</code>
-    <slug>bo-e</slug>
+    <slug>bo-de</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Bồ Đề</name>
@@ -610,7 +610,7 @@
   </ward>
   <ward>
     <code>00077</code>
-    <slug>thu-uc</slug>
+    <slug>thu-duc</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Thủ Đức</name>
@@ -626,7 +626,7 @@
   </ward>
   <ward>
     <code>00079</code>
-    <slug>ong-anh</slug>
+    <slug>dong-anh</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Đông Anh</name>
@@ -722,7 +722,7 @@
   </ward>
   <ward>
     <code>00091</code>
-    <slug>phu-ong</slug>
+    <slug>phu-dong</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Phù Đổng</name>
@@ -730,7 +730,7 @@
   </ward>
   <ward>
     <code>00092</code>
-    <slug>phan-inh-phung</slug>
+    <slug>phan-dinh-phung</slug>
     <type>ward</type>
     <provinceCode>19</provinceCode>
     <name>Phan Đình Phùng</name>
@@ -850,7 +850,7 @@
   </ward>
   <ward>
     <code>00107</code>
-    <slug>sa-ec</slug>
+    <slug>sa-dec</slug>
     <type>ward</type>
     <provinceCode>16</provinceCode>
     <name>Sa Đéc</name>
@@ -890,7 +890,7 @@
   </ward>
   <ward>
     <code>00112</code>
-    <slug>xuan-huong-a-lat</slug>
+    <slug>xuan-huong-da-lat</slug>
     <type>ward</type>
     <provinceCode>29</provinceCode>
     <name>Xuân Hương - Đà Lạt</name>
@@ -938,7 +938,7 @@
   </ward>
   <ward>
     <code>00118</code>
-    <slug>tan-ong-hiep</slug>
+    <slug>tan-dong-hiep</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Tân Đông Hiệp</name>
@@ -1002,7 +1002,7 @@
   </ward>
   <ward>
     <code>00126</code>
-    <slug>phu-hoa-ong</slug>
+    <slug>phu-hoa-dong</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Phú Hòa Đông</name>
@@ -1018,7 +1018,7 @@
   </ward>
   <ward>
     <code>00128</code>
-    <slug>chau-oc</slug>
+    <slug>chau-doc</slug>
     <type>ward</type>
     <provinceCode>18</provinceCode>
     <name>Châu Đốc</name>
@@ -1130,7 +1130,7 @@
   </ward>
   <ward>
     <code>00142</code>
-    <slug>ai-thanh</slug>
+    <slug>dai-thanh</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Đại Thanh</name>
@@ -1314,7 +1314,7 @@
   </ward>
   <ward>
     <code>00165</code>
-    <slug>khuong-inh</slug>
+    <slug>khuong-dinh</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Khương Đình</name>
@@ -1338,7 +1338,7 @@
   </ward>
   <ward>
     <code>00168</code>
-    <slug>inh-quan</slug>
+    <slug>dinh-quan</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Định Quán</name>
@@ -1346,7 +1346,7 @@
   </ward>
   <ward>
     <code>00169</code>
-    <slug>inh-cong</slug>
+    <slug>dinh-cong</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Định Công</name>
@@ -1362,7 +1362,7 @@
   </ward>
   <ward>
     <code>00171</code>
-    <slug>uc-trong</slug>
+    <slug>duc-trong</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đức Trọng</name>
@@ -1402,7 +1402,7 @@
   </ward>
   <ward>
     <code>00176</code>
-    <slug>ai-ong</slug>
+    <slug>dai-dong</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đại Đồng</name>
@@ -1410,7 +1410,7 @@
   </ward>
   <ward>
     <code>00177</code>
-    <slug>ong-hoi</slug>
+    <slug>dong-hoi</slug>
     <type>ward</type>
     <provinceCode>03</provinceCode>
     <name>Đồng Hới</name>
@@ -1434,7 +1434,7 @@
   </ward>
   <ward>
     <code>00180</code>
-    <slug>a-phuc</slug>
+    <slug>da-phuc</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Đa Phúc</name>
@@ -1442,7 +1442,7 @@
   </ward>
   <ward>
     <code>00181</code>
-    <slug>ong-ngac</slug>
+    <slug>dong-ngac</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Đông Ngạc</name>
@@ -1490,7 +1490,7 @@
   </ward>
   <ward>
     <code>00187</code>
-    <slug>ong-a</slug>
+    <slug>dong-da</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Đống Đa</name>
@@ -1506,7 +1506,7 @@
   </ward>
   <ward>
     <code>00189</code>
-    <slug>an-ong</slug>
+    <slug>an-dong</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>An Đông</name>
@@ -1530,7 +1530,7 @@
   </ward>
   <ward>
     <code>00192</code>
-    <slug>ai-mo</slug>
+    <slug>dai-mo</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Đại Mỗ</name>
@@ -1834,7 +1834,7 @@
   </ward>
   <ward>
     <code>00230</code>
-    <slug>ai-xuyen</slug>
+    <slug>dai-xuyen</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Đại Xuyên</name>
@@ -1938,7 +1938,7 @@
   </ward>
   <ward>
     <code>00243</code>
-    <slug>ao-thanh</slug>
+    <slug>dao-thanh</slug>
     <type>ward</type>
     <provinceCode>16</provinceCode>
     <name>Đạo Thạnh</name>
@@ -1978,7 +1978,7 @@
   </ward>
   <ward>
     <code>00248</code>
-    <slug>binh-uc</slug>
+    <slug>binh-duc</slug>
     <type>ward</type>
     <provinceCode>18</provinceCode>
     <name>Bình Đức</name>
@@ -1994,7 +1994,7 @@
   </ward>
   <ward>
     <code>00250</code>
-    <slug>ien-ban-ong</slug>
+    <slug>dien-ban-dong</slug>
     <type>ward</type>
     <provinceCode>12</provinceCode>
     <name>Điện Bàn Đông</name>
@@ -2106,7 +2106,7 @@
   </ward>
   <ward>
     <code>00264</code>
-    <slug>uc-nhuan</slug>
+    <slug>duc-nhuan</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Đức Nhuận</name>
@@ -2122,7 +2122,7 @@
   </ward>
   <ward>
     <code>00266</code>
-    <slug>lam-vien-a-lat</slug>
+    <slug>lam-vien-da-lat</slug>
     <type>ward</type>
     <provinceCode>29</provinceCode>
     <name>Lâm Viên - Đà Lạt</name>
@@ -2210,7 +2210,7 @@
   </ward>
   <ward>
     <code>00277</code>
-    <slug>co-o</slug>
+    <slug>co-do</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Cổ Đô</name>
@@ -2330,7 +2330,7 @@
   </ward>
   <ward>
     <code>00292</code>
-    <slug>hoai-uc</slug>
+    <slug>hoai-duc</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Hoài Đức</name>
@@ -2442,7 +2442,7 @@
   </ward>
   <ward>
     <code>00306</code>
-    <slug>cam-uong</slug>
+    <slug>cam-duong</slug>
     <type>ward</type>
     <provinceCode>09</provinceCode>
     <name>Cam Đường</name>
@@ -2570,7 +2570,7 @@
   </ward>
   <ward>
     <code>00322</code>
-    <slug>long-ien</slug>
+    <slug>long-dien</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Long Điền</name>
@@ -2586,7 +2586,7 @@
   </ward>
   <ward>
     <code>00324</code>
-    <slug>ba-inh</slug>
+    <slug>ba-dinh</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Ba Đình</name>
@@ -2770,7 +2770,7 @@
   </ward>
   <ward>
     <code>00347</code>
-    <slug>son-ong</slug>
+    <slug>son-dong</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Sơn Đồng</name>
@@ -2794,7 +2794,7 @@
   </ward>
   <ward>
     <code>00350</code>
-    <slug>ai-ong</slug>
+    <slug>dai-dong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đại Đồng</name>
@@ -2906,7 +2906,7 @@
   </ward>
   <ward>
     <code>00364</code>
-    <slug>o-luong</slug>
+    <slug>do-luong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đô Lương</name>
@@ -2938,7 +2938,7 @@
   </ward>
   <ward>
     <code>00368</code>
-    <slug>hon-at</slug>
+    <slug>hon-dat</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Hòn Đất</name>
@@ -2994,7 +2994,7 @@
   </ward>
   <ward>
     <code>00375</code>
-    <slug>ai-loc</slug>
+    <slug>dai-loc</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Đại Lộc</name>
@@ -3002,7 +3002,7 @@
   </ward>
   <ward>
     <code>00376</code>
-    <slug>ong-quang</slug>
+    <slug>dong-quang</slug>
     <type>ward</type>
     <provinceCode>07</provinceCode>
     <name>Đông Quang</name>
@@ -3018,7 +3018,7 @@
   </ward>
   <ward>
     <code>00378</code>
-    <slug>nam-ong-ha</slug>
+    <slug>nam-dong-ha</slug>
     <type>ward</type>
     <provinceCode>03</provinceCode>
     <name>Nam Đông Hà.</name>
@@ -3066,7 +3066,7 @@
   </ward>
   <ward>
     <code>00384</code>
-    <slug>van-inh</slug>
+    <slug>van-dinh</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Vân Đình</name>
@@ -3106,7 +3106,7 @@
   </ward>
   <ward>
     <code>00389</code>
-    <slug>my-uc</slug>
+    <slug>my-duc</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Mỹ Đức</name>
@@ -3202,7 +3202,7 @@
   </ward>
   <ward>
     <code>00401</code>
-    <slug>tan-nhuan-ong</slug>
+    <slug>tan-nhuan-dong</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Tân Nhuận Đông</name>
@@ -3258,7 +3258,7 @@
   </ward>
   <ward>
     <code>00408</code>
-    <slug>bao-ai</slug>
+    <slug>bao-dai</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Bảo Đài</name>
@@ -3274,7 +3274,7 @@
   </ward>
   <ward>
     <code>00410</code>
-    <slug>ong-son</slug>
+    <slug>dong-son</slug>
     <type>ward</type>
     <provinceCode>07</provinceCode>
     <name>Đông Sơn</name>
@@ -3346,7 +3346,7 @@
   </ward>
   <ward>
     <code>00419</code>
-    <slug>tuy-phuoc-ong</slug>
+    <slug>tuy-phuoc-dong</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Tuy Phước Đông</name>
@@ -3402,7 +3402,7 @@
   </ward>
   <ward>
     <code>00426</code>
-    <slug>ong-tien</slug>
+    <slug>dong-tien</slug>
     <type>ward</type>
     <provinceCode>07</provinceCode>
     <name>Đông Tiến</name>
@@ -3530,7 +3530,7 @@
   </ward>
   <ward>
     <code>00442</code>
-    <slug>inh-hoa</slug>
+    <slug>dinh-hoa</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Định Hòa</name>
@@ -3554,7 +3554,7 @@
   </ward>
   <ward>
     <code>00445</code>
-    <slug>ong-son</slug>
+    <slug>dong-son</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đông Sơn</name>
@@ -3666,7 +3666,7 @@
   </ward>
   <ward>
     <code>00459</code>
-    <slug>ai-phuoc</slug>
+    <slug>dai-phuoc</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đại Phước</name>
@@ -3738,7 +3738,7 @@
   </ward>
   <ward>
     <code>00468</code>
-    <slug>ong-hai</slug>
+    <slug>dong-hai</slug>
     <type>ward</type>
     <provinceCode>14</provinceCode>
     <name>Đông Hải</name>
@@ -3810,7 +3810,7 @@
   </ward>
   <ward>
     <code>00477</code>
-    <slug>ong-thai</slug>
+    <slug>dong-thai</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Đông Thái</name>
@@ -3890,7 +3890,7 @@
   </ward>
   <ward>
     <code>00487</code>
-    <slug>van-on</slug>
+    <slug>van-don</slug>
     <type>commune</type>
     <provinceCode>08</provinceCode>
     <name>Vân Đồn</name>
@@ -3906,7 +3906,7 @@
   </ward>
   <ward>
     <code>00489</code>
-    <slug>thanh-ong</slug>
+    <slug>thanh-dong</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Thạnh Đông</name>
@@ -3914,7 +3914,7 @@
   </ward>
   <ward>
     <code>00490</code>
-    <slug>my-uc</slug>
+    <slug>my-duc</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Mỹ Đức</name>
@@ -4034,7 +4034,7 @@
   </ward>
   <ward>
     <code>00505</code>
-    <slug>tran-e</slug>
+    <slug>tran-de</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Trần Đề</name>
@@ -4162,7 +4162,7 @@
   </ward>
   <ward>
     <code>00521</code>
-    <slug>phong-ien</slug>
+    <slug>phong-dien</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Phong Điền</name>
@@ -4234,7 +4234,7 @@
   </ward>
   <ward>
     <code>00530</code>
-    <slug>a-mai</slug>
+    <slug>da-mai</slug>
     <type>ward</type>
     <provinceCode>10</provinceCode>
     <name>Đa Mai</name>
@@ -4250,7 +4250,7 @@
   </ward>
   <ward>
     <code>00532</code>
-    <slug>bach-ang</slug>
+    <slug>bach-dang</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Bạch Đằng</name>
@@ -4282,7 +4282,7 @@
   </ward>
   <ward>
     <code>00536</code>
-    <slug>tan-ong</slug>
+    <slug>tan-dong</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Tân Đông</name>
@@ -4362,7 +4362,7 @@
   </ward>
   <ward>
     <code>00546</code>
-    <slug>uc-linh</slug>
+    <slug>duc-linh</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đức Linh</name>
@@ -4410,7 +4410,7 @@
   </ward>
   <ward>
     <code>00552</code>
-    <slug>ong-ha</slug>
+    <slug>dong-ha</slug>
     <type>ward</type>
     <provinceCode>03</provinceCode>
     <name>Đông Hà</name>
@@ -4442,7 +4442,7 @@
   </ward>
   <ward>
     <code>00556</code>
-    <slug>ong-hai</slug>
+    <slug>dong-hai</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Đông Hải</name>
@@ -4498,7 +4498,7 @@
   </ward>
   <ward>
     <code>00563</code>
-    <slug>binh-thanh-ong</slug>
+    <slug>binh-thanh-dong</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Bình Thạnh Đông</name>
@@ -4530,7 +4530,7 @@
   </ward>
   <ward>
     <code>00567</code>
-    <slug>can-uoc</slug>
+    <slug>can-duoc</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Cần Đước</name>
@@ -4546,7 +4546,7 @@
   </ward>
   <ward>
     <code>00569</code>
-    <slug>ong-kinh</slug>
+    <slug>dong-kinh</slug>
     <type>ward</type>
     <provinceCode>20</provinceCode>
     <name>Đông Kinh</name>
@@ -4562,7 +4562,7 @@
   </ward>
   <ward>
     <code>00571</code>
-    <slug>thanh-ong</slug>
+    <slug>thanh-dong</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Thành Đông</name>
@@ -4610,7 +4610,7 @@
   </ward>
   <ward>
     <code>00577</code>
-    <slug>uc-hoa</slug>
+    <slug>duc-hoa</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Đức Hòa</name>
@@ -4770,7 +4770,7 @@
   </ward>
   <ward>
     <code>00597</code>
-    <slug>hung-ao</slug>
+    <slug>hung-dao</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Hưng Đạo</name>
@@ -4802,7 +4802,7 @@
   </ward>
   <ward>
     <code>00601</code>
-    <slug>ien-bien-phu</slug>
+    <slug>dien-bien-phu</slug>
     <type>ward</type>
     <provinceCode>21</provinceCode>
     <name>Điện Biên Phủ</name>
@@ -4818,7 +4818,7 @@
   </ward>
   <ward>
     <code>00603</code>
-    <slug>ong-hung</slug>
+    <slug>dong-hung</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đông Hưng</name>
@@ -4874,7 +4874,7 @@
   </ward>
   <ward>
     <code>00610</code>
-    <slug>cam-ly-a-lat</slug>
+    <slug>cam-ly-da-lat</slug>
     <type>ward</type>
     <provinceCode>29</provinceCode>
     <name>Cam Ly - Đà Lạt</name>
@@ -4922,7 +4922,7 @@
   </ward>
   <ward>
     <code>00616</code>
-    <slug>inh-van-lam-ha</slug>
+    <slug>dinh-van-lam-ha</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đinh Văn - Lâm Hà</name>
@@ -4930,7 +4930,7 @@
   </ward>
   <ward>
     <code>00617</code>
-    <slug>xuan-inh</slug>
+    <slug>xuan-dinh</slug>
     <type>ward</type>
     <provinceCode>01</provinceCode>
     <name>Xuân Đỉnh</name>
@@ -4954,7 +4954,7 @@
   </ward>
   <ward>
     <code>00620</code>
-    <slug>uc-lap</slug>
+    <slug>duc-lap</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đức Lập</name>
@@ -4970,7 +4970,7 @@
   </ward>
   <ward>
     <code>00622</code>
-    <slug>tan-inh</slug>
+    <slug>tan-dinh</slug>
     <type>ward</type>
     <provinceCode>30</provinceCode>
     <name>Tân Định</name>
@@ -4994,7 +4994,7 @@
   </ward>
   <ward>
     <code>00625</code>
-    <slug>long-inh</slug>
+    <slug>long-dinh</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Long Định</name>
@@ -5018,7 +5018,7 @@
   </ward>
   <ward>
     <code>00628</code>
-    <slug>long-ien</slug>
+    <slug>long-dien</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Long Điền</name>
@@ -5098,7 +5098,7 @@
   </ward>
   <ward>
     <code>00638</code>
-    <slug>ong-hoa</slug>
+    <slug>dong-hoa</slug>
     <type>ward</type>
     <provinceCode>27</provinceCode>
     <name>Đông Hòa</name>
@@ -5106,7 +5106,7 @@
   </ward>
   <ward>
     <code>00639</code>
-    <slug>an-phuong</slug>
+    <slug>dan-phuong</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Đan Phượng</name>
@@ -5114,7 +5114,7 @@
   </ward>
   <ward>
     <code>00640</code>
-    <slug>xuan-ong</slug>
+    <slug>xuan-dong</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Xuân Đông</name>
@@ -5130,7 +5130,7 @@
   </ward>
   <ward>
     <code>00642</code>
-    <slug>hoai-uc</slug>
+    <slug>hoai-duc</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Hoài Đức</name>
@@ -5218,7 +5218,7 @@
   </ward>
   <ward>
     <code>00653</code>
-    <slug>quy-nhon-ong</slug>
+    <slug>quy-nhon-dong</slug>
     <type>ward</type>
     <provinceCode>28</provinceCode>
     <name>Quy Nhơn Đông</name>
@@ -5434,7 +5434,7 @@
   </ward>
   <ward>
     <code>00680</code>
-    <slug>song-oc</slug>
+    <slug>song-doc</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Sông Đốc</name>
@@ -5490,7 +5490,7 @@
   </ward>
   <ward>
     <code>00687</code>
-    <slug>ong-thanh</slug>
+    <slug>dong-thanh</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đông Thành</name>
@@ -5514,7 +5514,7 @@
   </ward>
   <ward>
     <code>00690</code>
-    <slug>ong-nguyen</slug>
+    <slug>dong-nguyen</slug>
     <type>ward</type>
     <provinceCode>10</provinceCode>
     <name>Đồng Nguyên</name>
@@ -5586,7 +5586,7 @@
   </ward>
   <ward>
     <code>00699</code>
-    <slug>tran-hung-ao</slug>
+    <slug>tran-hung-dao</slug>
     <type>ward</type>
     <provinceCode>02</provinceCode>
     <name>Trần Hưng Đạo</name>
@@ -5594,7 +5594,7 @@
   </ward>
   <ward>
     <code>00700</code>
-    <slug>ong-phu</slug>
+    <slug>dong-phu</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đồng Phú</name>
@@ -5602,7 +5602,7 @@
   </ward>
   <ward>
     <code>00701</code>
-    <slug>e-gi</slug>
+    <slug>de-gi</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đề Gi</name>
@@ -5690,7 +5690,7 @@
   </ward>
   <ward>
     <code>00712</code>
-    <slug>ong-hoa</slug>
+    <slug>dong-hoa</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Đông Hòa</name>
@@ -5714,7 +5714,7 @@
   </ward>
   <ward>
     <code>00715</code>
-    <slug>on-duong</slug>
+    <slug>don-duong</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đơn Dương</name>
@@ -5858,7 +5858,7 @@
   </ward>
   <ward>
     <code>00733</code>
-    <slug>hoai-nhon-ong</slug>
+    <slug>hoai-nhon-dong</slug>
     <type>ward</type>
     <provinceCode>28</provinceCode>
     <name>Hoài Nhơn Đông</name>
@@ -5890,7 +5890,7 @@
   </ward>
   <ward>
     <code>00737</code>
-    <slug>thanh-uc</slug>
+    <slug>thanh-duc</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Thạnh Đức</name>
@@ -5914,7 +5914,7 @@
   </ward>
   <ward>
     <code>00740</code>
-    <slug>ien-ban-tay</slug>
+    <slug>dien-ban-tay</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Điện Bàn Tây</name>
@@ -6050,7 +6050,7 @@
   </ward>
   <ward>
     <code>00757</code>
-    <slug>at-o</slug>
+    <slug>dat-do</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Đất Đỏ</name>
@@ -6082,7 +6082,7 @@
   </ward>
   <ward>
     <code>00761</code>
-    <slug>ong-trieu</slug>
+    <slug>dong-trieu</slug>
     <type>ward</type>
     <provinceCode>08</provinceCode>
     <name>Đông Triều</name>
@@ -6122,7 +6122,7 @@
   </ward>
   <ward>
     <code>00766</code>
-    <slug>ai-hai</slug>
+    <slug>dai-hai</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Đại Hải</name>
@@ -6154,7 +6154,7 @@
   </ward>
   <ward>
     <code>00770</code>
-    <slug>thanh-ien</slug>
+    <slug>thanh-dien</slug>
     <type>ward</type>
     <provinceCode>15</provinceCode>
     <name>Thanh Điền</name>
@@ -6178,7 +6178,7 @@
   </ward>
   <ward>
     <code>00773</code>
-    <slug>ong-ninh-hoa</slug>
+    <slug>dong-ninh-hoa</slug>
     <type>ward</type>
     <provinceCode>14</provinceCode>
     <name>Đông Ninh Hòa</name>
@@ -6194,7 +6194,7 @@
   </ward>
   <ward>
     <code>00775</code>
-    <slug>phu-my-ong</slug>
+    <slug>phu-my-dong</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Phù Mỹ Đông</name>
@@ -6218,7 +6218,7 @@
   </ward>
   <ward>
     <code>00778</code>
-    <slug>mao-ien</slug>
+    <slug>mao-dien</slug>
     <type>commune</type>
     <provinceCode>05</provinceCode>
     <name>Mao Điền</name>
@@ -6330,7 +6330,7 @@
   </ward>
   <ward>
     <code>00792</code>
-    <slug>mao-ien</slug>
+    <slug>mao-dien</slug>
     <type>ward</type>
     <provinceCode>10</provinceCode>
     <name>Mão Điền</name>
@@ -6346,7 +6346,7 @@
   </ward>
   <ward>
     <code>00794</code>
-    <slug>binh-inh</slug>
+    <slug>binh-dinh</slug>
     <type>ward</type>
     <provinceCode>28</provinceCode>
     <name>Bình Định</name>
@@ -6482,7 +6482,7 @@
   </ward>
   <ward>
     <code>00811</code>
-    <slug>inh-my</slug>
+    <slug>dinh-my</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Định Mỹ</name>
@@ -6498,7 +6498,7 @@
   </ward>
   <ward>
     <code>00813</code>
-    <slug>thang-ien</slug>
+    <slug>thang-dien</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Thăng Điền</name>
@@ -6554,7 +6554,7 @@
   </ward>
   <ward>
     <code>00820</code>
-    <slug>lac-ao</slug>
+    <slug>lac-dao</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Lạc Đạo</name>
@@ -6562,7 +6562,7 @@
   </ward>
   <ward>
     <code>00821</code>
-    <slug>co-o</slug>
+    <slug>co-do</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Cờ Đỏ</name>
@@ -6618,7 +6618,7 @@
   </ward>
   <ward>
     <code>00828</code>
-    <slug>iem-thuy</slug>
+    <slug>diem-thuy</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Điềm Thụy</name>
@@ -6626,7 +6626,7 @@
   </ward>
   <ward>
     <code>00829</code>
-    <slug>quang-ien</slug>
+    <slug>quang-dien</slug>
     <type>commune</type>
     <provinceCode>04</provinceCode>
     <name>Quảng Điền</name>
@@ -6634,7 +6634,7 @@
   </ward>
   <ward>
     <code>00830</code>
-    <slug>ong-thanh</slug>
+    <slug>dong-thanh</slug>
     <type>ward</type>
     <provinceCode>24</provinceCode>
     <name>Đông Thành</name>
@@ -6714,7 +6714,7 @@
   </ward>
   <ward>
     <code>00840</code>
-    <slug>uc-thinh</slug>
+    <slug>duc-thinh</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đức Thịnh</name>
@@ -6730,7 +6730,7 @@
   </ward>
   <ward>
     <code>00842</code>
-    <slug>uc-pho</slug>
+    <slug>duc-pho</slug>
     <type>ward</type>
     <provinceCode>23</provinceCode>
     <name>Đức Phổ</name>
@@ -6762,7 +6762,7 @@
   </ward>
   <ward>
     <code>00846</code>
-    <slug>ien-ban</slug>
+    <slug>dien-ban</slug>
     <type>ward</type>
     <provinceCode>12</provinceCode>
     <name>Điện Bàn</name>
@@ -6850,7 +6850,7 @@
   </ward>
   <ward>
     <code>00857</code>
-    <slug>a-bac</slug>
+    <slug>da-bac</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Đá Bạc</name>
@@ -6906,7 +6906,7 @@
   </ward>
   <ward>
     <code>00864</code>
-    <slug>uc-chau</slug>
+    <slug>duc-chau</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đức Châu</name>
@@ -7042,7 +7042,7 @@
   </ward>
   <ward>
     <code>00881</code>
-    <slug>tan-inh</slug>
+    <slug>tan-dinh</slug>
     <type>commune</type>
     <provinceCode>14</provinceCode>
     <name>Tân Định</name>
@@ -7058,7 +7058,7 @@
   </ward>
   <ward>
     <code>00883</code>
-    <slug>ong-son</slug>
+    <slug>dong-son</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Đồng Sơn</name>
@@ -7066,7 +7066,7 @@
   </ward>
   <ward>
     <code>00884</code>
-    <slug>an-ien</slug>
+    <slug>dan-dien</slug>
     <type>commune</type>
     <provinceCode>04</provinceCode>
     <name>Đan Điền</name>
@@ -7122,7 +7122,7 @@
   </ward>
   <ward>
     <code>00891</code>
-    <slug>nhuan-uc</slug>
+    <slug>nhuan-duc</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Nhuận Đức</name>
@@ -7234,7 +7234,7 @@
   </ward>
   <ward>
     <code>00905</code>
-    <slug>tuy-an-ong</slug>
+    <slug>tuy-an-dong</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Tuy An Đông</name>
@@ -7242,7 +7242,7 @@
   </ward>
   <ward>
     <code>00906</code>
-    <slug>ong-phuoc</slug>
+    <slug>dong-phuoc</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Đông Phước</name>
@@ -7266,7 +7266,7 @@
   </ward>
   <ward>
     <code>00909</code>
-    <slug>uc-tho</slug>
+    <slug>duc-tho</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đức Thọ</name>
@@ -7274,7 +7274,7 @@
   </ward>
   <ward>
     <code>00910</code>
-    <slug>langbiang-a-lat</slug>
+    <slug>langbiang-da-lat</slug>
     <type>ward</type>
     <provinceCode>29</provinceCode>
     <name>Langbiang - Đà Lạt</name>
@@ -7346,7 +7346,7 @@
   </ward>
   <ward>
     <code>00919</code>
-    <slug>oai-phuong</slug>
+    <slug>doai-phuong</slug>
     <type>commune</type>
     <provinceCode>01</provinceCode>
     <name>Đoài Phương</name>
@@ -7370,7 +7370,7 @@
   </ward>
   <ward>
     <code>00922</code>
-    <slug>vinh-thuan-ong</slug>
+    <slug>vinh-thuan-dong</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Vĩnh Thuận Đông</name>
@@ -7490,7 +7490,7 @@
   </ward>
   <ward>
     <code>00937</code>
-    <slug>thoi-an-ong</slug>
+    <slug>thoi-an-dong</slug>
     <type>ward</type>
     <provinceCode>32</provinceCode>
     <name>Thới An Đông</name>
@@ -7554,7 +7554,7 @@
   </ward>
   <ward>
     <code>00945</code>
-    <slug>ai-phuc</slug>
+    <slug>dai-phuc</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Đại Phúc</name>
@@ -7626,7 +7626,7 @@
   </ward>
   <ward>
     <code>00954</code>
-    <slug>uong-hao</slug>
+    <slug>duong-hao</slug>
     <type>ward</type>
     <provinceCode>02</provinceCode>
     <name>Đường Hào</name>
@@ -7658,7 +7658,7 @@
   </ward>
   <ward>
     <code>00958</code>
-    <slug>kien-uc</slug>
+    <slug>kien-duc</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Kiến Đức</name>
@@ -7810,7 +7810,7 @@
   </ward>
   <ward>
     <code>00977</code>
-    <slug>yen-inh</slug>
+    <slug>yen-dinh</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Yên Định</name>
@@ -7850,7 +7850,7 @@
   </ward>
   <ward>
     <code>00982</code>
-    <slug>ong-thuan</slug>
+    <slug>dong-thuan</slug>
     <type>ward</type>
     <provinceCode>03</provinceCode>
     <name>Đồng Thuận</name>
@@ -7922,7 +7922,7 @@
   </ward>
   <ward>
     <code>00991</code>
-    <slug>ong-thuy-anh</slug>
+    <slug>dong-thuy-anh</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đông Thụy Anh</name>
@@ -7994,7 +7994,7 @@
   </ward>
   <ward>
     <code>01000</code>
-    <slug>am-doi</slug>
+    <slug>dam-doi</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Đầm Dơi</name>
@@ -8026,7 +8026,7 @@
   </ward>
   <ward>
     <code>01004</code>
-    <slug>dien-ien</slug>
+    <slug>dien-dien</slug>
     <type>commune</type>
     <provinceCode>14</provinceCode>
     <name>Diên Điền</name>
@@ -8106,7 +8106,7 @@
   </ward>
   <ward>
     <code>01014</code>
-    <slug>hung-ao</slug>
+    <slug>hung-dao</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Hưng Đạo</name>
@@ -8170,7 +8170,7 @@
   </ward>
   <ward>
     <code>01022</code>
-    <slug>an-inh</slug>
+    <slug>an-dinh</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>An Định</name>
@@ -8362,7 +8362,7 @@
   </ward>
   <ward>
     <code>01046</code>
-    <slug>ai-ien</slug>
+    <slug>dai-dien</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Đại Điền</name>
@@ -8466,7 +8466,7 @@
   </ward>
   <ward>
     <code>01059</code>
-    <slug>ak-oa</slug>
+    <slug>dak-doa</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đak Đoa</name>
@@ -8482,7 +8482,7 @@
   </ward>
   <ward>
     <code>01061</code>
-    <slug>ong-tien-hai</slug>
+    <slug>dong-tien-hai</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đông Tiền Hải</name>
@@ -8546,7 +8546,7 @@
   </ward>
   <ward>
     <code>01069</code>
-    <slug>my-uc-tay</slug>
+    <slug>my-duc-tay</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Mỹ Đức Tây</name>
@@ -8562,7 +8562,7 @@
   </ward>
   <ward>
     <code>01071</code>
-    <slug>xuan-inh</slug>
+    <slug>xuan-dinh</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Xuân Định</name>
@@ -8642,7 +8642,7 @@
   </ward>
   <ward>
     <code>01081</code>
-    <slug>tam-a</slug>
+    <slug>tam-da</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Tam Đa</name>
@@ -8698,7 +8698,7 @@
   </ward>
   <ward>
     <code>01088</code>
-    <slug>o-son</slug>
+    <slug>do-son</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Đồ Sơn</name>
@@ -8714,7 +8714,7 @@
   </ward>
   <ward>
     <code>01090</code>
-    <slug>cai-oi-vam</slug>
+    <slug>cai-doi-vam</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Cái Đôi Vàm</name>
@@ -8874,7 +8874,7 @@
   </ward>
   <ward>
     <code>01110</code>
-    <slug>xuan-truong-a-lat</slug>
+    <slug>xuan-truong-da-lat</slug>
     <type>ward</type>
     <provinceCode>29</provinceCode>
     <name>Xuân Trường - Đà Lạt</name>
@@ -8922,7 +8922,7 @@
   </ward>
   <ward>
     <code>01116</code>
-    <slug>ak-ha</slug>
+    <slug>dak-ha</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Hà</name>
@@ -8930,7 +8930,7 @@
   </ward>
   <ward>
     <code>01117</code>
-    <slug>inh-cuong</slug>
+    <slug>dinh-cuong</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đình Cương</name>
@@ -8946,7 +8946,7 @@
   </ward>
   <ward>
     <code>01119</code>
-    <slug>son-ong</slug>
+    <slug>son-dong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Sơn Đông</name>
@@ -8994,7 +8994,7 @@
   </ward>
   <ward>
     <code>01125</code>
-    <slug>tran-hung-ao</slug>
+    <slug>tran-hung-dao</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Trần Hưng Đạo</name>
@@ -9018,7 +9018,7 @@
   </ward>
   <ward>
     <code>01128</code>
-    <slug>yen-ong</slug>
+    <slug>yen-dong</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Yên Đồng</name>
@@ -9026,7 +9026,7 @@
   </ward>
   <ward>
     <code>01129</code>
-    <slug>mo-uc</slug>
+    <slug>mo-duc</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Mộ Đức</name>
@@ -9034,7 +9034,7 @@
   </ward>
   <ward>
     <code>01130</code>
-    <slug>ong-xoai</slug>
+    <slug>dong-xoai</slug>
     <type>ward</type>
     <provinceCode>22</provinceCode>
     <name>Đồng Xoài</name>
@@ -9114,7 +9114,7 @@
   </ward>
   <ward>
     <code>01140</code>
-    <slug>hiep-uc</slug>
+    <slug>hiep-duc</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Hiệp Đức</name>
@@ -9178,7 +9178,7 @@
   </ward>
   <ward>
     <code>01148</code>
-    <slug>ong-tam</slug>
+    <slug>dong-tam</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đồng Tâm</name>
@@ -9298,7 +9298,7 @@
   </ward>
   <ward>
     <code>01163</code>
-    <slug>ong-khoi</slug>
+    <slug>dong-khoi</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Đồng Khởi</name>
@@ -9354,7 +9354,7 @@
   </ward>
   <ward>
     <code>01170</code>
-    <slug>can-ang</slug>
+    <slug>can-dang</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Cần Đăng</name>
@@ -9378,7 +9378,7 @@
   </ward>
   <ward>
     <code>01173</code>
-    <slug>ak-to</slug>
+    <slug>dak-to</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Tô</name>
@@ -9410,7 +9410,7 @@
   </ward>
   <ward>
     <code>01177</code>
-    <slug>thanh-uc</slug>
+    <slug>thanh-duc</slug>
     <type>ward</type>
     <provinceCode>24</provinceCode>
     <name>Thanh Đức</name>
@@ -9434,7 +9434,7 @@
   </ward>
   <ward>
     <code>01180</code>
-    <slug>binh-uc</slug>
+    <slug>binh-duc</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Bình Đức</name>
@@ -9522,7 +9522,7 @@
   </ward>
   <ward>
     <code>01191</code>
-    <slug>tam-ao</slug>
+    <slug>tam-dao</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Tam Đảo</name>
@@ -9530,7 +9530,7 @@
   </ward>
   <ward>
     <code>01192</code>
-    <slug>ao-vien</slug>
+    <slug>dao-vien</slug>
     <type>ward</type>
     <provinceCode>10</provinceCode>
     <name>Đào Viên</name>
@@ -9546,7 +9546,7 @@
   </ward>
   <ward>
     <code>01194</code>
-    <slug>co-am</slug>
+    <slug>co-dam</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Cổ Đạm</name>
@@ -9586,7 +9586,7 @@
   </ward>
   <ward>
     <code>01199</code>
-    <slug>ai-thanh</slug>
+    <slug>dai-thanh</slug>
     <type>ward</type>
     <provinceCode>32</provinceCode>
     <name>Đại Thành</name>
@@ -9634,7 +9634,7 @@
   </ward>
   <ward>
     <code>01205</code>
-    <slug>ong-van</slug>
+    <slug>dong-van</slug>
     <type>ward</type>
     <provinceCode>13</provinceCode>
     <name>Đồng Văn</name>
@@ -9658,7 +9658,7 @@
   </ward>
   <ward>
     <code>01208</code>
-    <slug>ong-hoa-lu</slug>
+    <slug>dong-hoa-lu</slug>
     <type>ward</type>
     <provinceCode>13</provinceCode>
     <name>Đông Hoa Lư</name>
@@ -9682,7 +9682,7 @@
   </ward>
   <ward>
     <code>01211</code>
-    <slug>uong-an</slug>
+    <slug>duong-an</slug>
     <type>commune</type>
     <provinceCode>05</provinceCode>
     <name>Đường An</name>
@@ -9738,7 +9738,7 @@
   </ward>
   <ward>
     <code>01218</code>
-    <slug>son-ong</slug>
+    <slug>son-dong</slug>
     <type>ward</type>
     <provinceCode>24</provinceCode>
     <name>Sơn Đông</name>
@@ -9770,7 +9770,7 @@
   </ward>
   <ward>
     <code>01222</code>
-    <slug>ong-trach</slug>
+    <slug>dong-trach</slug>
     <type>commune</type>
     <provinceCode>03</provinceCode>
     <name>Đông Trạch</name>
@@ -9778,7 +9778,7 @@
   </ward>
   <ward>
     <code>01223</code>
-    <slug>nguyet-uc</slug>
+    <slug>nguyet-duc</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Nguyệt Đức</name>
@@ -9938,7 +9938,7 @@
   </ward>
   <ward>
     <code>01243</code>
-    <slug>binh-ai</slug>
+    <slug>binh-dai</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Bình Đại</name>
@@ -10018,7 +10018,7 @@
   </ward>
   <ward>
     <code>01253</code>
-    <slug>long-uc</slug>
+    <slug>long-duc</slug>
     <type>ward</type>
     <provinceCode>24</provinceCode>
     <name>Long Đức</name>
@@ -10106,7 +10106,7 @@
   </ward>
   <ward>
     <code>01264</code>
-    <slug>ha-ong</slug>
+    <slug>ha-dong</slug>
     <type>commune</type>
     <provinceCode>05</provinceCode>
     <name>Hà Đông</name>
@@ -10234,7 +10234,7 @@
   </ward>
   <ward>
     <code>01280</code>
-    <slug>at-mui</slug>
+    <slug>dat-mui</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Đất Mũi</name>
@@ -10274,7 +10274,7 @@
   </ward>
   <ward>
     <code>01285</code>
-    <slug>o-vinh</slug>
+    <slug>do-vinh</slug>
     <type>ward</type>
     <provinceCode>14</provinceCode>
     <name>Đô Vinh</name>
@@ -10306,7 +10306,7 @@
   </ward>
   <ward>
     <code>01289</code>
-    <slug>uc-an</slug>
+    <slug>duc-an</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đức An</name>
@@ -10594,7 +10594,7 @@
   </ward>
   <ward>
     <code>01325</code>
-    <slug>ai-ong</slug>
+    <slug>dai-dong</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đại Đồng</name>
@@ -10714,7 +10714,7 @@
   </ward>
   <ward>
     <code>01340</code>
-    <slug>hao-uoc</slug>
+    <slug>hao-duoc</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Hảo Đước</name>
@@ -10762,7 +10762,7 @@
   </ward>
   <ward>
     <code>01346</code>
-    <slug>ong-son</slug>
+    <slug>dong-son</slug>
     <type>ward</type>
     <provinceCode>03</provinceCode>
     <name>Đồng Sơn</name>
@@ -10866,7 +10866,7 @@
   </ward>
   <ward>
     <code>01359</code>
-    <slug>ao-xa</slug>
+    <slug>dao-xa</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đào Xá</name>
@@ -10890,7 +10890,7 @@
   </ward>
   <ward>
     <code>01362</code>
-    <slug>chien-an</slug>
+    <slug>chien-dan</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Chiên Đàn</name>
@@ -10898,7 +10898,7 @@
   </ward>
   <ward>
     <code>01363</code>
-    <slug>bu-ang</slug>
+    <slug>bu-dang</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Bù Đăng</name>
@@ -10938,7 +10938,7 @@
   </ward>
   <ward>
     <code>01368</code>
-    <slug>on-chau</slug>
+    <slug>don-chau</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Đôn Châu</name>
@@ -11042,7 +11042,7 @@
   </ward>
   <ward>
     <code>01381</code>
-    <slug>ong-a</slug>
+    <slug>dong-a</slug>
     <type>ward</type>
     <provinceCode>13</provinceCode>
     <name>Đông A</name>
@@ -11058,7 +11058,7 @@
   </ward>
   <ward>
     <code>01383</code>
-    <slug>tuy-uc</slug>
+    <slug>tuy-duc</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Tuy Đức</name>
@@ -11074,7 +11074,7 @@
   </ward>
   <ward>
     <code>01385</code>
-    <slug>a-kia</slug>
+    <slug>da-kia</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đa Kia</name>
@@ -11106,7 +11106,7 @@
   </ward>
   <ward>
     <code>01389</code>
-    <slug>uc-lap</slug>
+    <slug>duc-lap</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Đức Lập</name>
@@ -11178,7 +11178,7 @@
   </ward>
   <ward>
     <code>01398</code>
-    <slug>ak-mil</slug>
+    <slug>dak-mil</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đắk Mil</name>
@@ -11346,7 +11346,7 @@
   </ward>
   <ward>
     <code>01419</code>
-    <slug>ho-ac-kien</slug>
+    <slug>ho-dac-kien</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Hồ Đắc Kiện</name>
@@ -11442,7 +11442,7 @@
   </ward>
   <ward>
     <code>01431</code>
-    <slug>ong-loc</slug>
+    <slug>dong-loc</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đông Lộc</name>
@@ -11482,7 +11482,7 @@
   </ward>
   <ward>
     <code>01436</code>
-    <slug>hoi-an-ong</slug>
+    <slug>hoi-an-dong</slug>
     <type>ward</type>
     <provinceCode>12</provinceCode>
     <name>Hội An Đông</name>
@@ -11554,7 +11554,7 @@
   </ward>
   <ward>
     <code>01445</code>
-    <slug>ong-hy</slug>
+    <slug>dong-hy</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Đồng Hỷ</name>
@@ -11594,7 +11594,7 @@
   </ward>
   <ward>
     <code>01450</code>
-    <slug>rang-ong</slug>
+    <slug>rang-dong</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Rạng Đông</name>
@@ -11610,7 +11610,7 @@
   </ward>
   <ward>
     <code>01452</code>
-    <slug>ong-thinh</slug>
+    <slug>dong-thinh</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Đồng Thịnh</name>
@@ -11618,7 +11618,7 @@
   </ward>
   <ward>
     <code>01453</code>
-    <slug>ong-kho</slug>
+    <slug>dong-kho</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đồng Kho</name>
@@ -11690,7 +11690,7 @@
   </ward>
   <ward>
     <code>01462</code>
-    <slug>ien-ban-bac</slug>
+    <slug>dien-ban-bac</slug>
     <type>ward</type>
     <provinceCode>12</provinceCode>
     <name>Điện Bàn Bắc</name>
@@ -11738,7 +11738,7 @@
   </ward>
   <ward>
     <code>01468</code>
-    <slug>a-teh</slug>
+    <slug>da-teh</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đạ Tẻh</name>
@@ -11778,7 +11778,7 @@
   </ward>
   <ward>
     <code>01473</code>
-    <slug>ai-son</slug>
+    <slug>dai-son</slug>
     <type>commune</type>
     <provinceCode>05</provinceCode>
     <name>Đại Sơn</name>
@@ -11850,7 +11850,7 @@
   </ward>
   <ward>
     <code>01482</code>
-    <slug>oan-hung</slug>
+    <slug>doan-hung</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đoan Hùng</name>
@@ -11866,7 +11866,7 @@
   </ward>
   <ward>
     <code>01484</code>
-    <slug>ong-chau</slug>
+    <slug>dong-chau</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đồng Châu</name>
@@ -11922,7 +11922,7 @@
   </ward>
   <ward>
     <code>01491</code>
-    <slug>nam-o-son</slug>
+    <slug>nam-do-son</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Nam Đồ Sơn</name>
@@ -11946,7 +11946,7 @@
   </ward>
   <ward>
     <code>01494</code>
-    <slug>ong-thanh</slug>
+    <slug>dong-thanh</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Đông Thành</name>
@@ -12058,7 +12058,7 @@
   </ward>
   <ward>
     <code>01508</code>
-    <slug>go-cong-ong</slug>
+    <slug>go-cong-dong</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Gò Công Đông</name>
@@ -12098,7 +12098,7 @@
   </ward>
   <ward>
     <code>01513</code>
-    <slug>quoi-ien</slug>
+    <slug>quoi-dien</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Quới Điền</name>
@@ -12266,7 +12266,7 @@
   </ward>
   <ward>
     <code>01534</code>
-    <slug>ak-cam</slug>
+    <slug>dak-cam</slug>
     <type>ward</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Cấm</name>
@@ -12434,7 +12434,7 @@
   </ward>
   <ward>
     <code>01555</code>
-    <slug>long-ien</slug>
+    <slug>long-dien</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Long Điền</name>
@@ -12474,7 +12474,7 @@
   </ward>
   <ward>
     <code>01560</code>
-    <slug>uc-hop</slug>
+    <slug>duc-hop</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đức Hợp</name>
@@ -12650,7 +12650,7 @@
   </ward>
   <ward>
     <code>01582</code>
-    <slug>nguyen-ai-nang</slug>
+    <slug>nguyen-dai-nang</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Nguyễn Đại Năng</name>
@@ -12802,7 +12802,7 @@
   </ward>
   <ward>
     <code>01601</code>
-    <slug>an-thuong</slug>
+    <slug>dan-thuong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đan Thượng</name>
@@ -12818,7 +12818,7 @@
   </ward>
   <ward>
     <code>01603</code>
-    <slug>ba-on</slug>
+    <slug>ba-don</slug>
     <type>ward</type>
     <provinceCode>03</provinceCode>
     <name>Ba Đồn</name>
@@ -12826,7 +12826,7 @@
   </ward>
   <ward>
     <code>01604</code>
-    <slug>cuor-ang</slug>
+    <slug>cuor-dang</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Cuôr Đăng</name>
@@ -12834,7 +12834,7 @@
   </ward>
   <ward>
     <code>01605</code>
-    <slug>oc-binh-kieu</slug>
+    <slug>doc-binh-kieu</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Đốc Binh Kiều</name>
@@ -12938,7 +12938,7 @@
   </ward>
   <ward>
     <code>01618</code>
-    <slug>ong-hieu</slug>
+    <slug>dong-hieu</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đông Hiếu</name>
@@ -13002,7 +13002,7 @@
   </ward>
   <ward>
     <code>01626</code>
-    <slug>ong-cuu</slug>
+    <slug>dong-cuu</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đông Cứu</name>
@@ -13066,7 +13066,7 @@
   </ward>
   <ward>
     <code>01634</code>
-    <slug>inh-hoa</slug>
+    <slug>dinh-hoa</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Định Hòa</name>
@@ -13074,7 +13074,7 @@
   </ward>
   <ward>
     <code>01635</code>
-    <slug>inh-tan</slug>
+    <slug>dinh-tan</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Định Tân</name>
@@ -13106,7 +13106,7 @@
   </ward>
   <ward>
     <code>01639</code>
-    <slug>nam-ong</slug>
+    <slug>nam-dong</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Nam Đồng</name>
@@ -13162,7 +13162,7 @@
   </ward>
   <ward>
     <code>01646</code>
-    <slug>chau-uc</slug>
+    <slug>chau-duc</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Châu Đức</name>
@@ -13194,7 +13194,7 @@
   </ward>
   <ward>
     <code>01650</code>
-    <slug>an-hai</slug>
+    <slug>dan-hai</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đan Hải</name>
@@ -13242,7 +13242,7 @@
   </ward>
   <ward>
     <code>01656</code>
-    <slug>ak-sak</slug>
+    <slug>dak-sak</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đắk Sắk</name>
@@ -13266,7 +13266,7 @@
   </ward>
   <ward>
     <code>01659</code>
-    <slug>chi-am</slug>
+    <slug>chi-dam</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Chí Đám</name>
@@ -13306,7 +13306,7 @@
   </ward>
   <ward>
     <code>01664</code>
-    <slug>ka-o</slug>
+    <slug>ka-do</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Ka Đô</name>
@@ -13354,7 +13354,7 @@
   </ward>
   <ward>
     <code>01670</code>
-    <slug>phong-ien</slug>
+    <slug>phong-dien</slug>
     <type>ward</type>
     <provinceCode>04</provinceCode>
     <name>Phong Điền</name>
@@ -13442,7 +13442,7 @@
   </ward>
   <ward>
     <code>01681</code>
-    <slug>ong-loc</slug>
+    <slug>dong-loc</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đồng Lộc</name>
@@ -13506,7 +13506,7 @@
   </ward>
   <ward>
     <code>01689</code>
-    <slug>at-moi</slug>
+    <slug>dat-moi</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Đất Mới</name>
@@ -13546,7 +13546,7 @@
   </ward>
   <ward>
     <code>01694</code>
-    <slug>nam-ba-on</slug>
+    <slug>nam-ba-don</slug>
     <type>commune</type>
     <provinceCode>03</provinceCode>
     <name>Nam Ba Đồn</name>
@@ -13578,7 +13578,7 @@
   </ward>
   <ward>
     <code>01698</code>
-    <slug>tan-ong</slug>
+    <slug>tan-dong</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Tân Đông</name>
@@ -13674,7 +13674,7 @@
   </ward>
   <ward>
     <code>01710</code>
-    <slug>tay-o</slug>
+    <slug>tay-do</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Tây Đô</name>
@@ -13850,7 +13850,7 @@
   </ward>
   <ward>
     <code>01732</code>
-    <slug>ong-thanh</slug>
+    <slug>dong-thanh</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Đông Thành</name>
@@ -13866,7 +13866,7 @@
   </ward>
   <ward>
     <code>01734</code>
-    <slug>ong-thai-ninh</slug>
+    <slug>dong-thai-ninh</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đông Thái Ninh</name>
@@ -13954,7 +13954,7 @@
   </ward>
   <ward>
     <code>01745</code>
-    <slug>ai-tu</slug>
+    <slug>dai-tu</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Đại Từ</name>
@@ -14034,7 +14034,7 @@
   </ward>
   <ward>
     <code>01755</code>
-    <slug>ong-xuan</slug>
+    <slug>dong-xuan</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Đồng Xuân</name>
@@ -14074,7 +14074,7 @@
   </ward>
   <ward>
     <code>01760</code>
-    <slug>tam-iep</slug>
+    <slug>tam-diep</slug>
     <type>ward</type>
     <provinceCode>13</provinceCode>
     <name>Tam Điệp</name>
@@ -14122,7 +14122,7 @@
   </ward>
   <ward>
     <code>01766</code>
-    <slug>vinh-inh</slug>
+    <slug>vinh-dinh</slug>
     <type>commune</type>
     <provinceCode>03</provinceCode>
     <name>Vĩnh Định</name>
@@ -14138,7 +14138,7 @@
   </ward>
   <ward>
     <code>01768</code>
-    <slug>ong-viet</slug>
+    <slug>dong-viet</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đồng Việt</name>
@@ -14266,7 +14266,7 @@
   </ward>
   <ward>
     <code>01784</code>
-    <slug>xuan-uong</slug>
+    <slug>xuan-duong</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Xuân Đường</name>
@@ -14338,7 +14338,7 @@
   </ward>
   <ward>
     <code>01793</code>
-    <slug>an-nhon-ong</slug>
+    <slug>an-nhon-dong</slug>
     <type>ward</type>
     <provinceCode>28</provinceCode>
     <name>An Nhơn Đông</name>
@@ -14362,7 +14362,7 @@
   </ward>
   <ward>
     <code>01796</code>
-    <slug>tam-ong</slug>
+    <slug>tam-dong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Tam Đồng</name>
@@ -14434,7 +14434,7 @@
   </ward>
   <ward>
     <code>01805</code>
-    <slug>ao-duy-tu</slug>
+    <slug>dao-duy-tu</slug>
     <type>ward</type>
     <provinceCode>07</provinceCode>
     <name>Đào Duy Tư</name>
@@ -14514,7 +14514,7 @@
   </ward>
   <ward>
     <code>01815</code>
-    <slug>muong-ong</slug>
+    <slug>muong-dong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Mường Động</name>
@@ -14554,7 +14554,7 @@
   </ward>
   <ward>
     <code>01820</code>
-    <slug>ong-van</slug>
+    <slug>dong-van</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Đồng Văn</name>
@@ -14578,7 +14578,7 @@
   </ward>
   <ward>
     <code>01823</code>
-    <slug>am-ha</slug>
+    <slug>dam-ha</slug>
     <type>commune</type>
     <provinceCode>08</provinceCode>
     <name>Đầm Hà</name>
@@ -14738,7 +14738,7 @@
   </ward>
   <ward>
     <code>01843</code>
-    <slug>ai-lanh</slug>
+    <slug>dai-lanh</slug>
     <type>commune</type>
     <provinceCode>14</provinceCode>
     <name>Đại Lãnh</name>
@@ -14906,7 +14906,7 @@
   </ward>
   <ward>
     <code>01864</code>
-    <slug>oan-ket</slug>
+    <slug>doan-ket</slug>
     <type>ward</type>
     <provinceCode>26</provinceCode>
     <name>Đoàn Kết</name>
@@ -14994,7 +14994,7 @@
   </ward>
   <ward>
     <code>01875</code>
-    <slug>nam-ong-hung</slug>
+    <slug>nam-dong-hung</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Nam Đông Hưng</name>
@@ -15034,7 +15034,7 @@
   </ward>
   <ward>
     <code>01880</code>
-    <slug>bac-ong-quan</slug>
+    <slug>bac-dong-quan</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Bắc Đông Quan</name>
@@ -15066,7 +15066,7 @@
   </ward>
   <ward>
     <code>01884</code>
-    <slug>ak-ro-wa</slug>
+    <slug>dak-ro-wa</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Rơ Wa</name>
@@ -15098,7 +15098,7 @@
   </ward>
   <ward>
     <code>01888</code>
-    <slug>ong-quan</slug>
+    <slug>dong-quan</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đông Quan</name>
@@ -15146,7 +15146,7 @@
   </ward>
   <ward>
     <code>01894</code>
-    <slug>ong-bang</slug>
+    <slug>dong-bang</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đồng Bằng</name>
@@ -15178,7 +15178,7 @@
   </ward>
   <ward>
     <code>01898</code>
-    <slug>ong-ang</slug>
+    <slug>dong-dang</slug>
     <type>commune</type>
     <provinceCode>20</provinceCode>
     <name>Đồng Đăng</name>
@@ -15242,7 +15242,7 @@
   </ward>
   <ward>
     <code>01906</code>
-    <slug>nam-ong</slug>
+    <slug>nam-dong</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Nam Đồng</name>
@@ -15282,7 +15282,7 @@
   </ward>
   <ward>
     <code>01911</code>
-    <slug>tien-ien</slug>
+    <slug>tien-dien</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Tiên Điền</name>
@@ -15322,7 +15322,7 @@
   </ward>
   <ward>
     <code>01916</code>
-    <slug>ong-duong</slug>
+    <slug>dong-duong</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Đồng Dương</name>
@@ -15330,7 +15330,7 @@
   </ward>
   <ward>
     <code>01917</code>
-    <slug>ao-tru</slug>
+    <slug>dao-tru</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đạo Trù</name>
@@ -15394,7 +15394,7 @@
   </ward>
   <ward>
     <code>01925</code>
-    <slug>le-ai-hanh</slug>
+    <slug>le-dai-hanh</slug>
     <type>ward</type>
     <provinceCode>05</provinceCode>
     <name>Lê Đại Hành</name>
@@ -15418,7 +15418,7 @@
   </ward>
   <ward>
     <code>01928</code>
-    <slug>ong-thuan</slug>
+    <slug>dong-thuan</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Đông Thuận</name>
@@ -15466,7 +15466,7 @@
   </ward>
   <ward>
     <code>01934</code>
-    <slug>ong-le</slug>
+    <slug>dong-le</slug>
     <type>commune</type>
     <provinceCode>03</provinceCode>
     <name>Đồng Lê</name>
@@ -15482,7 +15482,7 @@
   </ward>
   <ward>
     <code>01936</code>
-    <slug>ai-ngai</slug>
+    <slug>dai-ngai</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Đại Ngãi</name>
@@ -15522,7 +15522,7 @@
   </ward>
   <ward>
     <code>01941</code>
-    <slug>nam-an</slug>
+    <slug>nam-dan</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Nam Đàn</name>
@@ -15554,7 +15554,7 @@
   </ward>
   <ward>
     <code>01945</code>
-    <slug>ai-hue</slug>
+    <slug>dai-hue</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Đại Huệ</name>
@@ -15562,7 +15562,7 @@
   </ward>
   <ward>
     <code>01946</code>
-    <slug>inh-hoa</slug>
+    <slug>dinh-hoa</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Định Hóa</name>
@@ -15586,7 +15586,7 @@
   </ward>
   <ward>
     <code>01949</code>
-    <slug>son-ong</slug>
+    <slug>son-dong</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Sơn Động</name>
@@ -15610,7 +15610,7 @@
   </ward>
   <ward>
     <code>01952</code>
-    <slug>ai-ong</slug>
+    <slug>dai-dong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đại Đồng</name>
@@ -15618,7 +15618,7 @@
   </ward>
   <ward>
     <code>01953</code>
-    <slug>ak-wil</slug>
+    <slug>dak-wil</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đắk Wil</name>
@@ -15730,7 +15730,7 @@
   </ward>
   <ward>
     <code>01967</code>
-    <slug>minh-ai</slug>
+    <slug>minh-dai</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Minh Đài</name>
@@ -15738,7 +15738,7 @@
   </ward>
   <ward>
     <code>01968</code>
-    <slug>ong-gia-nghia</slug>
+    <slug>dong-gia-nghia</slug>
     <type>ward</type>
     <provinceCode>29</provinceCode>
     <name>Đông Gia Nghĩa</name>
@@ -15778,7 +15778,7 @@
   </ward>
   <ward>
     <code>01973</code>
-    <slug>hoa-ien</slug>
+    <slug>hoa-dien</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Hòa Điền</name>
@@ -15818,7 +15818,7 @@
   </ward>
   <ward>
     <code>01978</code>
-    <slug>ong-thai</slug>
+    <slug>dong-thai</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Đồng Thái</name>
@@ -15930,7 +15930,7 @@
   </ward>
   <ward>
     <code>01992</code>
-    <slug>ai-hoang</slug>
+    <slug>dai-hoang</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Đại Hoàng</name>
@@ -16018,7 +16018,7 @@
   </ward>
   <ward>
     <code>02003</code>
-    <slug>ong-phu</slug>
+    <slug>dong-phu</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đông Phú</name>
@@ -16026,7 +16026,7 @@
   </ward>
   <ward>
     <code>02004</code>
-    <slug>bac-ong-hung</slug>
+    <slug>bac-dong-hung</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Bắc Đông Hưng</name>
@@ -16050,7 +16050,7 @@
   </ward>
   <ward>
     <code>02007</code>
-    <slug>ak-nhau</slug>
+    <slug>dak-nhau</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đak Nhau</name>
@@ -16082,7 +16082,7 @@
   </ward>
   <ward>
     <code>02011</code>
-    <slug>tan-phu-ong</slug>
+    <slug>tan-phu-dong</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Tân Phú Đông</name>
@@ -16098,7 +16098,7 @@
   </ward>
   <ward>
     <code>02013</code>
-    <slug>uc-co</slug>
+    <slug>duc-co</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đức Cơ</name>
@@ -16162,7 +16162,7 @@
   </ward>
   <ward>
     <code>02021</code>
-    <slug>le-quy-on</slug>
+    <slug>le-quy-don</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Lê Quý Đôn</name>
@@ -16178,7 +16178,7 @@
   </ward>
   <ward>
     <code>02023</code>
-    <slug>ong-tien-hung</slug>
+    <slug>dong-tien-hung</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đông Tiên Hưng</name>
@@ -16202,7 +16202,7 @@
   </ward>
   <ward>
     <code>02026</code>
-    <slug>ninh-ien</slug>
+    <slug>ninh-dien</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Ninh Điền</name>
@@ -16434,7 +16434,7 @@
   </ward>
   <ward>
     <code>02055</code>
-    <slug>a-huoai</slug>
+    <slug>da-huoai</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đạ Huoai</name>
@@ -16466,7 +16466,7 @@
   </ward>
   <ward>
     <code>02059</code>
-    <slug>ong-hai</slug>
+    <slug>dong-hai</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Đông Hải</name>
@@ -16530,7 +16530,7 @@
   </ward>
   <ward>
     <code>02067</code>
-    <slug>ong-tien</slug>
+    <slug>dong-tien</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Đồng Tiến</name>
@@ -16554,7 +16554,7 @@
   </ward>
   <ward>
     <code>02070</code>
-    <slug>uc-hue</slug>
+    <slug>duc-hue</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Đức Huệ</name>
@@ -16578,7 +16578,7 @@
   </ward>
   <ward>
     <code>02073</code>
-    <slug>ak-lieng</slug>
+    <slug>dak-lieng</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Đắk Liêng</name>
@@ -16602,7 +16602,7 @@
   </ward>
   <ward>
     <code>02076</code>
-    <slug>ong-ky</slug>
+    <slug>dong-ky</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đồng Kỳ</name>
@@ -16634,7 +16634,7 @@
   </ward>
   <ward>
     <code>02080</code>
-    <slug>oan-ao</slug>
+    <slug>doan-dao</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Đoàn Đào</name>
@@ -16666,7 +16666,7 @@
   </ward>
   <ward>
     <code>02084</code>
-    <slug>ong-hiep</slug>
+    <slug>dong-hiep</slug>
     <type>commune</type>
     <provinceCode>32</provinceCode>
     <name>Đông Hiệp</name>
@@ -16706,7 +16706,7 @@
   </ward>
   <ward>
     <code>02089</code>
-    <slug>ta-ung</slug>
+    <slug>ta-dung</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Tà Đùng</name>
@@ -16738,7 +16738,7 @@
   </ward>
   <ward>
     <code>02093</code>
-    <slug>ai-an</slug>
+    <slug>dai-an</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Đại An</name>
@@ -16746,7 +16746,7 @@
   </ward>
   <ward>
     <code>02094</code>
-    <slug>uc-xuan</slug>
+    <slug>duc-xuan</slug>
     <type>ward</type>
     <provinceCode>19</provinceCode>
     <name>Đức Xuân</name>
@@ -16786,7 +16786,7 @@
   </ward>
   <ward>
     <code>02099</code>
-    <slug>an-thoi-ong</slug>
+    <slug>an-thoi-dong</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>An Thới Đông</name>
@@ -16842,7 +16842,7 @@
   </ward>
   <ward>
     <code>02106</code>
-    <slug>thuong-uc</slug>
+    <slug>thuong-duc</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Thượng Đức</name>
@@ -16898,7 +16898,7 @@
   </ward>
   <ward>
     <code>02113</code>
-    <slug>quang-ong</slug>
+    <slug>quang-dong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Quang Đồng</name>
@@ -16914,7 +16914,7 @@
   </ward>
   <ward>
     <code>02115</code>
-    <slug>inh-hoa</slug>
+    <slug>dinh-hoa</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Định Hóa</name>
@@ -16954,7 +16954,7 @@
   </ward>
   <ward>
     <code>02120</code>
-    <slug>ong-hung</slug>
+    <slug>dong-hung</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Đông Hưng</name>
@@ -17018,7 +17018,7 @@
   </ward>
   <ward>
     <code>02128</code>
-    <slug>binh-inh</slug>
+    <slug>binh-dinh</slug>
     <type>commune</type>
     <provinceCode>02</provinceCode>
     <name>Bình Định</name>
@@ -17026,7 +17026,7 @@
   </ward>
   <ward>
     <code>02129</code>
-    <slug>tan-ien</slug>
+    <slug>tan-dien</slug>
     <type>commune</type>
     <provinceCode>16</provinceCode>
     <name>Tân Điền</name>
@@ -17114,7 +17114,7 @@
   </ward>
   <ward>
     <code>02140</code>
-    <slug>ong-cuong</slug>
+    <slug>dong-cuong</slug>
     <type>commune</type>
     <provinceCode>09</provinceCode>
     <name>Đông Cuông</name>
@@ -17154,7 +17154,7 @@
   </ward>
   <ward>
     <code>02145</code>
-    <slug>ak-bla</slug>
+    <slug>dak-bla</slug>
     <type>ward</type>
     <provinceCode>23</provinceCode>
     <name>Đăk BLa</name>
@@ -17258,7 +17258,7 @@
   </ward>
   <ward>
     <code>02158</code>
-    <slug>ong-mai</slug>
+    <slug>dong-mai</slug>
     <type>ward</type>
     <provinceCode>08</provinceCode>
     <name>Đông Mai</name>
@@ -17266,7 +17266,7 @@
   </ward>
   <ward>
     <code>02159</code>
-    <slug>van-uc</slug>
+    <slug>van-duc</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Vạn Đức</name>
@@ -17282,7 +17282,7 @@
   </ward>
   <ward>
     <code>02161</code>
-    <slug>xuan-ai</slug>
+    <slug>xuan-dai</slug>
     <type>ward</type>
     <provinceCode>27</provinceCode>
     <name>Xuân Đài</name>
@@ -17314,7 +17314,7 @@
   </ward>
   <ward>
     <code>02165</code>
-    <slug>nam-a</slug>
+    <slug>nam-da</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Nam Đà</name>
@@ -17610,7 +17610,7 @@
   </ward>
   <ward>
     <code>02202</code>
-    <slug>ien-lu</slug>
+    <slug>dien-lu</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Điền Lư</name>
@@ -17634,7 +17634,7 @@
   </ward>
   <ward>
     <code>02205</code>
-    <slug>ong-kinh</slug>
+    <slug>dong-kinh</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đông Kinh</name>
@@ -17754,7 +17754,7 @@
   </ward>
   <ward>
     <code>02220</code>
-    <slug>nghi-uc</slug>
+    <slug>nghi-duc</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Nghị Đức</name>
@@ -17778,7 +17778,7 @@
   </ward>
   <ward>
     <code>02223</code>
-    <slug>ba-inh</slug>
+    <slug>ba-dinh</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Ba Đình</name>
@@ -17826,7 +17826,7 @@
   </ward>
   <ward>
     <code>02229</code>
-    <slug>inh-trang-thuong</slug>
+    <slug>dinh-trang-thuong</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đinh Trang Thượng</name>
@@ -17834,7 +17834,7 @@
   </ward>
   <ward>
     <code>02230</code>
-    <slug>ai-inh</slug>
+    <slug>dai-dinh</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đại Đình</name>
@@ -17882,7 +17882,7 @@
   </ward>
   <ward>
     <code>02236</code>
-    <slug>ong-thanh</slug>
+    <slug>dong-thanh</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đông Thành</name>
@@ -17978,7 +17978,7 @@
   </ward>
   <ward>
     <code>02248</code>
-    <slug>nghia-ong</slug>
+    <slug>nghia-dong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Nghĩa Đồng</name>
@@ -18186,7 +18186,7 @@
   </ward>
   <ward>
     <code>02274</code>
-    <slug>a-bac</slug>
+    <slug>da-bac</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đà Bắc</name>
@@ -18218,7 +18218,7 @@
   </ward>
   <ward>
     <code>02278</code>
-    <slug>nghia-an</slug>
+    <slug>nghia-dan</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Nghĩa Đàn</name>
@@ -18226,7 +18226,7 @@
   </ward>
   <ward>
     <code>02279</code>
-    <slug>tien-ong</slug>
+    <slug>tien-dong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Tiên Đồng</name>
@@ -18266,7 +18266,7 @@
   </ward>
   <ward>
     <code>02284</code>
-    <slug>ak-mar</slug>
+    <slug>dak-mar</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Mar</name>
@@ -18418,7 +18418,7 @@
   </ward>
   <ward>
     <code>02303</code>
-    <slug>ak-o</slug>
+    <slug>dak-o</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đăk Ơ</name>
@@ -18434,7 +18434,7 @@
   </ward>
   <ward>
     <code>02305</code>
-    <slug>hung-ien</slug>
+    <slug>hung-dien</slug>
     <type>commune</type>
     <provinceCode>15</provinceCode>
     <name>Hưng Điền</name>
@@ -18442,7 +18442,7 @@
   </ward>
   <ward>
     <code>02306</code>
-    <slug>ai-lai</slug>
+    <slug>dai-lai</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đại Lai</name>
@@ -18770,7 +18770,7 @@
   </ward>
   <ward>
     <code>02347</code>
-    <slug>uc-minh</slug>
+    <slug>duc-minh</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đức Minh</name>
@@ -18834,7 +18834,7 @@
   </ward>
   <ward>
     <code>02355</code>
-    <slug>ong-tien</slug>
+    <slug>dong-tien</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đồng Tiến</name>
@@ -18858,7 +18858,7 @@
   </ward>
   <ward>
     <code>02358</code>
-    <slug>ak-po</slug>
+    <slug>dak-po</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đak Pơ</name>
@@ -18962,7 +18962,7 @@
   </ward>
   <ward>
     <code>02371</code>
-    <slug>ong-yen</slug>
+    <slug>dong-yen</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Đồng Yên</name>
@@ -19074,7 +19074,7 @@
   </ward>
   <ward>
     <code>02385</code>
-    <slug>ong-tho</slug>
+    <slug>dong-tho</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Đông Thọ</name>
@@ -19090,7 +19090,7 @@
   </ward>
   <ward>
     <code>02387</code>
-    <slug>ong-ngu</slug>
+    <slug>dong-ngu</slug>
     <type>commune</type>
     <provinceCode>08</provinceCode>
     <name>Đông Ngũ</name>
@@ -19170,7 +19170,7 @@
   </ward>
   <ward>
     <code>02397</code>
-    <slug>oan-ket</slug>
+    <slug>doan-ket</slug>
     <type>commune</type>
     <provinceCode>31</provinceCode>
     <name>Đoàn Kết</name>
@@ -19418,7 +19418,7 @@
   </ward>
   <ward>
     <code>02428</code>
-    <slug>vinh-ieu</slug>
+    <slug>vinh-dieu</slug>
     <type>commune</type>
     <provinceCode>18</provinceCode>
     <name>Vĩnh Điều</name>
@@ -19426,7 +19426,7 @@
   </ward>
   <ward>
     <code>02429</code>
-    <slug>uc-quang</slug>
+    <slug>duc-quang</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đức Quang</name>
@@ -19466,7 +19466,7 @@
   </ward>
   <ward>
     <code>02434</code>
-    <slug>ak-pek</slug>
+    <slug>dak-pek</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Pék</name>
@@ -19554,7 +19554,7 @@
   </ward>
   <ward>
     <code>02445</code>
-    <slug>am-rong-1</slug>
+    <slug>dam-rong-1</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đam Rông 1</name>
@@ -19594,7 +19594,7 @@
   </ward>
   <ward>
     <code>02450</code>
-    <slug>uong-hoa</slug>
+    <slug>duong-hoa</slug>
     <type>commune</type>
     <provinceCode>08</provinceCode>
     <name>Đường Hoa</name>
@@ -19602,7 +19602,7 @@
   </ward>
   <ward>
     <code>02451</code>
-    <slug>bien-ong</slug>
+    <slug>bien-dong</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Biển Động</name>
@@ -19610,7 +19610,7 @@
   </ward>
   <ward>
     <code>02452</code>
-    <slug>am-rong-4</slug>
+    <slug>dam-rong-4</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đam Rông 4</name>
@@ -19698,7 +19698,7 @@
   </ward>
   <ward>
     <code>02463</code>
-    <slug>cao-uc</slug>
+    <slug>cao-duc</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Cao Đức</name>
@@ -19706,7 +19706,7 @@
   </ward>
   <ward>
     <code>02464</code>
-    <slug>minh-uc</slug>
+    <slug>minh-duc</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Minh Đức</name>
@@ -19882,7 +19882,7 @@
   </ward>
   <ward>
     <code>02486</code>
-    <slug>ien-quang</slug>
+    <slug>dien-quang</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Điền Quang</name>
@@ -20018,7 +20018,7 @@
   </ward>
   <ward>
     <code>02503</code>
-    <slug>lai-ong</slug>
+    <slug>lai-dong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Lai Đồng</name>
@@ -20050,7 +20050,7 @@
   </ward>
   <ward>
     <code>02507</code>
-    <slug>am-rong-2</slug>
+    <slug>dam-rong-2</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đam Rông 2</name>
@@ -20058,7 +20058,7 @@
   </ward>
   <ward>
     <code>02508</code>
-    <slug>cho-on</slug>
+    <slug>cho-don</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Chợ Đồn</name>
@@ -20090,7 +20090,7 @@
   </ward>
   <ward>
     <code>02512</code>
-    <slug>anh-son-ong</slug>
+    <slug>anh-son-dong</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Anh Sơn Đông</name>
@@ -20322,7 +20322,7 @@
   </ward>
   <ward>
     <code>02541</code>
-    <slug>ong-luong</slug>
+    <slug>dong-luong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đồng Lương</name>
@@ -20330,7 +20330,7 @@
   </ward>
   <ward>
     <code>02542</code>
-    <slug>uc-binh</slug>
+    <slug>duc-binh</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Đức Bình</name>
@@ -20346,7 +20346,7 @@
   </ward>
   <ward>
     <code>02544</code>
-    <slug>am-rong-3</slug>
+    <slug>dam-rong-3</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đam Rông 3</name>
@@ -20634,7 +20634,7 @@
   </ward>
   <ward>
     <code>02580</code>
-    <slug>binh-ien</slug>
+    <slug>binh-dien</slug>
     <type>commune</type>
     <provinceCode>04</provinceCode>
     <name>Bình Điền</name>
@@ -20666,7 +20666,7 @@
   </ward>
   <ward>
     <code>02584</code>
-    <slug>xuan-ai</slug>
+    <slug>xuan-dai</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Xuân Đài</name>
@@ -20730,7 +20730,7 @@
   </ward>
   <ward>
     <code>02592</code>
-    <slug>cu-ong</slug>
+    <slug>cu-dong</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Cự Đồng</name>
@@ -20754,7 +20754,7 @@
   </ward>
   <ward>
     <code>02595</code>
-    <slug>hiep-uc</slug>
+    <slug>hiep-duc</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Hiệp Đức</name>
@@ -20762,7 +20762,7 @@
   </ward>
   <ward>
     <code>02596</code>
-    <slug>a-huoai-2</slug>
+    <slug>da-huoai-2</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đạ Huoai 2</name>
@@ -20786,7 +20786,7 @@
   </ward>
   <ward>
     <code>02599</code>
-    <slug>ak-somei</slug>
+    <slug>dak-somei</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đak Sơmei</name>
@@ -20898,7 +20898,7 @@
   </ward>
   <ward>
     <code>02613</code>
-    <slug>ak-phoi</slug>
+    <slug>dak-phoi</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Đắk Phơi</name>
@@ -20922,7 +20922,7 @@
   </ward>
   <ward>
     <code>02616</code>
-    <slug>eo-gia</slug>
+    <slug>deo-gia</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đèo Gia</name>
@@ -20930,7 +20930,7 @@
   </ward>
   <ward>
     <code>02617</code>
-    <slug>akrong</slug>
+    <slug>dakrong</slug>
     <type>commune</type>
     <provinceCode>03</provinceCode>
     <name>Đakrông</name>
@@ -20946,7 +20946,7 @@
   </ward>
   <ward>
     <code>02619</code>
-    <slug>a-teh-2</slug>
+    <slug>da-teh-2</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đạ Tẻh 2</name>
@@ -21042,7 +21042,7 @@
   </ward>
   <ward>
     <code>02631</code>
-    <slug>uong-thuong</slug>
+    <slug>duong-thuong</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Đường Thượng</name>
@@ -21106,7 +21106,7 @@
   </ward>
   <ward>
     <code>02639</code>
-    <slug>huong-o</slug>
+    <slug>huong-do</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Hương Đô</name>
@@ -21138,7 +21138,7 @@
   </ward>
   <ward>
     <code>02643</code>
-    <slug>ong-hai</slug>
+    <slug>dong-hai</slug>
     <type>commune</type>
     <provinceCode>24</provinceCode>
     <name>Đông Hải</name>
@@ -21322,7 +21322,7 @@
   </ward>
   <ward>
     <code>02666</code>
-    <slug>nghia-o</slug>
+    <slug>nghia-do</slug>
     <type>commune</type>
     <provinceCode>09</provinceCode>
     <name>Nghĩa Đô</name>
@@ -21410,7 +21410,7 @@
   </ward>
   <ward>
     <code>02677</code>
-    <slug>ak-mon</slug>
+    <slug>dak-mon</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Môn</name>
@@ -21530,7 +21530,7 @@
   </ward>
   <ward>
     <code>02692</code>
-    <slug>kon-ao</slug>
+    <slug>kon-dao</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Kon Đào</name>
@@ -21610,7 +21610,7 @@
   </ward>
   <ward>
     <code>02702</code>
-    <slug>uc-luong</slug>
+    <slug>duc-luong</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Đức Lương</name>
@@ -21642,7 +21642,7 @@
   </ward>
   <ward>
     <code>02706</code>
-    <slug>inh-thanh</slug>
+    <slug>dinh-thanh</slug>
     <type>commune</type>
     <provinceCode>33</provinceCode>
     <name>Định Thành</name>
@@ -21786,7 +21786,7 @@
   </ward>
   <ward>
     <code>02724</code>
-    <slug>bach-ich</slug>
+    <slug>bach-dich</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Bạch Đích</name>
@@ -21802,7 +21802,7 @@
   </ward>
   <ward>
     <code>02726</code>
-    <slug>ak-song</slug>
+    <slug>dak-song</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đắk song</name>
@@ -21914,7 +21914,7 @@
   </ward>
   <ward>
     <code>02740</code>
-    <slug>oai-duong</slug>
+    <slug>doai-duong</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Đoài Dương</name>
@@ -22050,7 +22050,7 @@
   </ward>
   <ward>
     <code>02757</code>
-    <slug>am-thuy</slug>
+    <slug>dam-thuy</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Đàm Thuỷ</name>
@@ -22130,7 +22130,7 @@
   </ward>
   <ward>
     <code>02767</code>
-    <slug>ai-son</slug>
+    <slug>dai-son</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Đại Sơn</name>
@@ -22170,7 +22170,7 @@
   </ward>
   <ward>
     <code>02772</code>
-    <slug>ak-ui</slug>
+    <slug>dak-ui</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Ui</name>
@@ -22258,7 +22258,7 @@
   </ward>
   <ward>
     <code>02783</code>
-    <slug>ong-luong</slug>
+    <slug>dong-luong</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Đồng Lương</name>
@@ -22306,7 +22306,7 @@
   </ward>
   <ward>
     <code>02789</code>
-    <slug>phu-inh</slug>
+    <slug>phu-dinh</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Phú Đình</name>
@@ -22314,7 +22314,7 @@
   </ward>
   <ward>
     <code>02790</code>
-    <slug>ong-phuc</slug>
+    <slug>dong-phuc</slug>
     <type>commune</type>
     <provinceCode>19</provinceCode>
     <name>Đồng Phúc</name>
@@ -22330,7 +22330,7 @@
   </ward>
   <ward>
     <code>02792</code>
-    <slug>quang-uc</slug>
+    <slug>quang-duc</slug>
     <type>commune</type>
     <provinceCode>08</provinceCode>
     <name>Quảng Đức</name>
@@ -22338,7 +22338,7 @@
   </ward>
   <ward>
     <code>02793</code>
-    <slug>a-teh-3</slug>
+    <slug>da-teh-3</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đạ Tẻh 3</name>
@@ -22346,7 +22346,7 @@
   </ward>
   <ward>
     <code>02794</code>
-    <slug>uong-hong</slug>
+    <slug>duong-hong</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Đường Hồng</name>
@@ -22402,7 +22402,7 @@
   </ward>
   <ward>
     <code>02801</code>
-    <slug>uc-ong</slug>
+    <slug>duc-dong</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Đức Đồng</name>
@@ -22410,7 +22410,7 @@
   </ward>
   <ward>
     <code>02802</code>
-    <slug>trang-inh</slug>
+    <slug>trang-dinh</slug>
     <type>commune</type>
     <provinceCode>20</provinceCode>
     <name>Tràng Định</name>
@@ -22498,7 +22498,7 @@
   </ward>
   <ward>
     <code>02813</code>
-    <slug>iem-he</slug>
+    <slug>diem-he</slug>
     <type>commune</type>
     <provinceCode>20</provinceCode>
     <name>Điềm He</name>
@@ -22586,7 +22586,7 @@
   </ward>
   <ward>
     <code>02824</code>
-    <slug>ong-tra-bong</slug>
+    <slug>dong-tra-bong</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đông Trà Bồng</name>
@@ -22594,7 +22594,7 @@
   </ward>
   <ward>
     <code>02825</code>
-    <slug>ak-pxi</slug>
+    <slug>dak-pxi</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Pxi</name>
@@ -22898,7 +22898,7 @@
   </ward>
   <ward>
     <code>02863</code>
-    <slug>inh-phong</slug>
+    <slug>dinh-phong</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Đình Phong</name>
@@ -22986,7 +22986,7 @@
   </ward>
   <ward>
     <code>02874</code>
-    <slug>ong-tam</slug>
+    <slug>dong-tam</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Đồng Tâm</name>
@@ -23026,7 +23026,7 @@
   </ward>
   <ward>
     <code>02879</code>
-    <slug>tan-oan</slug>
+    <slug>tan-doan</slug>
     <type>commune</type>
     <provinceCode>20</provinceCode>
     <name>Tân Đoàn</name>
@@ -23050,7 +23050,7 @@
   </ward>
   <ward>
     <code>02882</code>
-    <slug>tra-oc</slug>
+    <slug>tra-doc</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Trà Đốc</name>
@@ -23114,7 +23114,7 @@
   </ward>
   <ward>
     <code>02890</code>
-    <slug>ong-khanh-son</slug>
+    <slug>dong-khanh-son</slug>
     <type>commune</type>
     <provinceCode>14</provinceCode>
     <name>Đông Khánh Sơn</name>
@@ -23130,7 +23130,7 @@
   </ward>
   <ward>
     <code>02892</code>
-    <slug>hung-uc</slug>
+    <slug>hung-duc</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Hùng Đức</name>
@@ -23210,7 +23210,7 @@
   </ward>
   <ward>
     <code>02902</code>
-    <slug>be-van-an</slug>
+    <slug>be-van-dan</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Bế Văn Đàn</name>
@@ -23338,7 +23338,7 @@
   </ward>
   <ward>
     <code>02918</code>
-    <slug>thuong-uc</slug>
+    <slug>thuong-duc</slug>
     <type>commune</type>
     <provinceCode>17</provinceCode>
     <name>Thượng Đức</name>
@@ -23394,7 +23394,7 @@
   </ward>
   <ward>
     <code>02925</code>
-    <slug>inh-lap</slug>
+    <slug>dinh-lap</slug>
     <type>commune</type>
     <provinceCode>20</provinceCode>
     <name>Đình Lập</name>
@@ -23490,7 +23490,7 @@
   </ward>
   <ward>
     <code>02937</code>
-    <slug>kham-uc</slug>
+    <slug>kham-duc</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Khâm Đức</name>
@@ -23658,7 +23658,7 @@
   </ward>
   <ward>
     <code>02958</code>
-    <slug>quy-uc</slug>
+    <slug>quy-duc</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Quy Đức</name>
@@ -23690,7 +23690,7 @@
   </ward>
   <ward>
     <code>02962</code>
-    <slug>mang-en</slug>
+    <slug>mang-den</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Măng Đen</name>
@@ -23706,7 +23706,7 @@
   </ward>
   <ward>
     <code>02964</code>
-    <slug>kim-ong</slug>
+    <slug>kim-dong</slug>
     <type>commune</type>
     <provinceCode>13</provinceCode>
     <name>Kim Đông</name>
@@ -23714,7 +23714,7 @@
   </ward>
   <ward>
     <code>02965</code>
-    <slug>hung-ao</slug>
+    <slug>hung-dao</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Hưng Đạo</name>
@@ -23722,7 +23722,7 @@
   </ward>
   <ward>
     <code>02966</code>
-    <slug>kien-ai</slug>
+    <slug>kien-dai</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Kiên Đài</name>
@@ -23754,7 +23754,7 @@
   </ward>
   <ward>
     <code>02970</code>
-    <slug>yen-inh</slug>
+    <slug>yen-dinh</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Yên Định</name>
@@ -23762,7 +23762,7 @@
   </ward>
   <ward>
     <code>02971</code>
-    <slug>bac-ai-ong</slug>
+    <slug>bac-ai-dong</slug>
     <type>commune</type>
     <provinceCode>14</provinceCode>
     <name>Bác Ái Đông</name>
@@ -23810,7 +23810,7 @@
   </ward>
   <ward>
     <code>02977</code>
-    <slug>uc-phu</slug>
+    <slug>duc-phu</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Đức Phú</name>
@@ -23858,7 +23858,7 @@
   </ward>
   <ward>
     <code>02983</code>
-    <slug>nam-ong</slug>
+    <slug>nam-dong</slug>
     <type>commune</type>
     <provinceCode>04</provinceCode>
     <name>Nam Đông</name>
@@ -23906,7 +23906,7 @@
   </ward>
   <ward>
     <code>02989</code>
-    <slug>ong-khe</slug>
+    <slug>dong-khe</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Đông Khê</name>
@@ -24002,7 +24002,7 @@
   </ward>
   <ward>
     <code>03001</code>
-    <slug>ak-to-kan</slug>
+    <slug>dak-to-kan</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Tờ Kan</name>
@@ -24042,7 +24042,7 @@
   </ward>
   <ward>
     <code>03006</code>
-    <slug>ong-giang</slug>
+    <slug>dong-giang</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Đông Giang</name>
@@ -24282,7 +24282,7 @@
   </ward>
   <ward>
     <code>03036</code>
-    <slug>oc-lap</slug>
+    <slug>doc-lap</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Độc Lập</name>
@@ -24386,7 +24386,7 @@
   </ward>
   <ward>
     <code>03049</code>
-    <slug>ak-lua</slug>
+    <slug>dak-lua</slug>
     <type>commune</type>
     <provinceCode>22</provinceCode>
     <name>Đak Lua</name>
@@ -24410,7 +24410,7 @@
   </ward>
   <ward>
     <code>03052</code>
-    <slug>ak-rve</slug>
+    <slug>dak-rve</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Rve</name>
@@ -24538,7 +24538,7 @@
   </ward>
   <ward>
     <code>03068</code>
-    <slug>ngoc-uong</slug>
+    <slug>ngoc-duong</slug>
     <type>commune</type>
     <provinceCode>34</provinceCode>
     <name>Ngọc Đường</name>
@@ -24618,7 +24618,7 @@
   </ward>
   <ward>
     <code>03078</code>
-    <slug>ba-ong</slug>
+    <slug>ba-dong</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Ba Động</name>
@@ -24754,7 +24754,7 @@
   </ward>
   <ward>
     <code>03095</code>
-    <slug>uc-nhan</slug>
+    <slug>duc-nhan</slug>
     <type>commune</type>
     <provinceCode>06</provinceCode>
     <name>Đức Nhàn</name>
@@ -24818,7 +24818,7 @@
   </ward>
   <ward>
     <code>03103</code>
-    <slug>son-ien</slug>
+    <slug>son-dien</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Sơn Điền</name>
@@ -24994,7 +24994,7 @@
   </ward>
   <ward>
     <code>03125</code>
-    <slug>ien-xa</slug>
+    <slug>dien-xa</slug>
     <type>commune</type>
     <provinceCode>08</provinceCode>
     <name>Điền Xá</name>
@@ -25138,7 +25138,7 @@
   </ward>
   <ward>
     <code>03143</code>
-    <slug>ak-sao</slug>
+    <slug>dak-sao</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Sao</name>
@@ -25210,7 +25210,7 @@
   </ward>
   <ward>
     <code>03152</code>
-    <slug>buon-on</slug>
+    <slug>buon-don</slug>
     <type>commune</type>
     <provinceCode>27</provinceCode>
     <name>Buôn Đôn</name>
@@ -25218,7 +25218,7 @@
   </ward>
   <ward>
     <code>03153</code>
-    <slug>a-huoai-3</slug>
+    <slug>da-huoai-3</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đạ Huoai 3</name>
@@ -25298,7 +25298,7 @@
   </ward>
   <ward>
     <code>03163</code>
-    <slug>con-ao</slug>
+    <slug>con-dao</slug>
     <type>commune</type>
     <provinceCode>30</provinceCode>
     <name>Côn Đảo</name>
@@ -25370,7 +25370,7 @@
   </ward>
   <ward>
     <code>03172</code>
-    <slug>tuan-ao</slug>
+    <slug>tuan-dao</slug>
     <type>commune</type>
     <provinceCode>10</provinceCode>
     <name>Tuấn Đạo</name>
@@ -25434,7 +25434,7 @@
   </ward>
   <ward>
     <code>03180</code>
-    <slug>ak-rong</slug>
+    <slug>dak-rong</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đak Rong</name>
@@ -25466,7 +25466,7 @@
   </ward>
   <ward>
     <code>03184</code>
-    <slug>kim-ien</slug>
+    <slug>kim-dien</slug>
     <type>commune</type>
     <provinceCode>03</provinceCode>
     <name>Kim Điền</name>
@@ -25530,7 +25530,7 @@
   </ward>
   <ward>
     <code>03192</code>
-    <slug>kim-ong</slug>
+    <slug>kim-dong</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Kim Đồng</name>
@@ -25610,7 +25610,7 @@
   </ward>
   <ward>
     <code>03202</code>
-    <slug>ak-koi</slug>
+    <slug>dak-koi</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Kôi</name>
@@ -25834,7 +25834,7 @@
   </ward>
   <ward>
     <code>03230</code>
-    <slug>ak-plo</slug>
+    <slug>dak-plo</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Plô</name>
@@ -25962,7 +25962,7 @@
   </ward>
   <ward>
     <code>03246</code>
-    <slug>uc-long</slug>
+    <slug>duc-long</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Đức Long</name>
@@ -25978,7 +25978,7 @@
   </ward>
   <ward>
     <code>03248</code>
-    <slug>ak-long</slug>
+    <slug>dak-long</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đăk Long</name>
@@ -26026,7 +26026,7 @@
   </ward>
   <ward>
     <code>03254</code>
-    <slug>ong-giang</slug>
+    <slug>dong-giang</slug>
     <type>commune</type>
     <provinceCode>29</provinceCode>
     <name>Đông Giang</name>
@@ -26034,7 +26034,7 @@
   </ward>
   <ward>
     <code>03255</code>
-    <slug>keng-u</slug>
+    <slug>keng-du</slug>
     <type>commune</type>
     <provinceCode>11</provinceCode>
     <name>Keng Đu</name>
@@ -26042,7 +26042,7 @@
   </ward>
   <ward>
     <code>03256</code>
-    <slug>ia-al</slug>
+    <slug>ia-dal</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Ia Đal</name>
@@ -26058,7 +26058,7 @@
   </ward>
   <ward>
     <code>03258</code>
-    <slug>son-ien</slug>
+    <slug>son-dien</slug>
     <type>commune</type>
     <provinceCode>07</provinceCode>
     <name>Sơn Điện</name>
@@ -26082,7 +26082,7 @@
   </ward>
   <ward>
     <code>03261</code>
-    <slug>bach-ang</slug>
+    <slug>bach-dang</slug>
     <type>commune</type>
     <provinceCode>25</provinceCode>
     <name>Bạch Đằng</name>
@@ -26090,7 +26090,7 @@
   </ward>
   <ward>
     <code>03262</code>
-    <slug>ak-song</slug>
+    <slug>dak-song</slug>
     <type>commune</type>
     <provinceCode>28</provinceCode>
     <name>Đăk Song</name>
@@ -26178,7 +26178,7 @@
   </ward>
   <ward>
     <code>03273</code>
-    <slug>ang-thuy-tram</slug>
+    <slug>dang-thuy-tram</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Đặng Thùy Trâm</name>
@@ -26210,7 +26210,7 @@
   </ward>
   <ward>
     <code>03277</code>
-    <slug>ca-am</slug>
+    <slug>ca-dam</slug>
     <type>commune</type>
     <provinceCode>23</provinceCode>
     <name>Cà Đam</name>
@@ -26306,7 +26306,7 @@
   </ward>
   <ward>
     <code>03289</code>
-    <slug>oan-ket</slug>
+    <slug>doan-ket</slug>
     <type>commune</type>
     <provinceCode>20</provinceCode>
     <name>Đoàn Kết</name>
@@ -26386,7 +26386,7 @@
   </ward>
   <ward>
     <code>03299</code>
-    <slug>ac-pring</slug>
+    <slug>dac-pring</slug>
     <type>commune</type>
     <provinceCode>12</provinceCode>
     <name>Đắc Pring</name>

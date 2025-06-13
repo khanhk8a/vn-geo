@@ -2,11 +2,11 @@ code,name,fullName,slug,type,provinceCode
 00001,"Rạch Giá","Phường Rạch Giá, Tỉnh An Giang",rach-gia,ward,18
 00028,"Phú Quốc","Đặc khu Phú Quốc, Tỉnh An Giang",phu-quoc,commune,18
 00030,"Long Xuyên","Phường Long Xuyên, Tỉnh An Giang",long-xuyen,ward,18
-00128,"Châu Đốc","Phường Châu Đốc, Tỉnh An Giang",chau-oc,ward,18
+00128,"Châu Đốc","Phường Châu Đốc, Tỉnh An Giang",chau-doc,ward,18
 00153,"Nhơn Mỹ","Xã Nhơn Mỹ, Tỉnh An Giang",nhon-my,commune,18
 00190,"Chợ Mới","Xã Chợ Mới, Tỉnh An Giang",cho-moi,commune,18
 00236,"Hội An","Xã Hội An, Tỉnh An Giang",hoi-an,commune,18
-00248,"Bình Đức","Phường Bình Đức, Tỉnh An Giang",binh-uc,ward,18
+00248,"Bình Đức","Phường Bình Đức, Tỉnh An Giang",binh-duc,ward,18
 00270,"Phú Tân","Xã Phú Tân, Tỉnh An Giang",phu-tan,commune,18
 00283,"Giồng Riềng","Xã Giồng Riềng, Tỉnh An Giang",giong-rieng,commune,18
 00284,"Cù Lao Giêng","Xã Cù Lao Giêng, Tỉnh An Giang",cu-lao-gieng,commune,18
@@ -14,13 +14,13 @@ code,name,fullName,slug,type,provinceCode
 00298,"Bình Mỹ","Xã Bình Mỹ, Tỉnh An Giang",binh-my,commune,18
 00316,"Tân Hiệp","Xã Tân Hiệp, Tỉnh An Giang",tan-hiep,commune,18
 00321,"An Châu","Xã An Châu, Tỉnh An Giang",an-chau,commune,18
-00322,"Long Điền","Xã Long Điền, Tỉnh An Giang",long-ien,commune,18
+00322,"Long Điền","Xã Long Điền, Tỉnh An Giang",long-dien,commune,18
 00326,"Thạnh Mỹ Tây","Xã Thạnh Mỹ Tây, Tỉnh An Giang",thanh-my-tay,commune,18
 00331,"Vĩnh Thạnh Trung","Xã Vĩnh Thạnh Trung, Tỉnh An Giang",vinh-thanh-trung,commune,18
-00368,"Hòn Đất","Xã Hòn Đất, Tỉnh An Giang",hon-at,commune,18
+00368,"Hòn Đất","Xã Hòn Đất, Tỉnh An Giang",hon-dat,commune,18
 00369,"Bình Sơn","Xã Bình Sơn, Tỉnh An Giang",binh-son,commune,18
 00385,"Mỹ Thuận","Xã Mỹ Thuận, Tỉnh An Giang",my-thuan,commune,18
-00389,"Mỹ Đức","Xã Mỹ Đức, Tỉnh An Giang",my-uc,commune,18
+00389,"Mỹ Đức","Xã Mỹ Đức, Tỉnh An Giang",my-duc,commune,18
 00390,"Mỹ Thới","Phường Mỹ Thới, Tỉnh An Giang",my-thoi,ward,18
 00391,"Vĩnh Hậu","Xã Vĩnh Hậu, Tỉnh An Giang",vinh-hau,commune,18
 00395,"Châu Phú","Xã Châu Phú, Tỉnh An Giang",chau-phu,commune,18
@@ -29,31 +29,31 @@ code,name,fullName,slug,type,provinceCode
 00421,"Kiên Lương","Xã Kiên Lương, Tỉnh An Giang",kien-luong,commune,18
 00432,"Nhơn Hội","Xã Nhơn Hội, Tỉnh An Giang",nhon-hoi,commune,18
 00433,"Long Kiến","Xã Long Kiến, Tỉnh An Giang",long-kien,commune,18
-00442,"Định Hòa","Xã Định Hòa, Tỉnh An Giang",inh-hoa,commune,18
+00442,"Định Hòa","Xã Định Hòa, Tỉnh An Giang",dinh-hoa,commune,18
 00443,"Bình Hòa","Xã Bình Hòa, Tỉnh An Giang",binh-hoa,commune,18
 00446,"Châu Phong","Xã Châu Phong, Tỉnh An Giang",chau-phong,commune,18
 00463,"Vĩnh Thông","Phường Vĩnh Thông, Tỉnh An Giang",vinh-thong,ward,18
-00477,"Đông Thái","Xã Đông Thái, Tỉnh An Giang",ong-thai,commune,18
+00477,"Đông Thái","Xã Đông Thái, Tỉnh An Giang",dong-thai,commune,18
 00488,"An Biên","Xã An Biên, Tỉnh An Giang",an-bien,commune,18
-00489,"Thạnh Đông","Xã Thạnh Đông, Tỉnh An Giang",thanh-ong,commune,18
+00489,"Thạnh Đông","Xã Thạnh Đông, Tỉnh An Giang",thanh-dong,commune,18
 00509,"Tây Yên","Xã Tây Yên, Tỉnh An Giang",tay-yen,commune,18
 00511,"Thoại Sơn","Xã Thoại Sơn, Tỉnh An Giang",thoai-son,commune,18
 00531,"Vĩnh Hòa","Xã Vĩnh Hòa, Tỉnh An Giang",vinh-hoa,commune,18
 00559,"Tri Tôn","Xã Tri Tôn, Tỉnh An Giang",tri-ton,commune,18
-00563,"Bình Thạnh Đông","Xã Bình Thạnh Đông, Tỉnh An Giang",binh-thanh-ong,commune,18
+00563,"Bình Thạnh Đông","Xã Bình Thạnh Đông, Tỉnh An Giang",binh-thanh-dong,commune,18
 00570,"Chợ Vàm","Xã Chợ Vàm, Tỉnh An Giang",cho-vam,commune,18
 00593,"Tân Hội","Xã Tân Hội, Tỉnh An Giang",tan-hoi,commune,18
 00605,"An Phú","Xã An Phú, Tỉnh An Giang",an-phu,commune,18
 00663,"Long Phú","Phường Long Phú, Tỉnh An Giang",long-phu,ward,18
 00665,"Thạnh Hưng","Xã Thạnh Hưng, Tỉnh An Giang",thanh-hung,commune,18
 00682,"U Minh Thượng","Xã U Minh Thượng, Tỉnh An Giang",u-minh-thuong,commune,18
-00712,"Đông Hòa","Xã Đông Hòa, Tỉnh An Giang",ong-hoa,commune,18
+00712,"Đông Hòa","Xã Đông Hòa, Tỉnh An Giang",dong-hoa,commune,18
 00730,"Gò Quao","Xã Gò Quao, Tỉnh An Giang",go-quao,commune,18
 00767,"Vĩnh Bình","Xã Vĩnh Bình, Tỉnh An Giang",vinh-binh,commune,18
 00780,"Vĩnh Phong","Xã Vĩnh Phong, Tỉnh An Giang",vinh-phong,commune,18
 00797,"Khánh Bình","Xã Khánh Bình, Tỉnh An Giang",khanh-binh,commune,18
 00799,"Phú Hữu","Xã Phú Hữu, Tỉnh An Giang",phu-huu,commune,18
-00811,"Định Mỹ","Xã Định Mỹ, Tỉnh An Giang",inh-my,commune,18
+00811,"Định Mỹ","Xã Định Mỹ, Tỉnh An Giang",dinh-my,commune,18
 00816,"Long Thạnh","Xã Long Thạnh, Tỉnh An Giang",long-thanh,commune,18
 00827,"Tân An","Xã Tân An, Tỉnh An Giang",tan-an,commune,18
 00841,"Vĩnh Xương","Xã Vĩnh Xương, Tỉnh An Giang",vinh-xuong,commune,18
@@ -70,7 +70,7 @@ code,name,fullName,slug,type,provinceCode
 01074,"Vĩnh Tuy","Xã Vĩnh Tuy, Tỉnh An Giang",vinh-tuy,commune,18
 01120,"Tân Thạnh","Xã Tân Thạnh, Tỉnh An Giang",tan-thanh,commune,18
 01146,"An Minh","Xã An Minh, Tỉnh An Giang",an-minh,commune,18
-01170,"Cần Đăng","Xã Cần Đăng, Tỉnh An Giang",can-ang,commune,18
+01170,"Cần Đăng","Xã Cần Đăng, Tỉnh An Giang",can-dang,commune,18
 01189,"Tịnh Biên","Phường Tịnh Biên, Tỉnh An Giang",tinh-bien,ward,18
 01262,"Tân Châu","Phường Tân Châu, Tỉnh An Giang",tan-chau,ward,18
 01287,"Phú Lâm","Xã Phú Lâm, Tỉnh An Giang",phu-lam,commune,18
@@ -88,15 +88,15 @@ code,name,fullName,slug,type,provinceCode
 01767,"Mỹ Hòa Hưng","Xã Mỹ Hòa Hưng, Tỉnh An Giang",my-hoa-hung,commune,18
 01828,"Tô Châu","Phường Tô Châu, Tỉnh An Giang",to-chau,ward,18
 01887,"Núi Cấm","Xã Núi Cấm, Tỉnh An Giang",nui-cam,commune,18
-01973,"Hòa Điền","Xã Hòa Điền, Tỉnh An Giang",hoa-ien,commune,18
+01973,"Hòa Điền","Xã Hòa Điền, Tỉnh An Giang",hoa-dien,commune,18
 02048,"Tây Phú","Xã Tây Phú, Tỉnh An Giang",tay-phu,commune,18
 02050,"Kiên Hải","Đặc khu Kiên Hải, Tỉnh An Giang",kien-hai,commune,18
-02120,"Đông Hưng","Xã Đông Hưng, Tỉnh An Giang",ong-hung,commune,18
+02120,"Đông Hưng","Xã Đông Hưng, Tỉnh An Giang",dong-hung,commune,18
 02149,"Vân Khánh","Xã Vân Khánh, Tỉnh An Giang",van-khanh,commune,18
 02214,"Vĩnh Gia","Xã Vĩnh Gia, Tỉnh An Giang",vinh-gia,commune,18
 02260,"Giang Thành","Xã Giang Thành, Tỉnh An Giang",giang-thanh,commune,18
 02374,"Bình Giang","Xã Bình Giang, Tỉnh An Giang",binh-giang,commune,18
-02428,"Vĩnh Điều","Xã Vĩnh Điều, Tỉnh An Giang",vinh-ieu,commune,18
+02428,"Vĩnh Điều","Xã Vĩnh Điều, Tỉnh An Giang",vinh-dieu,commune,18
 03304,"Sơn Hải","Xã Sơn Hải, Tỉnh An Giang",son-hai,commune,18
 03307,"Hòn Nghệ","Xã Hòn Nghệ, Tỉnh An Giang",hon-nghe,commune,18
 03312,"Thổ Châu","Đặc khu Thổ Châu, Tỉnh An Giang",tho-chau,commune,18

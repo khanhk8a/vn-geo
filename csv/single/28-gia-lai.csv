@@ -5,7 +5,7 @@ code,name,fullName,slug,type,provinceCode
 00245,"Quy Nhơn Nam","Phường Quy Nhơn Nam, Tỉnh Gia Lai",quy-nhon-nam,ward,28
 00294,"Chư Sê","Xã Chư Sê, Tỉnh Gia Lai",chu-se,commune,28
 00343,"Diên Hồng","Phường Diên Hồng, Tỉnh Gia Lai",dien-hong,ward,28
-00419,"Tuy Phước Đông","Xã Tuy Phước Đông, Tỉnh Gia Lai",tuy-phuoc-ong,commune,28
+00419,"Tuy Phước Đông","Xã Tuy Phước Đông, Tỉnh Gia Lai",tuy-phuoc-dong,commune,28
 00535,"Phù Cát","Xã Phù Cát, Tỉnh Gia Lai",phu-cat,commune,28
 00566,"An Khê","Phường An Khê, Tỉnh Gia Lai",an-khe,ward,28
 00588,"Tuy Phước Bắc","Xã Tuy Phước Bắc, Tỉnh Gia Lai",tuy-phuoc-bac,commune,28
@@ -13,15 +13,15 @@ code,name,fullName,slug,type,provinceCode
 00595,"Phú Thiện","Xã Phú Thiện, Tỉnh Gia Lai",phu-thien,commune,28
 00609,"Tây Sơn","Xã Tây Sơn, Tỉnh Gia Lai",tay-son,commune,28
 00615,"Thống Nhất","Phường Thống Nhất, Tỉnh Gia Lai",thong-nhat,ward,28
-00653,"Quy Nhơn Đông","Phường Quy Nhơn Đông, Tỉnh Gia Lai",quy-nhon-ong,ward,28
+00653,"Quy Nhơn Đông","Phường Quy Nhơn Đông, Tỉnh Gia Lai",quy-nhon-dong,ward,28
 00679,"Hội Phú","Phường Hội Phú, Tỉnh Gia Lai",hoi-phu,ward,28
 00696,"Quy Nhơn Bắc","Phường Quy Nhơn Bắc, Tỉnh Gia Lai",quy-nhon-bac,ward,28
-00701,"Đề Gi","Xã Đề Gi, Tỉnh Gia Lai",e-gi,commune,28
-00733,"Hoài Nhơn Đông","Phường Hoài Nhơn Đông, Tỉnh Gia Lai",hoai-nhon-ong,ward,28
+00701,"Đề Gi","Xã Đề Gi, Tỉnh Gia Lai",de-gi,commune,28
+00733,"Hoài Nhơn Đông","Phường Hoài Nhơn Đông, Tỉnh Gia Lai",hoai-nhon-dong,ward,28
 00734,"Hoài Nhơn Bắc","Phường Hoài Nhơn Bắc, Tỉnh Gia Lai",hoai-nhon-bac,ward,28
-00775,"Phù Mỹ Đông","Xã Phù Mỹ Đông, Tỉnh Gia Lai",phu-my-ong,commune,28
+00775,"Phù Mỹ Đông","Xã Phù Mỹ Đông, Tỉnh Gia Lai",phu-my-dong,commune,28
 00782,"Hoài Nhơn","Phường Hoài Nhơn, Tỉnh Gia Lai",hoai-nhon,ward,28
-00794,"Bình Định","Phường Bình Định, Tỉnh Gia Lai",binh-inh,ward,28
+00794,"Bình Định","Phường Bình Định, Tỉnh Gia Lai",binh-dinh,ward,28
 00837,"Bồng Sơn","Phường Bồng Sơn, Tỉnh Gia Lai",bong-son,ward,28
 00859,"Biển Hồ","Xã Biển Hồ, Tỉnh Gia Lai",bien-ho,commune,28
 00873,"An Phú","Phường An Phú, Tỉnh Gia Lai",an-phu,ward,28
@@ -30,7 +30,7 @@ code,name,fullName,slug,type,provinceCode
 01047,"Phú Túc","Xã Phú Túc, Tỉnh Gia Lai",phu-tuc,commune,28
 01051,"Ia Hrung","Xã Ia Hrung, Tỉnh Gia Lai",ia-hrung,commune,28
 01052,"Ia Hrú","Xã Ia Hrú, Tỉnh Gia Lai",ia-hru,commune,28
-01059,"Đak Đoa","Xã Đak Đoa, Tỉnh Gia Lai",ak-oa,commune,28
+01059,"Đak Đoa","Xã Đak Đoa, Tỉnh Gia Lai",dak-doa,commune,28
 01122,"Tuy Phước Tây","Xã Tuy Phước Tây, Tỉnh Gia Lai",tuy-phuoc-tay,commune,28
 01183,"Hoài Ân","Xã Hoài Ân, Tỉnh Gia Lai",hoai-an,commune,28
 01230,"Bình An","Xã Bình An, Tỉnh Gia Lai",binh-an,commune,28
@@ -51,7 +51,7 @@ code,name,fullName,slug,type,provinceCode
 01716,"Bình Dương","Xã Bình Dương, Tỉnh Gia Lai",binh-duong,commune,28
 01728,"Phù Mỹ Nam","Xã Phù Mỹ Nam, Tỉnh Gia Lai",phu-my-nam,commune,28
 01763,"Ayun Pa","Phường Ayun Pa, Tỉnh Gia Lai",ayun-pa,ward,28
-01793,"An Nhơn Đông","Phường An Nhơn Đông, Tỉnh Gia Lai",an-nhon-ong,ward,28
+01793,"An Nhơn Đông","Phường An Nhơn Đông, Tỉnh Gia Lai",an-nhon-dong,ward,28
 01813,"Hòa Hội","Xã Hòa Hội, Tỉnh Gia Lai",hoa-hoi,commune,28
 01842,"Ngô Mây","Xã Ngô Mây, Tỉnh Gia Lai",ngo-may,commune,28
 01850,"Hoài Nhơn Tây","Phường Hoài Nhơn Tây, Tỉnh Gia Lai",hoai-nhon-tay,ward,28
@@ -61,7 +61,7 @@ code,name,fullName,slug,type,provinceCode
 01910,"Tam Quan","Phường Tam Quan, Tỉnh Gia Lai",tam-quan,ward,28
 01926,"Ia Grai","Xã Ia Grai, Tỉnh Gia Lai",ia-grai,commune,28
 01963,"Ia Le","Xã Ia Le, Tỉnh Gia Lai",ia-le,commune,28
-02013,"Đức Cơ","Xã Đức Cơ, Tỉnh Gia Lai",uc-co,commune,28
+02013,"Đức Cơ","Xã Đức Cơ, Tỉnh Gia Lai",duc-co,commune,28
 02035,"Ia Phí","Xã Ia Phí, Tỉnh Gia Lai",ia-phi,commune,28
 02036,"Bình Phú","Xã Bình Phú, Tỉnh Gia Lai",binh-phu,commune,28
 02056,"Ia Lâu","Xã Ia Lâu, Tỉnh Gia Lai",ia-lau,commune,28
@@ -75,7 +75,7 @@ code,name,fullName,slug,type,provinceCode
 02125,"Uar","Xã Uar, Tỉnh Gia Lai",uar,commune,28
 02153,"Bình Khê","Xã Bình Khê, Tỉnh Gia Lai",binh-khe,commune,28
 02156,"Chư A Thai","Xã Chư A Thai, Tỉnh Gia Lai",chu-a-thai,commune,28
-02159,"Vạn Đức","Xã Vạn Đức, Tỉnh Gia Lai",van-uc,commune,28
+02159,"Vạn Đức","Xã Vạn Đức, Tỉnh Gia Lai",van-duc,commune,28
 02177,"Ia Hiao","Xã Ia Hiao, Tỉnh Gia Lai",ia-hiao,commune,28
 02209,"Kông Chro","Xã Kông Chro, Tỉnh Gia Lai",kong-chro,commune,28
 02242,"Ia Pia","Xã Ia Pia, Tỉnh Gia Lai",ia-pia,commune,28
@@ -85,7 +85,7 @@ code,name,fullName,slug,type,provinceCode
 02297,"Chư Păh","Xã Chư Păh, Tỉnh Gia Lai",chu-pah,commune,28
 02339,"Ia Boòng","Xã Ia Boòng, Tỉnh Gia Lai",ia-boong,commune,28
 02357,"Ân Tường","Xã Ân Tường, Tỉnh Gia Lai",an-tuong,commune,28
-02358,"Đak Pơ","Xã Đak Pơ, Tỉnh Gia Lai",ak-po,commune,28
+02358,"Đak Pơ","Xã Đak Pơ, Tỉnh Gia Lai",dak-po,commune,28
 02362,"Phù Mỹ Tây","Xã Phù Mỹ Tây, Tỉnh Gia Lai",phu-my-tay,commune,28
 02405,"Ia Dơk","Xã Ia Dơk, Tỉnh Gia Lai",ia-dok,commune,28
 02414,"Lơ Pang","Xã Lơ Pang, Tỉnh Gia Lai",lo-pang,commune,28
@@ -96,7 +96,7 @@ code,name,fullName,slug,type,provinceCode
 02473,"Canh Vinh","Xã Canh Vinh, Tỉnh Gia Lai",canh-vinh,commune,28
 02485,"Ia Dreh","Xã Ia Dreh, Tỉnh Gia Lai",ia-dreh,commune,28
 02536,"Gào","Xã Gào, Tỉnh Gia Lai",gao,commune,28
-02599,"Đak Sơmei","Xã Đak Sơmei, Tỉnh Gia Lai",ak-somei,commune,28
+02599,"Đak Sơmei","Xã Đak Sơmei, Tỉnh Gia Lai",dak-somei,commune,28
 02630,"Pờ Tó","Xã Pờ Tó, Tỉnh Gia Lai",po-to,commune,28
 02634,"Hra","Xã Hra, Tỉnh Gia Lai",hra,commune,28
 02638,"Hội Sơn","Xã Hội Sơn, Tỉnh Gia Lai",hoi-son,commune,28
@@ -124,11 +124,11 @@ code,name,fullName,slug,type,provinceCode
 03051,"SRó","Xã SRó, Tỉnh Gia Lai",sro,commune,28
 03073,"Chơ Long","Xã Chơ Long, Tỉnh Gia Lai",cho-long,commune,28
 03157,"An Vinh","Xã An Vinh, Tỉnh Gia Lai",an-vinh,commune,28
-03180,"Đak Rong","Xã Đak Rong, Tỉnh Gia Lai",ak-rong,commune,28
+03180,"Đak Rong","Xã Đak Rong, Tỉnh Gia Lai",dak-rong,commune,28
 03194,"Krong","Xã Krong, Tỉnh Gia Lai",krong,commune,28
 03195,"Vĩnh Sơn","Xã Vĩnh Sơn, Tỉnh Gia Lai",vinh-son,commune,28
 03207,"Ia Pnôn","Xã Ia Pnôn, Tỉnh Gia Lai",ia-pnon,commune,28
-03262,"Đăk Song","Xã Đăk Song, Tỉnh Gia Lai",ak-song,commune,28
+03262,"Đăk Song","Xã Đăk Song, Tỉnh Gia Lai",dak-song,commune,28
 03283,"Ia Púch","Xã Ia Púch, Tỉnh Gia Lai",ia-puch,commune,28
 03295,"Ia Mơ","Xã Ia Mơ, Tỉnh Gia Lai",ia-mo,commune,28
 03309,"Canh Liên","Xã Canh Liên, Tỉnh Gia Lai",canh-lien,commune,28

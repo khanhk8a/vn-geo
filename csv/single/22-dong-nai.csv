@@ -8,7 +8,7 @@ code,name,fullName,slug,type,provinceCode
 00117,"Tân Triều","Phường Tân Triều, Tỉnh Đồng Nai",tan-trieu,ward,22
 00140,"Long Thành","Xã Long Thành, Tỉnh Đồng Nai",long-thanh,commune,22
 00141,"Trảng Bom","Xã Trảng Bom, Tỉnh Đồng Nai",trang-bom,commune,22
-00168,"Định Quán","Xã Định Quán, Tỉnh Đồng Nai",inh-quan,commune,22
+00168,"Định Quán","Xã Định Quán, Tỉnh Đồng Nai",dinh-quan,commune,22
 00182,"Bình Minh","Xã Bình Minh, Tỉnh Đồng Nai",binh-minh,commune,22
 00197,"Gia Kiệm","Xã Gia Kiệm, Tỉnh Đồng Nai",gia-kiem,commune,22
 00198,"Hố Nai","Phường Hố Nai, Tỉnh Đồng Nai",ho-nai,ward,22
@@ -26,13 +26,13 @@ code,name,fullName,slug,type,provinceCode
 00427,"Hưng Thịnh","Xã Hưng Thịnh, Tỉnh Đồng Nai",hung-thinh,commune,22
 00451,"Phước Thái","Xã Phước Thái, Tỉnh Đồng Nai",phuoc-thai,commune,22
 00455,"Bàu Hàm","Xã Bàu Hàm, Tỉnh Đồng Nai",bau-ham,commune,22
-00459,"Đại Phước","Xã Đại Phước, Tỉnh Đồng Nai",ai-phuoc,commune,22
+00459,"Đại Phước","Xã Đại Phước, Tỉnh Đồng Nai",dai-phuoc,commune,22
 00547,"Phước An","Xã Phước An, Tỉnh Đồng Nai",phuoc-an,commune,22
 00549,"Trị An","Xã Trị An, Tỉnh Đồng Nai",tri-an,commune,22
 00626,"Tam Phước","Phường Tam Phước, Tỉnh Đồng Nai",tam-phuoc,ward,22
-00640,"Xuân Đông","Xã Xuân Đông, Tỉnh Đồng Nai",xuan-ong,commune,22
+00640,"Xuân Đông","Xã Xuân Đông, Tỉnh Đồng Nai",xuan-dong,commune,22
 00698,"Cẩm Mỹ","Xã Cẩm Mỹ, Tỉnh Đồng Nai",cam-my,commune,22
-00700,"Đồng Phú","Xã Đồng Phú, Tỉnh Đồng Nai",ong-phu,commune,22
+00700,"Đồng Phú","Xã Đồng Phú, Tỉnh Đồng Nai",dong-phu,commune,22
 00720,"Xuân Bắc","Xã Xuân Bắc, Tỉnh Đồng Nai",xuan-bac,commune,22
 00726,"Phước Bình","Phường Phước Bình, Tỉnh Đồng Nai",phuoc-binh,ward,22
 00806,"Long Phước","Xã Long Phước, Tỉnh Đồng Nai",long-phuoc,commune,22
@@ -41,13 +41,13 @@ code,name,fullName,slug,type,provinceCode
 00942,"Tân An","Xã Tân An, Tỉnh Đồng Nai",tan-an,commune,22
 00980,"Tân Tiến","Xã Tân Tiến, Tỉnh Đồng Nai",tan-tien,commune,22
 01063,"Bảo Vinh","Phường Bảo Vinh, Tỉnh Đồng Nai",bao-vinh,ward,22
-01071,"Xuân Định","Xã Xuân Định, Tỉnh Đồng Nai",xuan-inh,commune,22
+01071,"Xuân Định","Xã Xuân Định, Tỉnh Đồng Nai",xuan-dinh,commune,22
 01078,"Phú Hòa","Xã Phú Hòa, Tỉnh Đồng Nai",phu-hoa,commune,22
 01101,"Phú Riềng","Xã Phú Riềng, Tỉnh Đồng Nai",phu-rieng,commune,22
 01107,"Bình Lộc","Phường Bình Lộc, Tỉnh Đồng Nai",binh-loc,ward,22
 01112,"Tân Khai","Xã Tân Khai, Tỉnh Đồng Nai",tan-khai,commune,22
-01130,"Đồng Xoài","Phường Đồng Xoài, Tỉnh Đồng Nai",ong-xoai,ward,22
-01148,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Đồng Nai",ong-tam,commune,22
+01130,"Đồng Xoài","Phường Đồng Xoài, Tỉnh Đồng Nai",dong-xoai,ward,22
+01148,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Đồng Nai",dong-tam,commune,22
 01153,"An Lộc","Phường An Lộc, Tỉnh Đồng Nai",an-loc,ward,22
 01154,"Tân Hưng","Xã Tân Hưng, Tỉnh Đồng Nai",tan-hung,commune,22
 01182,"Thiện Hưng","Xã Thiện Hưng, Tỉnh Đồng Nai",thien-hung,commune,22
@@ -59,8 +59,8 @@ code,name,fullName,slug,type,provinceCode
 01290,"Phước Long","Phường Phước Long, Tỉnh Đồng Nai",phuoc-long,ward,22
 01312,"Nghĩa Trung","Xã Nghĩa Trung, Tỉnh Đồng Nai",nghia-trung,commune,22
 01356,"Lộc Ninh","Xã Lộc Ninh, Tỉnh Đồng Nai",loc-ninh,commune,22
-01363,"Bù Đăng","Xã Bù Đăng, Tỉnh Đồng Nai",bu-ang,commune,22
-01385,"Đa Kia","Xã Đa Kia, Tỉnh Đồng Nai",a-kia,commune,22
+01363,"Bù Đăng","Xã Bù Đăng, Tỉnh Đồng Nai",bu-dang,commune,22
+01385,"Đa Kia","Xã Đa Kia, Tỉnh Đồng Nai",da-kia,commune,22
 01417,"Sông Ray","Xã Sông Ray, Tỉnh Đồng Nai",song-ray,commune,22
 01418,"Phú Vinh","Xã Phú Vinh, Tỉnh Đồng Nai",phu-vinh,commune,22
 01446,"Phước Sơn","Xã Phước Sơn, Tỉnh Đồng Nai",phuoc-son,commune,22
@@ -70,22 +70,22 @@ code,name,fullName,slug,type,provinceCode
 01696,"Long Hà","Xã Long Hà, Tỉnh Đồng Nai",long-ha,commune,22
 01740,"Bom Bo","Xã Bom Bo, Tỉnh Đồng Nai",bom-bo,commune,22
 01779,"Lộc Hưng","Xã Lộc Hưng, Tỉnh Đồng Nai",loc-hung,commune,22
-01784,"Xuân Đường","Xã Xuân Đường, Tỉnh Đồng Nai",xuan-uong,commune,22
+01784,"Xuân Đường","Xã Xuân Đường, Tỉnh Đồng Nai",xuan-duong,commune,22
 01801,"Lộc Quang","Xã Lộc Quang, Tỉnh Đồng Nai",loc-quang,commune,22
 01857,"Bình An","Xã Bình An, Tỉnh Đồng Nai",binh-an,commune,22
 01903,"Hàng Gòn","Phường Hàng Gòn, Tỉnh Đồng Nai",hang-gon,ward,22
 01971,"An Viễn","Xã An Viễn, Tỉnh Đồng Nai",an-vien,commune,22
 02006,"Lộc Tấn","Xã Lộc Tấn, Tỉnh Đồng Nai",loc-tan,commune,22
-02007,"Đak Nhau","Xã Đak Nhau, Tỉnh Đồng Nai",ak-nhau,commune,22
+02007,"Đak Nhau","Xã Đak Nhau, Tỉnh Đồng Nai",dak-nhau,commune,22
 02008,"Thuận Lợi","Xã Thuận Lợi, Tỉnh Đồng Nai",thuan-loi,commune,22
 02083,"Tân Lợi","Xã Tân Lợi, Tỉnh Đồng Nai",tan-loi,commune,22
 02121,"Nha Bích","Xã Nha Bích, Tỉnh Đồng Nai",nha-bich,commune,22
 02135,"Xuân Thành","Xã Xuân Thành, Tỉnh Đồng Nai",xuan-thanh,commune,22
 02171,"Thọ Sơn","Xã Thọ Sơn, Tỉnh Đồng Nai",tho-son,commune,22
 02190,"Xuân Quế","Xã Xuân Quế, Tỉnh Đồng Nai",xuan-que,commune,22
-02303,"Đăk Ơ","Xã Đăk Ơ, Tỉnh Đồng Nai",ak-o,commune,22
+02303,"Đăk Ơ","Xã Đăk Ơ, Tỉnh Đồng Nai",dak-o,commune,22
 02334,"Xuân Lập","Phường Xuân Lập, Tỉnh Đồng Nai",xuan-lap,ward,22
-02464,"Minh Đức","Xã Minh Đức, Tỉnh Đồng Nai",minh-uc,commune,22
+02464,"Minh Đức","Xã Minh Đức, Tỉnh Đồng Nai",minh-duc,commune,22
 02535,"Phú Lý","Xã Phú Lý, Tỉnh Đồng Nai",phu-ly,commune,22
 02538,"Nam Cát Tiên","Xã Nam Cát Tiên, Tỉnh Đồng Nai",nam-cat-tien,commune,22
 02571,"Lộc Thành","Xã Lộc Thành, Tỉnh Đồng Nai",loc-thanh,commune,22
@@ -93,4 +93,4 @@ code,name,fullName,slug,type,provinceCode
 02748,"Hưng Phước","Xã Hưng Phước, Tỉnh Đồng Nai",hung-phuoc,commune,22
 02894,"Lộc Thạnh","Xã Lộc Thạnh, Tỉnh Đồng Nai",loc-thanh,commune,22
 03046,"Bù Gia Mập","Xã Bù Gia Mập, Tỉnh Đồng Nai",bu-gia-map,commune,22
-03049,"Đak Lua","Xã Đak Lua, Tỉnh Đồng Nai",ak-lua,commune,22
+03049,"Đak Lua","Xã Đak Lua, Tỉnh Đồng Nai",dak-lua,commune,22

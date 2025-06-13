@@ -11,7 +11,7 @@
       <code>00013</code>
       <name>Hà Đông</name>
       <fullName>Phường Hà Đông, Thành phố Hà Nội</fullName>
-      <slug>ha-ong</slug>
+      <slug>ha-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -32,7 +32,7 @@
       <code>00063</code>
       <name>Nghĩa Đô</name>
       <fullName>Phường Nghĩa Đô, Thành phố Hà Nội</fullName>
-      <slug>nghia-o</slug>
+      <slug>nghia-do</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -46,7 +46,7 @@
       <code>00072</code>
       <name>Bồ Đề</name>
       <fullName>Phường Bồ Đề, Thành phố Hà Nội</fullName>
-      <slug>bo-e</slug>
+      <slug>bo-de</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -60,7 +60,7 @@
       <code>00079</code>
       <name>Đông Anh</name>
       <fullName>Xã Đông Anh, Thành phố Hà Nội</fullName>
-      <slug>ong-anh</slug>
+      <slug>dong-anh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -74,7 +74,7 @@
       <code>00091</code>
       <name>Phù Đổng</name>
       <fullName>Xã Phù Đổng, Thành phố Hà Nội</fullName>
-      <slug>phu-ong</slug>
+      <slug>phu-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -186,7 +186,7 @@
       <code>00142</code>
       <name>Đại Thanh</name>
       <fullName>Xã Đại Thanh, Thành phố Hà Nội</fullName>
-      <slug>ai-thanh</slug>
+      <slug>dai-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -221,28 +221,28 @@
       <code>00165</code>
       <name>Khương Đình</name>
       <fullName>Phường Khương Đình, Thành phố Hà Nội</fullName>
-      <slug>khuong-inh</slug>
+      <slug>khuong-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00169</code>
       <name>Định Công</name>
       <fullName>Phường Định Công, Thành phố Hà Nội</fullName>
-      <slug>inh-cong</slug>
+      <slug>dinh-cong</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00180</code>
       <name>Đa Phúc</name>
       <fullName>Xã Đa Phúc, Thành phố Hà Nội</fullName>
-      <slug>a-phuc</slug>
+      <slug>da-phuc</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00181</code>
       <name>Đông Ngạc</name>
       <fullName>Phường Đông Ngạc, Thành phố Hà Nội</fullName>
-      <slug>ong-ngac</slug>
+      <slug>dong-ngac</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -263,14 +263,14 @@
       <code>00187</code>
       <name>Đống Đa</name>
       <fullName>Phường Đống Đa, Thành phố Hà Nội</fullName>
-      <slug>ong-a</slug>
+      <slug>dong-da</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00192</code>
       <name>Đại Mỗ</name>
       <fullName>Phường Đại Mỗ, Thành phố Hà Nội</fullName>
-      <slug>ai-mo</slug>
+      <slug>dai-mo</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -305,7 +305,7 @@
       <code>00230</code>
       <name>Đại Xuyên</name>
       <fullName>Xã Đại Xuyên, Thành phố Hà Nội</fullName>
-      <slug>ai-xuyen</slug>
+      <slug>dai-xuyen</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -382,7 +382,7 @@
       <code>00277</code>
       <name>Cổ Đô</name>
       <fullName>Xã Cổ Đô, Thành phố Hà Nội</fullName>
-      <slug>co-o</slug>
+      <slug>co-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -410,7 +410,7 @@
       <code>00292</code>
       <name>Hoài Đức</name>
       <fullName>Xã Hoài Đức, Thành phố Hà Nội</fullName>
-      <slug>hoai-uc</slug>
+      <slug>hoai-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -445,7 +445,7 @@
       <code>00324</code>
       <name>Ba Đình</name>
       <fullName>Phường Ba Đình, Thành phố Hà Nội</fullName>
-      <slug>ba-inh</slug>
+      <slug>ba-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -480,7 +480,7 @@
       <code>00347</code>
       <name>Sơn Đồng</name>
       <fullName>Xã Sơn Đồng, Thành phố Hà Nội</fullName>
-      <slug>son-ong</slug>
+      <slug>son-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -550,7 +550,7 @@
       <code>00384</code>
       <name>Vân Đình</name>
       <fullName>Xã Vân Đình, Thành phố Hà Nội</fullName>
-      <slug>van-inh</slug>
+      <slug>van-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -641,7 +641,7 @@
       <code>00490</code>
       <name>Mỹ Đức</name>
       <fullName>Xã Mỹ Đức, Thành phố Hà Nội</fullName>
-      <slug>my-uc</slug>
+      <slug>my-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -690,7 +690,7 @@
       <code>00597</code>
       <name>Hưng Đạo</name>
       <fullName>Xã Hưng Đạo, Thành phố Hà Nội</fullName>
-      <slug>hung-ao</slug>
+      <slug>hung-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -704,7 +704,7 @@
       <code>00617</code>
       <name>Xuân Đỉnh</name>
       <fullName>Phường Xuân Đỉnh, Thành phố Hà Nội</fullName>
-      <slug>xuan-inh</slug>
+      <slug>xuan-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -725,7 +725,7 @@
       <code>00639</code>
       <name>Đan Phượng</name>
       <fullName>Xã Đan Phượng, Thành phố Hà Nội</fullName>
-      <slug>an-phuong</slug>
+      <slug>dan-phuong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -802,7 +802,7 @@
       <code>00919</code>
       <name>Đoài Phương</name>
       <fullName>Xã Đoài Phương, Thành phố Hà Nội</fullName>
-      <slug>oai-phuong</slug>
+      <slug>doai-phuong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -966,7 +966,7 @@
       <code>00603</code>
       <name>Đông Hưng</name>
       <fullName>Xã Đông Hưng, Tỉnh Hưng Yên</fullName>
-      <slug>ong-hung</slug>
+      <slug>dong-hung</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1015,7 +1015,7 @@
       <code>00699</code>
       <name>Trần Hưng Đạo</name>
       <fullName>Phường Trần Hưng Đạo, Tỉnh Hưng Yên</fullName>
-      <slug>tran-hung-ao</slug>
+      <slug>tran-hung-dao</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -1064,7 +1064,7 @@
       <code>00820</code>
       <name>Lạc Đạo</name>
       <fullName>Xã Lạc Đạo, Tỉnh Hưng Yên</fullName>
-      <slug>lac-ao</slug>
+      <slug>lac-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1106,14 +1106,14 @@
       <code>00954</code>
       <name>Đường Hào</name>
       <fullName>Phường Đường Hào, Tỉnh Hưng Yên</fullName>
-      <slug>uong-hao</slug>
+      <slug>duong-hao</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00991</code>
       <name>Đông Thụy Anh</name>
       <fullName>Xã Đông Thụy Anh, Tỉnh Hưng Yên</fullName>
-      <slug>ong-thuy-anh</slug>
+      <slug>dong-thuy-anh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1148,7 +1148,7 @@
       <code>01061</code>
       <name>Đông Tiền Hải</name>
       <fullName>Xã Đông Tiền Hải, Tỉnh Hưng Yên</fullName>
-      <slug>ong-tien-hai</slug>
+      <slug>dong-tien-hai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1218,7 +1218,7 @@
       <code>01325</code>
       <name>Đại Đồng</name>
       <fullName>Xã Đại Đồng, Tỉnh Hưng Yên</fullName>
-      <slug>ai-ong</slug>
+      <slug>dai-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1288,7 +1288,7 @@
       <code>01484</code>
       <name>Đồng Châu</name>
       <fullName>Xã Đồng Châu, Tỉnh Hưng Yên</fullName>
-      <slug>ong-chau</slug>
+      <slug>dong-chau</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1330,7 +1330,7 @@
       <code>01560</code>
       <name>Đức Hợp</name>
       <fullName>Xã Đức Hợp, Tỉnh Hưng Yên</fullName>
-      <slug>uc-hop</slug>
+      <slug>duc-hop</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1365,7 +1365,7 @@
       <code>01734</code>
       <name>Đông Thái Ninh</name>
       <fullName>Xã Đông Thái Ninh, Tỉnh Hưng Yên</fullName>
-      <slug>ong-thai-ninh</slug>
+      <slug>dong-thai-ninh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1421,14 +1421,14 @@
       <code>01875</code>
       <name>Nam Đông Hưng</name>
       <fullName>Xã Nam Đông Hưng, Tỉnh Hưng Yên</fullName>
-      <slug>nam-ong-hung</slug>
+      <slug>nam-dong-hung</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01880</code>
       <name>Bắc Đông Quan</name>
       <fullName>Xã Bắc Đông Quan, Tỉnh Hưng Yên</fullName>
-      <slug>bac-ong-quan</slug>
+      <slug>bac-dong-quan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1442,14 +1442,14 @@
       <code>01888</code>
       <name>Đông Quan</name>
       <fullName>Xã Đông Quan, Tỉnh Hưng Yên</fullName>
-      <slug>ong-quan</slug>
+      <slug>dong-quan</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01894</code>
       <name>Đồng Bằng</name>
       <fullName>Xã Đồng Bằng, Tỉnh Hưng Yên</fullName>
-      <slug>ong-bang</slug>
+      <slug>dong-bang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1484,21 +1484,21 @@
       <code>02004</code>
       <name>Bắc Đông Hưng</name>
       <fullName>Xã Bắc Đông Hưng, Tỉnh Hưng Yên</fullName>
-      <slug>bac-ong-hung</slug>
+      <slug>bac-dong-hung</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02021</code>
       <name>Lê Quý Đôn</name>
       <fullName>Xã Lê Quý Đôn, Tỉnh Hưng Yên</fullName>
-      <slug>le-quy-on</slug>
+      <slug>le-quy-don</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02023</code>
       <name>Đông Tiên Hưng</name>
       <fullName>Xã Đông Tiên Hưng, Tỉnh Hưng Yên</fullName>
-      <slug>ong-tien-hung</slug>
+      <slug>dong-tien-hung</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1526,7 +1526,7 @@
       <code>02080</code>
       <name>Đoàn Đào</name>
       <fullName>Xã Đoàn Đào, Tỉnh Hưng Yên</fullName>
-      <slug>oan-ao</slug>
+      <slug>doan-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1547,7 +1547,7 @@
       <code>02128</code>
       <name>Bình Định</name>
       <fullName>Xã Bình Định, Tỉnh Hưng Yên</fullName>
-      <slug>binh-inh</slug>
+      <slug>binh-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1641,21 +1641,21 @@
       <code>00177</code>
       <name>Đồng Hới</name>
       <fullName>Phường Đồng Hới, Tỉnh Quảng Trị</fullName>
-      <slug>ong-hoi</slug>
+      <slug>dong-hoi</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00378</code>
       <name>Nam Đông Hà.</name>
       <fullName>Phường Nam Đông Hà., Tỉnh Quảng Trị</fullName>
-      <slug>nam-ong-ha</slug>
+      <slug>nam-dong-ha</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00552</code>
       <name>Đông Hà</name>
       <fullName>Phường Đông Hà, Tỉnh Quảng Trị</fullName>
-      <slug>ong-ha</slug>
+      <slug>dong-ha</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -1683,7 +1683,7 @@
       <code>00982</code>
       <name>Đồng Thuận</name>
       <fullName>Phường Đồng Thuận, Tỉnh Quảng Trị</fullName>
-      <slug>ong-thuan</slug>
+      <slug>dong-thuan</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -1718,7 +1718,7 @@
       <code>01222</code>
       <name>Đông Trạch</name>
       <fullName>Xã Đông Trạch, Tỉnh Quảng Trị</fullName>
-      <slug>ong-trach</slug>
+      <slug>dong-trach</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1746,7 +1746,7 @@
       <code>01346</code>
       <name>Đồng Sơn</name>
       <fullName>Phường Đồng Sơn, Tỉnh Quảng Trị</fullName>
-      <slug>ong-son</slug>
+      <slug>dong-son</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -1816,14 +1816,14 @@
       <code>01603</code>
       <name>Ba Đồn</name>
       <fullName>Phường Ba Đồn, Tỉnh Quảng Trị</fullName>
-      <slug>ba-on</slug>
+      <slug>ba-don</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>01694</code>
       <name>Nam Ba Đồn</name>
       <fullName>Xã Nam Ba Đồn, Tỉnh Quảng Trị</fullName>
-      <slug>nam-ba-on</slug>
+      <slug>nam-ba-don</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1858,7 +1858,7 @@
       <code>01766</code>
       <name>Vĩnh Định</name>
       <fullName>Xã Vĩnh Định, Tỉnh Quảng Trị</fullName>
-      <slug>vinh-inh</slug>
+      <slug>vinh-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -1900,7 +1900,7 @@
       <code>01934</code>
       <name>Đồng Lê</name>
       <fullName>Xã Đồng Lê, Tỉnh Quảng Trị</fullName>
-      <slug>ong-le</slug>
+      <slug>dong-le</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2047,7 +2047,7 @@
       <code>02617</code>
       <name>Đakrông</name>
       <fullName>Xã Đakrông, Tỉnh Quảng Trị</fullName>
-      <slug>akrong</slug>
+      <slug>dakrong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2145,7 +2145,7 @@
       <code>03184</code>
       <name>Kim Điền</name>
       <fullName>Xã Kim Điền, Tỉnh Quảng Trị</fullName>
-      <slug>kim-ien</slug>
+      <slug>kim-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2274,7 +2274,7 @@
       <code>00829</code>
       <name>Quảng Điền</name>
       <fullName>Xã Quảng Điền, Thành phố Huế</fullName>
-      <slug>quang-ien</slug>
+      <slug>quang-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2288,7 +2288,7 @@
       <code>00884</code>
       <name>Đan Điền</name>
       <fullName>Xã Đan Điền, Thành phố Huế</fullName>
-      <slug>an-ien</slug>
+      <slug>dan-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2386,7 +2386,7 @@
       <code>01670</code>
       <name>Phong Điền</name>
       <fullName>Phường Phong Điền, Thành phố Huế</fullName>
-      <slug>phong-ien</slug>
+      <slug>phong-dien</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -2421,7 +2421,7 @@
       <code>02580</code>
       <name>Bình Điền</name>
       <fullName>Xã Bình Điền, Thành phố Huế</fullName>
-      <slug>binh-ien</slug>
+      <slug>binh-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2449,7 +2449,7 @@
       <code>02983</code>
       <name>Nam Đông</name>
       <fullName>Xã Nam Đông, Thành phố Huế</fullName>
-      <slug>nam-ong</slug>
+      <slug>nam-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2599,7 +2599,7 @@
       <code>00532</code>
       <name>Bạch Đằng</name>
       <fullName>Phường Bạch Đằng, Thành phố Hải Phòng</fullName>
-      <slug>bach-ang</slug>
+      <slug>bach-dang</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -2613,14 +2613,14 @@
       <code>00556</code>
       <name>Đông Hải</name>
       <fullName>Phường Đông Hải, Thành phố Hải Phòng</fullName>
-      <slug>ong-hai</slug>
+      <slug>dong-hai</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00571</code>
       <name>Thành Đông</name>
       <fullName>Phường Thành Đông, Thành phố Hải Phòng</fullName>
-      <slug>thanh-ong</slug>
+      <slug>thanh-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -2704,7 +2704,7 @@
       <code>00778</code>
       <name>Mao Điền</name>
       <fullName>Xã Mao Điền, Thành phố Hải Phòng</fullName>
-      <slug>mao-ien</slug>
+      <slug>mao-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2795,7 +2795,7 @@
       <code>01014</code>
       <name>Hưng Đạo</name>
       <fullName>Phường Hưng Đạo, Thành phố Hải Phòng</fullName>
-      <slug>hung-ao</slug>
+      <slug>hung-dao</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -2830,7 +2830,7 @@
       <code>01088</code>
       <name>Đồ Sơn</name>
       <fullName>Phường Đồ Sơn, Thành phố Hải Phòng</fullName>
-      <slug>o-son</slug>
+      <slug>do-son</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -2865,7 +2865,7 @@
       <code>01125</code>
       <name>Trần Hưng Đạo</name>
       <fullName>Phường Trần Hưng Đạo, Thành phố Hải Phòng</fullName>
-      <slug>tran-hung-ao</slug>
+      <slug>tran-hung-dao</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -2900,7 +2900,7 @@
       <code>01211</code>
       <name>Đường An</name>
       <fullName>Xã Đường An, Thành phố Hải Phòng</fullName>
-      <slug>uong-an</slug>
+      <slug>duong-an</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -2949,7 +2949,7 @@
       <code>01264</code>
       <name>Hà Đông</name>
       <fullName>Xã Hà Đông, Thành phố Hải Phòng</fullName>
-      <slug>ha-ong</slug>
+      <slug>ha-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3005,7 +3005,7 @@
       <code>01473</code>
       <name>Đại Sơn</name>
       <fullName>Xã Đại Sơn, Thành phố Hải Phòng</fullName>
-      <slug>ai-son</slug>
+      <slug>dai-son</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3019,7 +3019,7 @@
       <code>01491</code>
       <name>Nam Đồ Sơn</name>
       <fullName>Phường Nam Đồ Sơn, Thành phố Hải Phòng</fullName>
-      <slug>nam-o-son</slug>
+      <slug>nam-do-son</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -3040,7 +3040,7 @@
       <code>01582</code>
       <name>Nguyễn Đại Năng</name>
       <fullName>Phường Nguyễn Đại Năng, Thành phố Hải Phòng</fullName>
-      <slug>nguyen-ai-nang</slug>
+      <slug>nguyen-dai-nang</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -3208,7 +3208,7 @@
       <code>01906</code>
       <name>Nam Đồng</name>
       <fullName>Phường Nam Đồng, Thành phố Hải Phòng</fullName>
-      <slug>nam-ong</slug>
+      <slug>nam-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -3222,7 +3222,7 @@
       <code>01925</code>
       <name>Lê Đại Hành</name>
       <fullName>Phường Lê Đại Hành, Thành phố Hải Phòng</fullName>
-      <slug>le-ai-hanh</slug>
+      <slug>le-dai-hanh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -3512,7 +3512,7 @@
       <code>01119</code>
       <name>Sơn Đông</name>
       <fullName>Xã Sơn Đông, Tỉnh Phú Thọ</fullName>
-      <slug>son-ong</slug>
+      <slug>son-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3540,7 +3540,7 @@
       <code>01191</code>
       <name>Tam Đảo</name>
       <fullName>Xã Tam Đảo, Tỉnh Phú Thọ</fullName>
-      <slug>tam-ao</slug>
+      <slug>tam-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3561,7 +3561,7 @@
       <code>01223</code>
       <name>Nguyệt Đức</name>
       <fullName>Xã Nguyệt Đức, Tỉnh Phú Thọ</fullName>
-      <slug>nguyet-uc</slug>
+      <slug>nguyet-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3603,7 +3603,7 @@
       <code>01359</code>
       <name>Đào Xá</name>
       <fullName>Xã Đào Xá, Tỉnh Phú Thọ</fullName>
-      <slug>ao-xa</slug>
+      <slug>dao-xa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3631,7 +3631,7 @@
       <code>01482</code>
       <name>Đoan Hùng</name>
       <fullName>Xã Đoan Hùng, Tỉnh Phú Thọ</fullName>
-      <slug>oan-hung</slug>
+      <slug>doan-hung</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3687,14 +3687,14 @@
       <code>01601</code>
       <name>Đan Thượng</name>
       <fullName>Xã Đan Thượng, Tỉnh Phú Thọ</fullName>
-      <slug>an-thuong</slug>
+      <slug>dan-thuong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01659</code>
       <name>Chí Đám</name>
       <fullName>Xã Chí Đám, Tỉnh Phú Thọ</fullName>
-      <slug>chi-am</slug>
+      <slug>chi-dam</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3757,7 +3757,7 @@
       <code>01815</code>
       <name>Mường Động</name>
       <fullName>Xã Mường Động, Tỉnh Phú Thọ</fullName>
-      <slug>muong-ong</slug>
+      <slug>muong-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3792,7 +3792,7 @@
       <code>01917</code>
       <name>Đạo Trù</name>
       <fullName>Xã Đạo Trù, Tỉnh Phú Thọ</fullName>
-      <slug>ao-tru</slug>
+      <slug>dao-tru</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3806,14 +3806,14 @@
       <code>01952</code>
       <name>Đại Đồng</name>
       <fullName>Xã Đại Đồng, Tỉnh Phú Thọ</fullName>
-      <slug>ai-ong</slug>
+      <slug>dai-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01967</code>
       <name>Minh Đài</name>
       <fullName>Xã Minh Đài, Tỉnh Phú Thọ</fullName>
-      <slug>minh-ai</slug>
+      <slug>minh-dai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3932,14 +3932,14 @@
       <code>02230</code>
       <name>Đại Đình</name>
       <fullName>Xã Đại Đình, Tỉnh Phú Thọ</fullName>
-      <slug>ai-inh</slug>
+      <slug>dai-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02236</code>
       <name>Đông Thành</name>
       <fullName>Xã Đông Thành, Tỉnh Phú Thọ</fullName>
-      <slug>ong-thanh</slug>
+      <slug>dong-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -3981,7 +3981,7 @@
       <code>02274</code>
       <name>Đà Bắc</name>
       <fullName>Xã Đà Bắc, Tỉnh Phú Thọ</fullName>
-      <slug>a-bac</slug>
+      <slug>da-bac</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4114,7 +4114,7 @@
       <code>02503</code>
       <name>Lai Đồng</name>
       <fullName>Xã Lai Đồng, Tỉnh Phú Thọ</fullName>
-      <slug>lai-ong</slug>
+      <slug>lai-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4149,7 +4149,7 @@
       <code>02541</code>
       <name>Đồng Lương</name>
       <fullName>Xã Đồng Lương, Tỉnh Phú Thọ</fullName>
-      <slug>ong-luong</slug>
+      <slug>dong-luong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4177,7 +4177,7 @@
       <code>02584</code>
       <name>Xuân Đài</name>
       <fullName>Xã Xuân Đài, Tỉnh Phú Thọ</fullName>
-      <slug>xuan-ai</slug>
+      <slug>xuan-dai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4191,7 +4191,7 @@
       <code>02592</code>
       <name>Cự Đồng</name>
       <fullName>Xã Cự Đồng, Tỉnh Phú Thọ</fullName>
-      <slug>cu-ong</slug>
+      <slug>cu-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4261,7 +4261,7 @@
       <code>02958</code>
       <name>Quy Đức</name>
       <fullName>Xã Quy Đức, Tỉnh Phú Thọ</fullName>
-      <slug>quy-uc</slug>
+      <slug>quy-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4310,7 +4310,7 @@
       <code>03095</code>
       <name>Đức Nhàn</name>
       <fullName>Xã Đức Nhàn, Tỉnh Phú Thọ</fullName>
-      <slug>uc-nhan</slug>
+      <slug>duc-nhan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4376,14 +4376,14 @@
       <code>00376</code>
       <name>Đông Quang</name>
       <fullName>Phường Đông Quang, Tỉnh Thanh Hoá</fullName>
-      <slug>ong-quang</slug>
+      <slug>dong-quang</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00410</code>
       <name>Đông Sơn</name>
       <fullName>Phường Đông Sơn, Tỉnh Thanh Hoá</fullName>
-      <slug>ong-son</slug>
+      <slug>dong-son</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -4397,7 +4397,7 @@
       <code>00426</code>
       <name>Đông Tiến</name>
       <fullName>Phường Đông Tiến, Tỉnh Thanh Hoá</fullName>
-      <slug>ong-tien</slug>
+      <slug>dong-tien</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -4516,7 +4516,7 @@
       <code>00977</code>
       <name>Yên Định</name>
       <fullName>Xã Yên Định, Tỉnh Thanh Hoá</fullName>
-      <slug>yen-inh</slug>
+      <slug>yen-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4698,7 +4698,7 @@
       <code>01494</code>
       <name>Đông Thành</name>
       <fullName>Xã Đông Thành, Tỉnh Thanh Hoá</fullName>
-      <slug>ong-thanh</slug>
+      <slug>dong-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4775,14 +4775,14 @@
       <code>01634</code>
       <name>Định Hòa</name>
       <fullName>Xã Định Hòa, Tỉnh Thanh Hoá</fullName>
-      <slug>inh-hoa</slug>
+      <slug>dinh-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01635</code>
       <name>Định Tân</name>
       <fullName>Xã Định Tân, Tỉnh Thanh Hoá</fullName>
-      <slug>inh-tan</slug>
+      <slug>dinh-tan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4824,7 +4824,7 @@
       <code>01710</code>
       <name>Tây Đô</name>
       <fullName>Xã Tây Đô, Tỉnh Thanh Hoá</fullName>
-      <slug>tay-o</slug>
+      <slug>tay-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -4894,7 +4894,7 @@
       <code>01805</code>
       <name>Đào Duy Tư</name>
       <fullName>Phường Đào Duy Tư, Tỉnh Thanh Hoá</fullName>
-      <slug>ao-duy-tu</slug>
+      <slug>dao-duy-tu</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -4992,7 +4992,7 @@
       <code>02067</code>
       <name>Đồng Tiến</name>
       <fullName>Xã Đồng Tiến, Tỉnh Thanh Hoá</fullName>
-      <slug>ong-tien</slug>
+      <slug>dong-tien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5076,14 +5076,14 @@
       <code>02202</code>
       <name>Điền Lư</name>
       <fullName>Xã Điền Lư, Tỉnh Thanh Hoá</fullName>
-      <slug>ien-lu</slug>
+      <slug>dien-lu</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02223</code>
       <name>Ba Đình</name>
       <fullName>Xã Ba Đình, Tỉnh Thanh Hoá</fullName>
-      <slug>ba-inh</slug>
+      <slug>ba-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5125,7 +5125,7 @@
       <code>02486</code>
       <name>Điền Quang</name>
       <fullName>Xã Điền Quang, Tỉnh Thanh Hoá</fullName>
-      <slug>ien-quang</slug>
+      <slug>dien-quang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5223,7 +5223,7 @@
       <code>02783</code>
       <name>Đồng Lương</name>
       <fullName>Xã Đồng Lương, Tỉnh Thanh Hoá</fullName>
-      <slug>ong-luong</slug>
+      <slug>dong-luong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5426,7 +5426,7 @@
       <code>03258</code>
       <name>Sơn Điện</name>
       <fullName>Xã Sơn Điện, Tỉnh Thanh Hoá</fullName>
-      <slug>son-ien</slug>
+      <slug>son-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5541,7 +5541,7 @@
       <code>00487</code>
       <name>Vân Đồn</name>
       <fullName>Đặc khu Vân Đồn, Tỉnh Quảng Ninh</fullName>
-      <slug>van-on</slug>
+      <slug>van-don</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5590,7 +5590,7 @@
       <code>00761</code>
       <name>Đông Triều</name>
       <fullName>Phường Đông Triều, Tỉnh Quảng Ninh</fullName>
-      <slug>ong-trieu</slug>
+      <slug>dong-trieu</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -5688,7 +5688,7 @@
       <code>01823</code>
       <name>Đầm Hà</name>
       <fullName>Xã Đầm Hà, Tỉnh Quảng Ninh</fullName>
-      <slug>am-ha</slug>
+      <slug>dam-ha</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5723,7 +5723,7 @@
       <code>02158</code>
       <name>Đông Mai</name>
       <fullName>Phường Đông Mai, Tỉnh Quảng Ninh</fullName>
-      <slug>ong-mai</slug>
+      <slug>dong-mai</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -5744,7 +5744,7 @@
       <code>02387</code>
       <name>Đông Ngũ</name>
       <fullName>Xã Đông Ngũ, Tỉnh Quảng Ninh</fullName>
-      <slug>ong-ngu</slug>
+      <slug>dong-ngu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5772,7 +5772,7 @@
       <code>02450</code>
       <name>Đường Hoa</name>
       <fullName>Xã Đường Hoa, Tỉnh Quảng Ninh</fullName>
-      <slug>uong-hoa</slug>
+      <slug>duong-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5793,7 +5793,7 @@
       <code>02792</code>
       <name>Quảng Đức</name>
       <fullName>Xã Quảng Đức, Tỉnh Quảng Ninh</fullName>
-      <slug>quang-uc</slug>
+      <slug>quang-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5842,7 +5842,7 @@
       <code>03125</code>
       <name>Điền Xá</name>
       <fullName>Xã Điền Xá, Tỉnh Quảng Ninh</fullName>
-      <slug>ien-xa</slug>
+      <slug>dien-xa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -5915,7 +5915,7 @@
       <code>00306</code>
       <name>Cam Đường</name>
       <fullName>Phường Cam Đường, Tỉnh Lào Cai</fullName>
-      <slug>cam-uong</slug>
+      <slug>cam-duong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -6083,7 +6083,7 @@
       <code>02140</code>
       <name>Đông Cuông</name>
       <fullName>Xã Đông Cuông, Tỉnh Lào Cai</fullName>
-      <slug>ong-cuong</slug>
+      <slug>dong-cuong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -6286,7 +6286,7 @@
       <code>02666</code>
       <name>Nghĩa Đô</name>
       <fullName>Xã Nghĩa Đô, Tỉnh Lào Cai</fullName>
-      <slug>nghia-o</slug>
+      <slug>nghia-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -6625,7 +6625,7 @@
       <code>00176</code>
       <name>Đại Đồng</name>
       <fullName>Xã Đại Đồng, Tỉnh Bắc Ninh</fullName>
-      <slug>ai-ong</slug>
+      <slug>dai-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -6688,7 +6688,7 @@
       <code>00408</code>
       <name>Bảo Đài</name>
       <fullName>Xã Bảo Đài, Tỉnh Bắc Ninh</fullName>
-      <slug>bao-ai</slug>
+      <slug>bao-dai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -6744,7 +6744,7 @@
       <code>00530</code>
       <name>Đa Mai</name>
       <fullName>Phường Đa Mai, Tỉnh Bắc Ninh</fullName>
-      <slug>a-mai</slug>
+      <slug>da-mai</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -6772,7 +6772,7 @@
       <code>00690</code>
       <name>Đồng Nguyên</name>
       <fullName>Phường Đồng Nguyên, Tỉnh Bắc Ninh</fullName>
-      <slug>ong-nguyen</slug>
+      <slug>dong-nguyen</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -6814,7 +6814,7 @@
       <code>00792</code>
       <name>Mão Điền</name>
       <fullName>Phường Mão Điền, Tỉnh Bắc Ninh</fullName>
-      <slug>mao-ien</slug>
+      <slug>mao-dien</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -6891,7 +6891,7 @@
       <code>01081</code>
       <name>Tam Đa</name>
       <fullName>Xã Tam Đa, Tỉnh Bắc Ninh</fullName>
-      <slug>tam-a</slug>
+      <slug>tam-da</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -6919,7 +6919,7 @@
       <code>01192</code>
       <name>Đào Viên</name>
       <fullName>Phường Đào Viên, Tỉnh Bắc Ninh</fullName>
-      <slug>ao-vien</slug>
+      <slug>dao-vien</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -7003,7 +7003,7 @@
       <code>01626</code>
       <name>Đông Cứu</name>
       <fullName>Xã Đông Cứu, Tỉnh Bắc Ninh</fullName>
-      <slug>ong-cuu</slug>
+      <slug>dong-cuu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7059,7 +7059,7 @@
       <code>01768</code>
       <name>Đồng Việt</name>
       <fullName>Xã Đồng Việt, Tỉnh Bắc Ninh</fullName>
-      <slug>ong-viet</slug>
+      <slug>dong-viet</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7087,7 +7087,7 @@
       <code>01949</code>
       <name>Sơn Động</name>
       <fullName>Xã Sơn Động, Tỉnh Bắc Ninh</fullName>
-      <slug>son-ong</slug>
+      <slug>son-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7101,7 +7101,7 @@
       <code>02003</code>
       <name>Đông Phú</name>
       <fullName>Xã Đông Phú, Tỉnh Bắc Ninh</fullName>
-      <slug>ong-phu</slug>
+      <slug>dong-phu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7115,7 +7115,7 @@
       <code>02076</code>
       <name>Đồng Kỳ</name>
       <fullName>Xã Đồng Kỳ, Tỉnh Bắc Ninh</fullName>
-      <slug>ong-ky</slug>
+      <slug>dong-ky</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7150,7 +7150,7 @@
       <code>02306</code>
       <name>Đại Lai</name>
       <fullName>Xã Đại Lai, Tỉnh Bắc Ninh</fullName>
-      <slug>ai-lai</slug>
+      <slug>dai-lai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7185,7 +7185,7 @@
       <code>02451</code>
       <name>Biển Động</name>
       <fullName>Xã Biển Động, Tỉnh Bắc Ninh</fullName>
-      <slug>bien-ong</slug>
+      <slug>bien-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7199,7 +7199,7 @@
       <code>02463</code>
       <name>Cao Đức</name>
       <fullName>Xã Cao Đức, Tỉnh Bắc Ninh</fullName>
-      <slug>cao-uc</slug>
+      <slug>cao-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7227,7 +7227,7 @@
       <code>02616</code>
       <name>Đèo Gia</name>
       <fullName>Xã Đèo Gia, Tỉnh Bắc Ninh</fullName>
-      <slug>eo-gia</slug>
+      <slug>deo-gia</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7241,7 +7241,7 @@
       <code>02767</code>
       <name>Đại Sơn</name>
       <fullName>Xã Đại Sơn, Tỉnh Bắc Ninh</fullName>
-      <slug>ai-son</slug>
+      <slug>dai-son</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7262,7 +7262,7 @@
       <code>02970</code>
       <name>Yên Định</name>
       <fullName>Xã Yên Định, Tỉnh Bắc Ninh</fullName>
-      <slug>yen-inh</slug>
+      <slug>yen-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7276,7 +7276,7 @@
       <code>03172</code>
       <name>Tuấn Đạo</name>
       <fullName>Xã Tuấn Đạo, Tỉnh Bắc Ninh</fullName>
-      <slug>tuan-ao</slug>
+      <slug>tuan-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7363,14 +7363,14 @@
       <code>00350</code>
       <name>Đại Đồng</name>
       <fullName>Xã Đại Đồng, Tỉnh Nghệ An</fullName>
-      <slug>ai-ong</slug>
+      <slug>dai-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00364</code>
       <name>Đô Lương</name>
       <fullName>Xã Đô Lương, Tỉnh Nghệ An</fullName>
-      <slug>o-luong</slug>
+      <slug>do-luong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7433,7 +7433,7 @@
       <code>00687</code>
       <name>Đông Thành</name>
       <fullName>Xã Đông Thành, Tỉnh Nghệ An</fullName>
-      <slug>ong-thanh</slug>
+      <slug>dong-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7503,7 +7503,7 @@
       <code>00864</code>
       <name>Đức Châu</name>
       <fullName>Xã Đức Châu, Tỉnh Nghệ An</fullName>
-      <slug>uc-chau</slug>
+      <slug>duc-chau</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7636,7 +7636,7 @@
       <code>01431</code>
       <name>Đông Lộc</name>
       <fullName>Xã Đông Lộc, Tỉnh Nghệ An</fullName>
-      <slug>ong-loc</slug>
+      <slug>dong-loc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7678,7 +7678,7 @@
       <code>01618</code>
       <name>Đông Hiếu</name>
       <fullName>Xã Đông Hiếu, Tỉnh Nghệ An</fullName>
-      <slug>ong-hieu</slug>
+      <slug>dong-hieu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7727,7 +7727,7 @@
       <code>01796</code>
       <name>Tam Đồng</name>
       <fullName>Xã Tam Đồng, Tỉnh Nghệ An</fullName>
-      <slug>tam-ong</slug>
+      <slug>tam-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7790,14 +7790,14 @@
       <code>01941</code>
       <name>Nam Đàn</name>
       <fullName>Xã Nam Đàn, Tỉnh Nghệ An</fullName>
-      <slug>nam-an</slug>
+      <slug>nam-dan</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01945</code>
       <name>Đại Huệ</name>
       <fullName>Xã Đại Huệ, Tỉnh Nghệ An</fullName>
-      <slug>ai-hue</slug>
+      <slug>dai-hue</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7846,7 +7846,7 @@
       <code>02113</code>
       <name>Quang Đồng</name>
       <fullName>Xã Quang Đồng, Tỉnh Nghệ An</fullName>
-      <slug>quang-ong</slug>
+      <slug>quang-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7888,21 +7888,21 @@
       <code>02248</code>
       <name>Nghĩa Đồng</name>
       <fullName>Xã Nghĩa Đồng, Tỉnh Nghệ An</fullName>
-      <slug>nghia-ong</slug>
+      <slug>nghia-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02278</code>
       <name>Nghĩa Đàn</name>
       <fullName>Xã Nghĩa Đàn, Tỉnh Nghệ An</fullName>
-      <slug>nghia-an</slug>
+      <slug>nghia-dan</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02279</code>
       <name>Tiên Đồng</name>
       <fullName>Xã Tiên Đồng, Tỉnh Nghệ An</fullName>
-      <slug>tien-ong</slug>
+      <slug>tien-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -7944,7 +7944,7 @@
       <code>02512</code>
       <name>Anh Sơn Đông</name>
       <fullName>Xã Anh Sơn Đông, Tỉnh Nghệ An</fullName>
-      <slug>anh-son-ong</slug>
+      <slug>anh-son-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8189,7 +8189,7 @@
       <code>03255</code>
       <name>Keng Đu</name>
       <fullName>Xã Keng Đu, Tỉnh Nghệ An</fullName>
-      <slug>keng-u</slug>
+      <slug>keng-du</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8297,7 +8297,7 @@
       <code>00250</code>
       <name>Điện Bàn Đông</name>
       <fullName>Phường Điện Bàn Đông, Thành phố Đà Nẵng</fullName>
-      <slug>ien-ban-ong</slug>
+      <slug>dien-ban-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -8318,7 +8318,7 @@
       <code>00375</code>
       <name>Đại Lộc</name>
       <fullName>Xã Đại Lộc, Thành phố Đà Nẵng</fullName>
-      <slug>ai-loc</slug>
+      <slug>dai-loc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8353,7 +8353,7 @@
       <code>00740</code>
       <name>Điện Bàn Tây</name>
       <fullName>Xã Điện Bàn Tây, Thành phố Đà Nẵng</fullName>
-      <slug>ien-ban-tay</slug>
+      <slug>dien-ban-tay</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8381,14 +8381,14 @@
       <code>00813</code>
       <name>Thăng Điền</name>
       <fullName>Xã Thăng Điền, Thành phố Đà Nẵng</fullName>
-      <slug>thang-ien</slug>
+      <slug>thang-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00846</code>
       <name>Điện Bàn</name>
       <fullName>Phường Điện Bàn, Thành phố Đà Nẵng</fullName>
-      <slug>ien-ban</slug>
+      <slug>dien-ban</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -8479,7 +8479,7 @@
       <code>01362</code>
       <name>Chiên Đàn</name>
       <fullName>Xã Chiên Đàn, Thành phố Đà Nẵng</fullName>
-      <slug>chien-an</slug>
+      <slug>chien-dan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8493,7 +8493,7 @@
       <code>01436</code>
       <name>Hội An Đông</name>
       <fullName>Phường Hội An Đông, Thành phố Đà Nẵng</fullName>
-      <slug>hoi-an-ong</slug>
+      <slug>hoi-an-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -8507,7 +8507,7 @@
       <code>01462</code>
       <name>Điện Bàn Bắc</name>
       <fullName>Phường Điện Bàn Bắc, Thành phố Đà Nẵng</fullName>
-      <slug>ien-ban-bac</slug>
+      <slug>dien-ban-bac</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -8591,14 +8591,14 @@
       <code>01916</code>
       <name>Đồng Dương</name>
       <fullName>Xã Đồng Dương, Thành phố Đà Nẵng</fullName>
-      <slug>ong-duong</slug>
+      <slug>dong-duong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02106</code>
       <name>Thượng Đức</name>
       <fullName>Xã Thượng Đức, Thành phố Đà Nẵng</fullName>
-      <slug>thuong-uc</slug>
+      <slug>thuong-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8640,7 +8640,7 @@
       <code>02595</code>
       <name>Hiệp Đức</name>
       <fullName>Xã Hiệp Đức, Thành phố Đà Nẵng</fullName>
-      <slug>hiep-uc</slug>
+      <slug>hiep-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8661,7 +8661,7 @@
       <code>02882</code>
       <name>Trà Đốc</name>
       <fullName>Xã Trà Đốc, Thành phố Đà Nẵng</fullName>
-      <slug>tra-oc</slug>
+      <slug>tra-doc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8675,14 +8675,14 @@
       <code>02937</code>
       <name>Khâm Đức</name>
       <fullName>Xã Khâm Đức, Thành phố Đà Nẵng</fullName>
-      <slug>kham-uc</slug>
+      <slug>kham-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02977</code>
       <name>Đức Phú</name>
       <fullName>Xã Đức Phú, Thành phố Đà Nẵng</fullName>
-      <slug>uc-phu</slug>
+      <slug>duc-phu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8696,7 +8696,7 @@
       <code>03006</code>
       <name>Đông Giang</name>
       <fullName>Xã Đông Giang, Thành phố Đà Nẵng</fullName>
-      <slug>ong-giang</slug>
+      <slug>dong-giang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8850,7 +8850,7 @@
       <code>03299</code>
       <name>Đắc Pring</name>
       <fullName>Xã Đắc Pring, Thành phố Đà Nẵng</fullName>
-      <slug>ac-pring</slug>
+      <slug>dac-pring</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -8895,7 +8895,7 @@
       <code>00011</code>
       <name>Nam Định</name>
       <fullName>Phường Nam Định, Tỉnh Ninh Bình</fullName>
-      <slug>nam-inh</slug>
+      <slug>nam-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -9154,7 +9154,7 @@
       <code>01128</code>
       <name>Yên Đồng</name>
       <fullName>Xã Yên Đồng, Tỉnh Ninh Bình</fullName>
-      <slug>yen-ong</slug>
+      <slug>yen-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9196,14 +9196,14 @@
       <code>01205</code>
       <name>Đồng Văn</name>
       <fullName>Phường Đồng Văn, Tỉnh Ninh Bình</fullName>
-      <slug>ong-van</slug>
+      <slug>dong-van</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>01208</code>
       <name>Đông Hoa Lư</name>
       <fullName>Phường Đông Hoa Lư, Tỉnh Ninh Bình</fullName>
-      <slug>ong-hoa-lu</slug>
+      <slug>dong-hoa-lu</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -9315,7 +9315,7 @@
       <code>01381</code>
       <name>Đông A</name>
       <fullName>Phường Đông A, Tỉnh Ninh Bình</fullName>
-      <slug>ong-a</slug>
+      <slug>dong-a</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -9357,14 +9357,14 @@
       <code>01450</code>
       <name>Rạng Đông</name>
       <fullName>Xã Rạng Đông, Tỉnh Ninh Bình</fullName>
-      <slug>rang-ong</slug>
+      <slug>rang-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01452</code>
       <name>Đồng Thịnh</name>
       <fullName>Xã Đồng Thịnh, Tỉnh Ninh Bình</fullName>
-      <slug>ong-thinh</slug>
+      <slug>dong-thinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9448,7 +9448,7 @@
       <code>01639</code>
       <name>Nam Đồng</name>
       <fullName>Xã Nam Đồng, Tỉnh Ninh Bình</fullName>
-      <slug>nam-ong</slug>
+      <slug>nam-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9518,7 +9518,7 @@
       <code>01760</code>
       <name>Tam Điệp</name>
       <fullName>Phường Tam Điệp, Tỉnh Ninh Bình</fullName>
-      <slug>tam-iep</slug>
+      <slug>tam-diep</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -9595,7 +9595,7 @@
       <code>01946</code>
       <name>Định Hóa</name>
       <fullName>Xã Định Hóa, Tỉnh Ninh Bình</fullName>
-      <slug>inh-hoa</slug>
+      <slug>dinh-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9616,14 +9616,14 @@
       <code>01978</code>
       <name>Đồng Thái</name>
       <fullName>Xã Đồng Thái, Tỉnh Ninh Bình</fullName>
-      <slug>ong-thai</slug>
+      <slug>dong-thai</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01992</code>
       <name>Đại Hoàng</name>
       <fullName>Xã Đại Hoàng, Tỉnh Ninh Bình</fullName>
-      <slug>ai-hoang</slug>
+      <slug>dai-hoang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9784,7 +9784,7 @@
       <code>02964</code>
       <name>Kim Đông</name>
       <fullName>Xã Kim Đông, Tỉnh Ninh Bình</fullName>
-      <slug>kim-ong</slug>
+      <slug>kim-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9864,7 +9864,7 @@
       <code>00468</code>
       <name>Đông Hải</name>
       <fullName>Phường Đông Hải, Tỉnh Khánh Hòa</fullName>
-      <slug>ong-hai</slug>
+      <slug>dong-hai</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -9913,14 +9913,14 @@
       <code>00773</code>
       <name>Đông Ninh Hòa</name>
       <fullName>Phường Đông Ninh Hòa, Tỉnh Khánh Hòa</fullName>
-      <slug>ong-ninh-hoa</slug>
+      <slug>dong-ninh-hoa</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00881</code>
       <name>Tân Định</name>
       <fullName>Xã Tân Định, Tỉnh Khánh Hòa</fullName>
-      <slug>tan-inh</slug>
+      <slug>tan-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9934,7 +9934,7 @@
       <code>01004</code>
       <name>Diên Điền</name>
       <fullName>Xã Diên Điền, Tỉnh Khánh Hòa</fullName>
-      <slug>dien-ien</slug>
+      <slug>dien-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -9962,7 +9962,7 @@
       <code>01285</code>
       <name>Đô Vinh</name>
       <fullName>Phường Đô Vinh, Tỉnh Khánh Hòa</fullName>
-      <slug>o-vinh</slug>
+      <slug>do-vinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -10060,7 +10060,7 @@
       <code>01843</code>
       <name>Đại Lãnh</name>
       <fullName>Xã Đại Lãnh, Tỉnh Khánh Hòa</fullName>
-      <slug>ai-lanh</slug>
+      <slug>dai-lanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10186,7 +10186,7 @@
       <code>02890</code>
       <name>Đông Khánh Sơn</name>
       <fullName>Xã Đông Khánh Sơn, Tỉnh Khánh Hòa</fullName>
-      <slug>ong-khanh-son</slug>
+      <slug>dong-khanh-son</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10207,7 +10207,7 @@
       <code>02971</code>
       <name>Bác Ái Đông</name>
       <fullName>Xã Bác Ái Đông, Tỉnh Khánh Hòa</fullName>
-      <slug>bac-ai-ong</slug>
+      <slug>bac-ai-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10357,14 +10357,14 @@
       <code>00567</code>
       <name>Cần Đước</name>
       <fullName>Xã Cần Đước, Tỉnh Tây Ninh</fullName>
-      <slug>can-uoc</slug>
+      <slug>can-duoc</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00577</code>
       <name>Đức Hòa</name>
       <fullName>Xã Đức Hòa, Tỉnh Tây Ninh</fullName>
-      <slug>uc-hoa</slug>
+      <slug>duc-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10399,7 +10399,7 @@
       <code>00737</code>
       <name>Thạnh Đức</name>
       <fullName>Xã Thạnh Đức, Tỉnh Tây Ninh</fullName>
-      <slug>thanh-uc</slug>
+      <slug>thanh-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10420,7 +10420,7 @@
       <code>00770</code>
       <name>Thanh Điền</name>
       <fullName>Phường Thanh Điền, Tỉnh Tây Ninh</fullName>
-      <slug>thanh-ien</slug>
+      <slug>thanh-dien</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -10518,7 +10518,7 @@
       <code>01180</code>
       <name>Bình Đức</name>
       <fullName>Xã Bình Đức, Tỉnh Tây Ninh</fullName>
-      <slug>binh-uc</slug>
+      <slug>binh-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10539,7 +10539,7 @@
       <code>01340</code>
       <name>Hảo Đước</name>
       <fullName>Xã Hảo Đước, Tỉnh Tây Ninh</fullName>
-      <slug>hao-uoc</slug>
+      <slug>hao-duoc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10553,7 +10553,7 @@
       <code>01389</code>
       <name>Đức Lập</name>
       <fullName>Xã Đức Lập, Tỉnh Tây Ninh</fullName>
-      <slug>uc-lap</slug>
+      <slug>duc-lap</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10644,14 +10644,14 @@
       <code>01698</code>
       <name>Tân Đông</name>
       <fullName>Xã Tân Đông, Tỉnh Tây Ninh</fullName>
-      <slug>tan-ong</slug>
+      <slug>tan-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01732</code>
       <name>Đông Thành</name>
       <fullName>Xã Đông Thành, Tỉnh Tây Ninh</fullName>
-      <slug>ong-thanh</slug>
+      <slug>dong-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10749,7 +10749,7 @@
       <code>02026</code>
       <name>Ninh Điền</name>
       <fullName>Xã Ninh Điền, Tỉnh Tây Ninh</fullName>
-      <slug>ninh-ien</slug>
+      <slug>ninh-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10770,7 +10770,7 @@
       <code>02070</code>
       <name>Đức Huệ</name>
       <fullName>Xã Đức Huệ, Tỉnh Tây Ninh</fullName>
-      <slug>uc-hue</slug>
+      <slug>duc-hue</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10847,7 +10847,7 @@
       <code>02305</code>
       <name>Hưng Điền</name>
       <fullName>Xã Hưng Điền, Tỉnh Tây Ninh</fullName>
-      <slug>hung-ien</slug>
+      <slug>hung-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -10962,7 +10962,7 @@
       <code>00107</code>
       <name>Sa Đéc</name>
       <fullName>Phường Sa Đéc, Tỉnh Đồng Tháp</fullName>
-      <slug>sa-ec</slug>
+      <slug>sa-dec</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -10997,7 +10997,7 @@
       <code>00243</code>
       <name>Đạo Thạnh</name>
       <fullName>Phường Đạo Thạnh, Tỉnh Đồng Tháp</fullName>
-      <slug>ao-thanh</slug>
+      <slug>dao-thanh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -11074,7 +11074,7 @@
       <code>00401</code>
       <name>Tân Nhuận Đông</name>
       <fullName>Xã Tân Nhuận Đông, Tỉnh Đồng Tháp</fullName>
-      <slug>tan-nhuan-ong</slug>
+      <slug>tan-nhuan-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11123,7 +11123,7 @@
       <code>00536</code>
       <name>Tân Đông</name>
       <fullName>Xã Tân Đông, Tỉnh Đồng Tháp</fullName>
-      <slug>tan-ong</slug>
+      <slug>tan-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11165,7 +11165,7 @@
       <code>00625</code>
       <name>Long Định</name>
       <fullName>Xã Long Định, Tỉnh Đồng Tháp</fullName>
-      <slug>long-inh</slug>
+      <slug>long-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11270,7 +11270,7 @@
       <code>00883</code>
       <name>Đồng Sơn</name>
       <fullName>Xã Đồng Sơn, Tỉnh Đồng Tháp</fullName>
-      <slug>ong-son</slug>
+      <slug>dong-son</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11333,7 +11333,7 @@
       <code>01069</code>
       <name>Mỹ Đức Tây</name>
       <fullName>Xã Mỹ Đức Tây, Tỉnh Đồng Tháp</fullName>
-      <slug>my-uc-tay</slug>
+      <slug>my-duc-tay</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11375,7 +11375,7 @@
       <code>01140</code>
       <name>Hiệp Đức</name>
       <fullName>Xã Hiệp Đức, Tỉnh Đồng Tháp</fullName>
-      <slug>hiep-uc</slug>
+      <slug>hiep-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11501,7 +11501,7 @@
       <code>01508</code>
       <name>Gò Công Đông</name>
       <fullName>Xã Gò Công Đông, Tỉnh Đồng Tháp</fullName>
-      <slug>go-cong-ong</slug>
+      <slug>go-cong-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11522,7 +11522,7 @@
       <code>01605</code>
       <name>Đốc Binh Kiều</name>
       <fullName>Xã Đốc Binh Kiều, Tỉnh Đồng Tháp</fullName>
-      <slug>oc-binh-kieu</slug>
+      <slug>doc-binh-kieu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11592,7 +11592,7 @@
       <code>02011</code>
       <name>Tân Phú Đông</name>
       <fullName>Xã Tân Phú Đông, Tỉnh Đồng Tháp</fullName>
-      <slug>tan-phu-ong</slug>
+      <slug>tan-phu-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11606,7 +11606,7 @@
       <code>02129</code>
       <name>Tân Điền</name>
       <fullName>Xã Tân Điền, Tỉnh Đồng Tháp</fullName>
-      <slug>tan-ien</slug>
+      <slug>tan-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11686,7 +11686,7 @@
       <code>00840</code>
       <name>Đức Thịnh</name>
       <fullName>Xã Đức Thịnh, Tỉnh Hà Tĩnh</fullName>
-      <slug>uc-thinh</slug>
+      <slug>duc-thinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11707,7 +11707,7 @@
       <code>00909</code>
       <name>Đức Thọ</name>
       <fullName>Xã Đức Thọ, Tỉnh Hà Tĩnh</fullName>
-      <slug>uc-tho</slug>
+      <slug>duc-tho</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11735,7 +11735,7 @@
       <code>01194</code>
       <name>Cổ Đạm</name>
       <fullName>Xã Cổ Đạm, Tỉnh Hà Tĩnh</fullName>
-      <slug>co-am</slug>
+      <slug>co-dam</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11812,14 +11812,14 @@
       <code>01650</code>
       <name>Đan Hải</name>
       <fullName>Xã Đan Hải, Tỉnh Hà Tĩnh</fullName>
-      <slug>an-hai</slug>
+      <slug>dan-hai</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01681</code>
       <name>Đồng Lộc</name>
       <fullName>Xã Đồng Lộc, Tỉnh Hà Tĩnh</fullName>
-      <slug>ong-loc</slug>
+      <slug>dong-loc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11840,7 +11840,7 @@
       <code>01911</code>
       <name>Tiên Điền</name>
       <fullName>Xã Tiên Điền, Tỉnh Hà Tĩnh</fullName>
-      <slug>tien-ien</slug>
+      <slug>tien-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11903,7 +11903,7 @@
       <code>02205</code>
       <name>Đông Kinh</name>
       <fullName>Xã Đông Kinh, Tỉnh Hà Tĩnh</fullName>
-      <slug>ong-kinh</slug>
+      <slug>dong-kinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11973,7 +11973,7 @@
       <code>02347</code>
       <name>Đức Minh</name>
       <fullName>Xã Đức Minh, Tỉnh Hà Tĩnh</fullName>
-      <slug>uc-minh</slug>
+      <slug>duc-minh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -11987,7 +11987,7 @@
       <code>02355</code>
       <name>Đồng Tiến</name>
       <fullName>Xã Đồng Tiến, Tỉnh Hà Tĩnh</fullName>
-      <slug>ong-tien</slug>
+      <slug>dong-tien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12036,7 +12036,7 @@
       <code>02429</code>
       <name>Đức Quang</name>
       <fullName>Xã Đức Quang, Tỉnh Hà Tĩnh</fullName>
-      <slug>uc-quang</slug>
+      <slug>duc-quang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12099,7 +12099,7 @@
       <code>02639</code>
       <name>Hương Đô</name>
       <fullName>Xã Hương Đô, Tỉnh Hà Tĩnh</fullName>
-      <slug>huong-o</slug>
+      <slug>huong-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12120,7 +12120,7 @@
       <code>02801</code>
       <name>Đức Đồng</name>
       <fullName>Xã Đức Đồng, Tỉnh Hà Tĩnh</fullName>
-      <slug>uc-ong</slug>
+      <slug>duc-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12134,7 +12134,7 @@
       <code>02918</code>
       <name>Thượng Đức</name>
       <fullName>Xã Thượng Đức, Tỉnh Hà Tĩnh</fullName>
-      <slug>thuong-uc</slug>
+      <slug>thuong-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12186,7 +12186,7 @@
       <code>00128</code>
       <name>Châu Đốc</name>
       <fullName>Phường Châu Đốc, Tỉnh An Giang</fullName>
-      <slug>chau-oc</slug>
+      <slug>chau-doc</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -12214,7 +12214,7 @@
       <code>00248</code>
       <name>Bình Đức</name>
       <fullName>Phường Bình Đức, Tỉnh An Giang</fullName>
-      <slug>binh-uc</slug>
+      <slug>binh-duc</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -12270,7 +12270,7 @@
       <code>00322</code>
       <name>Long Điền</name>
       <fullName>Xã Long Điền, Tỉnh An Giang</fullName>
-      <slug>long-ien</slug>
+      <slug>long-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12291,7 +12291,7 @@
       <code>00368</code>
       <name>Hòn Đất</name>
       <fullName>Xã Hòn Đất, Tỉnh An Giang</fullName>
-      <slug>hon-at</slug>
+      <slug>hon-dat</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12312,7 +12312,7 @@
       <code>00389</code>
       <name>Mỹ Đức</name>
       <fullName>Xã Mỹ Đức, Tỉnh An Giang</fullName>
-      <slug>my-uc</slug>
+      <slug>my-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12375,7 +12375,7 @@
       <code>00442</code>
       <name>Định Hòa</name>
       <fullName>Xã Định Hòa, Tỉnh An Giang</fullName>
-      <slug>inh-hoa</slug>
+      <slug>dinh-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12403,7 +12403,7 @@
       <code>00477</code>
       <name>Đông Thái</name>
       <fullName>Xã Đông Thái, Tỉnh An Giang</fullName>
-      <slug>ong-thai</slug>
+      <slug>dong-thai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12417,7 +12417,7 @@
       <code>00489</code>
       <name>Thạnh Đông</name>
       <fullName>Xã Thạnh Đông, Tỉnh An Giang</fullName>
-      <slug>thanh-ong</slug>
+      <slug>thanh-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12452,7 +12452,7 @@
       <code>00563</code>
       <name>Bình Thạnh Đông</name>
       <fullName>Xã Bình Thạnh Đông, Tỉnh An Giang</fullName>
-      <slug>binh-thanh-ong</slug>
+      <slug>binh-thanh-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12501,7 +12501,7 @@
       <code>00712</code>
       <name>Đông Hòa</name>
       <fullName>Xã Đông Hòa, Tỉnh An Giang</fullName>
-      <slug>ong-hoa</slug>
+      <slug>dong-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12543,7 +12543,7 @@
       <code>00811</code>
       <name>Định Mỹ</name>
       <fullName>Xã Định Mỹ, Tỉnh An Giang</fullName>
-      <slug>inh-my</slug>
+      <slug>dinh-my</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12662,7 +12662,7 @@
       <code>01170</code>
       <name>Cần Đăng</name>
       <fullName>Xã Cần Đăng, Tỉnh An Giang</fullName>
-      <slug>can-ang</slug>
+      <slug>can-dang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12788,7 +12788,7 @@
       <code>01973</code>
       <name>Hòa Điền</name>
       <fullName>Xã Hòa Điền, Tỉnh An Giang</fullName>
-      <slug>hoa-ien</slug>
+      <slug>hoa-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12809,7 +12809,7 @@
       <code>02120</code>
       <name>Đông Hưng</name>
       <fullName>Xã Đông Hưng, Tỉnh An Giang</fullName>
-      <slug>ong-hung</slug>
+      <slug>dong-hung</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12844,7 +12844,7 @@
       <code>02428</code>
       <name>Vĩnh Điều</name>
       <fullName>Xã Vĩnh Điều, Tỉnh An Giang</fullName>
-      <slug>vinh-ieu</slug>
+      <slug>vinh-dieu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12889,7 +12889,7 @@
       <code>00092</code>
       <name>Phan Đình Phùng</name>
       <fullName>Phường Phan Đình Phùng, Tỉnh Thái Nguyên</fullName>
-      <slug>phan-inh-phung</slug>
+      <slug>phan-dinh-phung</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -12959,14 +12959,14 @@
       <code>00828</code>
       <name>Điềm Thụy</name>
       <fullName>Xã Điềm Thụy, Tỉnh Thái Nguyên</fullName>
-      <slug>iem-thuy</slug>
+      <slug>diem-thuy</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00945</code>
       <name>Đại Phúc</name>
       <fullName>Xã Đại Phúc, Tỉnh Thái Nguyên</fullName>
-      <slug>ai-phuc</slug>
+      <slug>dai-phuc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -12987,7 +12987,7 @@
       <code>01445</code>
       <name>Đồng Hỷ</name>
       <fullName>Xã Đồng Hỷ, Tỉnh Thái Nguyên</fullName>
-      <slug>ong-hy</slug>
+      <slug>dong-hy</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13015,7 +13015,7 @@
       <code>01745</code>
       <name>Đại Từ</name>
       <fullName>Xã Đại Từ, Tỉnh Thái Nguyên</fullName>
-      <slug>ai-tu</slug>
+      <slug>dai-tu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13071,14 +13071,14 @@
       <code>02094</code>
       <name>Đức Xuân</name>
       <fullName>Phường Đức Xuân, Tỉnh Thái Nguyên</fullName>
-      <slug>uc-xuan</slug>
+      <slug>duc-xuan</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>02115</code>
       <name>Định Hóa</name>
       <fullName>Xã Định Hóa, Tỉnh Thái Nguyên</fullName>
-      <slug>inh-hoa</slug>
+      <slug>dinh-hoa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13162,7 +13162,7 @@
       <code>02508</code>
       <name>Chợ Đồn</name>
       <fullName>Xã Chợ Đồn, Tỉnh Thái Nguyên</fullName>
-      <slug>cho-on</slug>
+      <slug>cho-don</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13232,7 +13232,7 @@
       <code>02702</code>
       <name>Đức Lương</name>
       <fullName>Xã Đức Lương, Tỉnh Thái Nguyên</fullName>
-      <slug>uc-luong</slug>
+      <slug>duc-luong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13267,14 +13267,14 @@
       <code>02789</code>
       <name>Phú Đình</name>
       <fullName>Xã Phú Đình, Tỉnh Thái Nguyên</fullName>
-      <slug>phu-inh</slug>
+      <slug>phu-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02790</code>
       <name>Đồng Phúc</name>
       <fullName>Xã Đồng Phúc, Tỉnh Thái Nguyên</fullName>
-      <slug>ong-phuc</slug>
+      <slug>dong-phuc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13543,7 +13543,7 @@
       <code>00569</code>
       <name>Đông Kinh</name>
       <fullName>Phường Đông Kinh, Tỉnh Lạng Sơn</fullName>
-      <slug>ong-kinh</slug>
+      <slug>dong-kinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -13578,7 +13578,7 @@
       <code>01898</code>
       <name>Đồng Đăng</name>
       <fullName>Xã Đồng Đăng, Tỉnh Lạng Sơn</fullName>
-      <slug>ong-ang</slug>
+      <slug>dong-dang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13753,7 +13753,7 @@
       <code>02802</code>
       <name>Tràng Định</name>
       <fullName>Xã Tràng Định, Tỉnh Lạng Sơn</fullName>
-      <slug>trang-inh</slug>
+      <slug>trang-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13774,7 +13774,7 @@
       <code>02813</code>
       <name>Điềm He</name>
       <fullName>Xã Điềm He, Tỉnh Lạng Sơn</fullName>
-      <slug>iem-he</slug>
+      <slug>diem-he</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13788,7 +13788,7 @@
       <code>02879</code>
       <name>Tân Đoàn</name>
       <fullName>Xã Tân Đoàn, Tỉnh Lạng Sơn</fullName>
-      <slug>tan-oan</slug>
+      <slug>tan-doan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13816,7 +13816,7 @@
       <code>02925</code>
       <name>Đình Lập</name>
       <fullName>Xã Đình Lập, Tỉnh Lạng Sơn</fullName>
-      <slug>inh-lap</slug>
+      <slug>dinh-lap</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -13984,7 +13984,7 @@
       <code>03289</code>
       <name>Đoàn Kết</name>
       <fullName>Xã Đoàn Kết, Tỉnh Lạng Sơn</fullName>
-      <slug>oan-ket</slug>
+      <slug>doan-ket</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14008,7 +14008,7 @@
       <code>00601</code>
       <name>Điện Biên Phủ</name>
       <fullName>Phường Điện Biên Phủ, Tỉnh Điện Biên</fullName>
-      <slug>ien-bien-phu</slug>
+      <slug>dien-bien-phu</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -14396,7 +14396,7 @@
       <code>00168</code>
       <name>Định Quán</name>
       <fullName>Xã Định Quán, Tỉnh Đồng Nai</fullName>
-      <slug>inh-quan</slug>
+      <slug>dinh-quan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14522,7 +14522,7 @@
       <code>00459</code>
       <name>Đại Phước</name>
       <fullName>Xã Đại Phước, Tỉnh Đồng Nai</fullName>
-      <slug>ai-phuoc</slug>
+      <slug>dai-phuoc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14550,7 +14550,7 @@
       <code>00640</code>
       <name>Xuân Đông</name>
       <fullName>Xã Xuân Đông, Tỉnh Đồng Nai</fullName>
-      <slug>xuan-ong</slug>
+      <slug>xuan-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14564,7 +14564,7 @@
       <code>00700</code>
       <name>Đồng Phú</name>
       <fullName>Xã Đồng Phú, Tỉnh Đồng Nai</fullName>
-      <slug>ong-phu</slug>
+      <slug>dong-phu</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14627,7 +14627,7 @@
       <code>01071</code>
       <name>Xuân Định</name>
       <fullName>Xã Xuân Định, Tỉnh Đồng Nai</fullName>
-      <slug>xuan-inh</slug>
+      <slug>xuan-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14662,14 +14662,14 @@
       <code>01130</code>
       <name>Đồng Xoài</name>
       <fullName>Phường Đồng Xoài, Tỉnh Đồng Nai</fullName>
-      <slug>ong-xoai</slug>
+      <slug>dong-xoai</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>01148</code>
       <name>Đồng Tâm</name>
       <fullName>Xã Đồng Tâm, Tỉnh Đồng Nai</fullName>
-      <slug>ong-tam</slug>
+      <slug>dong-tam</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14753,14 +14753,14 @@
       <code>01363</code>
       <name>Bù Đăng</name>
       <fullName>Xã Bù Đăng, Tỉnh Đồng Nai</fullName>
-      <slug>bu-ang</slug>
+      <slug>bu-dang</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01385</code>
       <name>Đa Kia</name>
       <fullName>Xã Đa Kia, Tỉnh Đồng Nai</fullName>
-      <slug>a-kia</slug>
+      <slug>da-kia</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14830,7 +14830,7 @@
       <code>01784</code>
       <name>Xuân Đường</name>
       <fullName>Xã Xuân Đường, Tỉnh Đồng Nai</fullName>
-      <slug>xuan-uong</slug>
+      <slug>xuan-duong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14872,7 +14872,7 @@
       <code>02007</code>
       <name>Đak Nhau</name>
       <fullName>Xã Đak Nhau, Tỉnh Đồng Nai</fullName>
-      <slug>ak-nhau</slug>
+      <slug>dak-nhau</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14921,7 +14921,7 @@
       <code>02303</code>
       <name>Đăk Ơ</name>
       <fullName>Xã Đăk Ơ, Tỉnh Đồng Nai</fullName>
-      <slug>ak-o</slug>
+      <slug>dak-o</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14935,7 +14935,7 @@
       <code>02464</code>
       <name>Minh Đức</name>
       <fullName>Xã Minh Đức, Tỉnh Đồng Nai</fullName>
-      <slug>minh-uc</slug>
+      <slug>minh-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -14991,7 +14991,7 @@
       <code>03049</code>
       <name>Đak Lua</name>
       <fullName>Xã Đak Lua, Tỉnh Đồng Nai</fullName>
-      <slug>ak-lua</slug>
+      <slug>dak-lua</slug>
       <type>commune</type>
     </ward>
     </wards>
@@ -15057,7 +15057,7 @@
       <code>00445</code>
       <name>Đông Sơn</name>
       <fullName>Xã Đông Sơn, Tỉnh Quảng Ngãi</fullName>
-      <slug>ong-son</slug>
+      <slug>dong-son</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15092,7 +15092,7 @@
       <code>00842</code>
       <name>Đức Phổ</name>
       <fullName>Phường Đức Phổ, Tỉnh Quảng Ngãi</fullName>
-      <slug>uc-pho</slug>
+      <slug>duc-pho</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -15134,21 +15134,21 @@
       <code>01116</code>
       <name>Đăk Hà</name>
       <fullName>Xã Đăk Hà, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-ha</slug>
+      <slug>dak-ha</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01117</code>
       <name>Đình Cương</name>
       <fullName>Xã Đình Cương, Tỉnh Quảng Ngãi</fullName>
-      <slug>inh-cuong</slug>
+      <slug>dinh-cuong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01129</code>
       <name>Mộ Đức</name>
       <fullName>Xã Mộ Đức, Tỉnh Quảng Ngãi</fullName>
-      <slug>mo-uc</slug>
+      <slug>mo-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15162,7 +15162,7 @@
       <code>01173</code>
       <name>Đăk Tô</name>
       <fullName>Xã Đăk Tô, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-to</slug>
+      <slug>dak-to</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15183,7 +15183,7 @@
       <code>01534</code>
       <name>Đăk Cấm</name>
       <fullName>Phường Đăk Cấm, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-cam</slug>
+      <slug>dak-cam</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -15211,7 +15211,7 @@
       <code>01884</code>
       <name>Đăk Rơ Wa</name>
       <fullName>Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-ro-wa</slug>
+      <slug>dak-ro-wa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15246,7 +15246,7 @@
       <code>02145</code>
       <name>Đăk BLa</name>
       <fullName>Phường Đăk BLa, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-bla</slug>
+      <slug>dak-bla</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -15295,7 +15295,7 @@
       <code>02284</code>
       <name>Đăk Mar</name>
       <fullName>Xã Đăk Mar, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-mar</slug>
+      <slug>dak-mar</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15323,7 +15323,7 @@
       <code>02434</code>
       <name>Đăk Pék</name>
       <fullName>Xã Đăk Pék, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-pek</slug>
+      <slug>dak-pek</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15365,14 +15365,14 @@
       <code>02677</code>
       <name>Đăk Môn</name>
       <fullName>Xã Đăk Môn, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-mon</slug>
+      <slug>dak-mon</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02692</code>
       <name>Kon Đào</name>
       <fullName>Xã Kon Đào, Tỉnh Quảng Ngãi</fullName>
-      <slug>kon-ao</slug>
+      <slug>kon-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15400,7 +15400,7 @@
       <code>02772</code>
       <name>Đăk Ui</name>
       <fullName>Xã Đăk Ui, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-ui</slug>
+      <slug>dak-ui</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15435,14 +15435,14 @@
       <code>02824</code>
       <name>Đông Trà Bồng</name>
       <fullName>Xã Đông Trà Bồng, Tỉnh Quảng Ngãi</fullName>
-      <slug>ong-tra-bong</slug>
+      <slug>dong-tra-bong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02825</code>
       <name>Đăk Pxi</name>
       <fullName>Xã Đăk Pxi, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-pxi</slug>
+      <slug>dak-pxi</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15484,7 +15484,7 @@
       <code>02962</code>
       <name>Măng Đen</name>
       <fullName>Xã Măng Đen, Tỉnh Quảng Ngãi</fullName>
-      <slug>mang-en</slug>
+      <slug>mang-den</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15505,7 +15505,7 @@
       <code>03001</code>
       <name>Đăk Tờ Kan</name>
       <fullName>Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-to-kan</slug>
+      <slug>dak-to-kan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15526,7 +15526,7 @@
       <code>03052</code>
       <name>Đăk Rve</name>
       <fullName>Xã Đăk Rve, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-rve</slug>
+      <slug>dak-rve</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15540,7 +15540,7 @@
       <code>03078</code>
       <name>Ba Động</name>
       <fullName>Xã Ba Động, Tỉnh Quảng Ngãi</fullName>
-      <slug>ba-ong</slug>
+      <slug>ba-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15582,7 +15582,7 @@
       <code>03143</code>
       <name>Đăk Sao</name>
       <fullName>Xã Đăk Sao, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-sao</slug>
+      <slug>dak-sao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15624,7 +15624,7 @@
       <code>03202</code>
       <name>Đăk Kôi</name>
       <fullName>Xã Đăk Kôi, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-koi</slug>
+      <slug>dak-koi</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15638,7 +15638,7 @@
       <code>03230</code>
       <name>Đăk Plô</name>
       <fullName>Xã Đăk Plô, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-plo</slug>
+      <slug>dak-plo</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15652,28 +15652,28 @@
       <code>03248</code>
       <name>Đăk Long</name>
       <fullName>Xã Đăk Long, Tỉnh Quảng Ngãi</fullName>
-      <slug>ak-long</slug>
+      <slug>dak-long</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>03256</code>
       <name>Ia Đal</name>
       <fullName>Xã Ia Đal, Tỉnh Quảng Ngãi</fullName>
-      <slug>ia-al</slug>
+      <slug>ia-dal</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>03273</code>
       <name>Đặng Thùy Trâm</name>
       <fullName>Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi</fullName>
-      <slug>ang-thuy-tram</slug>
+      <slug>dang-thuy-tram</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>03277</code>
       <name>Cà Đam</name>
       <fullName>Xã Cà Đam, Tỉnh Quảng Ngãi</fullName>
-      <slug>ca-am</slug>
+      <slug>ca-dam</slug>
       <type>commune</type>
     </ward>
     </wards>
@@ -15858,7 +15858,7 @@
       <code>00830</code>
       <name>Đông Thành</name>
       <fullName>Phường Đông Thành, Tỉnh Vĩnh Long</fullName>
-      <slug>ong-thanh</slug>
+      <slug>dong-thanh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -15977,7 +15977,7 @@
       <code>01022</code>
       <name>An Định</name>
       <fullName>Xã An Định, Tỉnh Vĩnh Long</fullName>
-      <slug>an-inh</slug>
+      <slug>an-dinh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -15998,7 +15998,7 @@
       <code>01046</code>
       <name>Đại Điền</name>
       <fullName>Xã Đại Điền, Tỉnh Vĩnh Long</fullName>
-      <slug>ai-ien</slug>
+      <slug>dai-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16061,7 +16061,7 @@
       <code>01163</code>
       <name>Đồng Khởi</name>
       <fullName>Xã Đồng Khởi, Tỉnh Vĩnh Long</fullName>
-      <slug>ong-khoi</slug>
+      <slug>dong-khoi</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16075,7 +16075,7 @@
       <code>01177</code>
       <name>Thanh Đức</name>
       <fullName>Phường Thanh Đức, Tỉnh Vĩnh Long</fullName>
-      <slug>thanh-uc</slug>
+      <slug>thanh-duc</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -16124,7 +16124,7 @@
       <code>01218</code>
       <name>Sơn Đông</name>
       <fullName>Phường Sơn Đông, Tỉnh Vĩnh Long</fullName>
-      <slug>son-ong</slug>
+      <slug>son-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -16138,14 +16138,14 @@
       <code>01243</code>
       <name>Bình Đại</name>
       <fullName>Xã Bình Đại, Tỉnh Vĩnh Long</fullName>
-      <slug>binh-ai</slug>
+      <slug>binh-dai</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01253</code>
       <name>Long Đức</name>
       <fullName>Phường Long Đức, Tỉnh Vĩnh Long</fullName>
-      <slug>long-uc</slug>
+      <slug>long-duc</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -16187,7 +16187,7 @@
       <code>01368</code>
       <name>Đôn Châu</name>
       <fullName>Xã Đôn Châu, Tỉnh Vĩnh Long</fullName>
-      <slug>on-chau</slug>
+      <slug>don-chau</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16264,7 +16264,7 @@
       <code>01513</code>
       <name>Quới Điền</name>
       <fullName>Xã Quới Điền, Tỉnh Vĩnh Long</fullName>
-      <slug>quoi-ien</slug>
+      <slug>quoi-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16467,7 +16467,7 @@
       <code>02093</code>
       <name>Đại An</name>
       <fullName>Xã Đại An, Tỉnh Vĩnh Long</fullName>
-      <slug>ai-an</slug>
+      <slug>dai-an</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16544,7 +16544,7 @@
       <code>02643</code>
       <name>Đông Hải</name>
       <fullName>Xã Đông Hải, Tỉnh Vĩnh Long</fullName>
-      <slug>ong-hai</slug>
+      <slug>dong-hai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16659,14 +16659,14 @@
       <code>02740</code>
       <name>Đoài Dương</name>
       <fullName>Xã Đoài Dương, Tỉnh Cao Bằng</fullName>
-      <slug>oai-duong</slug>
+      <slug>doai-duong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02757</code>
       <name>Đàm Thuỷ</name>
       <fullName>Xã Đàm Thuỷ, Tỉnh Cao Bằng</fullName>
-      <slug>am-thuy</slug>
+      <slug>dam-thuy</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16701,7 +16701,7 @@
       <code>02863</code>
       <name>Đình Phong</name>
       <fullName>Xã Đình Phong, Tỉnh Cao Bằng</fullName>
-      <slug>inh-phong</slug>
+      <slug>dinh-phong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16715,7 +16715,7 @@
       <code>02902</code>
       <name>Bế Văn Đàn</name>
       <fullName>Xã Bế Văn Đàn, Tỉnh Cao Bằng</fullName>
-      <slug>be-van-an</slug>
+      <slug>be-van-dan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16743,7 +16743,7 @@
       <code>02965</code>
       <name>Hưng Đạo</name>
       <fullName>Xã Hưng Đạo, Tỉnh Cao Bằng</fullName>
-      <slug>hung-ao</slug>
+      <slug>hung-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16764,14 +16764,14 @@
       <code>02989</code>
       <name>Đông Khê</name>
       <fullName>Xã Đông Khê, Tỉnh Cao Bằng</fullName>
-      <slug>ong-khe</slug>
+      <slug>dong-khe</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>03036</code>
       <name>Độc Lập</name>
       <fullName>Xã Độc Lập, Tỉnh Cao Bằng</fullName>
-      <slug>oc-lap</slug>
+      <slug>doc-lap</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16862,7 +16862,7 @@
       <code>03192</code>
       <name>Kim Đồng</name>
       <fullName>Xã Kim Đồng, Tỉnh Cao Bằng</fullName>
-      <slug>kim-ong</slug>
+      <slug>kim-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16918,7 +16918,7 @@
       <code>03246</code>
       <name>Đức Long</name>
       <fullName>Xã Đức Long, Tỉnh Cao Bằng</fullName>
-      <slug>uc-long</slug>
+      <slug>duc-long</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16932,7 +16932,7 @@
       <code>03261</code>
       <name>Bạch Đằng</name>
       <fullName>Xã Bạch Đằng, Tỉnh Cao Bằng</fullName>
-      <slug>bach-ang</slug>
+      <slug>bach-dang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -16991,7 +16991,7 @@
       <code>01864</code>
       <name>Đoàn Kết</name>
       <fullName>Phường Đoàn Kết, Tỉnh Lai Châu</fullName>
-      <slug>oan-ket</slug>
+      <slug>doan-ket</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -17379,7 +17379,7 @@
       <code>00638</code>
       <name>Đông Hòa</name>
       <fullName>Phường Đông Hòa, Tỉnh Đắk Lắk</fullName>
-      <slug>ong-hoa</slug>
+      <slug>dong-hoa</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -17449,7 +17449,7 @@
       <code>00905</code>
       <name>Tuy An Đông</name>
       <fullName>Xã Tuy An Đông, Tỉnh Đắk Lắk</fullName>
-      <slug>tuy-an-ong</slug>
+      <slug>tuy-an-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -17582,7 +17582,7 @@
       <code>01604</code>
       <name>Cuôr Đăng</name>
       <fullName>Xã Cuôr Đăng, Tỉnh Đắk Lắk</fullName>
-      <slug>cuor-ang</slug>
+      <slug>cuor-dang</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -17631,7 +17631,7 @@
       <code>01755</code>
       <name>Đồng Xuân</name>
       <fullName>Xã Đồng Xuân, Tỉnh Đắk Lắk</fullName>
-      <slug>ong-xuan</slug>
+      <slug>dong-xuan</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -17715,7 +17715,7 @@
       <code>02073</code>
       <name>Đắk Liêng</name>
       <fullName>Xã Đắk Liêng, Tỉnh Đắk Lắk</fullName>
-      <slug>ak-lieng</slug>
+      <slug>dak-lieng</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -17729,7 +17729,7 @@
       <code>02161</code>
       <name>Xuân Đài</name>
       <fullName>Phường Xuân Đài, Tỉnh Đắk Lắk</fullName>
-      <slug>xuan-ai</slug>
+      <slug>xuan-dai</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -17799,7 +17799,7 @@
       <code>02542</code>
       <name>Đức Bình</name>
       <fullName>Xã Đức Bình, Tỉnh Đắk Lắk</fullName>
-      <slug>uc-binh</slug>
+      <slug>duc-binh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -17820,7 +17820,7 @@
       <code>02613</code>
       <name>Đắk Phơi</name>
       <fullName>Xã Đắk Phơi, Tỉnh Đắk Lắk</fullName>
-      <slug>ak-phoi</slug>
+      <slug>dak-phoi</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -17939,7 +17939,7 @@
       <code>03152</code>
       <name>Buôn Đôn</name>
       <fullName>Xã Buôn Đôn, Tỉnh Đắk Lắk</fullName>
-      <slug>buon-on</slug>
+      <slug>buon-don</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18012,7 +18012,7 @@
       <code>00419</code>
       <name>Tuy Phước Đông</name>
       <fullName>Xã Tuy Phước Đông, Tỉnh Gia Lai</fullName>
-      <slug>tuy-phuoc-ong</slug>
+      <slug>tuy-phuoc-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18068,7 +18068,7 @@
       <code>00653</code>
       <name>Quy Nhơn Đông</name>
       <fullName>Phường Quy Nhơn Đông, Tỉnh Gia Lai</fullName>
-      <slug>quy-nhon-ong</slug>
+      <slug>quy-nhon-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -18089,14 +18089,14 @@
       <code>00701</code>
       <name>Đề Gi</name>
       <fullName>Xã Đề Gi, Tỉnh Gia Lai</fullName>
-      <slug>e-gi</slug>
+      <slug>de-gi</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00733</code>
       <name>Hoài Nhơn Đông</name>
       <fullName>Phường Hoài Nhơn Đông, Tỉnh Gia Lai</fullName>
-      <slug>hoai-nhon-ong</slug>
+      <slug>hoai-nhon-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -18110,7 +18110,7 @@
       <code>00775</code>
       <name>Phù Mỹ Đông</name>
       <fullName>Xã Phù Mỹ Đông, Tỉnh Gia Lai</fullName>
-      <slug>phu-my-ong</slug>
+      <slug>phu-my-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18124,7 +18124,7 @@
       <code>00794</code>
       <name>Bình Định</name>
       <fullName>Phường Bình Định, Tỉnh Gia Lai</fullName>
-      <slug>binh-inh</slug>
+      <slug>binh-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -18187,7 +18187,7 @@
       <code>01059</code>
       <name>Đak Đoa</name>
       <fullName>Xã Đak Đoa, Tỉnh Gia Lai</fullName>
-      <slug>ak-oa</slug>
+      <slug>dak-doa</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18334,7 +18334,7 @@
       <code>01793</code>
       <name>An Nhơn Đông</name>
       <fullName>Phường An Nhơn Đông, Tỉnh Gia Lai</fullName>
-      <slug>an-nhon-ong</slug>
+      <slug>an-nhon-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -18404,7 +18404,7 @@
       <code>02013</code>
       <name>Đức Cơ</name>
       <fullName>Xã Đức Cơ, Tỉnh Gia Lai</fullName>
-      <slug>uc-co</slug>
+      <slug>duc-co</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18502,7 +18502,7 @@
       <code>02159</code>
       <name>Vạn Đức</name>
       <fullName>Xã Vạn Đức, Tỉnh Gia Lai</fullName>
-      <slug>van-uc</slug>
+      <slug>van-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18572,7 +18572,7 @@
       <code>02358</code>
       <name>Đak Pơ</name>
       <fullName>Xã Đak Pơ, Tỉnh Gia Lai</fullName>
-      <slug>ak-po</slug>
+      <slug>dak-po</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18649,7 +18649,7 @@
       <code>02599</code>
       <name>Đak Sơmei</name>
       <fullName>Xã Đak Sơmei, Tỉnh Gia Lai</fullName>
-      <slug>ak-somei</slug>
+      <slug>dak-somei</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18845,7 +18845,7 @@
       <code>03180</code>
       <name>Đak Rong</name>
       <fullName>Xã Đak Rong, Tỉnh Gia Lai</fullName>
-      <slug>ak-rong</slug>
+      <slug>dak-rong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18873,7 +18873,7 @@
       <code>03262</code>
       <name>Đăk Song</name>
       <fullName>Xã Đăk Song, Tỉnh Gia Lai</fullName>
-      <slug>ak-song</slug>
+      <slug>dak-song</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -18925,7 +18925,7 @@
       <code>00112</code>
       <name>Xuân Hương - Đà Lạt</name>
       <fullName>Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng</fullName>
-      <slug>xuan-huong-a-lat</slug>
+      <slug>xuan-huong-da-lat</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -18946,14 +18946,14 @@
       <code>00171</code>
       <name>Đức Trọng</name>
       <fullName>Xã Đức Trọng, Tỉnh Lâm Đồng</fullName>
-      <slug>uc-trong</slug>
+      <slug>duc-trong</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00266</code>
       <name>Lâm Viên - Đà Lạt</name>
       <fullName>Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng</fullName>
-      <slug>lam-vien-a-lat</slug>
+      <slug>lam-vien-da-lat</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19030,7 +19030,7 @@
       <code>00546</code>
       <name>Đức Linh</name>
       <fullName>Xã Đức Linh, Tỉnh Lâm Đồng</fullName>
-      <slug>uc-linh</slug>
+      <slug>duc-linh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19072,21 +19072,21 @@
       <code>00610</code>
       <name>Cam Ly - Đà Lạt</name>
       <fullName>Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng</fullName>
-      <slug>cam-ly-a-lat</slug>
+      <slug>cam-ly-da-lat</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00616</code>
       <name>Đinh Văn - Lâm Hà</name>
       <fullName>Xã Đinh Văn - Lâm Hà, Tỉnh Lâm Đồng</fullName>
-      <slug>inh-van-lam-ha</slug>
+      <slug>dinh-van-lam-ha</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00620</code>
       <name>Đức Lập</name>
       <fullName>Xã Đức Lập, Tỉnh Lâm Đồng</fullName>
-      <slug>uc-lap</slug>
+      <slug>duc-lap</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19100,7 +19100,7 @@
       <code>00642</code>
       <name>Hoài Đức</name>
       <fullName>Xã Hoài Đức, Tỉnh Lâm Đồng</fullName>
-      <slug>hoai-uc</slug>
+      <slug>hoai-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19114,7 +19114,7 @@
       <code>00715</code>
       <name>Đơn Dương</name>
       <fullName>Xã Đơn Dương, Tỉnh Lâm Đồng</fullName>
-      <slug>on-duong</slug>
+      <slug>don-duong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19128,7 +19128,7 @@
       <code>00910</code>
       <name>Langbiang - Đà Lạt</name>
       <fullName>Phường Langbiang - Đà Lạt, Tỉnh Lâm Đồng</fullName>
-      <slug>langbiang-a-lat</slug>
+      <slug>langbiang-da-lat</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19142,7 +19142,7 @@
       <code>00958</code>
       <name>Kiến Đức</name>
       <fullName>Xã Kiến Đức, Tỉnh Lâm Đồng</fullName>
-      <slug>kien-uc</slug>
+      <slug>kien-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19163,7 +19163,7 @@
       <code>01110</code>
       <name>Xuân Trường - Đà Lạt</name>
       <fullName>Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng</fullName>
-      <slug>xuan-truong-a-lat</slug>
+      <slug>xuan-truong-da-lat</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19198,7 +19198,7 @@
       <code>01289</code>
       <name>Đức An</name>
       <fullName>Xã Đức An, Tỉnh Lâm Đồng</fullName>
-      <slug>uc-an</slug>
+      <slug>duc-an</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19247,14 +19247,14 @@
       <code>01383</code>
       <name>Tuy Đức</name>
       <fullName>Xã Tuy Đức, Tỉnh Lâm Đồng</fullName>
-      <slug>tuy-uc</slug>
+      <slug>tuy-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01398</code>
       <name>Đắk Mil</name>
       <fullName>Xã Đắk Mil, Tỉnh Lâm Đồng</fullName>
-      <slug>ak-mil</slug>
+      <slug>dak-mil</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19289,14 +19289,14 @@
       <code>01453</code>
       <name>Đồng Kho</name>
       <fullName>Xã Đồng Kho, Tỉnh Lâm Đồng</fullName>
-      <slug>ong-kho</slug>
+      <slug>dong-kho</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01468</code>
       <name>Đạ Tẻh</name>
       <fullName>Xã Đạ Tẻh, Tỉnh Lâm Đồng</fullName>
-      <slug>a-teh</slug>
+      <slug>da-teh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19352,14 +19352,14 @@
       <code>01656</code>
       <name>Đắk Sắk</name>
       <fullName>Xã Đắk Sắk, Tỉnh Lâm Đồng</fullName>
-      <slug>ak-sak</slug>
+      <slug>dak-sak</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01664</code>
       <name>Ka Đô</name>
       <fullName>Xã Ka Đô, Tỉnh Lâm Đồng</fullName>
-      <slug>ka-o</slug>
+      <slug>ka-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19415,14 +19415,14 @@
       <code>01953</code>
       <name>Đắk Wil</name>
       <fullName>Xã Đắk Wil, Tỉnh Lâm Đồng</fullName>
-      <slug>ak-wil</slug>
+      <slug>dak-wil</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01968</code>
       <name>Đông Gia Nghĩa</name>
       <fullName>Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng</fullName>
-      <slug>ong-gia-nghia</slug>
+      <slug>dong-gia-nghia</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19450,7 +19450,7 @@
       <code>02055</code>
       <name>Đạ Huoai</name>
       <fullName>Xã Đạ Huoai, Tỉnh Lâm Đồng</fullName>
-      <slug>a-huoai</slug>
+      <slug>da-huoai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19464,7 +19464,7 @@
       <code>02089</code>
       <name>Tà Đùng</name>
       <fullName>Xã Tà Đùng, Tỉnh Lâm Đồng</fullName>
-      <slug>ta-ung</slug>
+      <slug>ta-dung</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19499,7 +19499,7 @@
       <code>02165</code>
       <name>Nam Đà</name>
       <fullName>Xã Nam Đà, Tỉnh Lâm Đồng</fullName>
-      <slug>nam-a</slug>
+      <slug>nam-da</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19520,14 +19520,14 @@
       <code>02220</code>
       <name>Nghị Đức</name>
       <fullName>Xã Nghị Đức, Tỉnh Lâm Đồng</fullName>
-      <slug>nghi-uc</slug>
+      <slug>nghi-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02229</code>
       <name>Đinh Trang Thượng</name>
       <fullName>Xã Đinh Trang Thượng, Tỉnh Lâm Đồng</fullName>
-      <slug>inh-trang-thuong</slug>
+      <slug>dinh-trang-thuong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19597,14 +19597,14 @@
       <code>02445</code>
       <name>Đam Rông 1</name>
       <fullName>Xã Đam Rông 1, Tỉnh Lâm Đồng</fullName>
-      <slug>am-rong-1</slug>
+      <slug>dam-rong-1</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02452</code>
       <name>Đam Rông 4</name>
       <fullName>Xã Đam Rông 4, Tỉnh Lâm Đồng</fullName>
-      <slug>am-rong-4</slug>
+      <slug>dam-rong-4</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19632,14 +19632,14 @@
       <code>02507</code>
       <name>Đam Rông 2</name>
       <fullName>Xã Đam Rông 2, Tỉnh Lâm Đồng</fullName>
-      <slug>am-rong-2</slug>
+      <slug>dam-rong-2</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02544</code>
       <name>Đam Rông 3</name>
       <fullName>Xã Đam Rông 3, Tỉnh Lâm Đồng</fullName>
-      <slug>am-rong-3</slug>
+      <slug>dam-rong-3</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19660,7 +19660,7 @@
       <code>02596</code>
       <name>Đạ Huoai 2</name>
       <fullName>Xã Đạ Huoai 2, Tỉnh Lâm Đồng</fullName>
-      <slug>a-huoai-2</slug>
+      <slug>da-huoai-2</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19674,7 +19674,7 @@
       <code>02619</code>
       <name>Đạ Tẻh 2</name>
       <fullName>Xã Đạ Tẻh 2, Tỉnh Lâm Đồng</fullName>
-      <slug>a-teh-2</slug>
+      <slug>da-teh-2</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19688,14 +19688,14 @@
       <code>02726</code>
       <name>Đắk song</name>
       <fullName>Xã Đắk song, Tỉnh Lâm Đồng</fullName>
-      <slug>ak-song</slug>
+      <slug>dak-song</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>02793</code>
       <name>Đạ Tẻh 3</name>
       <fullName>Xã Đạ Tẻh 3, Tỉnh Lâm Đồng</fullName>
-      <slug>a-teh-3</slug>
+      <slug>da-teh-3</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19772,21 +19772,21 @@
       <code>03103</code>
       <name>Sơn Điền</name>
       <fullName>Xã Sơn Điền, Tỉnh Lâm Đồng</fullName>
-      <slug>son-ien</slug>
+      <slug>son-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>03153</code>
       <name>Đạ Huoai 3</name>
       <fullName>Xã Đạ Huoai 3, Tỉnh Lâm Đồng</fullName>
-      <slug>a-huoai-3</slug>
+      <slug>da-huoai-3</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>03254</code>
       <name>Đông Giang</name>
       <fullName>Xã Đông Giang, Tỉnh Lâm Đồng</fullName>
-      <slug>ong-giang</slug>
+      <slug>dong-giang</slug>
       <type>commune</type>
     </ward>
     </wards>
@@ -19824,7 +19824,7 @@
       <code>00005</code>
       <name>Bà Điểm</name>
       <fullName>Xã Bà Điểm, Thành phố Hồ Chí Minh</fullName>
-      <slug>ba-iem</slug>
+      <slug>ba-diem</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19838,7 +19838,7 @@
       <code>00010</code>
       <name>Đông Thạnh</name>
       <fullName>Xã Đông Thạnh, Thành phố Hồ Chí Minh</fullName>
-      <slug>ong-thanh</slug>
+      <slug>dong-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -19859,14 +19859,14 @@
       <code>00015</code>
       <name>Đông Hưng Thuận</name>
       <fullName>Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh</fullName>
-      <slug>ong-hung-thuan</slug>
+      <slug>dong-hung-thuan</slug>
       <type>ward</type>
     </ward>
     <ward>
       <code>00016</code>
       <name>An Phú Đông</name>
       <fullName>Phường An Phú Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>an-phu-ong</slug>
+      <slug>an-phu-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19894,7 +19894,7 @@
       <code>00022</code>
       <name>Bình Trị Đông</name>
       <fullName>Phường Bình Trị Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>binh-tri-ong</slug>
+      <slug>binh-tri-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19929,7 +19929,7 @@
       <code>00029</code>
       <name>Bình Đông</name>
       <fullName>Phường Bình Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>binh-ong</slug>
+      <slug>binh-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -19964,7 +19964,7 @@
       <code>00035</code>
       <name>Phú Định</name>
       <fullName>Phường Phú Định, Thành phố Hồ Chí Minh</fullName>
-      <slug>phu-inh</slug>
+      <slug>phu-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20006,7 +20006,7 @@
       <code>00047</code>
       <name>Đông Hòa</name>
       <fullName>Phường Đông Hòa, Thành phố Hồ Chí Minh</fullName>
-      <slug>ong-hoa</slug>
+      <slug>dong-hoa</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20048,7 +20048,7 @@
       <code>00060</code>
       <name>Gia Định</name>
       <fullName>Phường Gia Định, Thành phố Hồ Chí Minh</fullName>
-      <slug>gia-inh</slug>
+      <slug>gia-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20069,7 +20069,7 @@
       <code>00064</code>
       <name>An Hội Đông</name>
       <fullName>Phường An Hội Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>an-hoi-ong</slug>
+      <slug>an-hoi-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20111,7 +20111,7 @@
       <code>00077</code>
       <name>Thủ Đức</name>
       <fullName>Phường Thủ Đức, Thành phố Hồ Chí Minh</fullName>
-      <slug>thu-uc</slug>
+      <slug>thu-duc</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20216,7 +20216,7 @@
       <code>00118</code>
       <name>Tân Đông Hiệp</name>
       <fullName>Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh</fullName>
-      <slug>tan-ong-hiep</slug>
+      <slug>tan-dong-hiep</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20237,7 +20237,7 @@
       <code>00126</code>
       <name>Phú Hòa Đông</name>
       <fullName>Xã Phú Hòa Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>phu-hoa-ong</slug>
+      <slug>phu-hoa-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -20356,7 +20356,7 @@
       <code>00189</code>
       <name>An Đông</name>
       <fullName>Phường An Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>an-ong</slug>
+      <slug>an-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20475,7 +20475,7 @@
       <code>00264</code>
       <name>Đức Nhuận</name>
       <fullName>Phường Đức Nhuận, Thành phố Hồ Chí Minh</fullName>
-      <slug>uc-nhuan</slug>
+      <slug>duc-nhuan</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20664,7 +20664,7 @@
       <code>00622</code>
       <name>Tân Định</name>
       <fullName>Phường Tân Định, Thành phố Hồ Chí Minh</fullName>
-      <slug>tan-inh</slug>
+      <slug>tan-dinh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -20678,7 +20678,7 @@
       <code>00628</code>
       <name>Long Điền</name>
       <fullName>Xã Long Điền, Thành phố Hồ Chí Minh</fullName>
-      <slug>long-ien</slug>
+      <slug>long-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -20713,7 +20713,7 @@
       <code>00757</code>
       <name>Đất Đỏ</name>
       <fullName>Xã Đất Đỏ, Thành phố Hồ Chí Minh</fullName>
-      <slug>at-o</slug>
+      <slug>dat-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -20762,7 +20762,7 @@
       <code>00891</code>
       <name>Nhuận Đức</name>
       <fullName>Xã Nhuận Đức, Thành phố Hồ Chí Minh</fullName>
-      <slug>nhuan-uc</slug>
+      <slug>nhuan-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -20832,7 +20832,7 @@
       <code>01646</code>
       <name>Châu Đức</name>
       <fullName>Xã Châu Đức, Thành phố Hồ Chí Minh</fullName>
-      <slug>chau-uc</slug>
+      <slug>chau-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -20923,7 +20923,7 @@
       <code>02099</code>
       <name>An Thới Đông</name>
       <fullName>Xã An Thới Đông, Thành phố Hồ Chí Minh</fullName>
-      <slug>an-thoi-ong</slug>
+      <slug>an-thoi-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -20965,7 +20965,7 @@
       <code>03163</code>
       <name>Côn Đảo</name>
       <fullName>Đặc khu Côn Đảo, Thành phố Hồ Chí Minh</fullName>
-      <slug>con-ao</slug>
+      <slug>con-dao</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -21206,7 +21206,7 @@
       <code>02397</code>
       <name>Đoàn Kết</name>
       <fullName>Xã Đoàn Kết, Tỉnh Sơn La</fullName>
-      <slug>oan-ket</slug>
+      <slug>doan-ket</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -21643,14 +21643,14 @@
       <code>00505</code>
       <name>Trần Đề</name>
       <fullName>Xã Trần Đề, Thành phố Cần Thơ</fullName>
-      <slug>tran-e</slug>
+      <slug>tran-de</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00521</code>
       <name>Phong Điền</name>
       <fullName>Xã Phong Điền, Thành phố Cần Thơ</fullName>
-      <slug>phong-ien</slug>
+      <slug>phong-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -21734,7 +21734,7 @@
       <code>00766</code>
       <name>Đại Hải</name>
       <fullName>Xã Đại Hải, Thành phố Cần Thơ</fullName>
-      <slug>ai-hai</slug>
+      <slug>dai-hai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -21762,7 +21762,7 @@
       <code>00821</code>
       <name>Cờ Đỏ</name>
       <fullName>Xã Cờ Đỏ, Thành phố Cần Thơ</fullName>
-      <slug>co-o</slug>
+      <slug>co-do</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -21804,14 +21804,14 @@
       <code>00906</code>
       <name>Đông Phước</name>
       <fullName>Xã Đông Phước, Thành phố Cần Thơ</fullName>
-      <slug>ong-phuoc</slug>
+      <slug>dong-phuoc</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>00922</code>
       <name>Vĩnh Thuận Đông</name>
       <fullName>Xã Vĩnh Thuận Đông, Thành phố Cần Thơ</fullName>
-      <slug>vinh-thuan-ong</slug>
+      <slug>vinh-thuan-dong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -21825,7 +21825,7 @@
       <code>00937</code>
       <name>Thới An Đông</name>
       <fullName>Phường Thới An Đông, Thành phố Cần Thơ</fullName>
-      <slug>thoi-an-ong</slug>
+      <slug>thoi-an-dong</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -21958,7 +21958,7 @@
       <code>01199</code>
       <name>Đại Thành</name>
       <fullName>Phường Đại Thành, Thành phố Cần Thơ</fullName>
-      <slug>ai-thanh</slug>
+      <slug>dai-thanh</slug>
       <type>ward</type>
     </ward>
     <ward>
@@ -22056,7 +22056,7 @@
       <code>01419</code>
       <name>Hồ Đắc Kiện</name>
       <fullName>Xã Hồ Đắc Kiện, Thành phố Cần Thơ</fullName>
-      <slug>ho-ac-kien</slug>
+      <slug>ho-dac-kien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22161,14 +22161,14 @@
       <code>01928</code>
       <name>Đông Thuận</name>
       <fullName>Xã Đông Thuận, Thành phố Cần Thơ</fullName>
-      <slug>ong-thuan</slug>
+      <slug>dong-thuan</slug>
       <type>commune</type>
     </ward>
     <ward>
       <code>01936</code>
       <name>Đại Ngãi</name>
       <fullName>Xã Đại Ngãi, Thành phố Cần Thơ</fullName>
-      <slug>ai-ngai</slug>
+      <slug>dai-ngai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22224,7 +22224,7 @@
       <code>02084</code>
       <name>Đông Hiệp</name>
       <fullName>Xã Đông Hiệp, Thành phố Cần Thơ</fullName>
-      <slug>ong-hiep</slug>
+      <slug>dong-hiep</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22311,7 +22311,7 @@
       <code>00680</code>
       <name>Sông Đốc</name>
       <fullName>Xã Sông Đốc, Tỉnh Cà Mau</fullName>
-      <slug>song-oc</slug>
+      <slug>song-doc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22325,7 +22325,7 @@
       <code>00857</code>
       <name>Đá Bạc</name>
       <fullName>Xã Đá Bạc, Tỉnh Cà Mau</fullName>
-      <slug>a-bac</slug>
+      <slug>da-bac</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22360,7 +22360,7 @@
       <code>01000</code>
       <name>Đầm Dơi</name>
       <fullName>Xã Đầm Dơi, Tỉnh Cà Mau</fullName>
-      <slug>am-doi</slug>
+      <slug>dam-doi</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22381,7 +22381,7 @@
       <code>01090</code>
       <name>Cái Đôi Vàm</name>
       <fullName>Xã Cái Đôi Vàm, Tỉnh Cà Mau</fullName>
-      <slug>cai-oi-vam</slug>
+      <slug>cai-doi-vam</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22437,7 +22437,7 @@
       <code>01280</code>
       <name>Đất Mũi</name>
       <fullName>Xã Đất Mũi, Tỉnh Cà Mau</fullName>
-      <slug>at-mui</slug>
+      <slug>dat-mui</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22472,7 +22472,7 @@
       <code>01555</code>
       <name>Long Điền</name>
       <fullName>Xã Long Điền, Tỉnh Cà Mau</fullName>
-      <slug>long-ien</slug>
+      <slug>long-dien</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22486,7 +22486,7 @@
       <code>01689</code>
       <name>Đất Mới</name>
       <fullName>Xã Đất Mới, Tỉnh Cà Mau</fullName>
-      <slug>at-moi</slug>
+      <slug>dat-moi</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22563,7 +22563,7 @@
       <code>02059</code>
       <name>Đông Hải</name>
       <fullName>Xã Đông Hải, Tỉnh Cà Mau</fullName>
-      <slug>ong-hai</slug>
+      <slug>dong-hai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22668,7 +22668,7 @@
       <code>02706</code>
       <name>Định Thành</name>
       <fullName>Xã Định Thành, Tỉnh Cà Mau</fullName>
-      <slug>inh-thanh</slug>
+      <slug>dinh-thanh</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22797,7 +22797,7 @@
       <code>01820</code>
       <name>Đồng Văn</name>
       <fullName>Xã Đồng Văn, Tỉnh Tuyên Quang</fullName>
-      <slug>ong-van</slug>
+      <slug>dong-van</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22916,7 +22916,7 @@
       <code>02371</code>
       <name>Đồng Yên</name>
       <fullName>Xã Đồng Yên, Tỉnh Tuyên Quang</fullName>
-      <slug>ong-yen</slug>
+      <slug>dong-yen</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -22930,7 +22930,7 @@
       <code>02385</code>
       <name>Đông Thọ</name>
       <fullName>Xã Đông Thọ, Tỉnh Tuyên Quang</fullName>
-      <slug>ong-tho</slug>
+      <slug>dong-tho</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23091,7 +23091,7 @@
       <code>02631</code>
       <name>Đường Thượng</name>
       <fullName>Xã Đường Thượng, Tỉnh Tuyên Quang</fullName>
-      <slug>uong-thuong</slug>
+      <slug>duong-thuong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23133,7 +23133,7 @@
       <code>02724</code>
       <name>Bạch Đích</name>
       <fullName>Xã Bạch Đích, Tỉnh Tuyên Quang</fullName>
-      <slug>bach-ich</slug>
+      <slug>bach-dich</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23203,7 +23203,7 @@
       <code>02794</code>
       <name>Đường Hồng</name>
       <fullName>Xã Đường Hồng, Tỉnh Tuyên Quang</fullName>
-      <slug>uong-hong</slug>
+      <slug>duong-hong</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23280,7 +23280,7 @@
       <code>02874</code>
       <name>Đồng Tâm</name>
       <fullName>Xã Đồng Tâm, Tỉnh Tuyên Quang</fullName>
-      <slug>ong-tam</slug>
+      <slug>dong-tam</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23301,7 +23301,7 @@
       <code>02892</code>
       <name>Hùng Đức</name>
       <fullName>Xã Hùng Đức, Tỉnh Tuyên Quang</fullName>
-      <slug>hung-uc</slug>
+      <slug>hung-duc</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23371,7 +23371,7 @@
       <code>02966</code>
       <name>Kiên Đài</name>
       <fullName>Xã Kiên Đài, Tỉnh Tuyên Quang</fullName>
-      <slug>kien-ai</slug>
+      <slug>kien-dai</slug>
       <type>commune</type>
     </ward>
     <ward>
@@ -23441,7 +23441,7 @@
       <code>03068</code>
       <name>Ngọc Đường</name>
       <fullName>Xã Ngọc Đường, Tỉnh Tuyên Quang</fullName>
-      <slug>ngoc-uong</slug>
+      <slug>ngoc-duong</slug>
       <type>commune</type>
     </ward>
     <ward>

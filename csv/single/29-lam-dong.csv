@@ -1,9 +1,9 @@
 code,name,fullName,slug,type,provinceCode
-00112,"Xuân Hương - Đà Lạt","Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng",xuan-huong-a-lat,ward,29
+00112,"Xuân Hương - Đà Lạt","Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng",xuan-huong-da-lat,ward,29
 00162,"Phan Rí Cửa","Xã Phan Rí Cửa, Tỉnh Lâm Đồng",phan-ri-cua,commune,29
 00170,"Phan Thiết","Phường Phan Thiết, Tỉnh Lâm Đồng",phan-thiet,ward,29
-00171,"Đức Trọng","Xã Đức Trọng, Tỉnh Lâm Đồng",uc-trong,commune,29
-00266,"Lâm Viên - Đà Lạt","Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng",lam-vien-a-lat,ward,29
+00171,"Đức Trọng","Xã Đức Trọng, Tỉnh Lâm Đồng",duc-trong,commune,29
+00266,"Lâm Viên - Đà Lạt","Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng",lam-vien-da-lat,ward,29
 00276,"Liên Hương","Xã Liên Hương, Tỉnh Lâm Đồng",lien-huong,commune,29
 00335,"Di Linh","Xã Di Linh, Tỉnh Lâm Đồng",di-linh,commune,29
 00388,"La Gi","Phường La Gi, Tỉnh Lâm Đồng",la-gi,ward,29
@@ -14,45 +14,45 @@ code,name,fullName,slug,type,provinceCode
 00533,"B' Lao","Phường B' Lao, Tỉnh Lâm Đồng",b-lao,ward,29
 00540,"Bắc Bình","Xã Bắc Bình, Tỉnh Lâm Đồng",bac-binh,commune,29
 00542,"Hiệp Thạnh","Xã Hiệp Thạnh, Tỉnh Lâm Đồng",hiep-thanh,commune,29
-00546,"Đức Linh","Xã Đức Linh, Tỉnh Lâm Đồng",uc-linh,commune,29
+00546,"Đức Linh","Xã Đức Linh, Tỉnh Lâm Đồng",duc-linh,commune,29
 00560,"Hàm Thuận","Xã Hàm Thuận, Tỉnh Lâm Đồng",ham-thuan,commune,29
 00572,"Mũi Né","Phường Mũi Né, Tỉnh Lâm Đồng",mui-ne,ward,29
 00586,"Cư Jút","Xã Cư Jút, Tỉnh Lâm Đồng",cu-jut,commune,29
 00587,"2 Bảo Lộc","Phường 2 Bảo Lộc, Tỉnh Lâm Đồng",2-bao-loc,ward,29
 00590,"Phước Hội","Phường Phước Hội, Tỉnh Lâm Đồng",phuoc-hoi,ward,29
-00610,"Cam Ly - Đà Lạt","Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng",cam-ly-a-lat,ward,29
-00616,"Đinh Văn - Lâm Hà","Xã Đinh Văn - Lâm Hà, Tỉnh Lâm Đồng",inh-van-lam-ha,commune,29
-00620,"Đức Lập","Xã Đức Lập, Tỉnh Lâm Đồng",uc-lap,commune,29
+00610,"Cam Ly - Đà Lạt","Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng",cam-ly-da-lat,ward,29
+00616,"Đinh Văn - Lâm Hà","Xã Đinh Văn - Lâm Hà, Tỉnh Lâm Đồng",dinh-van-lam-ha,commune,29
+00620,"Đức Lập","Xã Đức Lập, Tỉnh Lâm Đồng",duc-lap,commune,29
 00633,"Bình Thuận","Phường Bình Thuận, Tỉnh Lâm Đồng",binh-thuan,ward,29
-00642,"Hoài Đức","Xã Hoài Đức, Tỉnh Lâm Đồng",hoai-uc,commune,29
+00642,"Hoài Đức","Xã Hoài Đức, Tỉnh Lâm Đồng",hoai-duc,commune,29
 00668,"Tánh Linh","Xã Tánh Linh, Tỉnh Lâm Đồng",tanh-linh,commune,29
-00715,"Đơn Dương","Xã Đơn Dương, Tỉnh Lâm Đồng",on-duong,commune,29
+00715,"Đơn Dương","Xã Đơn Dương, Tỉnh Lâm Đồng",don-duong,commune,29
 00745,"Bảo Lâm 1","Xã Bảo Lâm 1, Tỉnh Lâm Đồng",bao-lam-1,commune,29
-00910,"Langbiang - Đà Lạt","Phường Langbiang - Đà Lạt, Tỉnh Lâm Đồng",langbiang-a-lat,ward,29
+00910,"Langbiang - Đà Lạt","Phường Langbiang - Đà Lạt, Tỉnh Lâm Đồng",langbiang-da-lat,ward,29
 00955,"Tân Hà - Lâm Hà","Xã Tân Hà - Lâm Hà, Tỉnh Lâm Đồng",tan-ha-lam-ha,commune,29
-00958,"Kiến Đức","Xã Kiến Đức, Tỉnh Lâm Đồng",kien-uc,commune,29
+00958,"Kiến Đức","Xã Kiến Đức, Tỉnh Lâm Đồng",kien-duc,commune,29
 01019,"Bắc Gia Nghĩa","Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng",bac-gia-nghia,ward,29
 01033,"Nam Thành","Xã Nam Thành, Tỉnh Lâm Đồng",nam-thanh,commune,29
-01110,"Xuân Trường - Đà Lạt","Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng",xuan-truong-a-lat,ward,29
+01110,"Xuân Trường - Đà Lạt","Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng",xuan-truong-da-lat,ward,29
 01142,"Nam Dong","Xã Nam Dong, Tỉnh Lâm Đồng",nam-dong,commune,29
 01174,"Hàm Tân","Xã Hàm Tân, Tỉnh Lâm Đồng",ham-tan,commune,29
 01200,"Quảng Tín","Xã Quảng Tín, Tỉnh Lâm Đồng",quang-tin,commune,29
 01260,"D'Ran","Xã D'Ran, Tỉnh Lâm Đồng",dran,commune,29
-01289,"Đức An","Xã Đức An, Tỉnh Lâm Đồng",uc-an,commune,29
+01289,"Đức An","Xã Đức An, Tỉnh Lâm Đồng",duc-an,commune,29
 01295,"Bảo Lâm 2","Xã Bảo Lâm 2, Tỉnh Lâm Đồng",bao-lam-2,commune,29
 01311,"Bảo Lâm 3","Xã Bảo Lâm 3, Tỉnh Lâm Đồng",bao-lam-3,commune,29
 01322,"Hàm Thuận Nam","Xã Hàm Thuận Nam, Tỉnh Lâm Đồng",ham-thuan-nam,commune,29
 01326,"Nam Ban - Lâm Hà","Xã Nam Ban - Lâm Hà, Tỉnh Lâm Đồng",nam-ban-lam-ha,commune,29
 01354,"Phú Quý","Đặc khu Phú Quý, Tỉnh Lâm Đồng",phu-quy,commune,29
 01375,"Hòa Ninh","Xã Hòa Ninh, Tỉnh Lâm Đồng",hoa-ninh,commune,29
-01383,"Tuy Đức","Xã Tuy Đức, Tỉnh Lâm Đồng",tuy-uc,commune,29
-01398,"Đắk Mil","Xã Đắk Mil, Tỉnh Lâm Đồng",ak-mil,commune,29
+01383,"Tuy Đức","Xã Tuy Đức, Tỉnh Lâm Đồng",tuy-duc,commune,29
+01398,"Đắk Mil","Xã Đắk Mil, Tỉnh Lâm Đồng",dak-mil,commune,29
 01409,"Hàm Kiệm","Xã Hàm Kiệm, Tỉnh Lâm Đồng",ham-kiem,commune,29
 01421,"Tân Thành","Xã Tân Thành, Tỉnh Lâm Đồng",tan-thanh,commune,29
 01426,"Hàm Liêm","Xã Hàm Liêm, Tỉnh Lâm Đồng",ham-liem,commune,29
 01432,"Quảng Tân","Xã Quảng Tân, Tỉnh Lâm Đồng",quang-tan,commune,29
-01453,"Đồng Kho","Xã Đồng Kho, Tỉnh Lâm Đồng",ong-kho,commune,29
-01468,"Đạ Tẻh","Xã Đạ Tẻh, Tỉnh Lâm Đồng",a-teh,commune,29
+01453,"Đồng Kho","Xã Đồng Kho, Tỉnh Lâm Đồng",dong-kho,commune,29
+01468,"Đạ Tẻh","Xã Đạ Tẻh, Tỉnh Lâm Đồng",da-teh,commune,29
 01528,"Hồng Sơn","Xã Hồng Sơn, Tỉnh Lâm Đồng",hong-son,commune,29
 01529,"Hàm Thuận Bắc","Xã Hàm Thuận Bắc, Tỉnh Lâm Đồng",ham-thuan-bac,commune,29
 01548,"Trà Tân","Xã Trà Tân, Tỉnh Lâm Đồng",tra-tan,commune,29
@@ -60,8 +60,8 @@ code,name,fullName,slug,type,provinceCode
 01588,"Tân Hội","Xã Tân Hội, Tỉnh Lâm Đồng",tan-hoi,commune,29
 01602,"Tuyên Quang","Xã Tuyên Quang, Tỉnh Lâm Đồng",tuyen-quang,commune,29
 01638,"Tiến Thành","Phường Tiến Thành, Tỉnh Lâm Đồng",tien-thanh,ward,29
-01656,"Đắk Sắk","Xã Đắk Sắk, Tỉnh Lâm Đồng",ak-sak,commune,29
-01664,"Ka Đô","Xã Ka Đô, Tỉnh Lâm Đồng",ka-o,commune,29
+01656,"Đắk Sắk","Xã Đắk Sắk, Tỉnh Lâm Đồng",dak-sak,commune,29
+01664,"Ka Đô","Xã Ka Đô, Tỉnh Lâm Đồng",ka-do,commune,29
 01668,"Nhân Cơ","Xã Nhân Cơ, Tỉnh Lâm Đồng",nhan-co,commune,29
 01761,"Trường Xuân","Xã Trường Xuân, Tỉnh Lâm Đồng",truong-xuan,commune,29
 01780,"Sơn Mỹ","Xã Sơn Mỹ, Tỉnh Lâm Đồng",son-my,commune,29
@@ -69,23 +69,23 @@ code,name,fullName,slug,type,provinceCode
 01886,"Phú Sơn - Lâm Hà","Xã Phú Sơn - Lâm Hà, Tỉnh Lâm Đồng",phu-son-lam-ha,commune,29
 01891,"Hồng Thái","Xã Hồng Thái, Tỉnh Lâm Đồng",hong-thai,commune,29
 01907,"Quảng Lập","Xã Quảng Lập, Tỉnh Lâm Đồng",quang-lap,commune,29
-01953,"Đắk Wil","Xã Đắk Wil, Tỉnh Lâm Đồng",ak-wil,commune,29
-01968,"Đông Gia Nghĩa","Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng",ong-gia-nghia,ward,29
+01953,"Đắk Wil","Xã Đắk Wil, Tỉnh Lâm Đồng",dak-wil,commune,29
+01968,"Đông Gia Nghĩa","Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng",dong-gia-nghia,ward,29
 01988,"Lương Sơn","Xã Lương Sơn, Tỉnh Lâm Đồng",luong-son,commune,29
 02009,"Nam Gia Nghĩa","Phường Nam Gia Nghĩa, Tỉnh Lâm Đồng",nam-gia-nghia,ward,29
 02041,"Phúc Thọ - Lâm Hà","Xã Phúc Thọ - Lâm Hà, Tỉnh Lâm Đồng",phuc-tho-lam-ha,commune,29
-02055,"Đạ Huoai","Xã Đạ Huoai, Tỉnh Lâm Đồng",a-huoai,commune,29
+02055,"Đạ Huoai","Xã Đạ Huoai, Tỉnh Lâm Đồng",da-huoai,commune,29
 02062,"Tà Hine","Xã Tà Hine, Tỉnh Lâm Đồng",ta-hine,commune,29
-02089,"Tà Đùng","Xã Tà Đùng, Tỉnh Lâm Đồng",ta-ung,commune,29
+02089,"Tà Đùng","Xã Tà Đùng, Tỉnh Lâm Đồng",ta-dung,commune,29
 02095,"Krông Nô","Xã Krông Nô, Tỉnh Lâm Đồng",krong-no,commune,29
 02098,"Thuận An","Xã Thuận An, Tỉnh Lâm Đồng",thuan-an,commune,29
 02119,"Tân Minh","Xã Tân Minh, Tỉnh Lâm Đồng",tan-minh,commune,29
 02134,"Quảng Sơn","Xã Quảng Sơn, Tỉnh Lâm Đồng",quang-son,commune,29
-02165,"Nam Đà","Xã Nam Đà, Tỉnh Lâm Đồng",nam-a,commune,29
+02165,"Nam Đà","Xã Nam Đà, Tỉnh Lâm Đồng",nam-da,commune,29
 02169,"Gia Hiệp","Xã Gia Hiệp, Tỉnh Lâm Đồng",gia-hiep,commune,29
 02183,"Sông Lũy","Xã Sông Lũy, Tỉnh Lâm Đồng",song-luy,commune,29
-02220,"Nghị Đức","Xã Nghị Đức, Tỉnh Lâm Đồng",nghi-uc,commune,29
-02229,"Đinh Trang Thượng","Xã Đinh Trang Thượng, Tỉnh Lâm Đồng",inh-trang-thuong,commune,29
+02220,"Nghị Đức","Xã Nghị Đức, Tỉnh Lâm Đồng",nghi-duc,commune,29
+02229,"Đinh Trang Thượng","Xã Đinh Trang Thượng, Tỉnh Lâm Đồng",dinh-trang-thuong,commune,29
 02263,"Hòa Bắc","Xã Hòa Bắc, Tỉnh Lâm Đồng",hoa-bac,commune,29
 02275,"Cát Tiên","Xã Cát Tiên, Tỉnh Lâm Đồng",cat-tien,commune,29
 02281,"Nâm Nung","Xã Nâm Nung, Tỉnh Lâm Đồng",nam-nung,commune,29
@@ -95,21 +95,21 @@ code,name,fullName,slug,type,provinceCode
 02333,"Bắc Ruộng","Xã Bắc Ruộng, Tỉnh Lâm Đồng",bac-ruong,commune,29
 02406,"Quảng Khê","Xã Quảng Khê, Tỉnh Lâm Đồng",quang-khe,commune,29
 02423,"Quảng Phú","Xã Quảng Phú, Tỉnh Lâm Đồng",quang-phu,commune,29
-02445,"Đam Rông 1","Xã Đam Rông 1, Tỉnh Lâm Đồng",am-rong-1,commune,29
-02452,"Đam Rông 4","Xã Đam Rông 4, Tỉnh Lâm Đồng",am-rong-4,commune,29
+02445,"Đam Rông 1","Xã Đam Rông 1, Tỉnh Lâm Đồng",dam-rong-1,commune,29
+02452,"Đam Rông 4","Xã Đam Rông 4, Tỉnh Lâm Đồng",dam-rong-4,commune,29
 02484,"Suối Kiết","Xã Suối Kiết, Tỉnh Lâm Đồng",suoi-kiet,commune,29
 02504,"Ninh Gia","Xã Ninh Gia, Tỉnh Lâm Đồng",ninh-gia,commune,29
 02506,"Hàm Thạnh","Xã Hàm Thạnh, Tỉnh Lâm Đồng",ham-thanh,commune,29
-02507,"Đam Rông 2","Xã Đam Rông 2, Tỉnh Lâm Đồng",am-rong-2,commune,29
-02544,"Đam Rông 3","Xã Đam Rông 3, Tỉnh Lâm Đồng",am-rong-3,commune,29
+02507,"Đam Rông 2","Xã Đam Rông 2, Tỉnh Lâm Đồng",dam-rong-2,commune,29
+02544,"Đam Rông 3","Xã Đam Rông 3, Tỉnh Lâm Đồng",dam-rong-3,commune,29
 02563,"Vĩnh Hảo","Xã Vĩnh Hảo, Tỉnh Lâm Đồng",vinh-hao,commune,29
 02587,"Cát Tiên 2","Xã Cát Tiên 2, Tỉnh Lâm Đồng",cat-tien-2,commune,29
-02596,"Đạ Huoai 2","Xã Đạ Huoai 2, Tỉnh Lâm Đồng",a-huoai-2,commune,29
+02596,"Đạ Huoai 2","Xã Đạ Huoai 2, Tỉnh Lâm Đồng",da-huoai-2,commune,29
 02597,"Lạc Dương","Xã Lạc Dương, Tỉnh Lâm Đồng",lac-duong,commune,29
-02619,"Đạ Tẻh 2","Xã Đạ Tẻh 2, Tỉnh Lâm Đồng",a-teh-2,commune,29
+02619,"Đạ Tẻh 2","Xã Đạ Tẻh 2, Tỉnh Lâm Đồng",da-teh-2,commune,29
 02705,"Tà Năng","Xã Tà Năng, Tỉnh Lâm Đồng",ta-nang,commune,29
-02726,"Đắk song","Xã Đắk song, Tỉnh Lâm Đồng",ak-song,commune,29
-02793,"Đạ Tẻh 3","Xã Đạ Tẻh 3, Tỉnh Lâm Đồng",a-teh-3,commune,29
+02726,"Đắk song","Xã Đắk song, Tỉnh Lâm Đồng",dak-song,commune,29
+02793,"Đạ Tẻh 3","Xã Đạ Tẻh 3, Tỉnh Lâm Đồng",da-teh-3,commune,29
 02797,"Bảo Lâm 5","Xã Bảo Lâm 5, Tỉnh Lâm Đồng",bao-lam-5,commune,29
 02799,"Hòa Thắng","Xã Hòa Thắng, Tỉnh Lâm Đồng",hoa-thang,commune,29
 02826,"Quảng Trực","Xã Quảng Trực, Tỉnh Lâm Đồng",quang-truc,commune,29
@@ -120,6 +120,6 @@ code,name,fullName,slug,type,provinceCode
 02963,"La Dạ","Xã La Dạ, Tỉnh Lâm Đồng",la-da,commune,29
 03021,"Quảng Hòa","Xã Quảng Hòa, Tỉnh Lâm Đồng",quang-hoa,commune,29
 03089,"Phan Sơn","Xã Phan Sơn, Tỉnh Lâm Đồng",phan-son,commune,29
-03103,"Sơn Điền","Xã Sơn Điền, Tỉnh Lâm Đồng",son-ien,commune,29
-03153,"Đạ Huoai 3","Xã Đạ Huoai 3, Tỉnh Lâm Đồng",a-huoai-3,commune,29
-03254,"Đông Giang","Xã Đông Giang, Tỉnh Lâm Đồng",ong-giang,commune,29
+03103,"Sơn Điền","Xã Sơn Điền, Tỉnh Lâm Đồng",son-dien,commune,29
+03153,"Đạ Huoai 3","Xã Đạ Huoai 3, Tỉnh Lâm Đồng",da-huoai-3,commune,29
+03254,"Đông Giang","Xã Đông Giang, Tỉnh Lâm Đồng",dong-giang,commune,29

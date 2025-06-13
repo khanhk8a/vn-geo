@@ -1,13 +1,13 @@
 code,name,fullName,slug,type,provinceCode
 00145,"Thành Sen","Phường Thành Sen, Tỉnh Hà Tĩnh",thanh-sen,ward,17
-00840,"Đức Thịnh","Xã Đức Thịnh, Tỉnh Hà Tĩnh",uc-thinh,commune,17
+00840,"Đức Thịnh","Xã Đức Thịnh, Tỉnh Hà Tĩnh",duc-thinh,commune,17
 00852,"Can Lộc","Xã Can Lộc, Tỉnh Hà Tĩnh",can-loc,commune,17
 00860,"Lộc Hà","Xã Lộc Hà, Tỉnh Hà Tĩnh",loc-ha,commune,17
-00909,"Đức Thọ","Xã Đức Thọ, Tỉnh Hà Tĩnh",uc-tho,commune,17
+00909,"Đức Thọ","Xã Đức Thọ, Tỉnh Hà Tĩnh",duc-tho,commune,17
 00988,"Trần Phú","Phường Trần Phú, Tỉnh Hà Tĩnh",tran-phu,ward,17
 01032,"Nghi Xuân","Xã Nghi Xuân, Tỉnh Hà Tĩnh",nghi-xuan,commune,17
 01043,"Sông Trí","Phường Sông Trí, Tỉnh Hà Tĩnh",song-tri,ward,17
-01194,"Cổ Đạm","Xã Cổ Đạm, Tỉnh Hà Tĩnh",co-am,commune,17
+01194,"Cổ Đạm","Xã Cổ Đạm, Tỉnh Hà Tĩnh",co-dam,commune,17
 01235,"Cẩm Xuyên","Xã Cẩm Xuyên, Tỉnh Hà Tĩnh",cam-xuyen,commune,17
 01303,"Thiên Cầm","Xã Thiên Cầm, Tỉnh Hà Tĩnh",thien-cam,commune,17
 01330,"Kỳ Anh","Xã Kỳ Anh, Tỉnh Hà Tĩnh",ky-anh,commune,17
@@ -18,11 +18,11 @@ code,name,fullName,slug,type,provinceCode
 01610,"Hà Huy Tập","Phường Hà Huy Tập, Tỉnh Hà Tĩnh",ha-huy-tap,ward,17
 01612,"Bắc Hồng Lĩnh","Phường Bắc Hồng Lĩnh, Tỉnh Hà Tĩnh",bac-hong-linh,ward,17
 01628,"Gia Hanh","Xã Gia Hanh, Tỉnh Hà Tĩnh",gia-hanh,commune,17
-01650,"Đan Hải","Xã Đan Hải, Tỉnh Hà Tĩnh",an-hai,commune,17
-01681,"Đồng Lộc","Xã Đồng Lộc, Tỉnh Hà Tĩnh",ong-loc,commune,17
+01650,"Đan Hải","Xã Đan Hải, Tỉnh Hà Tĩnh",dan-hai,commune,17
+01681,"Đồng Lộc","Xã Đồng Lộc, Tỉnh Hà Tĩnh",dong-loc,commune,17
 01861,"Xuân Lộc","Xã Xuân Lộc, Tỉnh Hà Tĩnh",xuan-loc,commune,17
 01874,"Cẩm Bình","Xã Cẩm Bình, Tỉnh Hà Tĩnh",cam-binh,commune,17
-01911,"Tiên Điền","Xã Tiên Điền, Tỉnh Hà Tĩnh",tien-ien,commune,17
+01911,"Tiên Điền","Xã Tiên Điền, Tỉnh Hà Tĩnh",tien-dien,commune,17
 01990,"Cẩm Duệ","Xã Cẩm Duệ, Tỉnh Hà Tĩnh",cam-due,commune,17
 01999,"Kỳ Khang","Xã Kỳ Khang, Tỉnh Hà Tĩnh",ky-khang,commune,17
 02014,"Kỳ Xuân","Xã Kỳ Xuân, Tỉnh Hà Tĩnh",ky-xuan,commune,17
@@ -31,7 +31,7 @@ code,name,fullName,slug,type,provinceCode
 02138,"Cẩm Hưng","Xã Cẩm Hưng, Tỉnh Hà Tĩnh",cam-hung,commune,17
 02178,"Vũng Áng","Phường Vũng Áng, Tỉnh Hà Tĩnh",vung-ang,ward,17
 02204,"Hoành Sơn","Phường Hoành Sơn, Tỉnh Hà Tĩnh",hoanh-son,ward,17
-02205,"Đông Kinh","Xã Đông Kinh, Tỉnh Hà Tĩnh",ong-kinh,commune,17
+02205,"Đông Kinh","Xã Đông Kinh, Tỉnh Hà Tĩnh",dong-kinh,commune,17
 02208,"Tùng Lộc","Xã Tùng Lộc, Tỉnh Hà Tĩnh",tung-loc,commune,17
 02210,"Sơn Tiến","Xã Sơn Tiến, Tỉnh Hà Tĩnh",son-tien,commune,17
 02234,"Hải Ninh","Phường Hải Ninh, Tỉnh Hà Tĩnh",hai-ninh,ward,17
@@ -41,16 +41,16 @@ code,name,fullName,slug,type,provinceCode
 02318,"Kim Hoa","Xã Kim Hoa, Tỉnh Hà Tĩnh",kim-hoa,commune,17
 02329,"Sơn Giang","Xã Sơn Giang, Tỉnh Hà Tĩnh",son-giang,commune,17
 02344,"Toàn Lưu","Xã Toàn Lưu, Tỉnh Hà Tĩnh",toan-luu,commune,17
-02347,"Đức Minh","Xã Đức Minh, Tỉnh Hà Tĩnh",uc-minh,commune,17
+02347,"Đức Minh","Xã Đức Minh, Tỉnh Hà Tĩnh",duc-minh,commune,17
 02353,"Hương Phố","Xã Hương Phố, Tỉnh Hà Tĩnh",huong-pho,commune,17
-02355,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Hà Tĩnh",ong-tien,commune,17
+02355,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Hà Tĩnh",dong-tien,commune,17
 02379,"Phúc Trạch","Xã Phúc Trạch, Tỉnh Hà Tĩnh",phuc-trach,commune,17
 02411,"Kỳ Văn","Xã Kỳ Văn, Tỉnh Hà Tĩnh",ky-van,commune,17
 02413,"Thạch Lạc","Xã Thạch Lạc, Tỉnh Hà Tĩnh",thach-lac,commune,17
 02420,"Yên Hòa","Xã Yên Hòa, Tỉnh Hà Tĩnh",yen-hoa,commune,17
 02426,"Hương Bình","Xã Hương Bình, Tỉnh Hà Tĩnh",huong-binh,commune,17
 02427,"Thạch Khê","Xã Thạch Khê, Tỉnh Hà Tĩnh",thach-khe,commune,17
-02429,"Đức Quang","Xã Đức Quang, Tỉnh Hà Tĩnh",uc-quang,commune,17
+02429,"Đức Quang","Xã Đức Quang, Tỉnh Hà Tĩnh",duc-quang,commune,17
 02435,"Hương Xuân","Xã Hương Xuân, Tỉnh Hà Tĩnh",huong-xuan,commune,17
 02459,"Hồng Lộc","Xã Hồng Lộc, Tỉnh Hà Tĩnh",hong-loc,commune,17
 02461,"Việt Xuyên","Xã Việt Xuyên, Tỉnh Hà Tĩnh",viet-xuyen,commune,17
@@ -59,11 +59,11 @@ code,name,fullName,slug,type,provinceCode
 02546,"Kỳ Thượng","Xã Kỳ Thượng, Tỉnh Hà Tĩnh",ky-thuong,commune,17
 02591,"Vũ Quang","Xã Vũ Quang, Tỉnh Hà Tĩnh",vu-quang,commune,17
 02610,"Sơn Tây","Xã Sơn Tây, Tỉnh Hà Tĩnh",son-tay,commune,17
-02639,"Hương Đô","Xã Hương Đô, Tỉnh Hà Tĩnh",huong-o,commune,17
+02639,"Hương Đô","Xã Hương Đô, Tỉnh Hà Tĩnh",huong-do,commune,17
 02717,"Kỳ Lạc","Xã Kỳ Lạc, Tỉnh Hà Tĩnh",ky-lac,commune,17
 02733,"Hà Linh","Xã Hà Linh, Tỉnh Hà Tĩnh",ha-linh,commune,17
-02801,"Đức Đồng","Xã Đức Đồng, Tỉnh Hà Tĩnh",uc-ong,commune,17
+02801,"Đức Đồng","Xã Đức Đồng, Tỉnh Hà Tĩnh",duc-dong,commune,17
 02835,"Mai Hoa","Xã Mai Hoa, Tỉnh Hà Tĩnh",mai-hoa,commune,17
-02918,"Thượng Đức","Xã Thượng Đức, Tỉnh Hà Tĩnh",thuong-uc,commune,17
+02918,"Thượng Đức","Xã Thượng Đức, Tỉnh Hà Tĩnh",thuong-duc,commune,17
 03034,"Sơn Hồng","Xã Sơn Hồng, Tỉnh Hà Tĩnh",son-hong,commune,17
 03215,"Sơn Kim 1","Xã Sơn Kim 1, Tỉnh Hà Tĩnh",son-kim-1,commune,17

@@ -4,10 +4,10 @@ code,name,fullName,slug,type,provinceCode
 00208,"Quảng Phú","Phường Quảng Phú, Tỉnh Thanh Hoá",quang-phu,ward,07
 00279,"Vạn Lộc","Xã Vạn Lộc, Tỉnh Thanh Hoá",van-loc,commune,07
 00349,"Hàm Rồng","Phường Hàm Rồng, Tỉnh Thanh Hoá",ham-rong,ward,07
-00376,"Đông Quang","Phường Đông Quang, Tỉnh Thanh Hoá",ong-quang,ward,07
-00410,"Đông Sơn","Phường Đông Sơn, Tỉnh Thanh Hoá",ong-son,ward,07
+00376,"Đông Quang","Phường Đông Quang, Tỉnh Thanh Hoá",dong-quang,ward,07
+00410,"Đông Sơn","Phường Đông Sơn, Tỉnh Thanh Hoá",dong-son,ward,07
 00415,"Tĩnh Gia","Phường Tĩnh Gia, Tỉnh Thanh Hoá",tinh-gia,ward,07
-00426,"Đông Tiến","Phường Đông Tiến, Tỉnh Thanh Hoá",ong-tien,ward,07
+00426,"Đông Tiến","Phường Đông Tiến, Tỉnh Thanh Hoá",dong-tien,ward,07
 00474,"Triệu Sơn","Xã Triệu Sơn, Tỉnh Thanh Hoá",trieu-son,commune,07
 00568,"Nông Cống","Xã Nông Cống, Tỉnh Thanh Hoá",nong-cong,commune,07
 00611,"Thiệu Hóa","Xã Thiệu Hóa, Tỉnh Thanh Hoá",thieu-hoa,commune,07
@@ -24,7 +24,7 @@ code,name,fullName,slug,type,provinceCode
 00913,"Thọ Phú","Xã Thọ Phú, Tỉnh Thanh Hoá",tho-phu,commune,07
 00929,"Thạch Bình","Xã Thạch Bình, Tỉnh Thanh Hoá",thach-binh,commune,07
 00933,"Ngọc Lặc","Xã Ngọc Lặc, Tỉnh Thanh Hoá",ngoc-lac,commune,07
-00977,"Yên Định","Xã Yên Định, Tỉnh Thanh Hoá",yen-inh,commune,07
+00977,"Yên Định","Xã Yên Định, Tỉnh Thanh Hoá",yen-dinh,commune,07
 00990,"Hoằng Thanh","Xã Hoằng Thanh, Tỉnh Thanh Hoá",hoang-thanh,commune,07
 01007,"Quảng Bình","Xã Quảng Bình, Tỉnh Thanh Hoá",quang-binh,commune,07
 01029,"Nam Sầm Sơn","Phường Nam Sầm Sơn, Tỉnh Thanh Hoá",nam-sam-son,ward,07
@@ -50,7 +50,7 @@ code,name,fullName,slug,type,provinceCode
 01438,"Thọ Long","Xã Thọ Long, Tỉnh Thanh Hoá",tho-long,commune,07
 01463,"Quảng Chính","Xã Quảng Chính, Tỉnh Thanh Hoá",quang-chinh,commune,07
 01478,"Cẩm Thủy","Xã Cẩm Thủy, Tỉnh Thanh Hoá",cam-thuy,commune,07
-01494,"Đông Thành","Xã Đông Thành, Tỉnh Thanh Hoá",ong-thanh,commune,07
+01494,"Đông Thành","Xã Đông Thành, Tỉnh Thanh Hoá",dong-thanh,commune,07
 01504,"Hà Trung","Xã Hà Trung, Tỉnh Thanh Hoá",ha-trung,commune,07
 01526,"Thiệu Toán","Xã Thiệu Toán, Tỉnh Thanh Hoá",thieu-toan,commune,07
 01540,"Hoằng Tiến","Xã Hoằng Tiến, Tỉnh Thanh Hoá",hoang-tien,commune,07
@@ -61,14 +61,14 @@ code,name,fullName,slug,type,provinceCode
 01611,"Tống Sơn","Xã Tống Sơn, Tỉnh Thanh Hoá",tong-son,commune,07
 01614,"An Nông","Xã An Nông, Tỉnh Thanh Hoá",an-nong,commune,07
 01623,"Quý Lộc","Xã Quý Lộc, Tỉnh Thanh Hoá",quy-loc,commune,07
-01634,"Định Hòa","Xã Định Hòa, Tỉnh Thanh Hoá",inh-hoa,commune,07
-01635,"Định Tân","Xã Định Tân, Tỉnh Thanh Hoá",inh-tan,commune,07
+01634,"Định Hòa","Xã Định Hòa, Tỉnh Thanh Hoá",dinh-hoa,commune,07
+01635,"Định Tân","Xã Định Tân, Tỉnh Thanh Hoá",dinh-tan,commune,07
 01667,"Thắng Lợi","Xã Thắng Lợi, Tỉnh Thanh Hoá",thang-loi,commune,07
 01671,"Thọ Lập","Xã Thọ Lập, Tỉnh Thanh Hoá",tho-lap,commune,07
 01683,"Ngọc Liên","Xã Ngọc Liên, Tỉnh Thanh Hoá",ngoc-lien,commune,07
 01685,"Quảng Yên","Xã Quảng Yên, Tỉnh Thanh Hoá",quang-yen,commune,07
 01701,"Hoằng Sơn","Xã Hoằng Sơn, Tỉnh Thanh Hoá",hoang-son,commune,07
-01710,"Tây Đô","Xã Tây Đô, Tỉnh Thanh Hoá",tay-o,commune,07
+01710,"Tây Đô","Xã Tây Đô, Tỉnh Thanh Hoá",tay-do,commune,07
 01711,"Tân Ninh","Xã Tân Ninh, Tỉnh Thanh Hoá",tan-ninh,commune,07
 01741,"Hồ Vương","Xã Hồ Vương, Tỉnh Thanh Hoá",ho-vuong,commune,07
 01746,"Thành Vinh","Xã Thành Vinh, Tỉnh Thanh Hoá",thanh-vinh,commune,07
@@ -78,7 +78,7 @@ code,name,fullName,slug,type,provinceCode
 01788,"Xuân Tín","Xã Xuân Tín, Tỉnh Thanh Hoá",xuan-tin,commune,07
 01795,"Triệu Lộc","Xã Triệu Lộc, Tỉnh Thanh Hoá",trieu-loc,commune,07
 01804,"Như Thanh","Xã Như Thanh, Tỉnh Thanh Hoá",nhu-thanh,commune,07
-01805,"Đào Duy Tư","Phường Đào Duy Tư, Tỉnh Thanh Hoá",ao-duy-tu,ward,07
+01805,"Đào Duy Tư","Phường Đào Duy Tư, Tỉnh Thanh Hoá",dao-duy-tu,ward,07
 01818,"Cẩm Tú","Xã Cẩm Tú, Tỉnh Thanh Hoá",cam-tu,commune,07
 01869,"Thiệu Tiến","Xã Thiệu Tiến, Tỉnh Thanh Hoá",thieu-tien,commune,07
 01900,"Nga An","Xã Nga An, Tỉnh Thanh Hoá",nga-an,commune,07
@@ -92,7 +92,7 @@ code,name,fullName,slug,type,provinceCode
 02044,"Hà Long","Xã Hà Long, Tỉnh Thanh Hoá",ha-long,commune,07
 02061,"Yên Thọ","Xã Yên Thọ, Tỉnh Thanh Hoá",yen-tho,commune,07
 02063,"Hoằng Phú","Xã Hoằng Phú, Tỉnh Thanh Hoá",hoang-phu,commune,07
-02067,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Thanh Hoá",ong-tien,commune,07
+02067,"Đồng Tiến","Xã Đồng Tiến, Tỉnh Thanh Hoá",dong-tien,commune,07
 02078,"Cẩm Vân","Xã Cẩm Vân, Tỉnh Thanh Hoá",cam-van,commune,07
 02116,"Xuân Du","Xã Xuân Du, Tỉnh Thanh Hoá",xuan-du,commune,07
 02124,"Kiên Thọ","Xã Kiên Thọ, Tỉnh Thanh Hoá",kien-tho,commune,07
@@ -104,14 +104,14 @@ code,name,fullName,slug,type,provinceCode
 02170,"Các Sơn","Xã Các Sơn, Tỉnh Thanh Hoá",cac-son,commune,07
 02173,"Bá Thước","Xã Bá Thước, Tỉnh Thanh Hoá",ba-thuoc,commune,07
 02197,"Cẩm Tân","Xã Cẩm Tân, Tỉnh Thanh Hoá",cam-tan,commune,07
-02202,"Điền Lư","Xã Điền Lư, Tỉnh Thanh Hoá",ien-lu,commune,07
-02223,"Ba Đình","Xã Ba Đình, Tỉnh Thanh Hoá",ba-inh,commune,07
+02202,"Điền Lư","Xã Điền Lư, Tỉnh Thanh Hoá",dien-lu,commune,07
+02223,"Ba Đình","Xã Ba Đình, Tỉnh Thanh Hoá",ba-dinh,commune,07
 02295,"Thạch Lập","Xã Thạch Lập, Tỉnh Thanh Hoá",thach-lap,commune,07
 02336,"Mậu Lâm","Xã Mậu Lâm, Tỉnh Thanh Hoá",mau-lam,commune,07
 02361,"Thọ Bình","Xã Thọ Bình, Tỉnh Thanh Hoá",tho-binh,commune,07
 02370,"Hải Lĩnh","Phường Hải Lĩnh, Tỉnh Thanh Hoá",hai-linh,ward,07
 02393,"Tượng Lĩnh","Xã Tượng Lĩnh, Tỉnh Thanh Hoá",tuong-linh,commune,07
-02486,"Điền Quang","Xã Điền Quang, Tỉnh Thanh Hoá",ien-quang,commune,07
+02486,"Điền Quang","Xã Điền Quang, Tỉnh Thanh Hoá",dien-quang,commune,07
 02498,"Xuân Bình","Xã Xuân Bình, Tỉnh Thanh Hoá",xuan-binh,commune,07
 02526,"Luận Thành","Xã Luận Thành, Tỉnh Thanh Hoá",luan-thanh,commune,07
 02552,"Thạch Quảng","Xã Thạch Quảng, Tỉnh Thanh Hoá",thach-quang,commune,07
@@ -125,7 +125,7 @@ code,name,fullName,slug,type,provinceCode
 02747,"Linh Sơn","Xã Linh Sơn, Tỉnh Thanh Hoá",linh-son,commune,07
 02770,"Thanh Quân","Xã Thanh Quân, Tỉnh Thanh Hoá",thanh-quan,commune,07
 02780,"Hóa Quỳ","Xã Hóa Quỳ, Tỉnh Thanh Hoá",hoa-quy,commune,07
-02783,"Đồng Lương","Xã Đồng Lương, Tỉnh Thanh Hoá",ong-luong,commune,07
+02783,"Đồng Lương","Xã Đồng Lương, Tỉnh Thanh Hoá",dong-luong,commune,07
 02884,"Hồi Xuân","Xã Hồi Xuân, Tỉnh Thanh Hoá",hoi-xuan,commune,07
 02910,"Văn Nho","Xã Văn Nho, Tỉnh Thanh Hoá",van-nho,commune,07
 02938,"Cổ Lũng","Xã Cổ Lũng, Tỉnh Thanh Hoá",co-lung,commune,07
@@ -154,7 +154,7 @@ code,name,fullName,slug,type,provinceCode
 03234,"Yên Khương","Xã Yên Khương, Tỉnh Thanh Hoá",yen-khuong,commune,07
 03237,"Trung Thành","Xã Trung Thành, Tỉnh Thanh Hoá",trung-thanh,commune,07
 03251,"Phú Xuân","Xã Phú Xuân, Tỉnh Thanh Hoá",phu-xuan,commune,07
-03258,"Sơn Điện","Xã Sơn Điện, Tỉnh Thanh Hoá",son-ien,commune,07
+03258,"Sơn Điện","Xã Sơn Điện, Tỉnh Thanh Hoá",son-dien,commune,07
 03271,"Tam chung","Xã Tam chung, Tỉnh Thanh Hoá",tam-chung,commune,07
 03276,"Xuân Thái","Xã Xuân Thái, Tỉnh Thanh Hoá",xuan-thai,commune,07
 03282,"Tam Thanh","Xã Tam Thanh, Tỉnh Thanh Hoá",tam-thanh,commune,07

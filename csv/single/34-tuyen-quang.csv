@@ -11,7 +11,7 @@ code,name,fullName,slug,type,provinceCode
 01645,"Sơn Thuỷ","Xã Sơn Thuỷ, Tỉnh Tuyên Quang",son-thuy,commune,34
 01719,"Phú Lương","Xã Phú Lương, Tỉnh Tuyên Quang",phu-luong,commune,34
 01785,"Yên Minh","Xã Yên Minh, Tỉnh Tuyên Quang",yen-minh,commune,34
-01820,"Đồng Văn","Xã Đồng Văn, Tỉnh Tuyên Quang",ong-van,commune,34
+01820,"Đồng Văn","Xã Đồng Văn, Tỉnh Tuyên Quang",dong-van,commune,34
 01955,"Bình Ca","Xã Bình Ca, Tỉnh Tuyên Quang",binh-ca,commune,34
 01989,"Vị Xuyên","Xã Vị Xuyên, Tỉnh Tuyên Quang",vi-xuyen,commune,34
 02085,"Khâu Vai","Xã Khâu Vai, Tỉnh Tuyên Quang",khau-vai,commune,34
@@ -28,9 +28,9 @@ code,name,fullName,slug,type,provinceCode
 02338,"Tân Thanh","Xã Tân Thanh, Tỉnh Tuyên Quang",tan-thanh,commune,34
 02354,"Bình Thuận","Phường Bình Thuận, Tỉnh Tuyên Quang",binh-thuan,ward,34
 02366,"Quản Bạ","Xã Quản Bạ, Tỉnh Tuyên Quang",quan-ba,commune,34
-02371,"Đồng Yên","Xã Đồng Yên, Tỉnh Tuyên Quang",ong-yen,commune,34
+02371,"Đồng Yên","Xã Đồng Yên, Tỉnh Tuyên Quang",dong-yen,commune,34
 02372,"Thái Hoà","Xã Thái Hoà, Tỉnh Tuyên Quang",thai-hoa,commune,34
-02385,"Đông Thọ","Xã Đông Thọ, Tỉnh Tuyên Quang",ong-tho,commune,34
+02385,"Đông Thọ","Xã Đông Thọ, Tỉnh Tuyên Quang",dong-tho,commune,34
 02394,"Bình Xa","Xã Bình Xa, Tỉnh Tuyên Quang",binh-xa,commune,34
 02417,"Trường Sinh","Xã Trường Sinh, Tỉnh Tuyên Quang",truong-sinh,commune,34
 02438,"Nà Hang","Xã Nà Hang, Tỉnh Tuyên Quang",na-hang,commune,34
@@ -53,13 +53,13 @@ code,name,fullName,slug,type,provinceCode
 02583,"Lũng Cú","Xã Lũng Cú, Tỉnh Tuyên Quang",lung-cu,commune,34
 02598,"Tân Trào","Xã Tân Trào, Tỉnh Tuyên Quang",tan-trao,commune,34
 02602,"Yên Phú","Xã Yên Phú, Tỉnh Tuyên Quang",yen-phu,commune,34
-02631,"Đường Thượng","Xã Đường Thượng, Tỉnh Tuyên Quang",uong-thuong,commune,34
+02631,"Đường Thượng","Xã Đường Thượng, Tỉnh Tuyên Quang",duong-thuong,commune,34
 02642,"Tiên Yên","Xã Tiên Yên, Tỉnh Tuyên Quang",tien-yen,commune,34
 02672,"Thái Bình","Xã Thái Bình, Tỉnh Tuyên Quang",thai-binh,commune,34
 02689,"Minh Thanh","Xã Minh Thanh, Tỉnh Tuyên Quang",minh-thanh,commune,34
 02700,"Hoà An","Xã Hoà An, Tỉnh Tuyên Quang",hoa-an,commune,34
 02707,"Bắc Mê","Xã Bắc Mê, Tỉnh Tuyên Quang",bac-me,commune,34
-02724,"Bạch Đích","Xã Bạch Đích, Tỉnh Tuyên Quang",bach-ich,commune,34
+02724,"Bạch Đích","Xã Bạch Đích, Tỉnh Tuyên Quang",bach-dich,commune,34
 02738,"Sủng Máng","Xã Sủng Máng, Tỉnh Tuyên Quang",sung-mang,commune,34
 02749,"Tân Quang","Xã Tân Quang, Tỉnh Tuyên Quang",tan-quang,commune,34
 02753,"Lâm Bình","Xã Lâm Bình, Tỉnh Tuyên Quang",lam-binh,commune,34
@@ -69,7 +69,7 @@ code,name,fullName,slug,type,provinceCode
 02765,"Bằng Lang","Xã Bằng Lang, Tỉnh Tuyên Quang",bang-lang,commune,34
 02774,"Vĩnh Tuy","Xã Vĩnh Tuy, Tỉnh Tuyên Quang",vinh-tuy,commune,34
 02781,"Nấm Dẩn","Xã Nấm Dẩn, Tỉnh Tuyên Quang",nam-dan,commune,34
-02794,"Đường Hồng","Xã Đường Hồng, Tỉnh Tuyên Quang",uong-hong,commune,34
+02794,"Đường Hồng","Xã Đường Hồng, Tỉnh Tuyên Quang",duong-hong,commune,34
 02817,"Hồng Thái","Xã Hồng Thái, Tỉnh Tuyên Quang",hong-thai,commune,34
 02820,"Tùng Vài","Xã Tùng Vài, Tỉnh Tuyên Quang",tung-vai,commune,34
 02834,"Tân An","Xã Tân An, Tỉnh Tuyên Quang",tan-an,commune,34
@@ -80,10 +80,10 @@ code,name,fullName,slug,type,provinceCode
 02851,"Hùng Lợi","Xã Hùng Lợi, Tỉnh Tuyên Quang",hung-loi,commune,34
 02862,"Tân Trịnh","Xã Tân Trịnh, Tỉnh Tuyên Quang",tan-trinh,commune,34
 02873,"Quang Bình","Xã Quang Bình, Tỉnh Tuyên Quang",quang-binh,commune,34
-02874,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Tuyên Quang",ong-tam,commune,34
+02874,"Đồng Tâm","Xã Đồng Tâm, Tỉnh Tuyên Quang",dong-tam,commune,34
 02880,"Liên Hiệp","Xã Liên Hiệp, Tỉnh Tuyên Quang",lien-hiep,commune,34
 02889,"Tân Tiến","Xã Tân Tiến, Tỉnh Tuyên Quang",tan-tien,commune,34
-02892,"Hùng Đức","Xã Hùng Đức, Tỉnh Tuyên Quang",hung-uc,commune,34
+02892,"Hùng Đức","Xã Hùng Đức, Tỉnh Tuyên Quang",hung-duc,commune,34
 02900,"Yên Lập","Xã Yên Lập, Tỉnh Tuyên Quang",yen-lap,commune,34
 02903,"Bình An","Xã Bình An, Tỉnh Tuyên Quang",binh-an,commune,34
 02920,"Ngọc Long","Xã Ngọc Long, Tỉnh Tuyên Quang",ngoc-long,commune,34
@@ -93,7 +93,7 @@ code,name,fullName,slug,type,provinceCode
 02934,"Bản Máy","Xã Bản Máy, Tỉnh Tuyên Quang",ban-may,commune,34
 02936,"Yên Cường","Xã Yên Cường, Tỉnh Tuyên Quang",yen-cuong,commune,34
 02940,"Bạch Ngọc","Xã Bạch Ngọc, Tỉnh Tuyên Quang",bach-ngoc,commune,34
-02966,"Kiên Đài","Xã Kiên Đài, Tỉnh Tuyên Quang",kien-ai,commune,34
+02966,"Kiên Đài","Xã Kiên Đài, Tỉnh Tuyên Quang",kien-dai,commune,34
 02978,"Xuân Giang","Xã Xuân Giang, Tỉnh Tuyên Quang",xuan-giang,commune,34
 03013,"Hồ Thầu","Xã Hồ Thầu, Tỉnh Tuyên Quang",ho-thau,commune,34
 03017,"Tri Phú","Xã Tri Phú, Tỉnh Tuyên Quang",tri-phu,commune,34
@@ -103,7 +103,7 @@ code,name,fullName,slug,type,provinceCode
 03061,"Khuôn Lùng","Xã Khuôn Lùng, Tỉnh Tuyên Quang",khuon-lung,commune,34
 03066,"Thuận Hoà","Xã Thuận Hoà, Tỉnh Tuyên Quang",thuan-hoa,commune,34
 03067,"Minh Ngọc","Xã Minh Ngọc, Tỉnh Tuyên Quang",minh-ngoc,commune,34
-03068,"Ngọc Đường","Xã Ngọc Đường, Tỉnh Tuyên Quang",ngoc-uong,commune,34
+03068,"Ngọc Đường","Xã Ngọc Đường, Tỉnh Tuyên Quang",ngoc-duong,commune,34
 03072,"Tát Ngà","Xã Tát Ngà, Tỉnh Tuyên Quang",tat-nga,commune,34
 03074,"Minh Sơn","Xã Minh Sơn, Tỉnh Tuyên Quang",minh-son,commune,34
 03079,"Thàng Tín","Xã Thàng Tín, Tỉnh Tuyên Quang",thang-tin,commune,34

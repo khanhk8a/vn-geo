@@ -16,8 +16,8 @@ code,name,fullName,slug,type,provinceCode
 00448,"An Lạc Thôn","Xã An Lạc Thôn, Thành phố Cần Thơ",an-lac-thon,commune,32
 00464,"Trung Hưng","Xã Trung Hưng, Thành phố Cần Thơ",trung-hung,commune,32
 00501,"Thới Long","Phường Thới Long, Thành phố Cần Thơ",thoi-long,ward,32
-00505,"Trần Đề","Xã Trần Đề, Thành phố Cần Thơ",tran-e,commune,32
-00521,"Phong Điền","Xã Phong Điền, Thành phố Cần Thơ",phong-ien,commune,32
+00505,"Trần Đề","Xã Trần Đề, Thành phố Cần Thơ",tran-de,commune,32
+00521,"Phong Điền","Xã Phong Điền, Thành phố Cần Thơ",phong-dien,commune,32
 00523,"Vĩnh Phước","Phường Vĩnh Phước, Thành phố Cần Thơ",vinh-phuoc,ward,32
 00529,"Mỹ Xuyên","Phường Mỹ Xuyên, Thành phố Cần Thơ",my-xuyen,ward,32
 00537,"Mỹ Hương","Xã Mỹ Hương, Thành phố Cần Thơ",my-huong,commune,32
@@ -29,20 +29,20 @@ code,name,fullName,slug,type,provinceCode
 00685,"Xà Phiên","Xã Xà Phiên, Thành phố Cần Thơ",xa-phien,commune,32
 00711,"Long Tuyền","Phường Long Tuyền, Thành phố Cần Thơ",long-tuyen,ward,32
 00719,"Cù Lao Dung","Xã Cù Lao Dung, Thành phố Cần Thơ",cu-lao-dung,commune,32
-00766,"Đại Hải","Xã Đại Hải, Thành phố Cần Thơ",ai-hai,commune,32
+00766,"Đại Hải","Xã Đại Hải, Thành phố Cần Thơ",dai-hai,commune,32
 00779,"Kế Sách","Xã Kế Sách, Thành phố Cần Thơ",ke-sach,commune,32
 00795,"Vị Thanh 1","Xã Vị Thanh 1, Thành phố Cần Thơ",vi-thanh-1,commune,32
 00819,"Nhơn Mỹ","Xã Nhơn Mỹ, Thành phố Cần Thơ",nhon-my,commune,32
-00821,"Cờ Đỏ","Xã Cờ Đỏ, Thành phố Cần Thơ",co-o,commune,32
+00821,"Cờ Đỏ","Xã Cờ Đỏ, Thành phố Cần Thơ",co-do,commune,32
 00847,"Phú Hữu","Xã Phú Hữu, Thành phố Cần Thơ",phu-huu,commune,32
 00856,"Thạnh Xuân","Xã Thạnh Xuân, Thành phố Cần Thơ",thanh-xuan,commune,32
 00871,"Nhơn Ái","Xã Nhơn Ái, Thành phố Cần Thơ",nhon-ai,commune,32
 00897,"An Ninh","Xã An Ninh, Thành phố Cần Thơ",an-ninh,commune,32
 00903,"Gia Hòa","Xã Gia Hòa, Thành phố Cần Thơ",gia-hoa,commune,32
-00906,"Đông Phước","Xã Đông Phước, Thành phố Cần Thơ",ong-phuoc,commune,32
-00922,"Vĩnh Thuận Đông","Xã Vĩnh Thuận Đông, Thành phố Cần Thơ",vinh-thuan-ong,commune,32
+00906,"Đông Phước","Xã Đông Phước, Thành phố Cần Thơ",dong-phuoc,commune,32
+00922,"Vĩnh Thuận Đông","Xã Vĩnh Thuận Đông, Thành phố Cần Thơ",vinh-thuan-dong,commune,32
 00925,"Long Phú","Xã Long Phú, Thành phố Cần Thơ",long-phu,commune,32
-00937,"Thới An Đông","Phường Thới An Đông, Thành phố Cần Thơ",thoi-an-ong,ward,32
+00937,"Thới An Đông","Phường Thới An Đông, Thành phố Cần Thơ",thoi-an-dong,ward,32
 00949,"Thạnh Quới","Xã Thạnh Quới, Thành phố Cần Thơ",thanh-quoi,commune,32
 00950,"Châu Thành","Xã Châu Thành, Thành phố Cần Thơ",chau-thanh,commune,32
 00989,"Nhu Gia","Xã Nhu Gia, Thành phố Cần Thơ",nhu-gia,commune,32
@@ -61,7 +61,7 @@ code,name,fullName,slug,type,provinceCode
 01144,"Tân Lộc","Phường Tân Lộc, Thành phố Cần Thơ",tan-loc,ward,32
 01156,"Tân Long","Xã Tân Long, Thành phố Cần Thơ",tan-long,commune,32
 01196,"Trường Khánh","Xã Trường Khánh, Thành phố Cần Thơ",truong-khanh,commune,32
-01199,"Đại Thành","Phường Đại Thành, Thành phố Cần Thơ",ai-thanh,ward,32
+01199,"Đại Thành","Phường Đại Thành, Thành phố Cần Thơ",dai-thanh,ward,32
 01204,"Tài Văn","Xã Tài Văn, Thành phố Cần Thơ",tai-van,commune,32
 01238,"Phương Bình","Xã Phương Bình, Thành phố Cần Thơ",phuong-binh,commune,32
 01256,"Long Hưng","Xã Long Hưng, Thành phố Cần Thơ",long-hung,commune,32
@@ -75,7 +75,7 @@ code,name,fullName,slug,type,provinceCode
 01388,"Thới An Hội","Xã Thới An Hội, Thành phố Cần Thơ",thoi-an-hoi,commune,32
 01393,"Vĩnh Tường","Xã Vĩnh Tường, Thành phố Cần Thơ",vinh-tuong,commune,32
 01412,"Liêu Tú","Xã Liêu Tú, Thành phố Cần Thơ",lieu-tu,commune,32
-01419,"Hồ Đắc Kiện","Xã Hồ Đắc Kiện, Thành phố Cần Thơ",ho-ac-kien,commune,32
+01419,"Hồ Đắc Kiện","Xã Hồ Đắc Kiện, Thành phố Cần Thơ",ho-dac-kien,commune,32
 01471,"Thạnh An","Xã Thạnh An, Thành phố Cần Thơ",thanh-an,commune,32
 01479,"Vĩnh Thạnh","Xã Vĩnh Thạnh, Thành phố Cần Thơ",vinh-thanh,commune,32
 01492,"Long Phú 1","Phường Long Phú 1, Thành phố Cần Thơ",long-phu-1,ward,32
@@ -90,8 +90,8 @@ code,name,fullName,slug,type,provinceCode
 01834,"Tân Phước Hưng","Xã Tân Phước Hưng, Thành phố Cần Thơ",tan-phuoc-hung,commune,32
 01838,"Thạnh Phú","Xã Thạnh Phú, Thành phố Cần Thơ",thanh-phu,commune,32
 01873,"Trường Long Tây","Xã Trường Long Tây, Thành phố Cần Thơ",truong-long-tay,commune,32
-01928,"Đông Thuận","Xã Đông Thuận, Thành phố Cần Thơ",ong-thuan,commune,32
-01936,"Đại Ngãi","Xã Đại Ngãi, Thành phố Cần Thơ",ai-ngai,commune,32
+01928,"Đông Thuận","Xã Đông Thuận, Thành phố Cần Thơ",dong-thuan,commune,32
+01936,"Đại Ngãi","Xã Đại Ngãi, Thành phố Cần Thơ",dai-ngai,commune,32
 01940,"Hòa Tú","Xã Hòa Tú, Thành phố Cần Thơ",hoa-tu,commune,32
 01948,"Vĩnh Viễn","Xã Vĩnh Viễn, Thành phố Cần Thơ",vinh-vien,commune,32
 01957,"Vĩnh Lợi","Xã Vĩnh Lợi, Thành phố Cần Thơ",vinh-loi,commune,32
@@ -99,6 +99,6 @@ code,name,fullName,slug,type,provinceCode
 01977,"Trường Long","Xã Trường Long, Thành phố Cần Thơ",truong-long,commune,32
 01980,"Lương Tâm","Xã Lương Tâm, Thành phố Cần Thơ",luong-tam,commune,32
 02019,"Mỹ Phước","Xã Mỹ Phước, Thành phố Cần Thơ",my-phuoc,commune,32
-02084,"Đông Hiệp","Xã Đông Hiệp, Thành phố Cần Thơ",ong-hiep,commune,32
+02084,"Đông Hiệp","Xã Đông Hiệp, Thành phố Cần Thơ",dong-hiep,commune,32
 02322,"Thới Hưng","Xã Thới Hưng, Thành phố Cần Thơ",thoi-hung,commune,32
 03170,"Phong Nẫm","Xã Phong Nẫm, Thành phố Cần Thơ",phong-nam,commune,32

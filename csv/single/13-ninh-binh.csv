@@ -1,5 +1,5 @@
 code,name,fullName,slug,type,provinceCode
-00011,"Nam Định","Phường Nam Định, Tỉnh Ninh Bình",nam-inh,ward,13
+00011,"Nam Định","Phường Nam Định, Tỉnh Ninh Bình",nam-dinh,ward,13
 00036,"Hoa Lư","Phường Hoa Lư, Tỉnh Ninh Bình",hoa-lu,ward,13
 00261,"Xuân Trường","Xã Xuân Trường, Tỉnh Ninh Bình",xuan-truong,commune,13
 00287,"Trường Thi","Phường Trường Thi, Tỉnh Ninh Bình",truong-thi,ward,13
@@ -36,14 +36,14 @@ code,name,fullName,slug,type,provinceCode
 01049,"Phong Doanh","Xã Phong Doanh, Tỉnh Ninh Bình",phong-doanh,commune,13
 01106,"Vị Khê","Phường Vị Khê, Tỉnh Ninh Bình",vi-khe,ward,13
 01111,"Vĩnh Trụ","Xã Vĩnh Trụ, Tỉnh Ninh Bình",vinh-tru,commune,13
-01128,"Yên Đồng","Xã Yên Đồng, Tỉnh Ninh Bình",yen-ong,commune,13
+01128,"Yên Đồng","Xã Yên Đồng, Tỉnh Ninh Bình",yen-dong,commune,13
 01135,"Vạn Thắng","Xã Vạn Thắng, Tỉnh Ninh Bình",van-thang,commune,13
 01137,"Hồng Quang","Phường Hồng Quang, Tỉnh Ninh Bình",hong-quang,ward,13
 01162,"Yên Mô","Xã Yên Mô, Tỉnh Ninh Bình",yen-mo,commune,13
 01171,"Bình Lục","Xã Bình Lục, Tỉnh Ninh Bình",binh-luc,commune,13
 01186,"Tân Minh","Xã Tân Minh, Tỉnh Ninh Bình",tan-minh,commune,13
-01205,"Đồng Văn","Phường Đồng Văn, Tỉnh Ninh Bình",ong-van,ward,13
-01208,"Đông Hoa Lư","Phường Đông Hoa Lư, Tỉnh Ninh Bình",ong-hoa-lu,ward,13
+01205,"Đồng Văn","Phường Đồng Văn, Tỉnh Ninh Bình",dong-van,ward,13
+01208,"Đông Hoa Lư","Phường Đông Hoa Lư, Tỉnh Ninh Bình",dong-hoa-lu,ward,13
 01226,"Nam Xang","Xã Nam Xang, Tỉnh Ninh Bình",nam-xang,commune,13
 01249,"Giao Ninh","Xã Giao Ninh, Tỉnh Ninh Bình",giao-ninh,commune,13
 01259,"Hải Thịnh","Xã Hải Thịnh, Tỉnh Ninh Bình",hai-thinh,commune,13
@@ -59,14 +59,14 @@ code,name,fullName,slug,type,provinceCode
 01357,"Lý Nhân","Xã Lý Nhân, Tỉnh Ninh Bình",ly-nhan,commune,13
 01374,"Yên Từ","Xã Yên Từ, Tỉnh Ninh Bình",yen-tu,commune,13
 01380,"Nam Hồng","Xã Nam Hồng, Tỉnh Ninh Bình",nam-hong,commune,13
-01381,"Đông A","Phường Đông A, Tỉnh Ninh Bình",ong-a,ward,13
+01381,"Đông A","Phường Đông A, Tỉnh Ninh Bình",dong-a,ward,13
 01400,"Trung Sơn","Phường Trung Sơn, Tỉnh Ninh Bình",trung-son,ward,13
 01440,"Bình Minh","Xã Bình Minh, Tỉnh Ninh Bình",binh-minh,commune,13
 01442,"Thiên Trường","Phường Thiên Trường, Tỉnh Ninh Bình",thien-truong,ward,13
 01448,"Bắc Lý","Xã Bắc Lý, Tỉnh Ninh Bình",bac-ly,commune,13
 01449,"Nghĩa Lâm","Xã Nghĩa Lâm, Tỉnh Ninh Bình",nghia-lam,commune,13
-01450,"Rạng Đông","Xã Rạng Đông, Tỉnh Ninh Bình",rang-ong,commune,13
-01452,"Đồng Thịnh","Xã Đồng Thịnh, Tỉnh Ninh Bình",ong-thinh,commune,13
+01450,"Rạng Đông","Xã Rạng Đông, Tỉnh Ninh Bình",rang-dong,commune,13
+01452,"Đồng Thịnh","Xã Đồng Thịnh, Tỉnh Ninh Bình",dong-thinh,commune,13
 01458,"Thành Nam","Phường Thành Nam, Tỉnh Ninh Bình",thanh-nam,ward,13
 01519,"Hiển Khánh","Xã Hiển Khánh, Tỉnh Ninh Bình",hien-khanh,commune,13
 01520,"Minh Tân","Xã Minh Tân, Tỉnh Ninh Bình",minh-tan,commune,13
@@ -78,7 +78,7 @@ code,name,fullName,slug,type,provinceCode
 01613,"Lai Thành","Xã Lai Thành, Tỉnh Ninh Bình",lai-thanh,commune,13
 01616,"Nghĩa Sơn","Xã Nghĩa Sơn, Tỉnh Ninh Bình",nghia-son,commune,13
 01636,"Yên Thắng","Phường Yên Thắng, Tỉnh Ninh Bình",yen-thang,ward,13
-01639,"Nam Đồng","Xã Nam Đồng, Tỉnh Ninh Bình",nam-ong,commune,13
+01639,"Nam Đồng","Xã Nam Đồng, Tỉnh Ninh Bình",nam-dong,commune,13
 01642,"Duy Tân","Phường Duy Tân, Tỉnh Ninh Bình",duy-tan,ward,13
 01649,"Hồng Phong","Xã Hồng Phong, Tỉnh Ninh Bình",hong-phong,commune,13
 01660,"Giao Hưng","Xã Giao Hưng, Tỉnh Ninh Bình",giao-hung,commune,13
@@ -88,7 +88,7 @@ code,name,fullName,slug,type,provinceCode
 01742,"Tiên Sơn","Phường Tiên Sơn, Tỉnh Ninh Bình",tien-son,ward,13
 01752,"Hải An","Xã Hải An, Tỉnh Ninh Bình",hai-an,commune,13
 01758,"Quang Thiện","Xã Quang Thiện, Tỉnh Ninh Bình",quang-thien,commune,13
-01760,"Tam Điệp","Phường Tam Điệp, Tỉnh Ninh Bình",tam-iep,ward,13
+01760,"Tam Điệp","Phường Tam Điệp, Tỉnh Ninh Bình",tam-diep,ward,13
 01770,"Giao Bình","Xã Giao Bình, Tỉnh Ninh Bình",giao-binh,commune,13
 01772,"Vụ Bản","Xã Vụ Bản, Tỉnh Ninh Bình",vu-ban,commune,13
 01792,"Khánh Trung","Xã Khánh Trung, Tỉnh Ninh Bình",khanh-trung,commune,13
@@ -99,11 +99,11 @@ code,name,fullName,slug,type,provinceCode
 01839,"Khánh Thiện","Xã Khánh Thiện, Tỉnh Ninh Bình",khanh-thien,commune,13
 01847,"Khánh Nhạc","Xã Khánh Nhạc, Tỉnh Ninh Bình",khanh-nhac,commune,13
 01933,"Nhân Hà","Xã Nhân Hà, Tỉnh Ninh Bình",nhan-ha,commune,13
-01946,"Định Hóa","Xã Định Hóa, Tỉnh Ninh Bình",inh-hoa,commune,13
+01946,"Định Hóa","Xã Định Hóa, Tỉnh Ninh Bình",dinh-hoa,commune,13
 01954,"Bình Giang","Xã Bình Giang, Tỉnh Ninh Bình",binh-giang,commune,13
 01959,"Duy Hà","Phường Duy Hà, Tỉnh Ninh Bình",duy-ha,ward,13
-01978,"Đồng Thái","Xã Đồng Thái, Tỉnh Ninh Bình",ong-thai,commune,13
-01992,"Đại Hoàng","Xã Đại Hoàng, Tỉnh Ninh Bình",ai-hoang,commune,13
+01978,"Đồng Thái","Xã Đồng Thái, Tỉnh Ninh Bình",dong-thai,commune,13
+01992,"Đại Hoàng","Xã Đại Hoàng, Tỉnh Ninh Bình",dai-hoang,commune,13
 02000,"Thanh Sơn","Xã Thanh Sơn, Tỉnh Ninh Bình",thanh-son,commune,13
 02010,"Khánh Hội","Xã Khánh Hội, Tỉnh Ninh Bình",khanh-hoi,commune,13
 02012,"Thanh Liêm","Xã Thanh Liêm, Tỉnh Ninh Bình",thanh-liem,commune,13
@@ -126,5 +126,5 @@ code,name,fullName,slug,type,provinceCode
 02447,"Chất Bình","Xã Chất Bình, Tỉnh Ninh Bình",chat-binh,commune,13
 02678,"Phú Long","Xã Phú Long, Tỉnh Ninh Bình",phu-long,commune,13
 02708,"Gia Phong","Xã Gia Phong, Tỉnh Ninh Bình",gia-phong,commune,13
-02964,"Kim Đông","Xã Kim Đông, Tỉnh Ninh Bình",kim-ong,commune,13
+02964,"Kim Đông","Xã Kim Đông, Tỉnh Ninh Bình",kim-dong,commune,13
 03019,"Cúc Phương","Xã Cúc Phương, Tỉnh Ninh Bình",cuc-phuong,commune,13

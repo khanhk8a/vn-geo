@@ -11,7 +11,7 @@
         "code": "00013",
         "name": "Hà Đông",
         "fullName": "Phường Hà Đông, Thành phố Hà Nội",
-        "slug": "ha-ong",
+        "slug": "ha-dong",
         "type": "ward"
       },
       {
@@ -32,7 +32,7 @@
         "code": "00063",
         "name": "Nghĩa Đô",
         "fullName": "Phường Nghĩa Đô, Thành phố Hà Nội",
-        "slug": "nghia-o",
+        "slug": "nghia-do",
         "type": "ward"
       },
       {
@@ -46,7 +46,7 @@
         "code": "00072",
         "name": "Bồ Đề",
         "fullName": "Phường Bồ Đề, Thành phố Hà Nội",
-        "slug": "bo-e",
+        "slug": "bo-de",
         "type": "ward"
       },
       {
@@ -60,7 +60,7 @@
         "code": "00079",
         "name": "Đông Anh",
         "fullName": "Xã Đông Anh, Thành phố Hà Nội",
-        "slug": "ong-anh",
+        "slug": "dong-anh",
         "type": "commune"
       },
       {
@@ -74,7 +74,7 @@
         "code": "00091",
         "name": "Phù Đổng",
         "fullName": "Xã Phù Đổng, Thành phố Hà Nội",
-        "slug": "phu-ong",
+        "slug": "phu-dong",
         "type": "commune"
       },
       {
@@ -186,7 +186,7 @@
         "code": "00142",
         "name": "Đại Thanh",
         "fullName": "Xã Đại Thanh, Thành phố Hà Nội",
-        "slug": "ai-thanh",
+        "slug": "dai-thanh",
         "type": "commune"
       },
       {
@@ -221,28 +221,28 @@
         "code": "00165",
         "name": "Khương Đình",
         "fullName": "Phường Khương Đình, Thành phố Hà Nội",
-        "slug": "khuong-inh",
+        "slug": "khuong-dinh",
         "type": "ward"
       },
       {
         "code": "00169",
         "name": "Định Công",
         "fullName": "Phường Định Công, Thành phố Hà Nội",
-        "slug": "inh-cong",
+        "slug": "dinh-cong",
         "type": "ward"
       },
       {
         "code": "00180",
         "name": "Đa Phúc",
         "fullName": "Xã Đa Phúc, Thành phố Hà Nội",
-        "slug": "a-phuc",
+        "slug": "da-phuc",
         "type": "commune"
       },
       {
         "code": "00181",
         "name": "Đông Ngạc",
         "fullName": "Phường Đông Ngạc, Thành phố Hà Nội",
-        "slug": "ong-ngac",
+        "slug": "dong-ngac",
         "type": "ward"
       },
       {
@@ -263,14 +263,14 @@
         "code": "00187",
         "name": "Đống Đa",
         "fullName": "Phường Đống Đa, Thành phố Hà Nội",
-        "slug": "ong-a",
+        "slug": "dong-da",
         "type": "ward"
       },
       {
         "code": "00192",
         "name": "Đại Mỗ",
         "fullName": "Phường Đại Mỗ, Thành phố Hà Nội",
-        "slug": "ai-mo",
+        "slug": "dai-mo",
         "type": "ward"
       },
       {
@@ -305,7 +305,7 @@
         "code": "00230",
         "name": "Đại Xuyên",
         "fullName": "Xã Đại Xuyên, Thành phố Hà Nội",
-        "slug": "ai-xuyen",
+        "slug": "dai-xuyen",
         "type": "commune"
       },
       {
@@ -382,7 +382,7 @@
         "code": "00277",
         "name": "Cổ Đô",
         "fullName": "Xã Cổ Đô, Thành phố Hà Nội",
-        "slug": "co-o",
+        "slug": "co-do",
         "type": "commune"
       },
       {
@@ -410,7 +410,7 @@
         "code": "00292",
         "name": "Hoài Đức",
         "fullName": "Xã Hoài Đức, Thành phố Hà Nội",
-        "slug": "hoai-uc",
+        "slug": "hoai-duc",
         "type": "commune"
       },
       {
@@ -445,7 +445,7 @@
         "code": "00324",
         "name": "Ba Đình",
         "fullName": "Phường Ba Đình, Thành phố Hà Nội",
-        "slug": "ba-inh",
+        "slug": "ba-dinh",
         "type": "ward"
       },
       {
@@ -480,7 +480,7 @@
         "code": "00347",
         "name": "Sơn Đồng",
         "fullName": "Xã Sơn Đồng, Thành phố Hà Nội",
-        "slug": "son-ong",
+        "slug": "son-dong",
         "type": "commune"
       },
       {
@@ -550,7 +550,7 @@
         "code": "00384",
         "name": "Vân Đình",
         "fullName": "Xã Vân Đình, Thành phố Hà Nội",
-        "slug": "van-inh",
+        "slug": "van-dinh",
         "type": "commune"
       },
       {
@@ -641,7 +641,7 @@
         "code": "00490",
         "name": "Mỹ Đức",
         "fullName": "Xã Mỹ Đức, Thành phố Hà Nội",
-        "slug": "my-uc",
+        "slug": "my-duc",
         "type": "commune"
       },
       {
@@ -690,7 +690,7 @@
         "code": "00597",
         "name": "Hưng Đạo",
         "fullName": "Xã Hưng Đạo, Thành phố Hà Nội",
-        "slug": "hung-ao",
+        "slug": "hung-dao",
         "type": "commune"
       },
       {
@@ -704,7 +704,7 @@
         "code": "00617",
         "name": "Xuân Đỉnh",
         "fullName": "Phường Xuân Đỉnh, Thành phố Hà Nội",
-        "slug": "xuan-inh",
+        "slug": "xuan-dinh",
         "type": "ward"
       },
       {
@@ -725,7 +725,7 @@
         "code": "00639",
         "name": "Đan Phượng",
         "fullName": "Xã Đan Phượng, Thành phố Hà Nội",
-        "slug": "an-phuong",
+        "slug": "dan-phuong",
         "type": "commune"
       },
       {
@@ -802,7 +802,7 @@
         "code": "00919",
         "name": "Đoài Phương",
         "fullName": "Xã Đoài Phương, Thành phố Hà Nội",
-        "slug": "oai-phuong",
+        "slug": "doai-phuong",
         "type": "commune"
       },
       {
@@ -966,7 +966,7 @@
         "code": "00603",
         "name": "Đông Hưng",
         "fullName": "Xã Đông Hưng, Tỉnh Hưng Yên",
-        "slug": "ong-hung",
+        "slug": "dong-hung",
         "type": "commune"
       },
       {
@@ -1015,7 +1015,7 @@
         "code": "00699",
         "name": "Trần Hưng Đạo",
         "fullName": "Phường Trần Hưng Đạo, Tỉnh Hưng Yên",
-        "slug": "tran-hung-ao",
+        "slug": "tran-hung-dao",
         "type": "ward"
       },
       {
@@ -1064,7 +1064,7 @@
         "code": "00820",
         "name": "Lạc Đạo",
         "fullName": "Xã Lạc Đạo, Tỉnh Hưng Yên",
-        "slug": "lac-ao",
+        "slug": "lac-dao",
         "type": "commune"
       },
       {
@@ -1106,14 +1106,14 @@
         "code": "00954",
         "name": "Đường Hào",
         "fullName": "Phường Đường Hào, Tỉnh Hưng Yên",
-        "slug": "uong-hao",
+        "slug": "duong-hao",
         "type": "ward"
       },
       {
         "code": "00991",
         "name": "Đông Thụy Anh",
         "fullName": "Xã Đông Thụy Anh, Tỉnh Hưng Yên",
-        "slug": "ong-thuy-anh",
+        "slug": "dong-thuy-anh",
         "type": "commune"
       },
       {
@@ -1148,7 +1148,7 @@
         "code": "01061",
         "name": "Đông Tiền Hải",
         "fullName": "Xã Đông Tiền Hải, Tỉnh Hưng Yên",
-        "slug": "ong-tien-hai",
+        "slug": "dong-tien-hai",
         "type": "commune"
       },
       {
@@ -1218,7 +1218,7 @@
         "code": "01325",
         "name": "Đại Đồng",
         "fullName": "Xã Đại Đồng, Tỉnh Hưng Yên",
-        "slug": "ai-ong",
+        "slug": "dai-dong",
         "type": "commune"
       },
       {
@@ -1288,7 +1288,7 @@
         "code": "01484",
         "name": "Đồng Châu",
         "fullName": "Xã Đồng Châu, Tỉnh Hưng Yên",
-        "slug": "ong-chau",
+        "slug": "dong-chau",
         "type": "commune"
       },
       {
@@ -1330,7 +1330,7 @@
         "code": "01560",
         "name": "Đức Hợp",
         "fullName": "Xã Đức Hợp, Tỉnh Hưng Yên",
-        "slug": "uc-hop",
+        "slug": "duc-hop",
         "type": "commune"
       },
       {
@@ -1365,7 +1365,7 @@
         "code": "01734",
         "name": "Đông Thái Ninh",
         "fullName": "Xã Đông Thái Ninh, Tỉnh Hưng Yên",
-        "slug": "ong-thai-ninh",
+        "slug": "dong-thai-ninh",
         "type": "commune"
       },
       {
@@ -1421,14 +1421,14 @@
         "code": "01875",
         "name": "Nam Đông Hưng",
         "fullName": "Xã Nam Đông Hưng, Tỉnh Hưng Yên",
-        "slug": "nam-ong-hung",
+        "slug": "nam-dong-hung",
         "type": "commune"
       },
       {
         "code": "01880",
         "name": "Bắc Đông Quan",
         "fullName": "Xã Bắc Đông Quan, Tỉnh Hưng Yên",
-        "slug": "bac-ong-quan",
+        "slug": "bac-dong-quan",
         "type": "commune"
       },
       {
@@ -1442,14 +1442,14 @@
         "code": "01888",
         "name": "Đông Quan",
         "fullName": "Xã Đông Quan, Tỉnh Hưng Yên",
-        "slug": "ong-quan",
+        "slug": "dong-quan",
         "type": "commune"
       },
       {
         "code": "01894",
         "name": "Đồng Bằng",
         "fullName": "Xã Đồng Bằng, Tỉnh Hưng Yên",
-        "slug": "ong-bang",
+        "slug": "dong-bang",
         "type": "commune"
       },
       {
@@ -1484,21 +1484,21 @@
         "code": "02004",
         "name": "Bắc Đông Hưng",
         "fullName": "Xã Bắc Đông Hưng, Tỉnh Hưng Yên",
-        "slug": "bac-ong-hung",
+        "slug": "bac-dong-hung",
         "type": "commune"
       },
       {
         "code": "02021",
         "name": "Lê Quý Đôn",
         "fullName": "Xã Lê Quý Đôn, Tỉnh Hưng Yên",
-        "slug": "le-quy-on",
+        "slug": "le-quy-don",
         "type": "commune"
       },
       {
         "code": "02023",
         "name": "Đông Tiên Hưng",
         "fullName": "Xã Đông Tiên Hưng, Tỉnh Hưng Yên",
-        "slug": "ong-tien-hung",
+        "slug": "dong-tien-hung",
         "type": "commune"
       },
       {
@@ -1526,7 +1526,7 @@
         "code": "02080",
         "name": "Đoàn Đào",
         "fullName": "Xã Đoàn Đào, Tỉnh Hưng Yên",
-        "slug": "oan-ao",
+        "slug": "doan-dao",
         "type": "commune"
       },
       {
@@ -1547,7 +1547,7 @@
         "code": "02128",
         "name": "Bình Định",
         "fullName": "Xã Bình Định, Tỉnh Hưng Yên",
-        "slug": "binh-inh",
+        "slug": "binh-dinh",
         "type": "commune"
       },
       {
@@ -1641,21 +1641,21 @@
         "code": "00177",
         "name": "Đồng Hới",
         "fullName": "Phường Đồng Hới, Tỉnh Quảng Trị",
-        "slug": "ong-hoi",
+        "slug": "dong-hoi",
         "type": "ward"
       },
       {
         "code": "00378",
         "name": "Nam Đông Hà.",
         "fullName": "Phường Nam Đông Hà., Tỉnh Quảng Trị",
-        "slug": "nam-ong-ha",
+        "slug": "nam-dong-ha",
         "type": "ward"
       },
       {
         "code": "00552",
         "name": "Đông Hà",
         "fullName": "Phường Đông Hà, Tỉnh Quảng Trị",
-        "slug": "ong-ha",
+        "slug": "dong-ha",
         "type": "ward"
       },
       {
@@ -1683,7 +1683,7 @@
         "code": "00982",
         "name": "Đồng Thuận",
         "fullName": "Phường Đồng Thuận, Tỉnh Quảng Trị",
-        "slug": "ong-thuan",
+        "slug": "dong-thuan",
         "type": "ward"
       },
       {
@@ -1718,7 +1718,7 @@
         "code": "01222",
         "name": "Đông Trạch",
         "fullName": "Xã Đông Trạch, Tỉnh Quảng Trị",
-        "slug": "ong-trach",
+        "slug": "dong-trach",
         "type": "commune"
       },
       {
@@ -1746,7 +1746,7 @@
         "code": "01346",
         "name": "Đồng Sơn",
         "fullName": "Phường Đồng Sơn, Tỉnh Quảng Trị",
-        "slug": "ong-son",
+        "slug": "dong-son",
         "type": "ward"
       },
       {
@@ -1816,14 +1816,14 @@
         "code": "01603",
         "name": "Ba Đồn",
         "fullName": "Phường Ba Đồn, Tỉnh Quảng Trị",
-        "slug": "ba-on",
+        "slug": "ba-don",
         "type": "ward"
       },
       {
         "code": "01694",
         "name": "Nam Ba Đồn",
         "fullName": "Xã Nam Ba Đồn, Tỉnh Quảng Trị",
-        "slug": "nam-ba-on",
+        "slug": "nam-ba-don",
         "type": "commune"
       },
       {
@@ -1858,7 +1858,7 @@
         "code": "01766",
         "name": "Vĩnh Định",
         "fullName": "Xã Vĩnh Định, Tỉnh Quảng Trị",
-        "slug": "vinh-inh",
+        "slug": "vinh-dinh",
         "type": "commune"
       },
       {
@@ -1900,7 +1900,7 @@
         "code": "01934",
         "name": "Đồng Lê",
         "fullName": "Xã Đồng Lê, Tỉnh Quảng Trị",
-        "slug": "ong-le",
+        "slug": "dong-le",
         "type": "commune"
       },
       {
@@ -2047,7 +2047,7 @@
         "code": "02617",
         "name": "Đakrông",
         "fullName": "Xã Đakrông, Tỉnh Quảng Trị",
-        "slug": "akrong",
+        "slug": "dakrong",
         "type": "commune"
       },
       {
@@ -2145,7 +2145,7 @@
         "code": "03184",
         "name": "Kim Điền",
         "fullName": "Xã Kim Điền, Tỉnh Quảng Trị",
-        "slug": "kim-ien",
+        "slug": "kim-dien",
         "type": "commune"
       },
       {
@@ -2274,7 +2274,7 @@
         "code": "00829",
         "name": "Quảng Điền",
         "fullName": "Xã Quảng Điền, Thành phố Huế",
-        "slug": "quang-ien",
+        "slug": "quang-dien",
         "type": "commune"
       },
       {
@@ -2288,7 +2288,7 @@
         "code": "00884",
         "name": "Đan Điền",
         "fullName": "Xã Đan Điền, Thành phố Huế",
-        "slug": "an-ien",
+        "slug": "dan-dien",
         "type": "commune"
       },
       {
@@ -2386,7 +2386,7 @@
         "code": "01670",
         "name": "Phong Điền",
         "fullName": "Phường Phong Điền, Thành phố Huế",
-        "slug": "phong-ien",
+        "slug": "phong-dien",
         "type": "ward"
       },
       {
@@ -2421,7 +2421,7 @@
         "code": "02580",
         "name": "Bình Điền",
         "fullName": "Xã Bình Điền, Thành phố Huế",
-        "slug": "binh-ien",
+        "slug": "binh-dien",
         "type": "commune"
       },
       {
@@ -2449,7 +2449,7 @@
         "code": "02983",
         "name": "Nam Đông",
         "fullName": "Xã Nam Đông, Thành phố Huế",
-        "slug": "nam-ong",
+        "slug": "nam-dong",
         "type": "commune"
       },
       {
@@ -2599,7 +2599,7 @@
         "code": "00532",
         "name": "Bạch Đằng",
         "fullName": "Phường Bạch Đằng, Thành phố Hải Phòng",
-        "slug": "bach-ang",
+        "slug": "bach-dang",
         "type": "ward"
       },
       {
@@ -2613,14 +2613,14 @@
         "code": "00556",
         "name": "Đông Hải",
         "fullName": "Phường Đông Hải, Thành phố Hải Phòng",
-        "slug": "ong-hai",
+        "slug": "dong-hai",
         "type": "ward"
       },
       {
         "code": "00571",
         "name": "Thành Đông",
         "fullName": "Phường Thành Đông, Thành phố Hải Phòng",
-        "slug": "thanh-ong",
+        "slug": "thanh-dong",
         "type": "ward"
       },
       {
@@ -2704,7 +2704,7 @@
         "code": "00778",
         "name": "Mao Điền",
         "fullName": "Xã Mao Điền, Thành phố Hải Phòng",
-        "slug": "mao-ien",
+        "slug": "mao-dien",
         "type": "commune"
       },
       {
@@ -2795,7 +2795,7 @@
         "code": "01014",
         "name": "Hưng Đạo",
         "fullName": "Phường Hưng Đạo, Thành phố Hải Phòng",
-        "slug": "hung-ao",
+        "slug": "hung-dao",
         "type": "ward"
       },
       {
@@ -2830,7 +2830,7 @@
         "code": "01088",
         "name": "Đồ Sơn",
         "fullName": "Phường Đồ Sơn, Thành phố Hải Phòng",
-        "slug": "o-son",
+        "slug": "do-son",
         "type": "ward"
       },
       {
@@ -2865,7 +2865,7 @@
         "code": "01125",
         "name": "Trần Hưng Đạo",
         "fullName": "Phường Trần Hưng Đạo, Thành phố Hải Phòng",
-        "slug": "tran-hung-ao",
+        "slug": "tran-hung-dao",
         "type": "ward"
       },
       {
@@ -2900,7 +2900,7 @@
         "code": "01211",
         "name": "Đường An",
         "fullName": "Xã Đường An, Thành phố Hải Phòng",
-        "slug": "uong-an",
+        "slug": "duong-an",
         "type": "commune"
       },
       {
@@ -2949,7 +2949,7 @@
         "code": "01264",
         "name": "Hà Đông",
         "fullName": "Xã Hà Đông, Thành phố Hải Phòng",
-        "slug": "ha-ong",
+        "slug": "ha-dong",
         "type": "commune"
       },
       {
@@ -3005,7 +3005,7 @@
         "code": "01473",
         "name": "Đại Sơn",
         "fullName": "Xã Đại Sơn, Thành phố Hải Phòng",
-        "slug": "ai-son",
+        "slug": "dai-son",
         "type": "commune"
       },
       {
@@ -3019,7 +3019,7 @@
         "code": "01491",
         "name": "Nam Đồ Sơn",
         "fullName": "Phường Nam Đồ Sơn, Thành phố Hải Phòng",
-        "slug": "nam-o-son",
+        "slug": "nam-do-son",
         "type": "ward"
       },
       {
@@ -3040,7 +3040,7 @@
         "code": "01582",
         "name": "Nguyễn Đại Năng",
         "fullName": "Phường Nguyễn Đại Năng, Thành phố Hải Phòng",
-        "slug": "nguyen-ai-nang",
+        "slug": "nguyen-dai-nang",
         "type": "ward"
       },
       {
@@ -3208,7 +3208,7 @@
         "code": "01906",
         "name": "Nam Đồng",
         "fullName": "Phường Nam Đồng, Thành phố Hải Phòng",
-        "slug": "nam-ong",
+        "slug": "nam-dong",
         "type": "ward"
       },
       {
@@ -3222,7 +3222,7 @@
         "code": "01925",
         "name": "Lê Đại Hành",
         "fullName": "Phường Lê Đại Hành, Thành phố Hải Phòng",
-        "slug": "le-ai-hanh",
+        "slug": "le-dai-hanh",
         "type": "ward"
       },
       {
@@ -3512,7 +3512,7 @@
         "code": "01119",
         "name": "Sơn Đông",
         "fullName": "Xã Sơn Đông, Tỉnh Phú Thọ",
-        "slug": "son-ong",
+        "slug": "son-dong",
         "type": "commune"
       },
       {
@@ -3540,7 +3540,7 @@
         "code": "01191",
         "name": "Tam Đảo",
         "fullName": "Xã Tam Đảo, Tỉnh Phú Thọ",
-        "slug": "tam-ao",
+        "slug": "tam-dao",
         "type": "commune"
       },
       {
@@ -3561,7 +3561,7 @@
         "code": "01223",
         "name": "Nguyệt Đức",
         "fullName": "Xã Nguyệt Đức, Tỉnh Phú Thọ",
-        "slug": "nguyet-uc",
+        "slug": "nguyet-duc",
         "type": "commune"
       },
       {
@@ -3603,7 +3603,7 @@
         "code": "01359",
         "name": "Đào Xá",
         "fullName": "Xã Đào Xá, Tỉnh Phú Thọ",
-        "slug": "ao-xa",
+        "slug": "dao-xa",
         "type": "commune"
       },
       {
@@ -3631,7 +3631,7 @@
         "code": "01482",
         "name": "Đoan Hùng",
         "fullName": "Xã Đoan Hùng, Tỉnh Phú Thọ",
-        "slug": "oan-hung",
+        "slug": "doan-hung",
         "type": "commune"
       },
       {
@@ -3687,14 +3687,14 @@
         "code": "01601",
         "name": "Đan Thượng",
         "fullName": "Xã Đan Thượng, Tỉnh Phú Thọ",
-        "slug": "an-thuong",
+        "slug": "dan-thuong",
         "type": "commune"
       },
       {
         "code": "01659",
         "name": "Chí Đám",
         "fullName": "Xã Chí Đám, Tỉnh Phú Thọ",
-        "slug": "chi-am",
+        "slug": "chi-dam",
         "type": "commune"
       },
       {
@@ -3757,7 +3757,7 @@
         "code": "01815",
         "name": "Mường Động",
         "fullName": "Xã Mường Động, Tỉnh Phú Thọ",
-        "slug": "muong-ong",
+        "slug": "muong-dong",
         "type": "commune"
       },
       {
@@ -3792,7 +3792,7 @@
         "code": "01917",
         "name": "Đạo Trù",
         "fullName": "Xã Đạo Trù, Tỉnh Phú Thọ",
-        "slug": "ao-tru",
+        "slug": "dao-tru",
         "type": "commune"
       },
       {
@@ -3806,14 +3806,14 @@
         "code": "01952",
         "name": "Đại Đồng",
         "fullName": "Xã Đại Đồng, Tỉnh Phú Thọ",
-        "slug": "ai-ong",
+        "slug": "dai-dong",
         "type": "commune"
       },
       {
         "code": "01967",
         "name": "Minh Đài",
         "fullName": "Xã Minh Đài, Tỉnh Phú Thọ",
-        "slug": "minh-ai",
+        "slug": "minh-dai",
         "type": "commune"
       },
       {
@@ -3932,14 +3932,14 @@
         "code": "02230",
         "name": "Đại Đình",
         "fullName": "Xã Đại Đình, Tỉnh Phú Thọ",
-        "slug": "ai-inh",
+        "slug": "dai-dinh",
         "type": "commune"
       },
       {
         "code": "02236",
         "name": "Đông Thành",
         "fullName": "Xã Đông Thành, Tỉnh Phú Thọ",
-        "slug": "ong-thanh",
+        "slug": "dong-thanh",
         "type": "commune"
       },
       {
@@ -3981,7 +3981,7 @@
         "code": "02274",
         "name": "Đà Bắc",
         "fullName": "Xã Đà Bắc, Tỉnh Phú Thọ",
-        "slug": "a-bac",
+        "slug": "da-bac",
         "type": "commune"
       },
       {
@@ -4114,7 +4114,7 @@
         "code": "02503",
         "name": "Lai Đồng",
         "fullName": "Xã Lai Đồng, Tỉnh Phú Thọ",
-        "slug": "lai-ong",
+        "slug": "lai-dong",
         "type": "commune"
       },
       {
@@ -4149,7 +4149,7 @@
         "code": "02541",
         "name": "Đồng Lương",
         "fullName": "Xã Đồng Lương, Tỉnh Phú Thọ",
-        "slug": "ong-luong",
+        "slug": "dong-luong",
         "type": "commune"
       },
       {
@@ -4177,7 +4177,7 @@
         "code": "02584",
         "name": "Xuân Đài",
         "fullName": "Xã Xuân Đài, Tỉnh Phú Thọ",
-        "slug": "xuan-ai",
+        "slug": "xuan-dai",
         "type": "commune"
       },
       {
@@ -4191,7 +4191,7 @@
         "code": "02592",
         "name": "Cự Đồng",
         "fullName": "Xã Cự Đồng, Tỉnh Phú Thọ",
-        "slug": "cu-ong",
+        "slug": "cu-dong",
         "type": "commune"
       },
       {
@@ -4261,7 +4261,7 @@
         "code": "02958",
         "name": "Quy Đức",
         "fullName": "Xã Quy Đức, Tỉnh Phú Thọ",
-        "slug": "quy-uc",
+        "slug": "quy-duc",
         "type": "commune"
       },
       {
@@ -4310,7 +4310,7 @@
         "code": "03095",
         "name": "Đức Nhàn",
         "fullName": "Xã Đức Nhàn, Tỉnh Phú Thọ",
-        "slug": "uc-nhan",
+        "slug": "duc-nhan",
         "type": "commune"
       },
       {
@@ -4376,14 +4376,14 @@
         "code": "00376",
         "name": "Đông Quang",
         "fullName": "Phường Đông Quang, Tỉnh Thanh Hoá",
-        "slug": "ong-quang",
+        "slug": "dong-quang",
         "type": "ward"
       },
       {
         "code": "00410",
         "name": "Đông Sơn",
         "fullName": "Phường Đông Sơn, Tỉnh Thanh Hoá",
-        "slug": "ong-son",
+        "slug": "dong-son",
         "type": "ward"
       },
       {
@@ -4397,7 +4397,7 @@
         "code": "00426",
         "name": "Đông Tiến",
         "fullName": "Phường Đông Tiến, Tỉnh Thanh Hoá",
-        "slug": "ong-tien",
+        "slug": "dong-tien",
         "type": "ward"
       },
       {
@@ -4516,7 +4516,7 @@
         "code": "00977",
         "name": "Yên Định",
         "fullName": "Xã Yên Định, Tỉnh Thanh Hoá",
-        "slug": "yen-inh",
+        "slug": "yen-dinh",
         "type": "commune"
       },
       {
@@ -4698,7 +4698,7 @@
         "code": "01494",
         "name": "Đông Thành",
         "fullName": "Xã Đông Thành, Tỉnh Thanh Hoá",
-        "slug": "ong-thanh",
+        "slug": "dong-thanh",
         "type": "commune"
       },
       {
@@ -4775,14 +4775,14 @@
         "code": "01634",
         "name": "Định Hòa",
         "fullName": "Xã Định Hòa, Tỉnh Thanh Hoá",
-        "slug": "inh-hoa",
+        "slug": "dinh-hoa",
         "type": "commune"
       },
       {
         "code": "01635",
         "name": "Định Tân",
         "fullName": "Xã Định Tân, Tỉnh Thanh Hoá",
-        "slug": "inh-tan",
+        "slug": "dinh-tan",
         "type": "commune"
       },
       {
@@ -4824,7 +4824,7 @@
         "code": "01710",
         "name": "Tây Đô",
         "fullName": "Xã Tây Đô, Tỉnh Thanh Hoá",
-        "slug": "tay-o",
+        "slug": "tay-do",
         "type": "commune"
       },
       {
@@ -4894,7 +4894,7 @@
         "code": "01805",
         "name": "Đào Duy Tư",
         "fullName": "Phường Đào Duy Tư, Tỉnh Thanh Hoá",
-        "slug": "ao-duy-tu",
+        "slug": "dao-duy-tu",
         "type": "ward"
       },
       {
@@ -4992,7 +4992,7 @@
         "code": "02067",
         "name": "Đồng Tiến",
         "fullName": "Xã Đồng Tiến, Tỉnh Thanh Hoá",
-        "slug": "ong-tien",
+        "slug": "dong-tien",
         "type": "commune"
       },
       {
@@ -5076,14 +5076,14 @@
         "code": "02202",
         "name": "Điền Lư",
         "fullName": "Xã Điền Lư, Tỉnh Thanh Hoá",
-        "slug": "ien-lu",
+        "slug": "dien-lu",
         "type": "commune"
       },
       {
         "code": "02223",
         "name": "Ba Đình",
         "fullName": "Xã Ba Đình, Tỉnh Thanh Hoá",
-        "slug": "ba-inh",
+        "slug": "ba-dinh",
         "type": "commune"
       },
       {
@@ -5125,7 +5125,7 @@
         "code": "02486",
         "name": "Điền Quang",
         "fullName": "Xã Điền Quang, Tỉnh Thanh Hoá",
-        "slug": "ien-quang",
+        "slug": "dien-quang",
         "type": "commune"
       },
       {
@@ -5223,7 +5223,7 @@
         "code": "02783",
         "name": "Đồng Lương",
         "fullName": "Xã Đồng Lương, Tỉnh Thanh Hoá",
-        "slug": "ong-luong",
+        "slug": "dong-luong",
         "type": "commune"
       },
       {
@@ -5426,7 +5426,7 @@
         "code": "03258",
         "name": "Sơn Điện",
         "fullName": "Xã Sơn Điện, Tỉnh Thanh Hoá",
-        "slug": "son-ien",
+        "slug": "son-dien",
         "type": "commune"
       },
       {
@@ -5541,7 +5541,7 @@
         "code": "00487",
         "name": "Vân Đồn",
         "fullName": "Đặc khu Vân Đồn, Tỉnh Quảng Ninh",
-        "slug": "van-on",
+        "slug": "van-don",
         "type": "commune"
       },
       {
@@ -5590,7 +5590,7 @@
         "code": "00761",
         "name": "Đông Triều",
         "fullName": "Phường Đông Triều, Tỉnh Quảng Ninh",
-        "slug": "ong-trieu",
+        "slug": "dong-trieu",
         "type": "ward"
       },
       {
@@ -5688,7 +5688,7 @@
         "code": "01823",
         "name": "Đầm Hà",
         "fullName": "Xã Đầm Hà, Tỉnh Quảng Ninh",
-        "slug": "am-ha",
+        "slug": "dam-ha",
         "type": "commune"
       },
       {
@@ -5723,7 +5723,7 @@
         "code": "02158",
         "name": "Đông Mai",
         "fullName": "Phường Đông Mai, Tỉnh Quảng Ninh",
-        "slug": "ong-mai",
+        "slug": "dong-mai",
         "type": "ward"
       },
       {
@@ -5744,7 +5744,7 @@
         "code": "02387",
         "name": "Đông Ngũ",
         "fullName": "Xã Đông Ngũ, Tỉnh Quảng Ninh",
-        "slug": "ong-ngu",
+        "slug": "dong-ngu",
         "type": "commune"
       },
       {
@@ -5772,7 +5772,7 @@
         "code": "02450",
         "name": "Đường Hoa",
         "fullName": "Xã Đường Hoa, Tỉnh Quảng Ninh",
-        "slug": "uong-hoa",
+        "slug": "duong-hoa",
         "type": "commune"
       },
       {
@@ -5793,7 +5793,7 @@
         "code": "02792",
         "name": "Quảng Đức",
         "fullName": "Xã Quảng Đức, Tỉnh Quảng Ninh",
-        "slug": "quang-uc",
+        "slug": "quang-duc",
         "type": "commune"
       },
       {
@@ -5842,7 +5842,7 @@
         "code": "03125",
         "name": "Điền Xá",
         "fullName": "Xã Điền Xá, Tỉnh Quảng Ninh",
-        "slug": "ien-xa",
+        "slug": "dien-xa",
         "type": "commune"
       },
       {
@@ -5915,7 +5915,7 @@
         "code": "00306",
         "name": "Cam Đường",
         "fullName": "Phường Cam Đường, Tỉnh Lào Cai",
-        "slug": "cam-uong",
+        "slug": "cam-duong",
         "type": "ward"
       },
       {
@@ -6083,7 +6083,7 @@
         "code": "02140",
         "name": "Đông Cuông",
         "fullName": "Xã Đông Cuông, Tỉnh Lào Cai",
-        "slug": "ong-cuong",
+        "slug": "dong-cuong",
         "type": "commune"
       },
       {
@@ -6286,7 +6286,7 @@
         "code": "02666",
         "name": "Nghĩa Đô",
         "fullName": "Xã Nghĩa Đô, Tỉnh Lào Cai",
-        "slug": "nghia-o",
+        "slug": "nghia-do",
         "type": "commune"
       },
       {
@@ -6625,7 +6625,7 @@
         "code": "00176",
         "name": "Đại Đồng",
         "fullName": "Xã Đại Đồng, Tỉnh Bắc Ninh",
-        "slug": "ai-ong",
+        "slug": "dai-dong",
         "type": "commune"
       },
       {
@@ -6688,7 +6688,7 @@
         "code": "00408",
         "name": "Bảo Đài",
         "fullName": "Xã Bảo Đài, Tỉnh Bắc Ninh",
-        "slug": "bao-ai",
+        "slug": "bao-dai",
         "type": "commune"
       },
       {
@@ -6744,7 +6744,7 @@
         "code": "00530",
         "name": "Đa Mai",
         "fullName": "Phường Đa Mai, Tỉnh Bắc Ninh",
-        "slug": "a-mai",
+        "slug": "da-mai",
         "type": "ward"
       },
       {
@@ -6772,7 +6772,7 @@
         "code": "00690",
         "name": "Đồng Nguyên",
         "fullName": "Phường Đồng Nguyên, Tỉnh Bắc Ninh",
-        "slug": "ong-nguyen",
+        "slug": "dong-nguyen",
         "type": "ward"
       },
       {
@@ -6814,7 +6814,7 @@
         "code": "00792",
         "name": "Mão Điền",
         "fullName": "Phường Mão Điền, Tỉnh Bắc Ninh",
-        "slug": "mao-ien",
+        "slug": "mao-dien",
         "type": "ward"
       },
       {
@@ -6891,7 +6891,7 @@
         "code": "01081",
         "name": "Tam Đa",
         "fullName": "Xã Tam Đa, Tỉnh Bắc Ninh",
-        "slug": "tam-a",
+        "slug": "tam-da",
         "type": "commune"
       },
       {
@@ -6919,7 +6919,7 @@
         "code": "01192",
         "name": "Đào Viên",
         "fullName": "Phường Đào Viên, Tỉnh Bắc Ninh",
-        "slug": "ao-vien",
+        "slug": "dao-vien",
         "type": "ward"
       },
       {
@@ -7003,7 +7003,7 @@
         "code": "01626",
         "name": "Đông Cứu",
         "fullName": "Xã Đông Cứu, Tỉnh Bắc Ninh",
-        "slug": "ong-cuu",
+        "slug": "dong-cuu",
         "type": "commune"
       },
       {
@@ -7059,7 +7059,7 @@
         "code": "01768",
         "name": "Đồng Việt",
         "fullName": "Xã Đồng Việt, Tỉnh Bắc Ninh",
-        "slug": "ong-viet",
+        "slug": "dong-viet",
         "type": "commune"
       },
       {
@@ -7087,7 +7087,7 @@
         "code": "01949",
         "name": "Sơn Động",
         "fullName": "Xã Sơn Động, Tỉnh Bắc Ninh",
-        "slug": "son-ong",
+        "slug": "son-dong",
         "type": "commune"
       },
       {
@@ -7101,7 +7101,7 @@
         "code": "02003",
         "name": "Đông Phú",
         "fullName": "Xã Đông Phú, Tỉnh Bắc Ninh",
-        "slug": "ong-phu",
+        "slug": "dong-phu",
         "type": "commune"
       },
       {
@@ -7115,7 +7115,7 @@
         "code": "02076",
         "name": "Đồng Kỳ",
         "fullName": "Xã Đồng Kỳ, Tỉnh Bắc Ninh",
-        "slug": "ong-ky",
+        "slug": "dong-ky",
         "type": "commune"
       },
       {
@@ -7150,7 +7150,7 @@
         "code": "02306",
         "name": "Đại Lai",
         "fullName": "Xã Đại Lai, Tỉnh Bắc Ninh",
-        "slug": "ai-lai",
+        "slug": "dai-lai",
         "type": "commune"
       },
       {
@@ -7185,7 +7185,7 @@
         "code": "02451",
         "name": "Biển Động",
         "fullName": "Xã Biển Động, Tỉnh Bắc Ninh",
-        "slug": "bien-ong",
+        "slug": "bien-dong",
         "type": "commune"
       },
       {
@@ -7199,7 +7199,7 @@
         "code": "02463",
         "name": "Cao Đức",
         "fullName": "Xã Cao Đức, Tỉnh Bắc Ninh",
-        "slug": "cao-uc",
+        "slug": "cao-duc",
         "type": "commune"
       },
       {
@@ -7227,7 +7227,7 @@
         "code": "02616",
         "name": "Đèo Gia",
         "fullName": "Xã Đèo Gia, Tỉnh Bắc Ninh",
-        "slug": "eo-gia",
+        "slug": "deo-gia",
         "type": "commune"
       },
       {
@@ -7241,7 +7241,7 @@
         "code": "02767",
         "name": "Đại Sơn",
         "fullName": "Xã Đại Sơn, Tỉnh Bắc Ninh",
-        "slug": "ai-son",
+        "slug": "dai-son",
         "type": "commune"
       },
       {
@@ -7262,7 +7262,7 @@
         "code": "02970",
         "name": "Yên Định",
         "fullName": "Xã Yên Định, Tỉnh Bắc Ninh",
-        "slug": "yen-inh",
+        "slug": "yen-dinh",
         "type": "commune"
       },
       {
@@ -7276,7 +7276,7 @@
         "code": "03172",
         "name": "Tuấn Đạo",
         "fullName": "Xã Tuấn Đạo, Tỉnh Bắc Ninh",
-        "slug": "tuan-ao",
+        "slug": "tuan-dao",
         "type": "commune"
       },
       {
@@ -7363,14 +7363,14 @@
         "code": "00350",
         "name": "Đại Đồng",
         "fullName": "Xã Đại Đồng, Tỉnh Nghệ An",
-        "slug": "ai-ong",
+        "slug": "dai-dong",
         "type": "commune"
       },
       {
         "code": "00364",
         "name": "Đô Lương",
         "fullName": "Xã Đô Lương, Tỉnh Nghệ An",
-        "slug": "o-luong",
+        "slug": "do-luong",
         "type": "commune"
       },
       {
@@ -7433,7 +7433,7 @@
         "code": "00687",
         "name": "Đông Thành",
         "fullName": "Xã Đông Thành, Tỉnh Nghệ An",
-        "slug": "ong-thanh",
+        "slug": "dong-thanh",
         "type": "commune"
       },
       {
@@ -7503,7 +7503,7 @@
         "code": "00864",
         "name": "Đức Châu",
         "fullName": "Xã Đức Châu, Tỉnh Nghệ An",
-        "slug": "uc-chau",
+        "slug": "duc-chau",
         "type": "commune"
       },
       {
@@ -7636,7 +7636,7 @@
         "code": "01431",
         "name": "Đông Lộc",
         "fullName": "Xã Đông Lộc, Tỉnh Nghệ An",
-        "slug": "ong-loc",
+        "slug": "dong-loc",
         "type": "commune"
       },
       {
@@ -7678,7 +7678,7 @@
         "code": "01618",
         "name": "Đông Hiếu",
         "fullName": "Xã Đông Hiếu, Tỉnh Nghệ An",
-        "slug": "ong-hieu",
+        "slug": "dong-hieu",
         "type": "commune"
       },
       {
@@ -7727,7 +7727,7 @@
         "code": "01796",
         "name": "Tam Đồng",
         "fullName": "Xã Tam Đồng, Tỉnh Nghệ An",
-        "slug": "tam-ong",
+        "slug": "tam-dong",
         "type": "commune"
       },
       {
@@ -7790,14 +7790,14 @@
         "code": "01941",
         "name": "Nam Đàn",
         "fullName": "Xã Nam Đàn, Tỉnh Nghệ An",
-        "slug": "nam-an",
+        "slug": "nam-dan",
         "type": "commune"
       },
       {
         "code": "01945",
         "name": "Đại Huệ",
         "fullName": "Xã Đại Huệ, Tỉnh Nghệ An",
-        "slug": "ai-hue",
+        "slug": "dai-hue",
         "type": "commune"
       },
       {
@@ -7846,7 +7846,7 @@
         "code": "02113",
         "name": "Quang Đồng",
         "fullName": "Xã Quang Đồng, Tỉnh Nghệ An",
-        "slug": "quang-ong",
+        "slug": "quang-dong",
         "type": "commune"
       },
       {
@@ -7888,21 +7888,21 @@
         "code": "02248",
         "name": "Nghĩa Đồng",
         "fullName": "Xã Nghĩa Đồng, Tỉnh Nghệ An",
-        "slug": "nghia-ong",
+        "slug": "nghia-dong",
         "type": "commune"
       },
       {
         "code": "02278",
         "name": "Nghĩa Đàn",
         "fullName": "Xã Nghĩa Đàn, Tỉnh Nghệ An",
-        "slug": "nghia-an",
+        "slug": "nghia-dan",
         "type": "commune"
       },
       {
         "code": "02279",
         "name": "Tiên Đồng",
         "fullName": "Xã Tiên Đồng, Tỉnh Nghệ An",
-        "slug": "tien-ong",
+        "slug": "tien-dong",
         "type": "commune"
       },
       {
@@ -7944,7 +7944,7 @@
         "code": "02512",
         "name": "Anh Sơn Đông",
         "fullName": "Xã Anh Sơn Đông, Tỉnh Nghệ An",
-        "slug": "anh-son-ong",
+        "slug": "anh-son-dong",
         "type": "commune"
       },
       {
@@ -8189,7 +8189,7 @@
         "code": "03255",
         "name": "Keng Đu",
         "fullName": "Xã Keng Đu, Tỉnh Nghệ An",
-        "slug": "keng-u",
+        "slug": "keng-du",
         "type": "commune"
       },
       {
@@ -8297,7 +8297,7 @@
         "code": "00250",
         "name": "Điện Bàn Đông",
         "fullName": "Phường Điện Bàn Đông, Thành phố Đà Nẵng",
-        "slug": "ien-ban-ong",
+        "slug": "dien-ban-dong",
         "type": "ward"
       },
       {
@@ -8318,7 +8318,7 @@
         "code": "00375",
         "name": "Đại Lộc",
         "fullName": "Xã Đại Lộc, Thành phố Đà Nẵng",
-        "slug": "ai-loc",
+        "slug": "dai-loc",
         "type": "commune"
       },
       {
@@ -8353,7 +8353,7 @@
         "code": "00740",
         "name": "Điện Bàn Tây",
         "fullName": "Xã Điện Bàn Tây, Thành phố Đà Nẵng",
-        "slug": "ien-ban-tay",
+        "slug": "dien-ban-tay",
         "type": "commune"
       },
       {
@@ -8381,14 +8381,14 @@
         "code": "00813",
         "name": "Thăng Điền",
         "fullName": "Xã Thăng Điền, Thành phố Đà Nẵng",
-        "slug": "thang-ien",
+        "slug": "thang-dien",
         "type": "commune"
       },
       {
         "code": "00846",
         "name": "Điện Bàn",
         "fullName": "Phường Điện Bàn, Thành phố Đà Nẵng",
-        "slug": "ien-ban",
+        "slug": "dien-ban",
         "type": "ward"
       },
       {
@@ -8479,7 +8479,7 @@
         "code": "01362",
         "name": "Chiên Đàn",
         "fullName": "Xã Chiên Đàn, Thành phố Đà Nẵng",
-        "slug": "chien-an",
+        "slug": "chien-dan",
         "type": "commune"
       },
       {
@@ -8493,7 +8493,7 @@
         "code": "01436",
         "name": "Hội An Đông",
         "fullName": "Phường Hội An Đông, Thành phố Đà Nẵng",
-        "slug": "hoi-an-ong",
+        "slug": "hoi-an-dong",
         "type": "ward"
       },
       {
@@ -8507,7 +8507,7 @@
         "code": "01462",
         "name": "Điện Bàn Bắc",
         "fullName": "Phường Điện Bàn Bắc, Thành phố Đà Nẵng",
-        "slug": "ien-ban-bac",
+        "slug": "dien-ban-bac",
         "type": "ward"
       },
       {
@@ -8591,14 +8591,14 @@
         "code": "01916",
         "name": "Đồng Dương",
         "fullName": "Xã Đồng Dương, Thành phố Đà Nẵng",
-        "slug": "ong-duong",
+        "slug": "dong-duong",
         "type": "commune"
       },
       {
         "code": "02106",
         "name": "Thượng Đức",
         "fullName": "Xã Thượng Đức, Thành phố Đà Nẵng",
-        "slug": "thuong-uc",
+        "slug": "thuong-duc",
         "type": "commune"
       },
       {
@@ -8640,7 +8640,7 @@
         "code": "02595",
         "name": "Hiệp Đức",
         "fullName": "Xã Hiệp Đức, Thành phố Đà Nẵng",
-        "slug": "hiep-uc",
+        "slug": "hiep-duc",
         "type": "commune"
       },
       {
@@ -8661,7 +8661,7 @@
         "code": "02882",
         "name": "Trà Đốc",
         "fullName": "Xã Trà Đốc, Thành phố Đà Nẵng",
-        "slug": "tra-oc",
+        "slug": "tra-doc",
         "type": "commune"
       },
       {
@@ -8675,14 +8675,14 @@
         "code": "02937",
         "name": "Khâm Đức",
         "fullName": "Xã Khâm Đức, Thành phố Đà Nẵng",
-        "slug": "kham-uc",
+        "slug": "kham-duc",
         "type": "commune"
       },
       {
         "code": "02977",
         "name": "Đức Phú",
         "fullName": "Xã Đức Phú, Thành phố Đà Nẵng",
-        "slug": "uc-phu",
+        "slug": "duc-phu",
         "type": "commune"
       },
       {
@@ -8696,7 +8696,7 @@
         "code": "03006",
         "name": "Đông Giang",
         "fullName": "Xã Đông Giang, Thành phố Đà Nẵng",
-        "slug": "ong-giang",
+        "slug": "dong-giang",
         "type": "commune"
       },
       {
@@ -8850,7 +8850,7 @@
         "code": "03299",
         "name": "Đắc Pring",
         "fullName": "Xã Đắc Pring, Thành phố Đà Nẵng",
-        "slug": "ac-pring",
+        "slug": "dac-pring",
         "type": "commune"
       },
       {
@@ -8895,7 +8895,7 @@
         "code": "00011",
         "name": "Nam Định",
         "fullName": "Phường Nam Định, Tỉnh Ninh Bình",
-        "slug": "nam-inh",
+        "slug": "nam-dinh",
         "type": "ward"
       },
       {
@@ -9154,7 +9154,7 @@
         "code": "01128",
         "name": "Yên Đồng",
         "fullName": "Xã Yên Đồng, Tỉnh Ninh Bình",
-        "slug": "yen-ong",
+        "slug": "yen-dong",
         "type": "commune"
       },
       {
@@ -9196,14 +9196,14 @@
         "code": "01205",
         "name": "Đồng Văn",
         "fullName": "Phường Đồng Văn, Tỉnh Ninh Bình",
-        "slug": "ong-van",
+        "slug": "dong-van",
         "type": "ward"
       },
       {
         "code": "01208",
         "name": "Đông Hoa Lư",
         "fullName": "Phường Đông Hoa Lư, Tỉnh Ninh Bình",
-        "slug": "ong-hoa-lu",
+        "slug": "dong-hoa-lu",
         "type": "ward"
       },
       {
@@ -9315,7 +9315,7 @@
         "code": "01381",
         "name": "Đông A",
         "fullName": "Phường Đông A, Tỉnh Ninh Bình",
-        "slug": "ong-a",
+        "slug": "dong-a",
         "type": "ward"
       },
       {
@@ -9357,14 +9357,14 @@
         "code": "01450",
         "name": "Rạng Đông",
         "fullName": "Xã Rạng Đông, Tỉnh Ninh Bình",
-        "slug": "rang-ong",
+        "slug": "rang-dong",
         "type": "commune"
       },
       {
         "code": "01452",
         "name": "Đồng Thịnh",
         "fullName": "Xã Đồng Thịnh, Tỉnh Ninh Bình",
-        "slug": "ong-thinh",
+        "slug": "dong-thinh",
         "type": "commune"
       },
       {
@@ -9448,7 +9448,7 @@
         "code": "01639",
         "name": "Nam Đồng",
         "fullName": "Xã Nam Đồng, Tỉnh Ninh Bình",
-        "slug": "nam-ong",
+        "slug": "nam-dong",
         "type": "commune"
       },
       {
@@ -9518,7 +9518,7 @@
         "code": "01760",
         "name": "Tam Điệp",
         "fullName": "Phường Tam Điệp, Tỉnh Ninh Bình",
-        "slug": "tam-iep",
+        "slug": "tam-diep",
         "type": "ward"
       },
       {
@@ -9595,7 +9595,7 @@
         "code": "01946",
         "name": "Định Hóa",
         "fullName": "Xã Định Hóa, Tỉnh Ninh Bình",
-        "slug": "inh-hoa",
+        "slug": "dinh-hoa",
         "type": "commune"
       },
       {
@@ -9616,14 +9616,14 @@
         "code": "01978",
         "name": "Đồng Thái",
         "fullName": "Xã Đồng Thái, Tỉnh Ninh Bình",
-        "slug": "ong-thai",
+        "slug": "dong-thai",
         "type": "commune"
       },
       {
         "code": "01992",
         "name": "Đại Hoàng",
         "fullName": "Xã Đại Hoàng, Tỉnh Ninh Bình",
-        "slug": "ai-hoang",
+        "slug": "dai-hoang",
         "type": "commune"
       },
       {
@@ -9784,7 +9784,7 @@
         "code": "02964",
         "name": "Kim Đông",
         "fullName": "Xã Kim Đông, Tỉnh Ninh Bình",
-        "slug": "kim-ong",
+        "slug": "kim-dong",
         "type": "commune"
       },
       {
@@ -9864,7 +9864,7 @@
         "code": "00468",
         "name": "Đông Hải",
         "fullName": "Phường Đông Hải, Tỉnh Khánh Hòa",
-        "slug": "ong-hai",
+        "slug": "dong-hai",
         "type": "ward"
       },
       {
@@ -9913,14 +9913,14 @@
         "code": "00773",
         "name": "Đông Ninh Hòa",
         "fullName": "Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",
-        "slug": "ong-ninh-hoa",
+        "slug": "dong-ninh-hoa",
         "type": "ward"
       },
       {
         "code": "00881",
         "name": "Tân Định",
         "fullName": "Xã Tân Định, Tỉnh Khánh Hòa",
-        "slug": "tan-inh",
+        "slug": "tan-dinh",
         "type": "commune"
       },
       {
@@ -9934,7 +9934,7 @@
         "code": "01004",
         "name": "Diên Điền",
         "fullName": "Xã Diên Điền, Tỉnh Khánh Hòa",
-        "slug": "dien-ien",
+        "slug": "dien-dien",
         "type": "commune"
       },
       {
@@ -9962,7 +9962,7 @@
         "code": "01285",
         "name": "Đô Vinh",
         "fullName": "Phường Đô Vinh, Tỉnh Khánh Hòa",
-        "slug": "o-vinh",
+        "slug": "do-vinh",
         "type": "ward"
       },
       {
@@ -10060,7 +10060,7 @@
         "code": "01843",
         "name": "Đại Lãnh",
         "fullName": "Xã Đại Lãnh, Tỉnh Khánh Hòa",
-        "slug": "ai-lanh",
+        "slug": "dai-lanh",
         "type": "commune"
       },
       {
@@ -10186,7 +10186,7 @@
         "code": "02890",
         "name": "Đông Khánh Sơn",
         "fullName": "Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",
-        "slug": "ong-khanh-son",
+        "slug": "dong-khanh-son",
         "type": "commune"
       },
       {
@@ -10207,7 +10207,7 @@
         "code": "02971",
         "name": "Bác Ái Đông",
         "fullName": "Xã Bác Ái Đông, Tỉnh Khánh Hòa",
-        "slug": "bac-ai-ong",
+        "slug": "bac-ai-dong",
         "type": "commune"
       },
       {
@@ -10357,14 +10357,14 @@
         "code": "00567",
         "name": "Cần Đước",
         "fullName": "Xã Cần Đước, Tỉnh Tây Ninh",
-        "slug": "can-uoc",
+        "slug": "can-duoc",
         "type": "commune"
       },
       {
         "code": "00577",
         "name": "Đức Hòa",
         "fullName": "Xã Đức Hòa, Tỉnh Tây Ninh",
-        "slug": "uc-hoa",
+        "slug": "duc-hoa",
         "type": "commune"
       },
       {
@@ -10399,7 +10399,7 @@
         "code": "00737",
         "name": "Thạnh Đức",
         "fullName": "Xã Thạnh Đức, Tỉnh Tây Ninh",
-        "slug": "thanh-uc",
+        "slug": "thanh-duc",
         "type": "commune"
       },
       {
@@ -10420,7 +10420,7 @@
         "code": "00770",
         "name": "Thanh Điền",
         "fullName": "Phường Thanh Điền, Tỉnh Tây Ninh",
-        "slug": "thanh-ien",
+        "slug": "thanh-dien",
         "type": "ward"
       },
       {
@@ -10518,7 +10518,7 @@
         "code": "01180",
         "name": "Bình Đức",
         "fullName": "Xã Bình Đức, Tỉnh Tây Ninh",
-        "slug": "binh-uc",
+        "slug": "binh-duc",
         "type": "commune"
       },
       {
@@ -10539,7 +10539,7 @@
         "code": "01340",
         "name": "Hảo Đước",
         "fullName": "Xã Hảo Đước, Tỉnh Tây Ninh",
-        "slug": "hao-uoc",
+        "slug": "hao-duoc",
         "type": "commune"
       },
       {
@@ -10553,7 +10553,7 @@
         "code": "01389",
         "name": "Đức Lập",
         "fullName": "Xã Đức Lập, Tỉnh Tây Ninh",
-        "slug": "uc-lap",
+        "slug": "duc-lap",
         "type": "commune"
       },
       {
@@ -10644,14 +10644,14 @@
         "code": "01698",
         "name": "Tân Đông",
         "fullName": "Xã Tân Đông, Tỉnh Tây Ninh",
-        "slug": "tan-ong",
+        "slug": "tan-dong",
         "type": "commune"
       },
       {
         "code": "01732",
         "name": "Đông Thành",
         "fullName": "Xã Đông Thành, Tỉnh Tây Ninh",
-        "slug": "ong-thanh",
+        "slug": "dong-thanh",
         "type": "commune"
       },
       {
@@ -10749,7 +10749,7 @@
         "code": "02026",
         "name": "Ninh Điền",
         "fullName": "Xã Ninh Điền, Tỉnh Tây Ninh",
-        "slug": "ninh-ien",
+        "slug": "ninh-dien",
         "type": "commune"
       },
       {
@@ -10770,7 +10770,7 @@
         "code": "02070",
         "name": "Đức Huệ",
         "fullName": "Xã Đức Huệ, Tỉnh Tây Ninh",
-        "slug": "uc-hue",
+        "slug": "duc-hue",
         "type": "commune"
       },
       {
@@ -10847,7 +10847,7 @@
         "code": "02305",
         "name": "Hưng Điền",
         "fullName": "Xã Hưng Điền, Tỉnh Tây Ninh",
-        "slug": "hung-ien",
+        "slug": "hung-dien",
         "type": "commune"
       },
       {
@@ -10962,7 +10962,7 @@
         "code": "00107",
         "name": "Sa Đéc",
         "fullName": "Phường Sa Đéc, Tỉnh Đồng Tháp",
-        "slug": "sa-ec",
+        "slug": "sa-dec",
         "type": "ward"
       },
       {
@@ -10997,7 +10997,7 @@
         "code": "00243",
         "name": "Đạo Thạnh",
         "fullName": "Phường Đạo Thạnh, Tỉnh Đồng Tháp",
-        "slug": "ao-thanh",
+        "slug": "dao-thanh",
         "type": "ward"
       },
       {
@@ -11074,7 +11074,7 @@
         "code": "00401",
         "name": "Tân Nhuận Đông",
         "fullName": "Xã Tân Nhuận Đông, Tỉnh Đồng Tháp",
-        "slug": "tan-nhuan-ong",
+        "slug": "tan-nhuan-dong",
         "type": "commune"
       },
       {
@@ -11123,7 +11123,7 @@
         "code": "00536",
         "name": "Tân Đông",
         "fullName": "Xã Tân Đông, Tỉnh Đồng Tháp",
-        "slug": "tan-ong",
+        "slug": "tan-dong",
         "type": "commune"
       },
       {
@@ -11165,7 +11165,7 @@
         "code": "00625",
         "name": "Long Định",
         "fullName": "Xã Long Định, Tỉnh Đồng Tháp",
-        "slug": "long-inh",
+        "slug": "long-dinh",
         "type": "commune"
       },
       {
@@ -11270,7 +11270,7 @@
         "code": "00883",
         "name": "Đồng Sơn",
         "fullName": "Xã Đồng Sơn, Tỉnh Đồng Tháp",
-        "slug": "ong-son",
+        "slug": "dong-son",
         "type": "commune"
       },
       {
@@ -11333,7 +11333,7 @@
         "code": "01069",
         "name": "Mỹ Đức Tây",
         "fullName": "Xã Mỹ Đức Tây, Tỉnh Đồng Tháp",
-        "slug": "my-uc-tay",
+        "slug": "my-duc-tay",
         "type": "commune"
       },
       {
@@ -11375,7 +11375,7 @@
         "code": "01140",
         "name": "Hiệp Đức",
         "fullName": "Xã Hiệp Đức, Tỉnh Đồng Tháp",
-        "slug": "hiep-uc",
+        "slug": "hiep-duc",
         "type": "commune"
       },
       {
@@ -11501,7 +11501,7 @@
         "code": "01508",
         "name": "Gò Công Đông",
         "fullName": "Xã Gò Công Đông, Tỉnh Đồng Tháp",
-        "slug": "go-cong-ong",
+        "slug": "go-cong-dong",
         "type": "commune"
       },
       {
@@ -11522,7 +11522,7 @@
         "code": "01605",
         "name": "Đốc Binh Kiều",
         "fullName": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp",
-        "slug": "oc-binh-kieu",
+        "slug": "doc-binh-kieu",
         "type": "commune"
       },
       {
@@ -11592,7 +11592,7 @@
         "code": "02011",
         "name": "Tân Phú Đông",
         "fullName": "Xã Tân Phú Đông, Tỉnh Đồng Tháp",
-        "slug": "tan-phu-ong",
+        "slug": "tan-phu-dong",
         "type": "commune"
       },
       {
@@ -11606,7 +11606,7 @@
         "code": "02129",
         "name": "Tân Điền",
         "fullName": "Xã Tân Điền, Tỉnh Đồng Tháp",
-        "slug": "tan-ien",
+        "slug": "tan-dien",
         "type": "commune"
       },
       {
@@ -11686,7 +11686,7 @@
         "code": "00840",
         "name": "Đức Thịnh",
         "fullName": "Xã Đức Thịnh, Tỉnh Hà Tĩnh",
-        "slug": "uc-thinh",
+        "slug": "duc-thinh",
         "type": "commune"
       },
       {
@@ -11707,7 +11707,7 @@
         "code": "00909",
         "name": "Đức Thọ",
         "fullName": "Xã Đức Thọ, Tỉnh Hà Tĩnh",
-        "slug": "uc-tho",
+        "slug": "duc-tho",
         "type": "commune"
       },
       {
@@ -11735,7 +11735,7 @@
         "code": "01194",
         "name": "Cổ Đạm",
         "fullName": "Xã Cổ Đạm, Tỉnh Hà Tĩnh",
-        "slug": "co-am",
+        "slug": "co-dam",
         "type": "commune"
       },
       {
@@ -11812,14 +11812,14 @@
         "code": "01650",
         "name": "Đan Hải",
         "fullName": "Xã Đan Hải, Tỉnh Hà Tĩnh",
-        "slug": "an-hai",
+        "slug": "dan-hai",
         "type": "commune"
       },
       {
         "code": "01681",
         "name": "Đồng Lộc",
         "fullName": "Xã Đồng Lộc, Tỉnh Hà Tĩnh",
-        "slug": "ong-loc",
+        "slug": "dong-loc",
         "type": "commune"
       },
       {
@@ -11840,7 +11840,7 @@
         "code": "01911",
         "name": "Tiên Điền",
         "fullName": "Xã Tiên Điền, Tỉnh Hà Tĩnh",
-        "slug": "tien-ien",
+        "slug": "tien-dien",
         "type": "commune"
       },
       {
@@ -11903,7 +11903,7 @@
         "code": "02205",
         "name": "Đông Kinh",
         "fullName": "Xã Đông Kinh, Tỉnh Hà Tĩnh",
-        "slug": "ong-kinh",
+        "slug": "dong-kinh",
         "type": "commune"
       },
       {
@@ -11973,7 +11973,7 @@
         "code": "02347",
         "name": "Đức Minh",
         "fullName": "Xã Đức Minh, Tỉnh Hà Tĩnh",
-        "slug": "uc-minh",
+        "slug": "duc-minh",
         "type": "commune"
       },
       {
@@ -11987,7 +11987,7 @@
         "code": "02355",
         "name": "Đồng Tiến",
         "fullName": "Xã Đồng Tiến, Tỉnh Hà Tĩnh",
-        "slug": "ong-tien",
+        "slug": "dong-tien",
         "type": "commune"
       },
       {
@@ -12036,7 +12036,7 @@
         "code": "02429",
         "name": "Đức Quang",
         "fullName": "Xã Đức Quang, Tỉnh Hà Tĩnh",
-        "slug": "uc-quang",
+        "slug": "duc-quang",
         "type": "commune"
       },
       {
@@ -12099,7 +12099,7 @@
         "code": "02639",
         "name": "Hương Đô",
         "fullName": "Xã Hương Đô, Tỉnh Hà Tĩnh",
-        "slug": "huong-o",
+        "slug": "huong-do",
         "type": "commune"
       },
       {
@@ -12120,7 +12120,7 @@
         "code": "02801",
         "name": "Đức Đồng",
         "fullName": "Xã Đức Đồng, Tỉnh Hà Tĩnh",
-        "slug": "uc-ong",
+        "slug": "duc-dong",
         "type": "commune"
       },
       {
@@ -12134,7 +12134,7 @@
         "code": "02918",
         "name": "Thượng Đức",
         "fullName": "Xã Thượng Đức, Tỉnh Hà Tĩnh",
-        "slug": "thuong-uc",
+        "slug": "thuong-duc",
         "type": "commune"
       },
       {
@@ -12186,7 +12186,7 @@
         "code": "00128",
         "name": "Châu Đốc",
         "fullName": "Phường Châu Đốc, Tỉnh An Giang",
-        "slug": "chau-oc",
+        "slug": "chau-doc",
         "type": "ward"
       },
       {
@@ -12214,7 +12214,7 @@
         "code": "00248",
         "name": "Bình Đức",
         "fullName": "Phường Bình Đức, Tỉnh An Giang",
-        "slug": "binh-uc",
+        "slug": "binh-duc",
         "type": "ward"
       },
       {
@@ -12270,7 +12270,7 @@
         "code": "00322",
         "name": "Long Điền",
         "fullName": "Xã Long Điền, Tỉnh An Giang",
-        "slug": "long-ien",
+        "slug": "long-dien",
         "type": "commune"
       },
       {
@@ -12291,7 +12291,7 @@
         "code": "00368",
         "name": "Hòn Đất",
         "fullName": "Xã Hòn Đất, Tỉnh An Giang",
-        "slug": "hon-at",
+        "slug": "hon-dat",
         "type": "commune"
       },
       {
@@ -12312,7 +12312,7 @@
         "code": "00389",
         "name": "Mỹ Đức",
         "fullName": "Xã Mỹ Đức, Tỉnh An Giang",
-        "slug": "my-uc",
+        "slug": "my-duc",
         "type": "commune"
       },
       {
@@ -12375,7 +12375,7 @@
         "code": "00442",
         "name": "Định Hòa",
         "fullName": "Xã Định Hòa, Tỉnh An Giang",
-        "slug": "inh-hoa",
+        "slug": "dinh-hoa",
         "type": "commune"
       },
       {
@@ -12403,7 +12403,7 @@
         "code": "00477",
         "name": "Đông Thái",
         "fullName": "Xã Đông Thái, Tỉnh An Giang",
-        "slug": "ong-thai",
+        "slug": "dong-thai",
         "type": "commune"
       },
       {
@@ -12417,7 +12417,7 @@
         "code": "00489",
         "name": "Thạnh Đông",
         "fullName": "Xã Thạnh Đông, Tỉnh An Giang",
-        "slug": "thanh-ong",
+        "slug": "thanh-dong",
         "type": "commune"
       },
       {
@@ -12452,7 +12452,7 @@
         "code": "00563",
         "name": "Bình Thạnh Đông",
         "fullName": "Xã Bình Thạnh Đông, Tỉnh An Giang",
-        "slug": "binh-thanh-ong",
+        "slug": "binh-thanh-dong",
         "type": "commune"
       },
       {
@@ -12501,7 +12501,7 @@
         "code": "00712",
         "name": "Đông Hòa",
         "fullName": "Xã Đông Hòa, Tỉnh An Giang",
-        "slug": "ong-hoa",
+        "slug": "dong-hoa",
         "type": "commune"
       },
       {
@@ -12543,7 +12543,7 @@
         "code": "00811",
         "name": "Định Mỹ",
         "fullName": "Xã Định Mỹ, Tỉnh An Giang",
-        "slug": "inh-my",
+        "slug": "dinh-my",
         "type": "commune"
       },
       {
@@ -12662,7 +12662,7 @@
         "code": "01170",
         "name": "Cần Đăng",
         "fullName": "Xã Cần Đăng, Tỉnh An Giang",
-        "slug": "can-ang",
+        "slug": "can-dang",
         "type": "commune"
       },
       {
@@ -12788,7 +12788,7 @@
         "code": "01973",
         "name": "Hòa Điền",
         "fullName": "Xã Hòa Điền, Tỉnh An Giang",
-        "slug": "hoa-ien",
+        "slug": "hoa-dien",
         "type": "commune"
       },
       {
@@ -12809,7 +12809,7 @@
         "code": "02120",
         "name": "Đông Hưng",
         "fullName": "Xã Đông Hưng, Tỉnh An Giang",
-        "slug": "ong-hung",
+        "slug": "dong-hung",
         "type": "commune"
       },
       {
@@ -12844,7 +12844,7 @@
         "code": "02428",
         "name": "Vĩnh Điều",
         "fullName": "Xã Vĩnh Điều, Tỉnh An Giang",
-        "slug": "vinh-ieu",
+        "slug": "vinh-dieu",
         "type": "commune"
       },
       {
@@ -12889,7 +12889,7 @@
         "code": "00092",
         "name": "Phan Đình Phùng",
         "fullName": "Phường Phan Đình Phùng, Tỉnh Thái Nguyên",
-        "slug": "phan-inh-phung",
+        "slug": "phan-dinh-phung",
         "type": "ward"
       },
       {
@@ -12959,14 +12959,14 @@
         "code": "00828",
         "name": "Điềm Thụy",
         "fullName": "Xã Điềm Thụy, Tỉnh Thái Nguyên",
-        "slug": "iem-thuy",
+        "slug": "diem-thuy",
         "type": "commune"
       },
       {
         "code": "00945",
         "name": "Đại Phúc",
         "fullName": "Xã Đại Phúc, Tỉnh Thái Nguyên",
-        "slug": "ai-phuc",
+        "slug": "dai-phuc",
         "type": "commune"
       },
       {
@@ -12987,7 +12987,7 @@
         "code": "01445",
         "name": "Đồng Hỷ",
         "fullName": "Xã Đồng Hỷ, Tỉnh Thái Nguyên",
-        "slug": "ong-hy",
+        "slug": "dong-hy",
         "type": "commune"
       },
       {
@@ -13015,7 +13015,7 @@
         "code": "01745",
         "name": "Đại Từ",
         "fullName": "Xã Đại Từ, Tỉnh Thái Nguyên",
-        "slug": "ai-tu",
+        "slug": "dai-tu",
         "type": "commune"
       },
       {
@@ -13071,14 +13071,14 @@
         "code": "02094",
         "name": "Đức Xuân",
         "fullName": "Phường Đức Xuân, Tỉnh Thái Nguyên",
-        "slug": "uc-xuan",
+        "slug": "duc-xuan",
         "type": "ward"
       },
       {
         "code": "02115",
         "name": "Định Hóa",
         "fullName": "Xã Định Hóa, Tỉnh Thái Nguyên",
-        "slug": "inh-hoa",
+        "slug": "dinh-hoa",
         "type": "commune"
       },
       {
@@ -13162,7 +13162,7 @@
         "code": "02508",
         "name": "Chợ Đồn",
         "fullName": "Xã Chợ Đồn, Tỉnh Thái Nguyên",
-        "slug": "cho-on",
+        "slug": "cho-don",
         "type": "commune"
       },
       {
@@ -13232,7 +13232,7 @@
         "code": "02702",
         "name": "Đức Lương",
         "fullName": "Xã Đức Lương, Tỉnh Thái Nguyên",
-        "slug": "uc-luong",
+        "slug": "duc-luong",
         "type": "commune"
       },
       {
@@ -13267,14 +13267,14 @@
         "code": "02789",
         "name": "Phú Đình",
         "fullName": "Xã Phú Đình, Tỉnh Thái Nguyên",
-        "slug": "phu-inh",
+        "slug": "phu-dinh",
         "type": "commune"
       },
       {
         "code": "02790",
         "name": "Đồng Phúc",
         "fullName": "Xã Đồng Phúc, Tỉnh Thái Nguyên",
-        "slug": "ong-phuc",
+        "slug": "dong-phuc",
         "type": "commune"
       },
       {
@@ -13543,7 +13543,7 @@
         "code": "00569",
         "name": "Đông Kinh",
         "fullName": "Phường Đông Kinh, Tỉnh Lạng Sơn",
-        "slug": "ong-kinh",
+        "slug": "dong-kinh",
         "type": "ward"
       },
       {
@@ -13578,7 +13578,7 @@
         "code": "01898",
         "name": "Đồng Đăng",
         "fullName": "Xã Đồng Đăng, Tỉnh Lạng Sơn",
-        "slug": "ong-ang",
+        "slug": "dong-dang",
         "type": "commune"
       },
       {
@@ -13753,7 +13753,7 @@
         "code": "02802",
         "name": "Tràng Định",
         "fullName": "Xã Tràng Định, Tỉnh Lạng Sơn",
-        "slug": "trang-inh",
+        "slug": "trang-dinh",
         "type": "commune"
       },
       {
@@ -13774,7 +13774,7 @@
         "code": "02813",
         "name": "Điềm He",
         "fullName": "Xã Điềm He, Tỉnh Lạng Sơn",
-        "slug": "iem-he",
+        "slug": "diem-he",
         "type": "commune"
       },
       {
@@ -13788,7 +13788,7 @@
         "code": "02879",
         "name": "Tân Đoàn",
         "fullName": "Xã Tân Đoàn, Tỉnh Lạng Sơn",
-        "slug": "tan-oan",
+        "slug": "tan-doan",
         "type": "commune"
       },
       {
@@ -13816,7 +13816,7 @@
         "code": "02925",
         "name": "Đình Lập",
         "fullName": "Xã Đình Lập, Tỉnh Lạng Sơn",
-        "slug": "inh-lap",
+        "slug": "dinh-lap",
         "type": "commune"
       },
       {
@@ -13984,7 +13984,7 @@
         "code": "03289",
         "name": "Đoàn Kết",
         "fullName": "Xã Đoàn Kết, Tỉnh Lạng Sơn",
-        "slug": "oan-ket",
+        "slug": "doan-ket",
         "type": "commune"
       },
       {
@@ -14008,7 +14008,7 @@
         "code": "00601",
         "name": "Điện Biên Phủ",
         "fullName": "Phường Điện Biên Phủ, Tỉnh Điện Biên",
-        "slug": "ien-bien-phu",
+        "slug": "dien-bien-phu",
         "type": "ward"
       },
       {
@@ -14396,7 +14396,7 @@
         "code": "00168",
         "name": "Định Quán",
         "fullName": "Xã Định Quán, Tỉnh Đồng Nai",
-        "slug": "inh-quan",
+        "slug": "dinh-quan",
         "type": "commune"
       },
       {
@@ -14522,7 +14522,7 @@
         "code": "00459",
         "name": "Đại Phước",
         "fullName": "Xã Đại Phước, Tỉnh Đồng Nai",
-        "slug": "ai-phuoc",
+        "slug": "dai-phuoc",
         "type": "commune"
       },
       {
@@ -14550,7 +14550,7 @@
         "code": "00640",
         "name": "Xuân Đông",
         "fullName": "Xã Xuân Đông, Tỉnh Đồng Nai",
-        "slug": "xuan-ong",
+        "slug": "xuan-dong",
         "type": "commune"
       },
       {
@@ -14564,7 +14564,7 @@
         "code": "00700",
         "name": "Đồng Phú",
         "fullName": "Xã Đồng Phú, Tỉnh Đồng Nai",
-        "slug": "ong-phu",
+        "slug": "dong-phu",
         "type": "commune"
       },
       {
@@ -14627,7 +14627,7 @@
         "code": "01071",
         "name": "Xuân Định",
         "fullName": "Xã Xuân Định, Tỉnh Đồng Nai",
-        "slug": "xuan-inh",
+        "slug": "xuan-dinh",
         "type": "commune"
       },
       {
@@ -14662,14 +14662,14 @@
         "code": "01130",
         "name": "Đồng Xoài",
         "fullName": "Phường Đồng Xoài, Tỉnh Đồng Nai",
-        "slug": "ong-xoai",
+        "slug": "dong-xoai",
         "type": "ward"
       },
       {
         "code": "01148",
         "name": "Đồng Tâm",
         "fullName": "Xã Đồng Tâm, Tỉnh Đồng Nai",
-        "slug": "ong-tam",
+        "slug": "dong-tam",
         "type": "commune"
       },
       {
@@ -14753,14 +14753,14 @@
         "code": "01363",
         "name": "Bù Đăng",
         "fullName": "Xã Bù Đăng, Tỉnh Đồng Nai",
-        "slug": "bu-ang",
+        "slug": "bu-dang",
         "type": "commune"
       },
       {
         "code": "01385",
         "name": "Đa Kia",
         "fullName": "Xã Đa Kia, Tỉnh Đồng Nai",
-        "slug": "a-kia",
+        "slug": "da-kia",
         "type": "commune"
       },
       {
@@ -14830,7 +14830,7 @@
         "code": "01784",
         "name": "Xuân Đường",
         "fullName": "Xã Xuân Đường, Tỉnh Đồng Nai",
-        "slug": "xuan-uong",
+        "slug": "xuan-duong",
         "type": "commune"
       },
       {
@@ -14872,7 +14872,7 @@
         "code": "02007",
         "name": "Đak Nhau",
         "fullName": "Xã Đak Nhau, Tỉnh Đồng Nai",
-        "slug": "ak-nhau",
+        "slug": "dak-nhau",
         "type": "commune"
       },
       {
@@ -14921,7 +14921,7 @@
         "code": "02303",
         "name": "Đăk Ơ",
         "fullName": "Xã Đăk Ơ, Tỉnh Đồng Nai",
-        "slug": "ak-o",
+        "slug": "dak-o",
         "type": "commune"
       },
       {
@@ -14935,7 +14935,7 @@
         "code": "02464",
         "name": "Minh Đức",
         "fullName": "Xã Minh Đức, Tỉnh Đồng Nai",
-        "slug": "minh-uc",
+        "slug": "minh-duc",
         "type": "commune"
       },
       {
@@ -14991,7 +14991,7 @@
         "code": "03049",
         "name": "Đak Lua",
         "fullName": "Xã Đak Lua, Tỉnh Đồng Nai",
-        "slug": "ak-lua",
+        "slug": "dak-lua",
         "type": "commune"
       }
     ]
@@ -15057,7 +15057,7 @@
         "code": "00445",
         "name": "Đông Sơn",
         "fullName": "Xã Đông Sơn, Tỉnh Quảng Ngãi",
-        "slug": "ong-son",
+        "slug": "dong-son",
         "type": "commune"
       },
       {
@@ -15092,7 +15092,7 @@
         "code": "00842",
         "name": "Đức Phổ",
         "fullName": "Phường Đức Phổ, Tỉnh Quảng Ngãi",
-        "slug": "uc-pho",
+        "slug": "duc-pho",
         "type": "ward"
       },
       {
@@ -15134,21 +15134,21 @@
         "code": "01116",
         "name": "Đăk Hà",
         "fullName": "Xã Đăk Hà, Tỉnh Quảng Ngãi",
-        "slug": "ak-ha",
+        "slug": "dak-ha",
         "type": "commune"
       },
       {
         "code": "01117",
         "name": "Đình Cương",
         "fullName": "Xã Đình Cương, Tỉnh Quảng Ngãi",
-        "slug": "inh-cuong",
+        "slug": "dinh-cuong",
         "type": "commune"
       },
       {
         "code": "01129",
         "name": "Mộ Đức",
         "fullName": "Xã Mộ Đức, Tỉnh Quảng Ngãi",
-        "slug": "mo-uc",
+        "slug": "mo-duc",
         "type": "commune"
       },
       {
@@ -15162,7 +15162,7 @@
         "code": "01173",
         "name": "Đăk Tô",
         "fullName": "Xã Đăk Tô, Tỉnh Quảng Ngãi",
-        "slug": "ak-to",
+        "slug": "dak-to",
         "type": "commune"
       },
       {
@@ -15183,7 +15183,7 @@
         "code": "01534",
         "name": "Đăk Cấm",
         "fullName": "Phường Đăk Cấm, Tỉnh Quảng Ngãi",
-        "slug": "ak-cam",
+        "slug": "dak-cam",
         "type": "ward"
       },
       {
@@ -15211,7 +15211,7 @@
         "code": "01884",
         "name": "Đăk Rơ Wa",
         "fullName": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi",
-        "slug": "ak-ro-wa",
+        "slug": "dak-ro-wa",
         "type": "commune"
       },
       {
@@ -15246,7 +15246,7 @@
         "code": "02145",
         "name": "Đăk BLa",
         "fullName": "Phường Đăk BLa, Tỉnh Quảng Ngãi",
-        "slug": "ak-bla",
+        "slug": "dak-bla",
         "type": "ward"
       },
       {
@@ -15295,7 +15295,7 @@
         "code": "02284",
         "name": "Đăk Mar",
         "fullName": "Xã Đăk Mar, Tỉnh Quảng Ngãi",
-        "slug": "ak-mar",
+        "slug": "dak-mar",
         "type": "commune"
       },
       {
@@ -15323,7 +15323,7 @@
         "code": "02434",
         "name": "Đăk Pék",
         "fullName": "Xã Đăk Pék, Tỉnh Quảng Ngãi",
-        "slug": "ak-pek",
+        "slug": "dak-pek",
         "type": "commune"
       },
       {
@@ -15365,14 +15365,14 @@
         "code": "02677",
         "name": "Đăk Môn",
         "fullName": "Xã Đăk Môn, Tỉnh Quảng Ngãi",
-        "slug": "ak-mon",
+        "slug": "dak-mon",
         "type": "commune"
       },
       {
         "code": "02692",
         "name": "Kon Đào",
         "fullName": "Xã Kon Đào, Tỉnh Quảng Ngãi",
-        "slug": "kon-ao",
+        "slug": "kon-dao",
         "type": "commune"
       },
       {
@@ -15400,7 +15400,7 @@
         "code": "02772",
         "name": "Đăk Ui",
         "fullName": "Xã Đăk Ui, Tỉnh Quảng Ngãi",
-        "slug": "ak-ui",
+        "slug": "dak-ui",
         "type": "commune"
       },
       {
@@ -15435,14 +15435,14 @@
         "code": "02824",
         "name": "Đông Trà Bồng",
         "fullName": "Xã Đông Trà Bồng, Tỉnh Quảng Ngãi",
-        "slug": "ong-tra-bong",
+        "slug": "dong-tra-bong",
         "type": "commune"
       },
       {
         "code": "02825",
         "name": "Đăk Pxi",
         "fullName": "Xã Đăk Pxi, Tỉnh Quảng Ngãi",
-        "slug": "ak-pxi",
+        "slug": "dak-pxi",
         "type": "commune"
       },
       {
@@ -15484,7 +15484,7 @@
         "code": "02962",
         "name": "Măng Đen",
         "fullName": "Xã Măng Đen, Tỉnh Quảng Ngãi",
-        "slug": "mang-en",
+        "slug": "mang-den",
         "type": "commune"
       },
       {
@@ -15505,7 +15505,7 @@
         "code": "03001",
         "name": "Đăk Tờ Kan",
         "fullName": "Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi",
-        "slug": "ak-to-kan",
+        "slug": "dak-to-kan",
         "type": "commune"
       },
       {
@@ -15526,7 +15526,7 @@
         "code": "03052",
         "name": "Đăk Rve",
         "fullName": "Xã Đăk Rve, Tỉnh Quảng Ngãi",
-        "slug": "ak-rve",
+        "slug": "dak-rve",
         "type": "commune"
       },
       {
@@ -15540,7 +15540,7 @@
         "code": "03078",
         "name": "Ba Động",
         "fullName": "Xã Ba Động, Tỉnh Quảng Ngãi",
-        "slug": "ba-ong",
+        "slug": "ba-dong",
         "type": "commune"
       },
       {
@@ -15582,7 +15582,7 @@
         "code": "03143",
         "name": "Đăk Sao",
         "fullName": "Xã Đăk Sao, Tỉnh Quảng Ngãi",
-        "slug": "ak-sao",
+        "slug": "dak-sao",
         "type": "commune"
       },
       {
@@ -15624,7 +15624,7 @@
         "code": "03202",
         "name": "Đăk Kôi",
         "fullName": "Xã Đăk Kôi, Tỉnh Quảng Ngãi",
-        "slug": "ak-koi",
+        "slug": "dak-koi",
         "type": "commune"
       },
       {
@@ -15638,7 +15638,7 @@
         "code": "03230",
         "name": "Đăk Plô",
         "fullName": "Xã Đăk Plô, Tỉnh Quảng Ngãi",
-        "slug": "ak-plo",
+        "slug": "dak-plo",
         "type": "commune"
       },
       {
@@ -15652,28 +15652,28 @@
         "code": "03248",
         "name": "Đăk Long",
         "fullName": "Xã Đăk Long, Tỉnh Quảng Ngãi",
-        "slug": "ak-long",
+        "slug": "dak-long",
         "type": "commune"
       },
       {
         "code": "03256",
         "name": "Ia Đal",
         "fullName": "Xã Ia Đal, Tỉnh Quảng Ngãi",
-        "slug": "ia-al",
+        "slug": "ia-dal",
         "type": "commune"
       },
       {
         "code": "03273",
         "name": "Đặng Thùy Trâm",
         "fullName": "Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi",
-        "slug": "ang-thuy-tram",
+        "slug": "dang-thuy-tram",
         "type": "commune"
       },
       {
         "code": "03277",
         "name": "Cà Đam",
         "fullName": "Xã Cà Đam, Tỉnh Quảng Ngãi",
-        "slug": "ca-am",
+        "slug": "ca-dam",
         "type": "commune"
       }
     ]
@@ -15858,7 +15858,7 @@
         "code": "00830",
         "name": "Đông Thành",
         "fullName": "Phường Đông Thành, Tỉnh Vĩnh Long",
-        "slug": "ong-thanh",
+        "slug": "dong-thanh",
         "type": "ward"
       },
       {
@@ -15977,7 +15977,7 @@
         "code": "01022",
         "name": "An Định",
         "fullName": "Xã An Định, Tỉnh Vĩnh Long",
-        "slug": "an-inh",
+        "slug": "an-dinh",
         "type": "commune"
       },
       {
@@ -15998,7 +15998,7 @@
         "code": "01046",
         "name": "Đại Điền",
         "fullName": "Xã Đại Điền, Tỉnh Vĩnh Long",
-        "slug": "ai-ien",
+        "slug": "dai-dien",
         "type": "commune"
       },
       {
@@ -16061,7 +16061,7 @@
         "code": "01163",
         "name": "Đồng Khởi",
         "fullName": "Xã Đồng Khởi, Tỉnh Vĩnh Long",
-        "slug": "ong-khoi",
+        "slug": "dong-khoi",
         "type": "commune"
       },
       {
@@ -16075,7 +16075,7 @@
         "code": "01177",
         "name": "Thanh Đức",
         "fullName": "Phường Thanh Đức, Tỉnh Vĩnh Long",
-        "slug": "thanh-uc",
+        "slug": "thanh-duc",
         "type": "ward"
       },
       {
@@ -16124,7 +16124,7 @@
         "code": "01218",
         "name": "Sơn Đông",
         "fullName": "Phường Sơn Đông, Tỉnh Vĩnh Long",
-        "slug": "son-ong",
+        "slug": "son-dong",
         "type": "ward"
       },
       {
@@ -16138,14 +16138,14 @@
         "code": "01243",
         "name": "Bình Đại",
         "fullName": "Xã Bình Đại, Tỉnh Vĩnh Long",
-        "slug": "binh-ai",
+        "slug": "binh-dai",
         "type": "commune"
       },
       {
         "code": "01253",
         "name": "Long Đức",
         "fullName": "Phường Long Đức, Tỉnh Vĩnh Long",
-        "slug": "long-uc",
+        "slug": "long-duc",
         "type": "ward"
       },
       {
@@ -16187,7 +16187,7 @@
         "code": "01368",
         "name": "Đôn Châu",
         "fullName": "Xã Đôn Châu, Tỉnh Vĩnh Long",
-        "slug": "on-chau",
+        "slug": "don-chau",
         "type": "commune"
       },
       {
@@ -16264,7 +16264,7 @@
         "code": "01513",
         "name": "Quới Điền",
         "fullName": "Xã Quới Điền, Tỉnh Vĩnh Long",
-        "slug": "quoi-ien",
+        "slug": "quoi-dien",
         "type": "commune"
       },
       {
@@ -16467,7 +16467,7 @@
         "code": "02093",
         "name": "Đại An",
         "fullName": "Xã Đại An, Tỉnh Vĩnh Long",
-        "slug": "ai-an",
+        "slug": "dai-an",
         "type": "commune"
       },
       {
@@ -16544,7 +16544,7 @@
         "code": "02643",
         "name": "Đông Hải",
         "fullName": "Xã Đông Hải, Tỉnh Vĩnh Long",
-        "slug": "ong-hai",
+        "slug": "dong-hai",
         "type": "commune"
       },
       {
@@ -16659,14 +16659,14 @@
         "code": "02740",
         "name": "Đoài Dương",
         "fullName": "Xã Đoài Dương, Tỉnh Cao Bằng",
-        "slug": "oai-duong",
+        "slug": "doai-duong",
         "type": "commune"
       },
       {
         "code": "02757",
         "name": "Đàm Thuỷ",
         "fullName": "Xã Đàm Thuỷ, Tỉnh Cao Bằng",
-        "slug": "am-thuy",
+        "slug": "dam-thuy",
         "type": "commune"
       },
       {
@@ -16701,7 +16701,7 @@
         "code": "02863",
         "name": "Đình Phong",
         "fullName": "Xã Đình Phong, Tỉnh Cao Bằng",
-        "slug": "inh-phong",
+        "slug": "dinh-phong",
         "type": "commune"
       },
       {
@@ -16715,7 +16715,7 @@
         "code": "02902",
         "name": "Bế Văn Đàn",
         "fullName": "Xã Bế Văn Đàn, Tỉnh Cao Bằng",
-        "slug": "be-van-an",
+        "slug": "be-van-dan",
         "type": "commune"
       },
       {
@@ -16743,7 +16743,7 @@
         "code": "02965",
         "name": "Hưng Đạo",
         "fullName": "Xã Hưng Đạo, Tỉnh Cao Bằng",
-        "slug": "hung-ao",
+        "slug": "hung-dao",
         "type": "commune"
       },
       {
@@ -16764,14 +16764,14 @@
         "code": "02989",
         "name": "Đông Khê",
         "fullName": "Xã Đông Khê, Tỉnh Cao Bằng",
-        "slug": "ong-khe",
+        "slug": "dong-khe",
         "type": "commune"
       },
       {
         "code": "03036",
         "name": "Độc Lập",
         "fullName": "Xã Độc Lập, Tỉnh Cao Bằng",
-        "slug": "oc-lap",
+        "slug": "doc-lap",
         "type": "commune"
       },
       {
@@ -16862,7 +16862,7 @@
         "code": "03192",
         "name": "Kim Đồng",
         "fullName": "Xã Kim Đồng, Tỉnh Cao Bằng",
-        "slug": "kim-ong",
+        "slug": "kim-dong",
         "type": "commune"
       },
       {
@@ -16918,7 +16918,7 @@
         "code": "03246",
         "name": "Đức Long",
         "fullName": "Xã Đức Long, Tỉnh Cao Bằng",
-        "slug": "uc-long",
+        "slug": "duc-long",
         "type": "commune"
       },
       {
@@ -16932,7 +16932,7 @@
         "code": "03261",
         "name": "Bạch Đằng",
         "fullName": "Xã Bạch Đằng, Tỉnh Cao Bằng",
-        "slug": "bach-ang",
+        "slug": "bach-dang",
         "type": "commune"
       },
       {
@@ -16991,7 +16991,7 @@
         "code": "01864",
         "name": "Đoàn Kết",
         "fullName": "Phường Đoàn Kết, Tỉnh Lai Châu",
-        "slug": "oan-ket",
+        "slug": "doan-ket",
         "type": "ward"
       },
       {
@@ -17379,7 +17379,7 @@
         "code": "00638",
         "name": "Đông Hòa",
         "fullName": "Phường Đông Hòa, Tỉnh Đắk Lắk",
-        "slug": "ong-hoa",
+        "slug": "dong-hoa",
         "type": "ward"
       },
       {
@@ -17449,7 +17449,7 @@
         "code": "00905",
         "name": "Tuy An Đông",
         "fullName": "Xã Tuy An Đông, Tỉnh Đắk Lắk",
-        "slug": "tuy-an-ong",
+        "slug": "tuy-an-dong",
         "type": "commune"
       },
       {
@@ -17582,7 +17582,7 @@
         "code": "01604",
         "name": "Cuôr Đăng",
         "fullName": "Xã Cuôr Đăng, Tỉnh Đắk Lắk",
-        "slug": "cuor-ang",
+        "slug": "cuor-dang",
         "type": "commune"
       },
       {
@@ -17631,7 +17631,7 @@
         "code": "01755",
         "name": "Đồng Xuân",
         "fullName": "Xã Đồng Xuân, Tỉnh Đắk Lắk",
-        "slug": "ong-xuan",
+        "slug": "dong-xuan",
         "type": "commune"
       },
       {
@@ -17715,7 +17715,7 @@
         "code": "02073",
         "name": "Đắk Liêng",
         "fullName": "Xã Đắk Liêng, Tỉnh Đắk Lắk",
-        "slug": "ak-lieng",
+        "slug": "dak-lieng",
         "type": "commune"
       },
       {
@@ -17729,7 +17729,7 @@
         "code": "02161",
         "name": "Xuân Đài",
         "fullName": "Phường Xuân Đài, Tỉnh Đắk Lắk",
-        "slug": "xuan-ai",
+        "slug": "xuan-dai",
         "type": "ward"
       },
       {
@@ -17799,7 +17799,7 @@
         "code": "02542",
         "name": "Đức Bình",
         "fullName": "Xã Đức Bình, Tỉnh Đắk Lắk",
-        "slug": "uc-binh",
+        "slug": "duc-binh",
         "type": "commune"
       },
       {
@@ -17820,7 +17820,7 @@
         "code": "02613",
         "name": "Đắk Phơi",
         "fullName": "Xã Đắk Phơi, Tỉnh Đắk Lắk",
-        "slug": "ak-phoi",
+        "slug": "dak-phoi",
         "type": "commune"
       },
       {
@@ -17939,7 +17939,7 @@
         "code": "03152",
         "name": "Buôn Đôn",
         "fullName": "Xã Buôn Đôn, Tỉnh Đắk Lắk",
-        "slug": "buon-on",
+        "slug": "buon-don",
         "type": "commune"
       },
       {
@@ -18012,7 +18012,7 @@
         "code": "00419",
         "name": "Tuy Phước Đông",
         "fullName": "Xã Tuy Phước Đông, Tỉnh Gia Lai",
-        "slug": "tuy-phuoc-ong",
+        "slug": "tuy-phuoc-dong",
         "type": "commune"
       },
       {
@@ -18068,7 +18068,7 @@
         "code": "00653",
         "name": "Quy Nhơn Đông",
         "fullName": "Phường Quy Nhơn Đông, Tỉnh Gia Lai",
-        "slug": "quy-nhon-ong",
+        "slug": "quy-nhon-dong",
         "type": "ward"
       },
       {
@@ -18089,14 +18089,14 @@
         "code": "00701",
         "name": "Đề Gi",
         "fullName": "Xã Đề Gi, Tỉnh Gia Lai",
-        "slug": "e-gi",
+        "slug": "de-gi",
         "type": "commune"
       },
       {
         "code": "00733",
         "name": "Hoài Nhơn Đông",
         "fullName": "Phường Hoài Nhơn Đông, Tỉnh Gia Lai",
-        "slug": "hoai-nhon-ong",
+        "slug": "hoai-nhon-dong",
         "type": "ward"
       },
       {
@@ -18110,7 +18110,7 @@
         "code": "00775",
         "name": "Phù Mỹ Đông",
         "fullName": "Xã Phù Mỹ Đông, Tỉnh Gia Lai",
-        "slug": "phu-my-ong",
+        "slug": "phu-my-dong",
         "type": "commune"
       },
       {
@@ -18124,7 +18124,7 @@
         "code": "00794",
         "name": "Bình Định",
         "fullName": "Phường Bình Định, Tỉnh Gia Lai",
-        "slug": "binh-inh",
+        "slug": "binh-dinh",
         "type": "ward"
       },
       {
@@ -18187,7 +18187,7 @@
         "code": "01059",
         "name": "Đak Đoa",
         "fullName": "Xã Đak Đoa, Tỉnh Gia Lai",
-        "slug": "ak-oa",
+        "slug": "dak-doa",
         "type": "commune"
       },
       {
@@ -18334,7 +18334,7 @@
         "code": "01793",
         "name": "An Nhơn Đông",
         "fullName": "Phường An Nhơn Đông, Tỉnh Gia Lai",
-        "slug": "an-nhon-ong",
+        "slug": "an-nhon-dong",
         "type": "ward"
       },
       {
@@ -18404,7 +18404,7 @@
         "code": "02013",
         "name": "Đức Cơ",
         "fullName": "Xã Đức Cơ, Tỉnh Gia Lai",
-        "slug": "uc-co",
+        "slug": "duc-co",
         "type": "commune"
       },
       {
@@ -18502,7 +18502,7 @@
         "code": "02159",
         "name": "Vạn Đức",
         "fullName": "Xã Vạn Đức, Tỉnh Gia Lai",
-        "slug": "van-uc",
+        "slug": "van-duc",
         "type": "commune"
       },
       {
@@ -18572,7 +18572,7 @@
         "code": "02358",
         "name": "Đak Pơ",
         "fullName": "Xã Đak Pơ, Tỉnh Gia Lai",
-        "slug": "ak-po",
+        "slug": "dak-po",
         "type": "commune"
       },
       {
@@ -18649,7 +18649,7 @@
         "code": "02599",
         "name": "Đak Sơmei",
         "fullName": "Xã Đak Sơmei, Tỉnh Gia Lai",
-        "slug": "ak-somei",
+        "slug": "dak-somei",
         "type": "commune"
       },
       {
@@ -18845,7 +18845,7 @@
         "code": "03180",
         "name": "Đak Rong",
         "fullName": "Xã Đak Rong, Tỉnh Gia Lai",
-        "slug": "ak-rong",
+        "slug": "dak-rong",
         "type": "commune"
       },
       {
@@ -18873,7 +18873,7 @@
         "code": "03262",
         "name": "Đăk Song",
         "fullName": "Xã Đăk Song, Tỉnh Gia Lai",
-        "slug": "ak-song",
+        "slug": "dak-song",
         "type": "commune"
       },
       {
@@ -18925,7 +18925,7 @@
         "code": "00112",
         "name": "Xuân Hương - Đà Lạt",
         "fullName": "Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng",
-        "slug": "xuan-huong-a-lat",
+        "slug": "xuan-huong-da-lat",
         "type": "ward"
       },
       {
@@ -18946,14 +18946,14 @@
         "code": "00171",
         "name": "Đức Trọng",
         "fullName": "Xã Đức Trọng, Tỉnh Lâm Đồng",
-        "slug": "uc-trong",
+        "slug": "duc-trong",
         "type": "commune"
       },
       {
         "code": "00266",
         "name": "Lâm Viên - Đà Lạt",
         "fullName": "Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng",
-        "slug": "lam-vien-a-lat",
+        "slug": "lam-vien-da-lat",
         "type": "ward"
       },
       {
@@ -19030,7 +19030,7 @@
         "code": "00546",
         "name": "Đức Linh",
         "fullName": "Xã Đức Linh, Tỉnh Lâm Đồng",
-        "slug": "uc-linh",
+        "slug": "duc-linh",
         "type": "commune"
       },
       {
@@ -19072,21 +19072,21 @@
         "code": "00610",
         "name": "Cam Ly - Đà Lạt",
         "fullName": "Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng",
-        "slug": "cam-ly-a-lat",
+        "slug": "cam-ly-da-lat",
         "type": "ward"
       },
       {
         "code": "00616",
         "name": "Đinh Văn - Lâm Hà",
         "fullName": "Xã Đinh Văn - Lâm Hà, Tỉnh Lâm Đồng",
-        "slug": "inh-van-lam-ha",
+        "slug": "dinh-van-lam-ha",
         "type": "commune"
       },
       {
         "code": "00620",
         "name": "Đức Lập",
         "fullName": "Xã Đức Lập, Tỉnh Lâm Đồng",
-        "slug": "uc-lap",
+        "slug": "duc-lap",
         "type": "commune"
       },
       {
@@ -19100,7 +19100,7 @@
         "code": "00642",
         "name": "Hoài Đức",
         "fullName": "Xã Hoài Đức, Tỉnh Lâm Đồng",
-        "slug": "hoai-uc",
+        "slug": "hoai-duc",
         "type": "commune"
       },
       {
@@ -19114,7 +19114,7 @@
         "code": "00715",
         "name": "Đơn Dương",
         "fullName": "Xã Đơn Dương, Tỉnh Lâm Đồng",
-        "slug": "on-duong",
+        "slug": "don-duong",
         "type": "commune"
       },
       {
@@ -19128,7 +19128,7 @@
         "code": "00910",
         "name": "Langbiang - Đà Lạt",
         "fullName": "Phường Langbiang - Đà Lạt, Tỉnh Lâm Đồng",
-        "slug": "langbiang-a-lat",
+        "slug": "langbiang-da-lat",
         "type": "ward"
       },
       {
@@ -19142,7 +19142,7 @@
         "code": "00958",
         "name": "Kiến Đức",
         "fullName": "Xã Kiến Đức, Tỉnh Lâm Đồng",
-        "slug": "kien-uc",
+        "slug": "kien-duc",
         "type": "commune"
       },
       {
@@ -19163,7 +19163,7 @@
         "code": "01110",
         "name": "Xuân Trường - Đà Lạt",
         "fullName": "Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng",
-        "slug": "xuan-truong-a-lat",
+        "slug": "xuan-truong-da-lat",
         "type": "ward"
       },
       {
@@ -19198,7 +19198,7 @@
         "code": "01289",
         "name": "Đức An",
         "fullName": "Xã Đức An, Tỉnh Lâm Đồng",
-        "slug": "uc-an",
+        "slug": "duc-an",
         "type": "commune"
       },
       {
@@ -19247,14 +19247,14 @@
         "code": "01383",
         "name": "Tuy Đức",
         "fullName": "Xã Tuy Đức, Tỉnh Lâm Đồng",
-        "slug": "tuy-uc",
+        "slug": "tuy-duc",
         "type": "commune"
       },
       {
         "code": "01398",
         "name": "Đắk Mil",
         "fullName": "Xã Đắk Mil, Tỉnh Lâm Đồng",
-        "slug": "ak-mil",
+        "slug": "dak-mil",
         "type": "commune"
       },
       {
@@ -19289,14 +19289,14 @@
         "code": "01453",
         "name": "Đồng Kho",
         "fullName": "Xã Đồng Kho, Tỉnh Lâm Đồng",
-        "slug": "ong-kho",
+        "slug": "dong-kho",
         "type": "commune"
       },
       {
         "code": "01468",
         "name": "Đạ Tẻh",
         "fullName": "Xã Đạ Tẻh, Tỉnh Lâm Đồng",
-        "slug": "a-teh",
+        "slug": "da-teh",
         "type": "commune"
       },
       {
@@ -19352,14 +19352,14 @@
         "code": "01656",
         "name": "Đắk Sắk",
         "fullName": "Xã Đắk Sắk, Tỉnh Lâm Đồng",
-        "slug": "ak-sak",
+        "slug": "dak-sak",
         "type": "commune"
       },
       {
         "code": "01664",
         "name": "Ka Đô",
         "fullName": "Xã Ka Đô, Tỉnh Lâm Đồng",
-        "slug": "ka-o",
+        "slug": "ka-do",
         "type": "commune"
       },
       {
@@ -19415,14 +19415,14 @@
         "code": "01953",
         "name": "Đắk Wil",
         "fullName": "Xã Đắk Wil, Tỉnh Lâm Đồng",
-        "slug": "ak-wil",
+        "slug": "dak-wil",
         "type": "commune"
       },
       {
         "code": "01968",
         "name": "Đông Gia Nghĩa",
         "fullName": "Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng",
-        "slug": "ong-gia-nghia",
+        "slug": "dong-gia-nghia",
         "type": "ward"
       },
       {
@@ -19450,7 +19450,7 @@
         "code": "02055",
         "name": "Đạ Huoai",
         "fullName": "Xã Đạ Huoai, Tỉnh Lâm Đồng",
-        "slug": "a-huoai",
+        "slug": "da-huoai",
         "type": "commune"
       },
       {
@@ -19464,7 +19464,7 @@
         "code": "02089",
         "name": "Tà Đùng",
         "fullName": "Xã Tà Đùng, Tỉnh Lâm Đồng",
-        "slug": "ta-ung",
+        "slug": "ta-dung",
         "type": "commune"
       },
       {
@@ -19499,7 +19499,7 @@
         "code": "02165",
         "name": "Nam Đà",
         "fullName": "Xã Nam Đà, Tỉnh Lâm Đồng",
-        "slug": "nam-a",
+        "slug": "nam-da",
         "type": "commune"
       },
       {
@@ -19520,14 +19520,14 @@
         "code": "02220",
         "name": "Nghị Đức",
         "fullName": "Xã Nghị Đức, Tỉnh Lâm Đồng",
-        "slug": "nghi-uc",
+        "slug": "nghi-duc",
         "type": "commune"
       },
       {
         "code": "02229",
         "name": "Đinh Trang Thượng",
         "fullName": "Xã Đinh Trang Thượng, Tỉnh Lâm Đồng",
-        "slug": "inh-trang-thuong",
+        "slug": "dinh-trang-thuong",
         "type": "commune"
       },
       {
@@ -19597,14 +19597,14 @@
         "code": "02445",
         "name": "Đam Rông 1",
         "fullName": "Xã Đam Rông 1, Tỉnh Lâm Đồng",
-        "slug": "am-rong-1",
+        "slug": "dam-rong-1",
         "type": "commune"
       },
       {
         "code": "02452",
         "name": "Đam Rông 4",
         "fullName": "Xã Đam Rông 4, Tỉnh Lâm Đồng",
-        "slug": "am-rong-4",
+        "slug": "dam-rong-4",
         "type": "commune"
       },
       {
@@ -19632,14 +19632,14 @@
         "code": "02507",
         "name": "Đam Rông 2",
         "fullName": "Xã Đam Rông 2, Tỉnh Lâm Đồng",
-        "slug": "am-rong-2",
+        "slug": "dam-rong-2",
         "type": "commune"
       },
       {
         "code": "02544",
         "name": "Đam Rông 3",
         "fullName": "Xã Đam Rông 3, Tỉnh Lâm Đồng",
-        "slug": "am-rong-3",
+        "slug": "dam-rong-3",
         "type": "commune"
       },
       {
@@ -19660,7 +19660,7 @@
         "code": "02596",
         "name": "Đạ Huoai 2",
         "fullName": "Xã Đạ Huoai 2, Tỉnh Lâm Đồng",
-        "slug": "a-huoai-2",
+        "slug": "da-huoai-2",
         "type": "commune"
       },
       {
@@ -19674,7 +19674,7 @@
         "code": "02619",
         "name": "Đạ Tẻh 2",
         "fullName": "Xã Đạ Tẻh 2, Tỉnh Lâm Đồng",
-        "slug": "a-teh-2",
+        "slug": "da-teh-2",
         "type": "commune"
       },
       {
@@ -19688,14 +19688,14 @@
         "code": "02726",
         "name": "Đắk song",
         "fullName": "Xã Đắk song, Tỉnh Lâm Đồng",
-        "slug": "ak-song",
+        "slug": "dak-song",
         "type": "commune"
       },
       {
         "code": "02793",
         "name": "Đạ Tẻh 3",
         "fullName": "Xã Đạ Tẻh 3, Tỉnh Lâm Đồng",
-        "slug": "a-teh-3",
+        "slug": "da-teh-3",
         "type": "commune"
       },
       {
@@ -19772,21 +19772,21 @@
         "code": "03103",
         "name": "Sơn Điền",
         "fullName": "Xã Sơn Điền, Tỉnh Lâm Đồng",
-        "slug": "son-ien",
+        "slug": "son-dien",
         "type": "commune"
       },
       {
         "code": "03153",
         "name": "Đạ Huoai 3",
         "fullName": "Xã Đạ Huoai 3, Tỉnh Lâm Đồng",
-        "slug": "a-huoai-3",
+        "slug": "da-huoai-3",
         "type": "commune"
       },
       {
         "code": "03254",
         "name": "Đông Giang",
         "fullName": "Xã Đông Giang, Tỉnh Lâm Đồng",
-        "slug": "ong-giang",
+        "slug": "dong-giang",
         "type": "commune"
       }
     ]
@@ -19824,7 +19824,7 @@
         "code": "00005",
         "name": "Bà Điểm",
         "fullName": "Xã Bà Điểm, Thành phố Hồ Chí Minh",
-        "slug": "ba-iem",
+        "slug": "ba-diem",
         "type": "commune"
       },
       {
@@ -19838,7 +19838,7 @@
         "code": "00010",
         "name": "Đông Thạnh",
         "fullName": "Xã Đông Thạnh, Thành phố Hồ Chí Minh",
-        "slug": "ong-thanh",
+        "slug": "dong-thanh",
         "type": "commune"
       },
       {
@@ -19859,14 +19859,14 @@
         "code": "00015",
         "name": "Đông Hưng Thuận",
         "fullName": "Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",
-        "slug": "ong-hung-thuan",
+        "slug": "dong-hung-thuan",
         "type": "ward"
       },
       {
         "code": "00016",
         "name": "An Phú Đông",
         "fullName": "Phường An Phú Đông, Thành phố Hồ Chí Minh",
-        "slug": "an-phu-ong",
+        "slug": "an-phu-dong",
         "type": "ward"
       },
       {
@@ -19894,7 +19894,7 @@
         "code": "00022",
         "name": "Bình Trị Đông",
         "fullName": "Phường Bình Trị Đông, Thành phố Hồ Chí Minh",
-        "slug": "binh-tri-ong",
+        "slug": "binh-tri-dong",
         "type": "ward"
       },
       {
@@ -19929,7 +19929,7 @@
         "code": "00029",
         "name": "Bình Đông",
         "fullName": "Phường Bình Đông, Thành phố Hồ Chí Minh",
-        "slug": "binh-ong",
+        "slug": "binh-dong",
         "type": "ward"
       },
       {
@@ -19964,7 +19964,7 @@
         "code": "00035",
         "name": "Phú Định",
         "fullName": "Phường Phú Định, Thành phố Hồ Chí Minh",
-        "slug": "phu-inh",
+        "slug": "phu-dinh",
         "type": "ward"
       },
       {
@@ -20006,7 +20006,7 @@
         "code": "00047",
         "name": "Đông Hòa",
         "fullName": "Phường Đông Hòa, Thành phố Hồ Chí Minh",
-        "slug": "ong-hoa",
+        "slug": "dong-hoa",
         "type": "ward"
       },
       {
@@ -20048,7 +20048,7 @@
         "code": "00060",
         "name": "Gia Định",
         "fullName": "Phường Gia Định, Thành phố Hồ Chí Minh",
-        "slug": "gia-inh",
+        "slug": "gia-dinh",
         "type": "ward"
       },
       {
@@ -20069,7 +20069,7 @@
         "code": "00064",
         "name": "An Hội Đông",
         "fullName": "Phường An Hội Đông, Thành phố Hồ Chí Minh",
-        "slug": "an-hoi-ong",
+        "slug": "an-hoi-dong",
         "type": "ward"
       },
       {
@@ -20111,7 +20111,7 @@
         "code": "00077",
         "name": "Thủ Đức",
         "fullName": "Phường Thủ Đức, Thành phố Hồ Chí Minh",
-        "slug": "thu-uc",
+        "slug": "thu-duc",
         "type": "ward"
       },
       {
@@ -20216,7 +20216,7 @@
         "code": "00118",
         "name": "Tân Đông Hiệp",
         "fullName": "Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh",
-        "slug": "tan-ong-hiep",
+        "slug": "tan-dong-hiep",
         "type": "ward"
       },
       {
@@ -20237,7 +20237,7 @@
         "code": "00126",
         "name": "Phú Hòa Đông",
         "fullName": "Xã Phú Hòa Đông, Thành phố Hồ Chí Minh",
-        "slug": "phu-hoa-ong",
+        "slug": "phu-hoa-dong",
         "type": "commune"
       },
       {
@@ -20356,7 +20356,7 @@
         "code": "00189",
         "name": "An Đông",
         "fullName": "Phường An Đông, Thành phố Hồ Chí Minh",
-        "slug": "an-ong",
+        "slug": "an-dong",
         "type": "ward"
       },
       {
@@ -20475,7 +20475,7 @@
         "code": "00264",
         "name": "Đức Nhuận",
         "fullName": "Phường Đức Nhuận, Thành phố Hồ Chí Minh",
-        "slug": "uc-nhuan",
+        "slug": "duc-nhuan",
         "type": "ward"
       },
       {
@@ -20664,7 +20664,7 @@
         "code": "00622",
         "name": "Tân Định",
         "fullName": "Phường Tân Định, Thành phố Hồ Chí Minh",
-        "slug": "tan-inh",
+        "slug": "tan-dinh",
         "type": "ward"
       },
       {
@@ -20678,7 +20678,7 @@
         "code": "00628",
         "name": "Long Điền",
         "fullName": "Xã Long Điền, Thành phố Hồ Chí Minh",
-        "slug": "long-ien",
+        "slug": "long-dien",
         "type": "commune"
       },
       {
@@ -20713,7 +20713,7 @@
         "code": "00757",
         "name": "Đất Đỏ",
         "fullName": "Xã Đất Đỏ, Thành phố Hồ Chí Minh",
-        "slug": "at-o",
+        "slug": "dat-do",
         "type": "commune"
       },
       {
@@ -20762,7 +20762,7 @@
         "code": "00891",
         "name": "Nhuận Đức",
         "fullName": "Xã Nhuận Đức, Thành phố Hồ Chí Minh",
-        "slug": "nhuan-uc",
+        "slug": "nhuan-duc",
         "type": "commune"
       },
       {
@@ -20832,7 +20832,7 @@
         "code": "01646",
         "name": "Châu Đức",
         "fullName": "Xã Châu Đức, Thành phố Hồ Chí Minh",
-        "slug": "chau-uc",
+        "slug": "chau-duc",
         "type": "commune"
       },
       {
@@ -20923,7 +20923,7 @@
         "code": "02099",
         "name": "An Thới Đông",
         "fullName": "Xã An Thới Đông, Thành phố Hồ Chí Minh",
-        "slug": "an-thoi-ong",
+        "slug": "an-thoi-dong",
         "type": "commune"
       },
       {
@@ -20965,7 +20965,7 @@
         "code": "03163",
         "name": "Côn Đảo",
         "fullName": "Đặc khu Côn Đảo, Thành phố Hồ Chí Minh",
-        "slug": "con-ao",
+        "slug": "con-dao",
         "type": "commune"
       },
       {
@@ -21206,7 +21206,7 @@
         "code": "02397",
         "name": "Đoàn Kết",
         "fullName": "Xã Đoàn Kết, Tỉnh Sơn La",
-        "slug": "oan-ket",
+        "slug": "doan-ket",
         "type": "commune"
       },
       {
@@ -21643,14 +21643,14 @@
         "code": "00505",
         "name": "Trần Đề",
         "fullName": "Xã Trần Đề, Thành phố Cần Thơ",
-        "slug": "tran-e",
+        "slug": "tran-de",
         "type": "commune"
       },
       {
         "code": "00521",
         "name": "Phong Điền",
         "fullName": "Xã Phong Điền, Thành phố Cần Thơ",
-        "slug": "phong-ien",
+        "slug": "phong-dien",
         "type": "commune"
       },
       {
@@ -21734,7 +21734,7 @@
         "code": "00766",
         "name": "Đại Hải",
         "fullName": "Xã Đại Hải, Thành phố Cần Thơ",
-        "slug": "ai-hai",
+        "slug": "dai-hai",
         "type": "commune"
       },
       {
@@ -21762,7 +21762,7 @@
         "code": "00821",
         "name": "Cờ Đỏ",
         "fullName": "Xã Cờ Đỏ, Thành phố Cần Thơ",
-        "slug": "co-o",
+        "slug": "co-do",
         "type": "commune"
       },
       {
@@ -21804,14 +21804,14 @@
         "code": "00906",
         "name": "Đông Phước",
         "fullName": "Xã Đông Phước, Thành phố Cần Thơ",
-        "slug": "ong-phuoc",
+        "slug": "dong-phuoc",
         "type": "commune"
       },
       {
         "code": "00922",
         "name": "Vĩnh Thuận Đông",
         "fullName": "Xã Vĩnh Thuận Đông, Thành phố Cần Thơ",
-        "slug": "vinh-thuan-ong",
+        "slug": "vinh-thuan-dong",
         "type": "commune"
       },
       {
@@ -21825,7 +21825,7 @@
         "code": "00937",
         "name": "Thới An Đông",
         "fullName": "Phường Thới An Đông, Thành phố Cần Thơ",
-        "slug": "thoi-an-ong",
+        "slug": "thoi-an-dong",
         "type": "ward"
       },
       {
@@ -21958,7 +21958,7 @@
         "code": "01199",
         "name": "Đại Thành",
         "fullName": "Phường Đại Thành, Thành phố Cần Thơ",
-        "slug": "ai-thanh",
+        "slug": "dai-thanh",
         "type": "ward"
       },
       {
@@ -22056,7 +22056,7 @@
         "code": "01419",
         "name": "Hồ Đắc Kiện",
         "fullName": "Xã Hồ Đắc Kiện, Thành phố Cần Thơ",
-        "slug": "ho-ac-kien",
+        "slug": "ho-dac-kien",
         "type": "commune"
       },
       {
@@ -22161,14 +22161,14 @@
         "code": "01928",
         "name": "Đông Thuận",
         "fullName": "Xã Đông Thuận, Thành phố Cần Thơ",
-        "slug": "ong-thuan",
+        "slug": "dong-thuan",
         "type": "commune"
       },
       {
         "code": "01936",
         "name": "Đại Ngãi",
         "fullName": "Xã Đại Ngãi, Thành phố Cần Thơ",
-        "slug": "ai-ngai",
+        "slug": "dai-ngai",
         "type": "commune"
       },
       {
@@ -22224,7 +22224,7 @@
         "code": "02084",
         "name": "Đông Hiệp",
         "fullName": "Xã Đông Hiệp, Thành phố Cần Thơ",
-        "slug": "ong-hiep",
+        "slug": "dong-hiep",
         "type": "commune"
       },
       {
@@ -22311,7 +22311,7 @@
         "code": "00680",
         "name": "Sông Đốc",
         "fullName": "Xã Sông Đốc, Tỉnh Cà Mau",
-        "slug": "song-oc",
+        "slug": "song-doc",
         "type": "commune"
       },
       {
@@ -22325,7 +22325,7 @@
         "code": "00857",
         "name": "Đá Bạc",
         "fullName": "Xã Đá Bạc, Tỉnh Cà Mau",
-        "slug": "a-bac",
+        "slug": "da-bac",
         "type": "commune"
       },
       {
@@ -22360,7 +22360,7 @@
         "code": "01000",
         "name": "Đầm Dơi",
         "fullName": "Xã Đầm Dơi, Tỉnh Cà Mau",
-        "slug": "am-doi",
+        "slug": "dam-doi",
         "type": "commune"
       },
       {
@@ -22381,7 +22381,7 @@
         "code": "01090",
         "name": "Cái Đôi Vàm",
         "fullName": "Xã Cái Đôi Vàm, Tỉnh Cà Mau",
-        "slug": "cai-oi-vam",
+        "slug": "cai-doi-vam",
         "type": "commune"
       },
       {
@@ -22437,7 +22437,7 @@
         "code": "01280",
         "name": "Đất Mũi",
         "fullName": "Xã Đất Mũi, Tỉnh Cà Mau",
-        "slug": "at-mui",
+        "slug": "dat-mui",
         "type": "commune"
       },
       {
@@ -22472,7 +22472,7 @@
         "code": "01555",
         "name": "Long Điền",
         "fullName": "Xã Long Điền, Tỉnh Cà Mau",
-        "slug": "long-ien",
+        "slug": "long-dien",
         "type": "commune"
       },
       {
@@ -22486,7 +22486,7 @@
         "code": "01689",
         "name": "Đất Mới",
         "fullName": "Xã Đất Mới, Tỉnh Cà Mau",
-        "slug": "at-moi",
+        "slug": "dat-moi",
         "type": "commune"
       },
       {
@@ -22563,7 +22563,7 @@
         "code": "02059",
         "name": "Đông Hải",
         "fullName": "Xã Đông Hải, Tỉnh Cà Mau",
-        "slug": "ong-hai",
+        "slug": "dong-hai",
         "type": "commune"
       },
       {
@@ -22668,7 +22668,7 @@
         "code": "02706",
         "name": "Định Thành",
         "fullName": "Xã Định Thành, Tỉnh Cà Mau",
-        "slug": "inh-thanh",
+        "slug": "dinh-thanh",
         "type": "commune"
       },
       {
@@ -22797,7 +22797,7 @@
         "code": "01820",
         "name": "Đồng Văn",
         "fullName": "Xã Đồng Văn, Tỉnh Tuyên Quang",
-        "slug": "ong-van",
+        "slug": "dong-van",
         "type": "commune"
       },
       {
@@ -22916,7 +22916,7 @@
         "code": "02371",
         "name": "Đồng Yên",
         "fullName": "Xã Đồng Yên, Tỉnh Tuyên Quang",
-        "slug": "ong-yen",
+        "slug": "dong-yen",
         "type": "commune"
       },
       {
@@ -22930,7 +22930,7 @@
         "code": "02385",
         "name": "Đông Thọ",
         "fullName": "Xã Đông Thọ, Tỉnh Tuyên Quang",
-        "slug": "ong-tho",
+        "slug": "dong-tho",
         "type": "commune"
       },
       {
@@ -23091,7 +23091,7 @@
         "code": "02631",
         "name": "Đường Thượng",
         "fullName": "Xã Đường Thượng, Tỉnh Tuyên Quang",
-        "slug": "uong-thuong",
+        "slug": "duong-thuong",
         "type": "commune"
       },
       {
@@ -23133,7 +23133,7 @@
         "code": "02724",
         "name": "Bạch Đích",
         "fullName": "Xã Bạch Đích, Tỉnh Tuyên Quang",
-        "slug": "bach-ich",
+        "slug": "bach-dich",
         "type": "commune"
       },
       {
@@ -23203,7 +23203,7 @@
         "code": "02794",
         "name": "Đường Hồng",
         "fullName": "Xã Đường Hồng, Tỉnh Tuyên Quang",
-        "slug": "uong-hong",
+        "slug": "duong-hong",
         "type": "commune"
       },
       {
@@ -23280,7 +23280,7 @@
         "code": "02874",
         "name": "Đồng Tâm",
         "fullName": "Xã Đồng Tâm, Tỉnh Tuyên Quang",
-        "slug": "ong-tam",
+        "slug": "dong-tam",
         "type": "commune"
       },
       {
@@ -23301,7 +23301,7 @@
         "code": "02892",
         "name": "Hùng Đức",
         "fullName": "Xã Hùng Đức, Tỉnh Tuyên Quang",
-        "slug": "hung-uc",
+        "slug": "hung-duc",
         "type": "commune"
       },
       {
@@ -23371,7 +23371,7 @@
         "code": "02966",
         "name": "Kiên Đài",
         "fullName": "Xã Kiên Đài, Tỉnh Tuyên Quang",
-        "slug": "kien-ai",
+        "slug": "kien-dai",
         "type": "commune"
       },
       {
@@ -23441,7 +23441,7 @@
         "code": "03068",
         "name": "Ngọc Đường",
         "fullName": "Xã Ngọc Đường, Tỉnh Tuyên Quang",
-        "slug": "ngoc-uong",
+        "slug": "ngoc-duong",
         "type": "commune"
       },
       {
