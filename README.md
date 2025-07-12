@@ -30,14 +30,4 @@
 - Khởi tạo và cập nhật dữ liệu lần đầu tiên
 </details>
 
-## 🎁 Donate
 
-Chúng tôi rất vui khi được chia sẻ các tập dữ liệu và tài nguyên mở miễn phí đến cộng đồng. Nếu bạn thấy các tài nguyên và công cụ của chúng tôi hữu ích và muốn ủng hộ chúng tôi tiếp tục phát triển, duy trì dự án, bạn có thể đóng góp qua hình thức donate.
-
-Mỗi đóng góp của bạn sẽ giúp chúng tôi duy trì chất lượng, mở rộng kho dữ liệu và tiếp tục cung cấp những tài nguyên giá trị cho cộng đồng. Chúng tôi chân thành cảm ơn sự hỗ trợ và ủng hộ của bạn!
-
-Mãi iu 😘😘😘
-
-<div style="display: flex; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/zuydd/image/main/qr-momo.png" alt="QR Momo" height="340" />
-</div>
